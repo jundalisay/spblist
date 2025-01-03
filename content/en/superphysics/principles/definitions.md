@@ -44,6 +44,7 @@ Idea | An original metaphysical object created by the Supreme that is accessed b
 Identity | A discrete resultant perception separate from other perceptions or a mass of perceptions
 Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable. Also generally adharmic since Existence is Positive.
 Instant | The minimum moment of time (Descartes, Principles of Philosophy)
+Instinct | A feeling from the subsidiary (lower) glands. (Sarkar)
 Intuition | Instant knowledge derived from the aether, which is above spacetime
 Karma | Action and Reaction, or Cause and Effect. Technically, the 7th kind of philosophical relation according to David Hume.
 Knowledge | The assimilation of perceptions with, or into, the abstract mind via ideas. Also, jiṋána as the subjectivization of objects (Sarkar)
@@ -183,14 +184,15 @@ Wealth | the actual quality and quantity of useful goods and services
 
 Word | Meaning
 --- | ---
+Afferent nerves | Nerves for the senses (Descartes)
 Anāhata (Heart) Cakra | 
 Ájiṋa (Third Eye) Cakra | Also Lunar plexus 
+Efferent nerves | Nerves for the muscles and movements (Descartes)
 Muladhara (Root or Base) Cakra |
+Navel Cakra | 
 Sahasrara / Guru (Top) Cakra | Also Occult plexus 
 Svadhisthana (Sex) Cakra | 
 Visuddha (Throat) Cakra | Also Physico-psychic plexus
-Navel Cakra | 
-
 
 
 ### Sanskrit Counterparts

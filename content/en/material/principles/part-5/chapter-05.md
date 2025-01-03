@@ -7,7 +7,7 @@ description: "Quarks are the quantum of matter"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
+weight: 18
 icon: /icons/spmat.pn
 toc: false
 ---

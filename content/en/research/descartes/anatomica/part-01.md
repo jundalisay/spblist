@@ -21,7 +21,10 @@ Besides the animal spirits, man consists of:
   
  <!-- earth. -->
 
-The mixture of the animal spirits and humor forms the vital spirit, which is comparable to fire. 
+The mixture of the animal spirits and humor forms the vital spirit, which is comparable to fire.
+
+{{< n n="In Yogic science, the animal spirits are vayu. The fire is prana" >}}
+
 
 From the imperfect mixture of humor and earthly parts, blood is produced. 
 
@@ -31,7 +34,9 @@ The perfect, but in which the most subtle humor evaporates, is black bile, acidi
 
 Satisfactorily perfect, but in which humor abounds, is urine.
 
-[602] Satisfactorily perfect, but in which the extremes of tenuity and solidity are lacking, is slow pituita and mucus. Perfectly formed, flesh, nerves, and bones, as in it, more or less, according to the solid parts.
+Satisfactorily perfect, but in which the extremes of tenuity and solidity are lacking, is slow pituita and mucus.
+
+Perfectly formed, flesh, nerves, and bones, as in it, more or less, according to the solid parts.
 
 <!-- Ungues & pili sunt ejusdem materiæ cum ossibus, nec tamen ita durescunt, quia
 nimis cito fluidæ partes exhalant. Dentes autem ejusdem profecto materiæ atque cornua,
@@ -59,11 +64,17 @@ Nails and hair are of the same material as bones. But they do not harden in the 
 Teeth and horns, on the other hand, are made of the same material as bones and harden in a similar way. 
 - This is because they are covered with more moisture and coalesce more slowly.
 
-Through the ears, the excrementitious spirit exhales, causing sibili and tinnitus, when that spirit is impeded by the filth of the ears and is then emitted with a hissing sound.
+The excrementitious animal spirits exhale through the ears. 
+- Sibili and tinnitus happen when the spirits are impeded by the ears' filth and is then emitted with a hissing sound.
 
-Through the eyes, the spirit also exhales, as can be seen in menstruating women, whose eyes are said to emit vapor.
+The spirits also exhale through the eyes.
+- This can be seen in menstruating women, whose eyes emit vapor.
 
-The entire body of a menstruating woman is filled with humors which are emitted through the monthly flow. Their eyes are purified through the lacrimal ducts.
+The entire body of a menstruating woman is filled with humors which are emitted through the monthly flow.
+- Their eyes are purified through the lacrimal ducts.
+
+{{< n n="In Yogic science, menstruation is the discharge of excess reproductive fluids which includes their prana" >}}
+
 
 Fear and coldness spread throughout the body when the fluid parts converge into a single focal point, where the greatest heat is produced.
 
@@ -75,9 +86,7 @@ This vitious humor first infects the blood, which, as it enters the heart, produ
 
 Hence, we can know the onset of fever from this.
 
-
-
-There are 3  focal points in man:
+There are 3 focal points in man:
 
 1. The heart
 
@@ -116,6 +125,3 @@ Or the same blood, although it cannot penetrate through the vein's tunic, spread
 Or some material that is beyond nature accumulates in a particular place, where it putrefies on its own, as in a simple abscess. Or this putrefaction communicates with the veins and arteries because of their proximity, as in pleurisy. 
 
 In wounds, fire is also kindled, which opens up the veins and arteries, and the blood's fæces are corrupted there.
-
-
-

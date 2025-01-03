@@ -11,7 +11,7 @@ icon: /icons/descartes.png
 ---
 
 
-#### 33. The Seat of Passions is Not in the Heart
+### 33. The Seat of Passions is Not in the Heart
 
 People think that the soul receives its passions in the heart.
 
@@ -26,23 +26,35 @@ This is similar to how:
 Therefore, it is no more necessary for our soul to exercise its functions immediately in the heart to feel its passions than it is for it to be in the sky to see the stars.
 
 
-#### 34. How the Soul and the Body Act on Each Other
+### 34. How the Soul and the Body Act on Each Other
 
-The soul has its principal seat in the pineal gland from where it radiates to the rest of the body through the mediation of the spirits, nerves, and even the blood, which, participating in the impressions of the spirits, can carry them through the arteries to all the members. 
+The soul has its principal seat in the pineal gland.
 
-The small fibers of our nerves are so distributed in all the parts of the body. 
+From there, it radiates to the rest of the body through the:
+- animal spirits
+- nerves
+- the blood
 
-Various movements are excited in them by sensory objects, opening variously the pores of the brain.
+The blood carries all the impressions of the animal spirits through the arteries to all the members. 
 
-This causes the animal spirits contained in its cavities to enter into the muscles, moving the limbs  various ways.
+The small fibers of our nerves are distributed to the whole body. 
 
-Other causes can variously move the spirits and guide them into various muscles. 
+Sensory objects excite movements in them by opening the pores of the brain in different ways.
+- This causes the animal spirits contained in its cavities to enter into the muscles, moving the limbs  various ways.
 
-The pineal gland is so suspended between the cavities containing these spirits that it can be moved by them in as many different ways as there are sensitive diversities in objects. 
+Other causes can move the spirits and guide them into the muscles. 
 
-But it can also be variously moved by the soul, which is of such a nature that it receives as many different impressions in it, that is, it has as many different perceptions as there are different movements in this gland. 
+The pineal gland is suspended between the cavities containing these spirits in a way that it can be moved by them in as many different ways as there are sensitive diversities in objects. 
 
-Similarly, reciprocally, the body’s machine is so composed that from the sole fact that this gland is variously moved by the soul, or by any other cause whatsoever, it pushes the spirits surrounding it toward the pores of the brain, which guide them through the nerves into the muscles, thereby making them move the limbs.
+But it can also be moved by the soul.
+
+The pineal gland receives as many impressions from the soul, that the soul has as many different perceptions as there are different movements in the pineal gland. 
+
+Similarly, reciprocally, the body’s machine is so composed that from the sole fact that 
+
+Whenever the pineal gland is moved by the soul or by any cause, the movement pushes the animal spirits surrounding the pineal gland towards the pores of the brain.
+
+From those pores, they go through the nerves into the muscles, making them move the limbs.
 
 
 #### 35. Example of How the Impressions of Objects Unite in the Pineal Gland

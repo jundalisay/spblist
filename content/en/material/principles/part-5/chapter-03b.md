@@ -1,104 +1,48 @@
 ---
-heading: Chapter 3
-linkTitle: Chapter 3
+heading: "Chapter 3b"
+linkTitle: Chapter 3b
 title: "Contact Forces"
-# date: 2020-01-31
-image: /photos/physics/baseball.jpg
-description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
-weight: 6
-icon: /icons/spmat.png
+# date: 2023-12-10
+image: /graphics/physics/contactforces.jpg
+description: "Cartesian contact forces come from space"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+weight: 6
+icon: /icons/spmat.png
 ---
 
-<!-- - If Qost A has an inherent quality that is 100 units repulsive to Qost B, then the spacetime between them might be 100 distance-units per 1 unit of time-perception. 
-- But if Qost C is only 50 units repulsive, then Qost C will be 50 units away from Qost B at the same time. 
-- This would show Qost A moving faster away from Qost B than Qost C. 
-  - In Physics, this manifests as it having a red-shift which will indicate a growing distance. -->
+
+Modern Physics is based on Newton and matter-ialism, making all forces come from material particles:
+- Electromagnetism comes from electrons
+- Gravity comes from mass
+- Contact forces come from matter
+
+This is why physicists keep on smashing atoms to look for those forces. 
+
+On the other hand, Material Superphysics is based on Cartesian Physics which is based on the aether.
+
+All forces come from invisible space which is full of energy-particles called 2nd Element (space particles) and 1st Element (electromagnetic). This is roughly similar to quantum field theory. 
+
+Newton says that contact forces are transmitted through matter as proof of his 3rd Law, citing pendulums with balls to show how matter transfers energy via solidity.
+
+But Descartes says that contact force-energy mostly comes from the surrounding space. 
+
+This is similar to how a light bulb's energy comes from its surrounding space instead of the battery or wire. 
+
+A pendulum with cubes will move less than one with spheres because the cubes have less space particles around them. 
+
+{{< i s="/graphics/physics/contactforces.jpg" a="Contact" >}}
 
 
-In Part 1, we explained action-at-a-distance using aethereal effort, as the Eagle, and Cartesian Relationality. 
+Newtonians account for this by inventing the concept of friction, damping forces, coefficient of resitution, etc on the matter itself.
 
-In Part 2, we explained 2-dimensional space-time slices are stitched together by the mind to create a 3-dimensional reality. 
+But Cartesian Physics uses the single principle of energetic space particles not only to explain contact forces, but also states (solid, liquid, gas, bose condensate), gravity, dark matter, and dark energy. 
 
-Here, we apply those concepts to explain and convert Newtonian contact forces into the Material Superphysics paradigm. 
+This means that we do not fall through the floor, not because of the Pauli exclusion principle of electron repulsion, but because the space inside atoms (which are 99.99% empty space) repel the space in other atoms.
 
-According to Newton's Second Law, net force equals mass times acceleration. This assumes an absolute space. 
+This means that it is possible to make matter go through other matter, called ghosting, by reversing the repulsion of atomic space. 
 
-But Material Superphysics uses relational spacetime slices. So we apply our eagle to the problem below.
+Conversely, matter can be made inifnitely strong and impenetrable by coding their space particles to repel all others.   
 
-{{< i s="/graphics/super/egl.jpg" a="The Eagle" >}}
-
-
-{{< q >}}
-A box is pushed with an initial speed of 4.2 m/s. The friction is 0.18. How far will the box go?
-{{< /q >}}
-
-```
-acceleration :: -0.18 * 9.81 m/s
-```
-
-The force of friction is 1.764 m/s2
-
-```
-0 = (4.2)^2 + 2(-1.764) d
-```
-
-The Newtonian system gives a distance is 5 meters. 
-
-
-### Cartesian Relationality
-
-We next use the same data for Cartesian Relationality.
-
-```
-0E Block : 5m : 1E Block 
-```
-
-We put:
-- the intial force to the 1E variable
-- the friction force to the 1st block 
-
-{{< i s="/graphics/physics/box2.jpg" a="A box moved" c="A box moved" >}}
-
-
-<!-- We then apply the formula to a 50 kg block pushed forward accelerating constantly at 1 m/s{{< s v="2" >}}
-
-```elixir
-F = Gm2 [GP second] - Gm1 [GP second]
-```
-
-```elixir
-50N = 100N - 50N
-``` -->
-
-This gives us the same result as `F = m a`
-
-The main difference is that this new version splits the identity of the object into two or more different objects. The block at time 2 location 2 is different from the same block at time 1 location 1 in the sense that it has absorbed force and changed its locational attributes.
-
-Newton's laws, however, see the object as the same object. This limits it to linear, forced movements.
-
-This will then be useful for teleportation by a change in spin*.
-
-<!-- It focuses on the journey and not the destination.   -->
-
-<!-- Metaphysically:
-- the Kepler tensor represents the Yang or Shiva
-- the limiter represents the Yin or Shakti
-- the `G` represents dharma, which is Yang-Shiva when confined by Yin-Shakti -->
-
-<!-- - From the perspective of planets, the limiter takes the form of Newton's `G`, which leads to `g` when two masses are added 
-- From the perspective of light, the limiter takes the form of Einstein's `c`, which leads to relative space versus time when "reference frames" are added
-- From the perspective of galaxies, the limiter takes the form of an aethereal "dark matter", which leads to "dark energy" when red shift is added
-
-Thus, the limiter harmonizes the theories of Pythagoras, Newton, Einstein, and Descartes -->
-
-
-
-<!-- - From the perspective of planets, the limiter takes the form of Newton's `G`, which leads to `g` when two masses are added 
-- From the perspective of light, the limiter takes the form of Einstein's `c`, which leads to relative space versus time when "reference frames" are added
-- From the perspective of galaxies, the limiter takes the form of an aethereal "dark matter", which leads to "dark energy" when red shift is added
-
-Thus, the limiter harmonizes the theories of Pythagoras, Newton, Einstein, and Descartes
- -->
+Replacing Netwonian with Cartesian Physics thus can allow so many new technologies

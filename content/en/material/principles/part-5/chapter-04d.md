@@ -4,7 +4,7 @@ title: "Element 115"
 # date: 2020-01-27
 image: /photos/physics/elec.jpg
 description: "Element 115"
-weight: 40
+weight: 16
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

@@ -161,7 +161,7 @@
 
 .poincare, .Poincare {background-image: url(/avatars/poincare.png) !important;}
 
-.lao, .Lao-tzu {background-image: url(/avatars/lao.png);}
+.lao, .Lao-tzu, .Master {background-image: url(/avatars/lao.png);}
 
 .Lam {background-image: url(/avatars/lam.jpg);}
 
@@ -272,14 +272,14 @@
 
 .Paracelsus, .Alchemist, .Euclid, .Homer {background-image: url(/icons/euclid.jpg);}
 
-.ade, .Aaron, .Adeimantus, .Tsz-Hi, .Disciples, .Meno, .Phaedo, .Zeno, .zeno {background-image: url(/icons/g02.png);}
+.ade, .Aaron, .Adeimantus, .Tsz-Hi, .Tuan-Zhuan, .Disciples, .Meno, .Phaedo, .Zeno, .zeno {background-image: url(/icons/g02.png);}
 
 .Noah, .Elders, .Jacob, .Parmenides, .Ischomachus, .pole, .Polemarchus, .Boy, .Critias, .Devotee, .Judge, .Man, .Apollodorus {
   background-image: url(/icons/g04.png);}
 
 .Mahut, .Pindar {background-image: url(/icons/g06.png) !important;}
 
-.Wang-Sun-Ki, .Judas, .Tsz-Lu, .Gauri, .Ignorant {background-image: url(/icons/g07.png) !important;}
+.Qian, .Wang-Sun-Ki, .Xiang-Zhuan, .Judas, .Tsz-Lu, .Gauri, .Ignorant {background-image: url(/icons/g07.png) !important;}
 
 .Teacher, .ceph, .Cephalus, .Tsz-Kung, .Zechariah, .Cebes, .Hippias-the-Sage, .Protagoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
   background-image: url(/icons/g08.png);  

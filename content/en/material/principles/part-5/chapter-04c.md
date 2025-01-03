@@ -8,7 +8,7 @@ description: "We simplify the Periodic Table to use Atomic Numbers and 5 Element
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 12
+weight: 14
 icon: /icons/spmat.pn
 toc: false
 ---
