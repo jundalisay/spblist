@@ -27,6 +27,9 @@ After unification:
 - the liberal policy privatized industry for dependence to Western capital markets
 - the socialist policy stifled energy for dependence to Russia
 
+{{< i s="/flags/de.png" a="Germany" >}}
+
+
 So these 2 forces merge and mutate into Merkel's weird policies that are now destroying Germany.
 
 The fight between East and West Germany can be seen in their current lack of government, while:
@@ -40,7 +43,6 @@ In contrast:
 
 We could blame Hitler for WW2 and creating a split Germany. So we have to look into why Germany began the World Wars.
 
-{{< i s="/photos/medieval/hitler.jpg" a="Hitler" c="The cause of Germany's current problems began with Hitler" >}}
 
 <!-- But the Nazis were actually voted by the people. So the 2020s people can blame the 1930s people. -->
 
@@ -50,6 +52,9 @@ We could blame Hitler for WW2 and creating a split Germany. So we have to look i
 By reading the works of Kant, Hegel, Marx, Einstein, and Hitler, a common theme comes out: the Germans  think differently from the rest of Western Europe (UK, France, Italy, Spain). 
 
 **This is because they were never Romanized.**
+
+{{< i s="/photos/medieval/rome.jpg" a="Rome" c="Germany was never fully under Roman influence" >}}
+
 
 After the Fall of the Roman Empire, the heart of Europe shifted to Venice.
 - From there, it shifted to Spain
@@ -101,7 +106,7 @@ In Socrates' 4-class system:
 
 These 2 classes are diametrical opposites, just as laborers are opposites of intellectuals.
 
-{{< i s="/photos/medieval/spartan.jpg" a="Warrior" c="The strength of the Greeks is that their warrior and intellectual classes were stronger than their oligarchs" >}}
+{{< i s="/graphics/social/cycles.png" a="Social Cycles" c="The warrior class is opposite of the trading class" >}}
 
 
 The 1900s-1910s were the transition years in Europe from monarchy into oligarchy. This is seen in the 'stab on the back' which caused Germany to lose WW1. 
@@ -145,7 +150,7 @@ These 2 events might be seen as bad. But they are really good for those who adop
 
 ### The Best Choice
 
-Germany will hold elections in February for a new government. Of the candidates and parties, the best one to fit the solution is Sahra Wagenknecht of the left-wing BSW party.
+Germany will hold elections in February for a new government. Of the candidates and parties, the best one to fit the solution is **Sahra Wagenknecht of the left-wing BSW party**.
 
 
 {{< i s="/photos/countries/de/sahra.jpg" a="Sahra" c="Sahra Wagenknecht and BSW is a better choice than AfD" >}}
