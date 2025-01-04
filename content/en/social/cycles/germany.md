@@ -49,7 +49,7 @@ We could blame Hitler for WW2 and creating a split Germany. So we have to look i
 
 ## Hypothesis on German Involvement in The World Wars 
 
-By reading the works of Kant, Hegel, Marx, Einstein, and Hitler, a common theme comes out: the Germans  think differently from the rest of Western Europe (UK, France, Italy, Spain). 
+By reading the works of Kepler, Kant, Hegel, Marx, Einstein, and Hitler, a common theme comes out: **the Germans think differently** from the rest of Western Europe (UK, France, Italy, Spain). 
 
 **This is because they were never Romanized.**
 
@@ -136,7 +136,10 @@ The next step is to adopt the **Nordic Model**, specifically that of Norway. Thi
 - Norway has state-owned corporations needed for energy and a strong industrial base
 - the welfare state is the opposite of the hierarchal Roman system and American laissez-faire
 
-Until Germany has returned to its natural Germanic vibration, there should be no coalition government. This is because a coalition might respect the Roman vibration when it should be subdued.   
+Until Germany has returned to its natural Germanic vibration*, there should be no coalition government. This is because a coalition might respect the Roman vibration when it should be subdued.   
+
+{{< n n="All Superphysics solutions ultimately aim at finding one's core inherent vibration, as the Socratic 'true nature' or dharma" >}}
+
 
 The tariffs imposed by Trump on Germany is actually a good thing because it will correctly cut off or reduce the American vibration. 
 

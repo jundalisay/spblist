@@ -722,30 +722,13 @@ During those years we had to take up a determined stand against an idea which ow
 its origin and foundation to historical episodes that were really great, but to which our
 own despicable epoch did not bear the slightest similarity.
 
-The same reply may be given when there is question of putting somebody 'on the spot'
-who has acted as a traitor to his country. It would be ridiculous and illogical to shoot a
-poor wretch (Note 21) who had betrayed the position of a howitzer to the enemy while
-the highest positions of the government are occupied by a rabble who bartered away a
-whole empire, who have on their consciences the deaths of two million men who were
-sacrificed in vain, fellows who were responsible for the millions maimed in the war and
-who make a thriving business out of the republican regime without allowing their souls
-to be disturbed in any way. It would be absurd to do away with small traitors in a State
-whose government has absolved the great traitors from all punishment. For it might 
-easily happen that one day an honest idealist, who, out of love for his country, had
-removed from circulation some miserable informer that had given information about
-secret stores of arms might now be called to answer for his act before the chief traitors
-of the country. And there is still an important question: Shall some small traitorous
-creature be suppressed by another small traitor, or by an idealist? In the former case the
-result would be doubtful and the deed would almost surely be revealed later on. In the
-second case a petty rascal is put out of the way and the life of an idealist who may be
-irreplaceable is in jeopardy.
+The same reply may be given when there is question of putting somebody 'on the spot' who has acted as a traitor to his country. It would be ridiculous and illogical to shoot a poor wretch (Note 21) who had betrayed the position of a howitzer to the enemy while the highest positions of the government are occupied by a rabble who bartered away a whole empire, who have on their consciences the deaths of two million men who were sacrificed in vain, fellows who were responsible for the millions maimed in the war and who make a thriving business out of the republican regime without allowing their souls to be disturbed in any way. It would be absurd to do away with small traitors in a State whose government has absolved the great traitors from all punishment. For it might easily happen that one day an honest idealist, who, out of love for his country, had removed from circulation some miserable informer that had given information about secret stores of arms might now be called to answer for his act before the chief traitors of the country. And there is still an important question: Shall some small traitorous creature be suppressed by another small traitor, or by an idealist? In the former case the result would be doubtful and the deed would almost surely be revealed later on. In the second case a petty rascal is put out of the way and the life of an idealist who may be irreplaceable is in jeopardy.
 
-For myself, I believe that small thieves should not be hanged while big thieves are
-allowed to go free. One day a national tribunal will have to judge and sentence some
-tens of thousands of organizers who were responsible for the criminal November
-betrayal and all the consequences that followed on it. Such an example will teach the
-necessary lesson, once and for ever, to those paltry traitors who revealed to the enemy
-the places where arms were hidden.
+Small thieves should not be hanged while big thieves are allowed to go free.
+
+One day, a national tribunal will have to judge and sentence tens of thousands of organizers who were responsible for the criminal November betrayal and all the consequences that followed on it. 
+
+Such an example will teach the necessary lesson, once and for ever, to those paltry traitors who revealed to the enemy the places where arms were hidden.
 
 On the grounds of these considerations I steadfastly forbade all participation in secret
 societies, and I took care that the Storm Detachment should not assume such a
@@ -753,11 +736,12 @@ character. During those years I kept the National Socialist Movement away from t
 experiments which were being undertaken by young Germans who for the most part
 were inspired with a sublime idealism but who became the victims of their own deeds,
 because they could not ameliorate the lot of their fatherland to the slightest degree.
-If then the Storm Detachment must not be either a military defence organization or a
-secret society, the following conclusions must result:
 
-1. Its training must not be organized from the military standpoint but from the
-standpoint of what is most practical for party purposes. Seeing that its members must
+If then the Storm Detachment must not be either a military defence organization or a secret society, the following conclusions must result:
+
+1. Its training must not be organized from the military standpoint but from the standpoint of what is most practical for party purposes. 
+
+Seeing that its members must
 undergo a good physical training, the place of chief importance must not be given to
 military drill but rather to the practice of sports. I have always considered boxing and
 ju-jitsu more important than some kind of bad, because mediocre, training in rifleshooting. If the German nation were presented with a body of young men who had
@@ -770,6 +754,7 @@ other. Bodily efficiency would develop in the individual a conviction of his sup
 and would give him that confidence which is always based only on the consciousness of
 one's own powers. They must also develop that athletic agility which can be employed
 as a defensive weapon in the service of the Movement. 
+
 2. In order to safeguard the Storm Detachment against any tendency towards secrecy,
 not only must the uniform be such that it can immediately be recognized by everybody,
 but the large number of its effectives show the direction in which the Movement is
@@ -786,39 +771,21 @@ National Socialist People's State. In this way the struggle against the present 
 placed on a higher plane than that of petty revenge and small conspiracies. It was
 elevated to the level of a spiritual struggle on behalf of a WELTANSCHAUUNG, for the
 destruction of Marxism in all its shapes and forms.
+
 3. The form of organization adopted for the Storm Detachment, as well as its uniform
 and equipment, had to follow different models from those of the old Army. They had to
 be specially suited to the requirements of the task that was assigned to the Storm
 Detachment.
-These were the ideas I followed in 1920 and 1921. I endeavoured to instil them
-gradually into the members of the young organization. And the result was that by the
-midsummer of 1922 we had a goodly number of formations which consisted of a
-hundred men each. By the late autumn of that year these formations received their
-distinctive uniforms. There were three events which turned out to be of supreme
-importance for the subsequent development of the Storm Detachment.
-1. The great mass demonstration against the Law for the Protection of the Republic. This
-demonstration was held in the late summer of 1922 on the KÖNIGS-PLATZ in Munich,
-by all the patriotic societies. The National Socialist Movement also participated in it.
-The march-past of our party, in serried ranks, was led by six Munich companies of a
-hundred men each, followed by the political sections of the Party. Two bands marched
-with us and about fifteen flags were carried. When the National Socialists arrived at the
-great square it was already half full, but no flag was flying. Our entry aroused
-unbounded enthusiasm. I myself had the honour of being one of the speakers who
-addressed that mass of about sixty thousand people.
-The demonstration was an overwhelming success; especially because it was proved for
-the first time that nationalist Munich could march on the streets, in spite of all threats
-from the Reds. Members of the organization for the defence of the Red Republic
-endeavoured to hinder the marching columns by their terrorist activities, but they were 
-scattered by the companies of the Storm Detachment within a few minutes and sent off
-with bleeding skulls. The National Socialist Movement had then shown for the first time
-that in future it was determined to exercise the right to march on the streets and thus
-take this monopoly away from the international traitors and enemies of the country.
-The result of that day was an incontestable proof that our ideas for the creation of the
-Storm Detachment were right, both from the psychological viewpoint and as to the
-manner in which this body was organized.
+
+These were the ideas I followed in 1920 and 1921. I endeavoured to instil them gradually into the members of the young organization. And the result was that by the midsummer of 1922 we had a goodly number of formations which consisted of a hundred men each. By the late autumn of that year these formations received their distinctive uniforms. There were three events which turned out to be of supreme importance for the subsequent development of the Storm Detachment.
+
+1. The great mass demonstration against the Law for the Protection of the Republic. This demonstration was held in the late summer of 1922 on the KÖNIGS-PLATZ in Munich, by all the patriotic societies. The National Socialist Movement also participated in it. The march-past of our party, in serried ranks, was led by six Munich companies of a hundred men each, followed by the political sections of the Party. Two bands marched with us and about fifteen flags were carried. When the National Socialists arrived at the great square it was already half full, but no flag was flying. Our entry aroused unbounded enthusiasm. I myself had the honour of being one of the speakers who addressed that mass of about sixty thousand people.
+
+The demonstration was an overwhelming success; especially because it was proved for the first time that nationalist Munich could march on the streets, in spite of all threats from the Reds. Members of the organization for the defence of the Red Republic endeavoured to hinder the marching columns by their terrorist activities, but they were scattered by the companies of the Storm Detachment within a few minutes and sent off with bleeding skulls. The National Socialist Movement had then shown for the first time that in future it was determined to exercise the right to march on the streets and thus take this monopoly away from the international traitors and enemies of the country. The result of that day was an incontestable proof that our ideas for the creation of the Storm Detachment were right, both from the psychological viewpoint and as to the manner in which this body was organized.
 
 On the basis of this success the enlistment progressed so rapidly that within a few
 weeks the number of Munich companies of a hundred men each became doubled.
+
 2. The expedition to Coburg in October 1922.
 Certain People's Societies had decided to hold a German Day at Coburg. I was invited
 to take part, with the intimation that they wished me to bring a following along. This
@@ -829,6 +796,7 @@ divided into about fourteen companies and had to be brought by special train fro
 Munich to Coburg, which had just voted by plebiscite to be annexed to Bavaria.
 Corresponding orders were given to other groups of the National Socialist Storm
 Detachment which had meanwhile been formed in various other localities.
+
 This was the first time that such a special train ran in Germany. At all the places where
 the new members of the Storm Detachment joined us our train caused a sensation.
 Many of the people had never seen our flag. And it made a very great impression.
