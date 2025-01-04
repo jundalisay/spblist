@@ -11,39 +11,62 @@ icon: /icons/descartes.png
 ---
 
 
-#### 45. The Power of the Soul over its Passions
+### 45. The Power of the Soul over its Passions
 
-Our passions cannot be directly excited or removed by the action of our will. 
+ <!-- the action of -->
+Our passions cannot be directly excited or removed by our willpower. 
 
-However, they can be influenced indirectly by representing things that are usually associated with the passions we want to have, and contrary to those we wish to reject. 
+However, our passions can be influenced indirectly.
 
-Therefore, to arouse courage in oneself and remove fear, it is not enough to merely will it; one must consider reasons, objects, or examples that persuade one that the danger is not great, that there is always more safety in defense than in flight, that one will gain glory and joy from victory, whereas only regret and shame will come from fleeing, and similar things.
+ by representing things that are usually associated with the passions we want to have, and contrary to those we wish to reject. 
+
+ <!-- arouse courage in oneself and -->
+
+Therefore, to remove fear, we cannot merely want to be fearless. 
+
+<!-- it is not enough to merely will it; one -->
+
+We must consider reasons, objects, or examples that persuade us that:
+- the danger is not great
+- there is more safety in defense than in flight
+- we will gain glory from victory, and regret and shame from fleeing
+
+<!-- whereas only , and similar things. -->
 
 
-#### 46. Why the Soul is Prevented from Fully Controlling its Passions
+#### 46. Why the Soul Cannot Fully Control Its Passions
 
-The soul cannot quickly change or stop its passions. This is why I defined passions as being caused, maintained, and strengthened by certain movements of the spirits. 
+The soul cannot quickly change or stop its passions. 
+
+**This is why I defined passions as being caused, maintained, and strengthened by movements of the spirits.**
 
 This is because the passions are almost all accompanied by some emotion occurring in the heart and consequently in all the blood and spirits. 
 
-Until this emotion ceases, the spirits remain present in our thoughts in the same way that sensory objects remain present while acting against the organs of our senses. 
+**Until this emotion ceases, the spirits remain present in our thoughts in the same way that sensory objects remain present while being sensed.** * 
+
+<!-- acting against the organs of our senses.* -->
+
+{{< n n="Our feelings stay because the animal spirits have a wave nature just like the spatial layer" >}}
+
 
 The soul can avoid hearing a small noise or feeling a slight pain by focusing intensely on something else.
+- But it cannot avoid hearing thunder or feeling the fire burning the hand.
 
-But it cannot avoid hearing thunder or feeling the fire burning the hand in the same way.
+The soul can easily overcome minor passions but not the stronger ones until the emotion of the blood and spirits is calmed.
 
-The soul can easily overcome minor passions but not the more violent and strong ones until the emotion of the blood and spirits is calmed. 
+The most the willpower* can do while this emotion is vigorous is:
+- **to not consent to its effects**
+- **to restrain several of the movements it incites in the body**. 
 
-The most the will can do while this emotion is vigorous is:
-- to not consent to its effects 
-- to restrain several of the movements it incites in the body. 
+{{< n n="Here, the willpower represents the higher mind, while the animal spirits represent the lower mind" >}}
+
 
 For example:
-- if anger raises the hand to strike, the will can usually hold it back
-- if fear incites the legs to flee, the will can stop them
+- if anger raises the hand to strike, the willpower can usually hold it back
+- if fear incites the legs to flee, the willpower can stop them
 
 
-#### 47. The Conflicts between the Lower and Higher Parts of the Soul
+### 47. The Conflicts between the Lower and Higher Parts of the Soul
 
 The lower part of the soul is of the natural appetites and is called sensitive. 
 
@@ -108,4 +131,3 @@ Often, the same cause that excites a passion in the soul also excites certain mo
 For example, a fearful event causes:
 - the animal spirits to enter the muscles to move the legs and flee
 - the will to be brave to stop those spirits.
-

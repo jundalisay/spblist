@@ -48,15 +48,14 @@ Particles in economics manifest as 'prices' (from Latin *pretium* whic means 're
 
 Economics is full of **specific numbers** as GDP, population size, unemployment rate, trade deficit, etc, but only has a few concepts of **abstract value**. 
 
-The economic value of a bridge, for example, is more abstract than its cost-price.
-- The economic value has a range such as $1b-$1.5b over 10 years
-- It cost price is a specific number such as $100m, paid in 2010
-
+For example, the economic value of a bridge is more abstract than its cost-price.
+- Its economic value has a range such as $1b-$1.5b over 10 years. This is a "fluffy" prediction.
+- Its cost price is a specific number such as $100m, paid in 2010. This is exact down to cents, if the accountant is diligent enough. 
 
 
 ### Desire
 
-**Value thus has the same dynamics as fluctuating waves, while price has the dynamics of fixed particles.** Value is more fundamental* than prices just as waves are more fundamental than particles. 
+**Value thus has the same dynamics as inexact fluctuating waves, while price has the dynamics of exact fixed particles.** Value is more fundamental* than prices just as waves are more fundamental than particles. 
 
 If value were a moving desire-entity, then price would be a snapshot of that desire taken at a certain time.
 

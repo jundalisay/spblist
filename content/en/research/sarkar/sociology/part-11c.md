@@ -169,4 +169,5 @@ This is not possible in practice because no two individuals are alike.
 - It exists on violence only.
 <!-- (4) Its goal is purely imaginary equality. -->
 
-Besides these, the following three groups belong to the Semitic [[faith]] – Muslims, Christians and Jews.
+Besides these, the following 3 groups belong to the Semitic [[faith]] – Muslims, Christians and Jews.
+

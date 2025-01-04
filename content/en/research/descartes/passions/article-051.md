@@ -13,7 +13,7 @@ icon: /icons/descartes.png
 
 
 
-#### 51. What are the first causes of the passions?
+### 51. What are the first causes of the passions?
 
 <!-- The last and most immediate cause of  is nothing other than  -->
 
@@ -38,7 +38,7 @@ Yet these same passions can also be excited by objects that affect the senses. T
 Hence it follows that to identify all of them, it suffices to consider all the effects of these objects.
 
 
-#### 52. What is their use? How can they be enumerated?
+### 52. What is their use? How can they be enumerated?
 
 The objects which affect the senses incite various passions in us due to:
 - the various ways in which those objects can harm or benefit us

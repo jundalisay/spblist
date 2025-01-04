@@ -12,7 +12,7 @@ icon: /icons/descartes.png
 
 
 
-#### 48. Knowing the Strength or Weakness of Souls and the Ill of the Weakest
+### 48. Knowing the Strength or Weakness of Souls and the Ill of the Weakest
 
 It is through the success of these conflicts that each person can know the strength or weakness of their soul. 
 
@@ -25,8 +25,9 @@ But there are those who cannot test their strength because they never let their 
 
 What I call its own weapons are firm and determined judgments concerning the knowledge of good and evil, according to which it has resolved to conduct the actions of its life. 
 
-The weakest souls are those whose will cannot follow certain judgments. Instead they let themselves be continually carried away by the present passions which often oppose each other. These draw the soul alternately to their side, employing it to fight against itself. This puts the soul in the most deplorable state. 
+The weakest souls are those whose will cannot follow certain judgments. Instead they let themselves be continually carried away by the present passions which often oppose each other.
 
+These draw the soul alternately to their side, employing it to fight against itself. This puts the soul in the most deplorable state. 
 
 For example, a soldier with a weak soul might wamt to flee death yet might also have the ambition to avoid the reputation of cowardice.  
 
@@ -36,7 +37,7 @@ These 2 passions agitate the will differently. He obeys one now, and then later 
 
 
 
-#### 49. The Strength of the Soul Is Not Enough without the Knowledge of Truth
+### 49. The Strength of the Soul Is Not Enough without the Knowledge of Truth
 
 There are very few men who are so weak and irresolute that they only want what their present passion dictates. 
 

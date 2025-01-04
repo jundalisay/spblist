@@ -50,41 +50,66 @@ But it can also be moved by the soul.
 
 The pineal gland receives as many impressions from the soul, that the soul has as many different perceptions as there are different movements in the pineal gland. 
 
-Similarly, reciprocally, the body’s machine is so composed that from the sole fact that 
+<!-- Reciprocally, the body’s machine is so composed that from the sole fact that  -->
 
 Whenever the pineal gland is moved by the soul or by any cause, the movement pushes the animal spirits surrounding the pineal gland towards the pores of the brain.
 
 From those pores, they go through the nerves into the muscles, making them move the limbs.
 
 
-#### 35. Example of How the Impressions of Objects Unite in the Pineal Gland
+#### 35. How the Impressions of Objects Unite in the Pineal Gland
 
-If we see an animal coming towards us, the light reflected from its body paints two images, one in each of our eyes.
+If we see an animal coming towards us, the light reflected from its body paints 2 images, one in each of our eyes.
 
-These two images form two others, through the mediation of the optic nerves, on the inner surface of the brain facing its cavities. 
+These 2 images form 2 others, through the mediation of the optic nerves, on the inner surface of the brain facing its cavities.
 
-From there, through the mediation of the spirits that fill these cavities, these images radiate in such a way toward the pineal gland surrounded by these spirits that the movement composing each point of one of the images tends toward the same point of the gland, toward which the movement forming the point of the other image representing the same part of this animal also tends. 
+{{< i s="/graphics/bio/eye.jpg" a="Eye" >}}
 
-Thus, the two images in the brain become one on the gland, which acts immediately on the soul to make it see the shape of the animal.
+From there, through the mediation of the spirits that fill these cavities, these images radiate towards the pineal gland.
+
+This gland is surrounded by these spirits.
+
+Each point [pixel] of this image goes towards the same point of the gland.
+
+<!-- that go  the movement composing each point of one of the images tends toward  -->
+
+This creates that image in that gland. 
+
+<!-- toward which the movement forming the point of the other image representing the same part of this animal also tends.  -->
+
+Thus, the two images in the brain become one on the gland. This acts immediately on the soul to make it see the animal.
 
 
-#### 36. Example of How Passions are Excited in the Soul
+#### 36. How Passions are Excited in the Soul
 
-If this shape is very frightening and has a lot in common with things that have previously been harmful to the body, it excites fear in the soul. 
+If this shape is very frightening and is similar with things that have previously been harmful, it excites fear in the soul.
+
+ <!-- to the body,   -->
 
 This will then excite either courage or dread according to:
 - the body's temperament 
 - the soul's strength
 - whether one has previously defended oneself or fled from harmful things related to the present impression.
 
-This makes the brain so disposed in some men that 
+<!-- This makes the brain so disposed in some men that rarefied -->
 
 The spirits reflected from the image formed on the gland go from there:
 - partly into the nerves that turn the back and move the legs to flee
 - partly into the nerves that enlarge or constrict the orifices of the heart
-  - This agitates the other parts that receive the blood, making it rarefied in a different way than usual.
-  - This blood sends spirits to the brain, which are suitable to maintain and strengthen fear, that is to say, which are suitable for keeping open, or reopening, the pores of the brain that guide them into the same nerves. 
+  - This agitates the other parts that receive the blood, decompressing it a different way.
 
-For from the sole fact that these spirits enter these pores, they excite a particular movement in this gland, which is established by nature to make the soul feel this passion. 
+This blood sends spirits to the brain for maintaining fear.
+- These keep those pores of the brain, that guide them into the same nerves, active.
 
-These pores relate primarily to the small nerves that serve to tighten or enlarge the orifices of the heart, this makes the soul feel it primarily as in the heart.
+<!-- , that is to say, which are suitable for keeping open, or reopening, the pores  -->
+
+
+<!-- For from the sole fact that  -->
+
+As these spirits enter these brain-pores, they excite a movement in the pineal gland to make the soul feel this passion. 
+
+These pores relate primarily to the small nerves that tighten or enlarge the heart's orifices.*
+
+{{< n n="This is because the heart actually controls the animal spirits.">}}
+
+This makes the soul feel it primarily as being from the heart.

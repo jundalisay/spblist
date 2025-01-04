@@ -1,5 +1,6 @@
 ---
 title: "The Nature of the Sun and the Stars"
+linkTitle: Articles 9-14
 heading: Articles 9-14
 weight: 14
 description: "The Sun and the fixed stars shine with their own light"

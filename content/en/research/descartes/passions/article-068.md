@@ -11,7 +11,7 @@ icon: /icons/descartes.png
 ---
 
 
-#### 68. Why this enumeration of Passions differs from the commonly accepted one.
+### 68. Why this enumeration of Passions differs from the commonly accepted one.
 
 Other people have written about the passions. But they base their list on what they distinguish in the sensitive part of the soul as two appetites, which they call one Concupiscible, the other Irascible.
 
@@ -110,7 +110,8 @@ Whereas a much smaller and softer touch, such as tickling, is almost unbearable 
 
 ### 73. What is Astonishment?
 
-This surprise has so much power to cause the spirits, which are in the cavities of the brain, to go towards where the impression of the admired object is located. 
+ <!-- cavities of the -->
+This surprise has so much power to cause the spirits in the brain to go where the impression of the admired object is located.
 
 Sometimes, this surprise pushes all the spirits there, and makes them so occupied in preserving this impression, that none of them pass from there into the muscles, nor even turn from the first traces they have followed in the brain.
 

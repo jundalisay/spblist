@@ -1,4 +1,5 @@
 ---
+linkTitle: Articles 100-108
 title: "The Properties of Sunpots"
 heading: Articles 100-108
 weight: 50
