@@ -14,7 +14,7 @@ icon: "/icons/descartes.png"
 
 
 
-{{< n n="We replace 'striated particles' with 'virtual photons' in order to match modern Physics and make it easier to understand" >}}
+{{< n n="We replace 'striated particles' with 'virtual photons', `1st Element` with `fire-aether`, and `2nd Element` with `air-aether` (space particles) in order to match modern Physics and make it easier to understand" >}}
 
 
 #### 152. Why one magnet is attrcted by another.
@@ -55,7 +55,7 @@ Thus, those which pass through the magnet `1` are of 2 kinds:
 In `R` and `C` they meet so many air-aether or earth-aether particles.*
 - These reflect them back towards `V`. 
 
-{{< n n="We peg the cause of the reflection from the other virtual photons coming in, causing a traffic jam">}}
+{{< n n="We peg the cause of the reflection to the low pressure at the other pole or entrance which then sucks them back to that pole" >}}
 
 The whole space `RVC` through which they are thus dispersed is called the sphere of power or activity of this magnet `1`.
 
