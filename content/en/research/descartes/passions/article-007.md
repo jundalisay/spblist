@@ -1,5 +1,6 @@
 ---
 heading: Articles 7-9
+linkTitle: Articles 7-9
 title: The Parts of the Body
 weight: 5
 description: The food we eat goes down into the stomach and intestines.

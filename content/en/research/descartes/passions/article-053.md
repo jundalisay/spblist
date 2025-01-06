@@ -1,5 +1,6 @@
 ---
 heading: Articles 53-67
+linkTitle: Articles 53-67
 title: The Order and Enumeration of the Passions
 weight: 19
 description: What is The Order and Enumeration of the Passions?

@@ -113,10 +113,11 @@ These are just assertions based on biased beliefs.
 
 **The successful tests of Relativity are merely measurements of how Nature already is**, such as time dilation. 
 
-**It does not reveal and hidden properties that can be used to create new technology**. This is because Einstein never  explained why light has the speed of `c`, because he didn't know why. 
+**It does not reveal and hidden properties that can be used to create new technology**. This is because Einstein never explained why light has the speed of `c`, because he didn't know why. 
 
 Cartesian Physics explains that the speed of light is from the constriction of the aether onto spacetime. This leads to our concept of spacetime slices which replace the scam metric tensor and can be the basis for new technologies.  
 
+> Einstein never explained *why* light has the speed of c
 
 
 ### Mathematics and Logic are just Tools

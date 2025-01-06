@@ -1,5 +1,6 @@
 ---
 heading: Articles 33-36
+linkTitle: Articles 33-36
 title: The Seat of Passions is Not in the Heart
 weight: 12
 description: People think that the soul receives its passions in the heart

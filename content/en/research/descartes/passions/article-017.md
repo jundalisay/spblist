@@ -1,5 +1,6 @@
 ---
 heading: Articles 17-26
+linkTitle: Articles 17-26
 title: What is Perception?
 weight: 8
 description: Descartes gives 4 Precepts on Math and Logic

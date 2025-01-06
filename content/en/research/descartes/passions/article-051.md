@@ -1,4 +1,5 @@
 ---
+linkTitle: Articles 51-52
 heading: Articles 51-52
 title: The Six Primary Passions
 # number and order of the Passions,

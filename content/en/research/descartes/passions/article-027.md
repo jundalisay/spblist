@@ -1,5 +1,6 @@
 ---
 heading: Articles 27-32
+linkTitle: Articles 27-32
 title: The Definition of the Passions of the Soul
 weight: 10
 description: Explanation of This Definition

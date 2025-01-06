@@ -1,5 +1,6 @@
 ---
 heading: Articles 68-73
+linkTitle: Articles 68-73
 title: The 6 Primitive Passions
 weight: 22
 description: There are only 6 Primitive Passions

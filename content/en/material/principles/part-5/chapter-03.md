@@ -3,7 +3,7 @@ heading: "Chapter 3"
 linkTitle: Media
 title: "The Media of Matter: States and Contact Forces"
 # date: 2023-12-10
-image: /photos/city.jpg
+image: /photos/physics/sparks.jpg
 description: "The main media of the material layer are the contact forces that bind material molecules together as solid, liquid, gas"
 writer:
   name: Juan
@@ -34,23 +34,49 @@ The material forces are:
 Force | States | Description 
 --- | --- | ---
 Friction | Solid, Liquid, Gas |  
-Air Resistance or Drag |  | Gas
-Tension | Solid | 
+Air/Liquid Pressure and Resistance | Gas | 
+Surface Tension | Solid | 
 Contact Force | Solid, Liquid, Gas |
-Buoyant Force | Liquid | 
 
 
 
-### Avogadro's Number
+### Friction
 
-Avogadro's Number is the number of molecules in a mole. This is then used to determine the mass of a molecule. 
+Physics defines friction as the force that opposes motion upon contact.
+
+Material Superphysics, on the other hand, defines it as the reduced volume of space particles (qosts) that flow between bodies.  
 
 
-### Bernoulli's Principle
+{{< i s="/photos/physics/sparks.jpg" a="Friction" >}}
+
+Since friction is based on the lack of space particles then it is observable in the Radiant and Material Layers:
+
+Phenomenon | Layer
+--- | --- 
+Non-Movement or Lesser movement | Material
+Light as sparks | Radiant
+Heat | Radiant
+Static Electricity | Radiant 
+
+Note that Reverse Gravity is not classified as an effect of friction because friction implies the movement of surfaces, as opposed to being static after being set. 
+
+In the Material Layer, friction is revealed by the coefficient of friction `u` as:
+
+```
+u  F/N
+``` 
+
+Where:
+- `N` is the normal force
+- `F` is the frictional force, as the normal force reduced 
+
+
+
+### Air Pressure: Bernoulli's Principle
 
 We explained this in Part 2 to describe the dynamics of gravity as high-low pressure. 
 
-
+This includes Buoyant Force, Coriolis Effect. 
 
 <!-- The medium of matter is not the gluon, but the aetherspace which connects 2 or more quark particles together, according to Cartesian Relationality.
 

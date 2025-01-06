@@ -1,5 +1,6 @@
 ---
 heading: Articles 1-9
+linkTitle: Articles 1-9
 title: What are the Passions of the Soul?
 weight: 4
 description: What is Passion in relation to one subject is always Action in another respect.

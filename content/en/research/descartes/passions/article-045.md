@@ -1,5 +1,6 @@
 ---
-heading: Articles 45-50
+heading: Articles 45-47
+linkTitle: Articles 45-47
 title: The Power of the Soul over its Passions
 weight: 16
 description: Descartes gives 4 Precepts on Math and Logic
@@ -16,9 +17,10 @@ icon: /icons/descartes.png
  <!-- the action of -->
 Our passions cannot be directly excited or removed by our willpower. 
 
-However, our passions can be influenced indirectly.
-
- by representing things that are usually associated with the passions we want to have, and contrary to those we wish to reject. 
+ <!-- representing things -->
+However, our passions can be influenced indirectly by ideas that are:
+- associated with the passions that we want to have, and
+- contrary to the passions that we wish to reject
 
  <!-- arouse courage in oneself and -->
 
@@ -34,15 +36,19 @@ We must consider reasons, objects, or examples that persuade us that:
 <!-- whereas only , and similar things. -->
 
 
-#### 46. Why the Soul Cannot Fully Control Its Passions
+### 46. Why the Soul Cannot Fully Control Its Passions
 
 The soul cannot quickly change or stop its passions. 
 
-**This is why I defined passions as being caused, maintained, and strengthened by movements of the spirits.**
+**This is why I defined passions as being caused, maintained, and strengthened by** *movements of the spirits*.
 
-This is because the passions are almost all accompanied by some emotion occurring in the heart and consequently in all the blood and spirits. 
+ <!-- almost all -->
+This is because the passions are accompanied by some emotion:
+- in the heart and
+- consequently in all the blood and spirits. 
 
-**Until this emotion ceases, the spirits remain present in our thoughts in the same way that sensory objects remain present while being sensed.** * 
+<!-- ceases remain present remain present-->
+**Until this emotion ends, the spirits linger in our thoughts in the same way that sensory objects persist while being sensed.** * 
 
 <!-- acting against the organs of our senses.* -->
 
@@ -52,7 +58,12 @@ This is because the passions are almost all accompanied by some emotion occurrin
 The soul can avoid hearing a small noise or feeling a slight pain by focusing intensely on something else.
 - But it cannot avoid hearing thunder or feeling the fire burning the hand.
 
-The soul can easily overcome minor passions but not the stronger ones until the emotion of the blood and spirits is calmed.
+{{< n n="The small impressions are small waves in the animal spirits or vayu. The big impressions are big waves." >}}
+
+The soul can easily overcome minor passions.
+<!-- until -->
+
+**But the stronger ones can only be overcome after the emotion of the blood and spirits is calmed.**
 
 The most the willpower* can do while this emotion is vigorous is:
 - **to not consent to its effects**
@@ -68,21 +79,29 @@ For example:
 
 ### 47. The Conflicts between the Lower and Higher Parts of the Soul
 
-The lower part of the soul is of the natural appetites and is called sensitive. 
+The lower part of the soul is of the natural appetites and is called *sensitive*.*
 
-The higher part is of the will and is called rational. 
+{{< n n="This is the lower or crude mind (kamamaya in yogic science)" >}}
+
+The higher part is of the will and is called *rational*. 
+
+{{< n n="This is the higher or causal mind (hiranmaya in yogic science)" >}}
 
 The conflicts between them is only due to the opposition between the movements of:
 - the animal spirits in the body and
-- the soul by its will
+- the soul by its will 
+
+<!-- [samskara in yogic science] -->
 
 These are excited simultaneously in the [pineal] gland. 
 
-There is only one soul within us. This soul has no diversity of parts. 
+**There is only one soul within us**. This soul has no diversity of parts. 
 
 The same soul that is sensitive is also rational, and all its appetites are wills. 
 
-The error of attributing different characters to it, often contrary to each other, comes from not clearly distinguishing the soul's functions from those of the body. 
+The error of attributing different characters to it, often contrary to each other, comes from not clearly distinguishing the soul's functions from those of the body.*
+
+{{< n n="The concept of different soul-characters is an effect of the oversoul (which also explains split personality). This concept is advocated by David Hume, Parmenides, and Taoism. Descartes seems to reject an oversoul and instead focuses on the diversity coming from the difference of the higher and lower minds. This is similar to Timaeus." >}}
 
 Everything that opposes our reason comes from the functions of the body. 
 

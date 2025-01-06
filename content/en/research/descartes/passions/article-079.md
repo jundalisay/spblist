@@ -1,5 +1,6 @@
 ---
 heading: Articles 79-84
+linkTitle: Articles 79-84
 title: Love and Hatred
 weight: 25
 description: What is Passion in relation to one subject is always Action in another respect.

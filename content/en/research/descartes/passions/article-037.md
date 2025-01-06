@@ -1,5 +1,6 @@
 ---
 heading: Articles 37-44
+linkTitle: Articles 37-44
 title: How All Passions Are Caused by Some Movement of the Spirits
 weight: 14
 description: Example of the Movements of the Body That Accompany Passions and Do Not Depend on the Soul

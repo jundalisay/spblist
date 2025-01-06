@@ -1,5 +1,6 @@
 ---
-heading: Articles 45-50
+heading: Articles 48-50
+linkTitle: Articles 48-50
 title: We can train our souls to conquer our passions 
 weight: 17
 description: Knowing the Strength or Weakness of Souls and the Ill of the Weakest
