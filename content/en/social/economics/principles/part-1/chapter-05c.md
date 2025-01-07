@@ -1,5 +1,6 @@
 ---
 heading: "Chapter 5c"
+linkTitle: Chapter 5c
 title: "Maximized Agriculture"
 date: 2023-01-15
 weight: 25

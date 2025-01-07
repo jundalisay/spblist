@@ -12,9 +12,15 @@ icon: /avatars/hume.png
 --- 
 
 
-Some people are extremely sensitive to all the accidents of life. It gives them joy on every prosperous event, as well as grief on misfortunes and adversity. Favours and good acts easily engage their friendship, while the smallest injury provokes their resentment. Any honour or mark of distinction elevates them above measure. But they are as sensibly touched with contempt.
+Some people are extremely sensitive to all the accidents of life. 
 
-Such people have more lively enjoyments, and more pungent sorrows than sedate men. When a sensitive person meets misfortune, his sorrow engulfs him. It deprives him of the love for the common occurences in life. The right enjoyment of such things then forms the chief part of our happiness.
+<!-- It gives them joy on every prosperous event, as well as grief on misfortunes and adversity. Favours and good acts easily engage their friendship, while the smallest injury provokes their resentment. Any honour or mark of distinction elevates them above measure. But they are as sensibly touched with contempt. -->
+
+Such people have more lively enjoyments, and more pungent sorrows than sedate men. 
+
+When a sensitive person meets misfortune, his sorrow engulfs him. 
+
+<!-- It deprives him of the love for the common occurences in life. The right enjoyment of such things then forms the chief part of our happiness. -->
 <!-- When everything is balanced and each person mastered himself, everyone would not want to be rather be of the latter character,  of his own disposition. -->
 <!-- We cannot tell our future. --> 
 

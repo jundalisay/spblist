@@ -30,7 +30,7 @@ Absolute demand, on the other hand, is demand that can never bring commodities t
 
 
 
-Absolute demand is the main source of dynamism in the economy as a function of the invisible hand. 
+Absolute demand is the main source of dynamism in the economy as a function of the invisible hand. This can roughly translate as wishful thinking. 
 
 {{< q a="Smith" c="Theory of Moral Sentiments, Part 4 Chapter 1" >}}
 In this complex view, the pleasures of wealth and greatness strike the imagination as something grand, beautiful, and noble. Their attainment seems worth all the toil and anxiety for them. It is good that nature imposes on us in this manner.
@@ -39,9 +39,19 @@ It is this deception which rouses mankind's industry and keeps it in continual m
 {{< /q >}}
 
 
-Our physical desires make us industrious and creative. 
+Our physical desires and wishes make us industrious and creative. 
 
+For example, going to the moon has been a fantasy since telescopes were invented in Europe in the 17th century. A physical means to go to the moon back then would have been an absolute demand of their society as a unit. 
 
+But it only became effective when rocketry was invented by the Nazis in the 1940s. This eventually led to the realization of the Apollo missions. 
+
+In Supereconomics, there is:
+- perpetual effective demand for the minimum needs of life. This is based on the lower chakras. 
+- perpetual absolute demand for the improvemnt of life. This is based on the higher chakras.
+
+As the society organism upgrades and evolves from lower to higher chakras, both the effective and absolute demand increases in quality and quantity. 
+
+Supereconomics guides that increase towards the Positive, as cooperation and creativity, while Modern Economics guides that into the Negative, as selfishness and materialism.
 
 <!-- ## Aggregate Demand of Economics
 
