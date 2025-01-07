@@ -23,7 +23,9 @@ This identity is an absolute one if there is nothing else.
 <!-- It is precisely through the absolute character and its opposition that the thing relates itself to others, and is essentially this process of relation, and only this. The relation, however, is the negation of its independence, and the thing collapses through its own essential property. -->
 
 
-{{< s v='126' >}} The necessity of the experience which consciousness has to go through in finding that the thing is destroyed just by the very characteristic which constitutes its essential nature and its distinctive existence on its own account, may, as regards the bare principle it implies, be shortly stated thus.
+{{< s v='126' >}} 
+
+<!-- The necessity of the experience which consciousness has to go through in finding that the thing is destroyed just by the very characteristic which constitutes its essential nature and its distinctive existence on its own account, may, as regards the bare principle it implies, be shortly stated thus. -->
 
 Identity sets up the thing to have a being of its own.
 - This being is an absolute negation of all otherness.
@@ -53,9 +55,15 @@ In other words, this existence for itself is as much unessential as that which a
 
 
 
-{{< s v='129' >}} By this process the object in its pure characteristics, in those features which were to constitute its essential nature, is superseded, just as the object in its sensible mode of existence became transcended. 
+{{< s v='129' >}} By this process, the object in its pure characteristics, is superseded, just as the object in its sensible mode of existence became transcended.
 
-From being sensible it passed into being a universal; but this universal, because derived from sense, is essentially conditioned by it, and hence is, in general, not a genuine self-identical universality, but one affected with an opposition. 
+ <!-- in those features which were to constitute its essential nature,  -->
+
+From being sensible it, passed into being a universal.
+
+But this universal, derived from sense, is essentially conditioned by the sense.
+
+Hence it is not a genuine self-identical universality, but one affected with an opposition. 
 
 This is why this universality breaks up into the extremes of singleness and universality, of the one of the properties and the “also” of the free constituents or matters. 
 

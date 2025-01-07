@@ -13,7 +13,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-{{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance." >}}
+{{< n n="Fire is produced from matter when spacetime exits instantly, leaving only matter and radiance. We replace 3rd Element with earth-aether" >}}
 
 
 #### 80. The nature of fire and its distinction from air
