@@ -97,9 +97,15 @@ This indifference takes another form when it is said that to be positive and neg
 
 Its being in that case would mean its existence in general.
 
-But in that definition the necessity of its existence is not contained; it exists either because we find it, i.e. its existence is not necessary at all, or else it exists through other forces, i.e. the necessity of its existence is an external necessity.
+But in that definition, the necessity of its existence is not contained.
 
-But in that the determinateness of being through another is what the necessity consists in, we are back again to the plurality of determinate laws, which we have just left in order to consider law, as law. It is only with the latter that we can compare its notion as notion, or its necessity. This necessity, however, has in all these forms shown itself to be just an empty phrase.
+It exists either because:
+- we find it, i.e. its existence is not necessary at all, or
+- it exists through other forces, i.e. the necessity of its existence is an external necessity.
+
+But in that the determinateness of being through another is what the necessity consists in, we are back again to the plurality of determinate laws, which we have just left in order to consider law, as law. 
+
+It is only with the latter that we can compare its notion as notion, or its necessity. This necessity, however, has in all these forms shown itself to be just an empty phrase.
 
 
 {{< s v="153" >}} There is still another way than that just indicated in which the indifference of law and force, or of notion and being, is found. 

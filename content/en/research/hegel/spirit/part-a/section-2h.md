@@ -9,23 +9,25 @@ weight: 28
 ---
 
 
+ <!-- and consists in -->
 
-{{< s v='139' >}} The interplay of the 2 forces in this way arises from and consists in the 2 being thus determined with opposite characteristics*.
+{{< s v='139' >}} The interplay of the 2 forces in this way arises from the 2 beings thus determined with opposite characteristics*.
 
 {{< n n="This is Shiva and Shakti in Hinduism, and Yang and Yin in Taoism. In Superphysics, we call it the Positive and Negative Forces." >}}
 
-
-It is in their being for one another in virtue of this determination and in the complete and exchange of their characteristics – a transition direct from one to the other, whereby alone these determinations, in which the forces seem to appear independently, have being. 
+<!-- It is in their being for one another in virtue of this determination and in the complete and exchange of their characteristics – a transition direct from one to the other, whereby alone these determinations, in which the forces seem to appear independently, have being. -->
 
 For example, the inciting force is set up as universal medium.
 
 On the other hand, the force incited as a force repressed. 
 
-But the inciting force is a universal medium just by the very fact that he repressed force is repressed.
+But the inciting force is a universal medium because the repressed force is repressed.
 
-The repressed force is really what incites the inciting force and makes it the medium that it claims to be. 
+The repressed force really:
+- incites the inciting force
+- makes the inciting force the medium that it claims to be. 
 
-The inciting force is an inciting force only through the repressed force. 
+**The inciting force is an inciting force only through the repressed force.** 
 <!-- , and is an inciting force only so far as it is incited by the latter to be so. -->
 - It loses just as readily this character given to it.
 - This is because its incitement passes, or has already passed, into the character of the repressed. 
@@ -40,31 +42,40 @@ The inciting force acts in an external way and takes the part of universal mediu
 
 {{< s v='140' >}} The distinctions themselves reveal distinction in a twofold manner. 
 
-On one hand, they are distinctions of content. 
-- This is because one extreme is force reflected into itself, while the other is a medium for the constituent elements involved.
+On one hand, they are distinctions of content. This is because:
+- one extreme is force reflected into itself
+- the other force is a medium for the constituent elements involved.
 
 On the other hand, they appear as distinctions of form. 
 - This is because one incites and the other is incited.
 - The former is active, the latter is passive. 
 
-As regards the distinction of
+<!-- As regards the distinction of -->
 
 Their content is distinct to us who are analysing the process.
 
-As regards distinction of form, however, they are independent.
+<!-- As regards distinction of form, however,  -->
+They are independent in terms of form.
 
- in their relation parting asunder of themselves, and standing opposed. 
+They stand opposed in their relation, parting asunder of themselves.
 
- In the perception of the movement of force, consciousness becomes aware that the extremes, in both these aspects, are nothing per se, that rather these sides, in which their distinction of nature was meant to consist, are merely vanishing moments, an immediate transition of each into its opposite.
+When consciousness percieves the movement of force, consciousness becomes aware that both extremes are:
+- nothing
+- merely vanishing moments
+- an immediate transition of each into its opposite.
 
-For us who are analysing the process, however, it was also true that per se the distinctions, qua distinctions of content and form, vanished. On the side of form, the active, inciting, or independent factor was in its very nature the same as what, from the side of content, was presented as repressed force, force driven back into itself.
+For us who are analysing the process, however, it was also true that per se the distinctions, qua distinctions of content and form, vanished. 
+
+On the side of form, the active, inciting, or independent factor was in its very nature the same as what, from the side of content, was presented as repressed force, force driven back into itself.
 
 The passive, incited, or related factor was, from the side of form, the same as what, from the side of content, took shape as universal medium for the many constituent elements.
 
 
 {{< s v='141' >}} Thus, the notion of force becomes actual when resolved into 2 forces. We see too how it comes to be so.
 
-These 2 forces exist as independent entities. But their existence lies in a movement each towards each. In order to be, each has to get its position purely through the other. Their being has purely the significance of disappearance. 
+These 2 forces exist as independent entities. 
+
+But their existence lies in a movement each towards each. In order to be, each has to get its position purely through the other. Their being has purely the significance of disappearance. 
 
 They are not like extremes that keep to themselves something positively fixed.
 

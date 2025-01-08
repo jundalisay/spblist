@@ -11,9 +11,11 @@ weight: 30
 
 <!-- ### 2. The Inner Realm -->
 
-{{< s v='143' >}} This true being of things does not exist immediately for consciousness. 
+{{< s v='143' >}} This true existence of things does not exist immediately for consciousness. 
 
-Rather, consciousness takes up a mediated relation to the inner. In the form of understanding, it looks through the intervening play of forces into the real and true background of things.
+Rather, consciousness takes up a mediated relation to the inner.
+
+In the form of understanding, it looks through the intervening play of forces into the real and true background of things.
 
 The middle term combines the 2 extremes:
 

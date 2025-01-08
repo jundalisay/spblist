@@ -11,13 +11,20 @@ weight: 48
 
 ## c. The Law of Pure Distinction: the Inverted World
 
-This second supersensible world is in this way the inverted world (verkehrte Welt). One aspect is already present in the first supersensible world. This is why it is the inverted form of this first. 
+This second supersensible world is in this way the inverted world.
+
+One aspect is already present in the first supersensible world.
+
+This is why it is the inverted form of this first. 
 
 The inner being is, thereby, in its character of appearance completed. 
 
-For the first supersensible world was only the immediate raising of the world of perception into the element of universality. It has its necessary counterpart in this world of perception, which still retains as its own the principle of change and alteration. 
+For the first supersensible world was only the immediate raising of the world of perception into the element of universality.
+
+It has its necessary counterpart in this world of perception, which still retains as its own the principle of change and alteration. 
 
 The first kingdom of laws dispenses with this principle, but receives it in the form of an inverted world.
+
 
 {{< s v="158" >}} By the law of this inverted world, then, the selfsame in the first world is the unlike of itself, and the unlike in the first is equally unlike to itself, or it becomes like itself. 
 

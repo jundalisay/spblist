@@ -75,6 +75,10 @@ But the fallacy of Einstein is really just a follower of Kant, who is the real f
 
 The whole crime of Kant is to detach reality from the thinking process. This means that I can think of *imaginary* spacetimes and decree that to be *real* spacetime. 
 
+{{< q a="Einstein" c="Reply to Criticisms" >}}
+I did not grow up in the Kantian tradition, but I found what is truly valuable in Kant's doctrine: "The real is not given to us, but put to us (by way of a riddle)." It means that we have a conceptual construction whose authority is purely in its validation. This conceptual construction refers precisely to the “real” (by definition). **Every further question on the “nature of the real” appears empty.**
+{{< /q >}}
+
 {{< q a="Kant" >}}
 A conception of space and time as quanta may be presented a priori in intuition, that is, constructed, either alone with their quality (figure), or as pure quantity (the mere synthesis of the homogeneous), by means of number.
 {{< /q >}}

@@ -11,10 +11,10 @@ author: Dada Dharmavedananda
 No word short of emaciated can describe my physical condition. I have nothing to hang onto except my bone-dry determination to follow my spiritual path and become an acharya. Meditation is extremely difficult; my mind 
 wanders incessantly. 
 
-What occupies my mind more during meditation—my spiritual ideal or the thought of ice cream-choco-late-crunchy granola cereal- 
-peanut butter-fresh fruits-milk shake-a swim in the sea-a clean quiet room-and a 
-soft bed? Though I try not to think of such things, they bombard me whenever I 
-close my eyes. 
+What occupies my mind more during meditation—my spiritual ideal or the thought of ice cream-choco-late-crunchy granola cereal-peanut butter-fresh fruits-milk shake-a swim in the sea-a clean quiet room-and a 
+soft bed? 
+
+Though I try not to think of such things, they bombard me whenever I  close my eyes. 
 
 I've never been so thoroughly depressed in my entire life. The diarrhea has 
 become amoebic dysentery, my eyes have turned yellow due to hepatitis, and 
@@ -137,4 +137,3 @@ I picked up my towel and walked in an almost normal gait to the well. For
 the first time since my troubles began I did not care about the pain in my 
 stomach. Ignoring my weakness, I pulled up a bucket of water—something 
 which over the last few weeks I had believed I couldn't do. 21 
-
