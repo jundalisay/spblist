@@ -23,22 +23,25 @@ Wait. Do you have a shaoca manjusa? (A small bottle containing water, which  is 
 {{< /l >}}
 
 
-MADHU: Yes, Baba. 
+{{< r a="Madhu" >}}
+Yes, Baba. 
+{{< /r >}}
 
 {{< l a="Baba" >}}
 But do you use it regularly? 
 {{< /l >}}
 
-
-MADHU: Yes, Baba. 
-
+{{< r a="Madhu" >}}
+Yes, Baba. 
+{{< /r >}}
 
 {{< l a="Baba" >}}
 No, it is not true. You have not been regular in usage. 
 {{< /l >}}
 
-
-MADHU (in a strong firm voice): Yes I was! 
+{{< r a="Madhu" >}}
+(in a strong firm voice): Yes I was! 
+{{< /r >}}
 
 He again starts stepping right.
 
@@ -46,15 +49,17 @@ He again starts stepping right.
 (to other workers): Do not allow him to move right! 
 {{< /l >}}
 
-
-MADHU: But I'm following 16 Points! 
+{{< r a="Madhu" >}}
+But I'm following 16 Points! 
+{{< /r >}}
 
 {{< l a="Baba" >}}
 Two days ago you were in Patna at Dag Bangla Charaha Crossing at 9:30 in the morning. You passed urine but did not use your shaoca manjusa.
 {{< /l >}} 
 
-
-MADHU (laughing loudly): You win, Baba. 
+{{< r a="Madhu" >}}
+(laughing loudly): You win, Baba. 
+{{< /r >}}
 
 (He steps left.) 
 
@@ -71,28 +76,33 @@ Brother M stood before Baba
 Before becoming a Margi, were you a worker for the Communist party. (chuckles) How was the character of your fellow workers?
 {{< /l >}}
 
-M: Very bad. Baba. 
+{{< r a="M" >}}
+Very bad. Baba. 
+{{< /r >}}
 
 {{< l a="Baba" >}}
 (a little indignant): What about your character, my boy?
 {{< /l >}}
 
-
-M: My character was good, Baba. 
+{{< r a="Madhu" >}}
+My character was good, Baba. 
+{{< /r >}}
 
 {{< l a="Baba" >}}
 (a little angry): Tell the truth. 
 {{< /l >}}
 
-
-M: I've made no such mistake. Baba. 
+{{< r a="Madhu" >}}
+I've made no such mistake. Baba. 
+{{< /r >}}
 
 {{< l a="Baba" >}}
 You are lying. 
 {{< /l >}}
 
-
-M: No, I'm not lying, Baba! 
+{{< r a="Madhu" >}}
+No, I'm not lying, Baba! 
+{{< /r >}}
 
 {{< l a="Baba" >}}
 Come forward for atonement. 
@@ -100,7 +110,9 @@ Come forward for atonement.
 
 As M slowly begins stepping to the front, Baba leans forward with His stick.
 
-M (slightly stepping backward): No, Baba! I did nothing! 
+{{< r a="Madhu" >}}
+(slightly stepping backward): No, Baba! I did nothing! 
+{{< /r >}}
 
 {{< l a="Baba" >}}
 (in a strict tone): Turn around, and look to your rear. 
@@ -109,14 +121,18 @@ M (slightly stepping backward): No, Baba! I did nothing!
 
 M turns his face around. He sees something which we do not see
 
+{{< r a="Madhu" >}}
 Oh, Baba! 
+{{< /r >}}
 
 {{< l a="Baba" >}}
 (in a threatening tone): Need I say anything more about hat happened on April 1? 
 {{< /l >}}
 
+{{< r a="Madhu" >}}
+No, Baba! (He throws himself in prostration at Baba's feet.) 
+{{< /r >}}
 
-M: No, Baba! (He throws himself in prostration at Baba's feet.) 
 
 {{< l a="Baba" >}}
 That will not suffice. Come to your feet.
@@ -124,9 +140,13 @@ That will not suffice. Come to your feet.
 
 M stands up. Baba beats him several times.
 
-Afterward, when M was asked what he saw, he said. "Didn't you all See her? When I turned around, I saw my lady friend dressed in a black sari. 
+Afterward, when M was asked what he saw, he said:
 
-She was a secret, burning in my heart." Then he smiled, saying. "But now I'm free." 
+{{< r a="Madhu" >}}
+Didn't you all See her? When I turned around, I saw my lady friend dressed in a black sari.
+
+She was a secret, burning in my heart. But now I'm free.
+{{< /r >}}
 
 
 ### Beyond criticism 

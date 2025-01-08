@@ -119,7 +119,7 @@
 
 .People {background-image: url(/icons/farmer.png)}
 
-.Indian {background-image: url(/icons/indian.png)}
+.Indian, .Margi {background-image: url(/icons/indian.png)}
 
 .Fresnel {background-image: url(/avatars/fresnel.jpg);}
 
@@ -176,7 +176,7 @@
 
 .mang, .Mang-i, .Mang-Wu, .Yen-Yung {background-image: url(/avatars/ava2.jpg);}
 
-.menger, .Menger {background-image: url(/icons/menger.jpg);}
+.menger, .Menger, .G {background-image: url(/icons/menger.jpg);}
 
 .marshall, .Marshall {background-image: url(/avatars/marshall.jpg);}
 
@@ -242,7 +242,7 @@
 
 .Supereconomics {background-image: url(/icons/specon.png) !important;}
 
-.Surendra {background-image: url(/icons/surendra.jpg);}
+.Surendra, .J, .Madhu {background-image: url(/icons/surendra.jpg);}
 
 .Material-Superphysics {background-image: url(/icons/spmat.png) !important;}
 
