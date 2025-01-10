@@ -1,5 +1,5 @@
 ---
-title: "HOW BABA GUIDES FROM AFAR"
+title: "How Baba Guides From Afar"
 heading: Chapter 9
 weight: 18
 description: "He sits there in front of me and I guide him in sadhana. His sadhana has progessed very rapidly"
@@ -10,63 +10,96 @@ author: Nagina
 
 In the winter of 1954 I began to have difficulty whenever I would sit in sadhana.
 
-I felt a block when I reached a certain point in my meditation. This continued for many days. Although the stage I had reached was enjoyable, I was dissatisfied as my progress now felt blocked. There was no opportunity to take leave from my office so that I could see Baba and ask Him about it.
+I felt a block when I reached a certain point in my meditation. This continued for many days.
 
-In the meantime, I continued my meditation and in some frustration and pain I sat for sadhana as usual. One evening, when I reached the very same stage during my meditation, I felt that someone moved my mind ahead with a small sweet push and my
-mental state became very pleasant. 
+<!-- Although the stage I had reached was enjoyable, I was dissatisfied as my progress now felt blocked.  -->
 
-Now the blockage was removed, I became more deeply engrossed in meditation.
-After some days, I got leave and went for Baba's darshan. At His residence, I
+There was no opportunity to take leave from my office so that I could see Baba and ask Him about it.
+
+In the meantime, I continued my meditation and in some frustration and pain I sat for sadhana as usual.
+
+One evening, when I reached the very same stage during my meditation, I felt that someone moved my mind ahead with a small sweet push and my mental state became very pleasant.
+
+Now the blockage was removed, I became more deeply engrossed in meditation. After some days, I got leave and went for Baba's darshan. At His residence, I
 sat near Baba after doing pranam.
 
-Baba said, "What was the need to come now? Your work is already done." I did
-not follow.
+<!-- Baba said, "" I did not follow. -->
 
-Baba again said "Now your meditation is good, isn't it?"
+{{< l a="Baba" >}}
+What was the need to come now? Your work is already done. Now your meditation is good, isn't it?
+{{< /l >}}
 
 I replied in the affirmative and then realised why Baba said that now there was no need for me to come here.
 
-I asked Baba, “Is it possible that You can know the needs of Your disciples whilst sitting here and can fulfil them from here?”
+{{< r a="Nagina" >}}
+Is it possible that You can know the needs of Your disciples whilst sitting here and can fulfil them from here?
+{{< /r >}}
 
-Baba smiled a little at the naiveté of my question and said, "You are in government service and it may be that the government will send you to America or England. Do you think that you will not get my guidance there when you need it?
+<!-- Baba smiled a little at the naiveté of my question and said, You are in government service and it may be that " -->
 
-America and England are not like Begusarai that you can rush to me and ask me any question you may have!”
+{{< l a="Baba" >}}
+(smiling) What if the government will send you to America or England? Do you think that you will not get my guidance there when you need it?
 
-I asked, “Baba what would happen in that situation?”
+America and England are not like Begusarai that you can rush to me and ask me any question you may have!
+{{< /l >}}
 
-Baba said, "All guidance will be available."
+{{< r a="Nagina" >}}
+Baba what would happen in that situation?
+{{< /r >}}
 
-And after that Baba began to explain the whole theory to me scientifically. For a beginner like myself in the world of sadhana, these things seemed amazing. But when I saw these things happening to me, wonder was converted into belief. 
+{{< l a="Baba" >}}
+All guidance will be available
+{{< /l >}}
 
-It was the great grace of Baba that He was strengthening my faith. To remove my doubts Baba gave me the experience of His omniscience again and again. How kind and compassionate He is!
+Baba then explained the whole theory to me scientifically.
+
+<!-- For a beginner like myself in the world of sadhana, these things seemed amazing. But when I saw these things happening to me, wonder was converted into belief. 
+
+It was the great grace of Baba that He was strengthening my faith. To remove my doubts Baba gave me the experience of His omniscience again and again. How kind and compassionate He is! -->
 
 
-## THE LIBERATION OF ‘VAJRA BHAIRAV’
+## The Liberation Of Lahiri Mahashaya  as ‘Vajra Bhairav’
 
-One evening Baba was sitting on the tiger’s grave with a young brother disciple and myself.Baba commented, “Formerly when the number of devotees was less when I
-was alone on this grave in the evenings, I used to expand my mind to see who is doing what. 
+One evening Baba was sitting on the tiger’s grave with a young brother disciple and myself.
+
+{{< l a="Baba" >}}
+Formerly when the number of devotees was less when I was alone on this grave in the evenings, I used to expand my mind to see who is doing what. 
 
 But I am no more alone now and therefore do not do that anymore.
 
-One evening while my mind expanded I saw a person standing in western dress before me. 
+One evening while my mind expanded I saw a person standing in western attire before me. 
+{{< /l >}}
 
-When I asked about his identity, he said his name was Shyam Charan Lahiri, (the revered guru of Yogananda Paramahansa’s guru Shri Yukteshwar, otherwise known as Lahiri Mahashaya), and that he belonged to Nadia District1 in Bengal. Very humbly he pressed me for his final liberation (moksa).
+{{< l a="Baba" >}}
+He said his name was Shyam Charan Lahiri, (the revered guru of Yogananda Paramahansa’s guru Shri Yukteshwar, otherwise known as Lahiri Mahashaya), and that he belonged to Nadia District1 in Bengal. Very humbly he pressed me for his final liberation (moksa).
 
-I told him, ‘It is not possible to get enlightenment without doing sadhana and sadhana is not possible without having a human body’. Even then he continued to
-supplicate and press me for his salvation.” 
+I told him, **‘It is not possible to get enlightenment without doing sadhana and sadhana is not possible without having a human body’**. 
 
-Puzzled, I asked Baba, “Just now You told me that he was a person from Bengal and in western dress, then how does the question of having a human body arise? He was very much in human form when he was talking to You!”
+Even then he continued to supplicate and press me for his salvation.
+{{< /l >}}
 
-Baba explained, “He was a bodiless soul. He died long ago. When I expanded my mind, that bodiless soul took the support of my ectoplasm (citta) and stood up before me. The clothes were those he had worn during his life . Taking the support of my ectoplasm he came in that very dress before me. 
 
-Even though I explained to him again and again that unless he had a human body it would be very difficult to give him the help he wanted, he continued to press me most humbly and earnestly. Seeing his sincerity I took pity on him. I gave him a place for sadhana beside the tree that stands near this grave.” 
+{{< r a="Nagina" >}}
+Just now You told me that he was a person from Bengal and in western dress, then how does the question of having a human body arise? He was very much in human form when he was talking to You!
+{{< /r >}}
+
+{{< l a="Baba" >}}
+He was a bodiless soul. He died long ago. When I expanded my mind, that bodiless soul took the support of my ectoplasm (citta) and stood up before me. The clothes were those he had worn during his life . Taking the support of my ectoplasm he came in that very dress before me. 
+
+I explained to him again and again that unless he had a human body it would be very difficult to give him the help he wanted. But he continued to press me most humbly and earnestly.
+
+Seeing his sincerity I took pity on him. I gave him a place for sadhana beside the tree that stands near this grave.
+{{< /l >}}
+
 
 Baba indicated the banyan tree that stands no more than 5 yards west of the Englishman’s grave and 35 yards from the tiger’s grave. 
 
 The young disciple brother and I both looked at it in awe as if we had not seen it before.
 
-“Since then, whenever I am alone on this grave, I give the support of my citta dhatu and bring him in human form. He sits there in front of me and I guide him in sadhana. His sadhana has progessed very rapidly.
 
+{{< l a="Baba" >}}
+Since then, whenever I am alone on this grave, I give the support of my citta dhatu and bring him in human form. He sits there in front of me and I guide him in sadhana. His sadhana has progessed very rapidly.
+{{< /l >}}
 
 
 Baba then told us the entire story of Shyam Charan Lahiri’s initiation near Ranikhet in the forest of the Himalayas. 
@@ -77,7 +110,10 @@ The same story, with some variations, is told by:
 
 After hearing this story from Baba, I obtained a copy of Yogananda’s autobiography and read it.
 
-Baba continued, “I have named him Vajra Bhairav. His body is very frightening to look at, but he is actually very kind and compassionate. He loves his brother disciples very much. Nagina someday I shall introduce Vajra Bhairav to you”.
+{{< l a="Baba" >}}
+I have named him Vajra Bhairav. His body is very frightening to look at, but he is actually very kind and compassionate. He loves his brother disciples very much. Nagina someday I shall introduce Vajra Bhairav to you.
+{{< /l >}}
+
 
 (Naginada has on different occasions mentioned different places as that given by Shyam Charan Lahiri as his home district. As it seems that his memory had perhaps faltered on this point, the correct place has been given here. Ed.)
 
@@ -92,10 +128,11 @@ By then my young brother disciple who was also with me could not curb his curios
 
 <!-- After sometime he started another subject. -->
 
-
 After many days, I asked Baba about Vajra Bhairav.
 
-Baba said: “His sadhana is complete. He has merged with the Supreme.”
+{{< l a="Baba" >}}
+His sadhana is complete. He has merged with the Supreme.
+{{< /l >}}
 
 
 Vajra Bhairav had left the world of form and gone on to absolute formlessness.
@@ -106,5 +143,7 @@ It has been my experience from the beginning, that when Baba is speaking about s
 
 But a show of untimely or unwanted curiosity can interrupt the flow and things are spoiled, as happened this time.
 
-From time to time, Baba says things that mean one thing to us at the time, but we only understand it deeper significance much later. Really speaking Baba always speaks in the form of sutras or highly concise language, and we must ponder the hidden meanings.
+From time to time, Baba says things that mean one thing to us at the time. But we only understand it deeper significance much later.
+
+Really speaking Baba always speaks in the form of sutras or highly concise language, and we must ponder the hidden meanings.
 
