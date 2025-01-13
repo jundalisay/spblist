@@ -37,7 +37,9 @@ People often say, “Our forefathers used to do it, so we should also do it.” 
 
 Suppose the son of one Shri Simhasana is Shri Ramadhar. 
 
-If Shri Ramadhara Singh says he must do like his father, does he become his father, Shri Simhasana? No, he does not. This sort of stagnancy is suicidal. For the sign of life is dynamism, and where there is no dynamism, there is death. Without dynamism people harm themselves and others.
+If Shri Ramadhara Singh says he must do like his father, does he become his father, Shri Simhasana? No, he does not. 
+
+This sort of stagnancy is suicidal. For the sign of life is dynamism, and where there is no dynamism, there is death. Without dynamism people harm themselves and others.
 
 <!-- Bhayáńáḿ bhayaḿ bhiiśańaḿ bhiiśańánáḿ
 Gatih prańináḿ pávanaḿ pávanánám. -->

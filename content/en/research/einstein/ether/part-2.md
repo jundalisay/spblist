@@ -105,25 +105,3 @@ Electromagnetic processes in vacua are completely determined by these equations,
 {{< n n="*Here, Einstein really makes electromagnetism the supreme principle" >}}
 
 
-At first, it seems superfluous to: 
-- postulate a homogeneous, isotropic ether-medium
-- envisage electromagnetic fields as states of this medium.
-
-But on the other hand, the ether hypothesis is useful in harmonizing the fundamental facts of mechanics.
-
-<!-- . To deny the ether is ultimately to assume that empty space has no physical qualities whatever.  -->
-
-The mechanical behaviour of body hovering freely in empty space depends on:
-- relative positions (distances)
-- relative velocities
-- its state of rotation
-  - This might not appertaining to the body in itself. 
-
-In order to look at the rotation of the body as something real, Newton objectivises space.
-
-He classes his absolute space together with real things. For him, rotation relative to an absolute space is also something real. 
-
-Newton could have called his absolute space as "Ether". 
-
-Besides observable objects, another thing, which is not perceptible, must be looked upon as real in order to enable acceleration or rotation to be looked upon as something real.
-

@@ -82,7 +82,7 @@ Time Dilation | The increase of timespan within time
 Timespan | Gap between 2 perceptions
 Vice | A specific feeling that is adharmic
 Virtue | A specific feeling that is dharmic
-
+Yoga | Union created by the Positive Force
 <!-- natural flow of the evolution or mechanics of a discrete identity -->
 
 

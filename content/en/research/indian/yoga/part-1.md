@@ -18,18 +18,18 @@ weight: 4
 
 <sup>1</sup> Now, instructions for Yoga (Union).
 
-> atha yoga-anuaasanam
+<!-- > atha yoga-anuaasanam -->
 
 
 <sup>2</sup> Yoga is the stilling of the fluctuations of the mind <sup>3</sup> so that the meditator dwells in his true nature.
 
-> yoga citta-vrtti-nirodha, tadaa drastuh svarupe ‘vasthânam
+<!-- > yoga citta-vrtti-nirodha, tadaa drastuh svarupe ‘vasthânam -->
 
 <!-- // -stuff (citta) -->
 
 <sup>4</sup> Otherwise, he identifies with his thoughts.
 
-> vrtti-sârûpyam itaratra
+<!-- > vrtti-sârûpyam itaratra -->
 
 <!-- propensities -->
 <sup>5</sup> The thoughts are five-fold, with positive and negative variations.

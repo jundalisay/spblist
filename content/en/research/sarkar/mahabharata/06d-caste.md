@@ -18,19 +18,17 @@ One belonged to a particular caste according to one’s livelihood.
 
 Garga, the uncle of Krśńa, was a Vipra. Krśńa’s father, Vasudeva, was a warlike Kśatriya. 
 
-The guardians of Krśńa, Nanda, Upananda and others, were Ábhiira Kśatriyas because they tamed cattle. 
+The guardians of Krśńa, Nanda, Upananda and others were Ábhiira Kśatriyas because they tamed cattle. 
 
-These two, Játrii Kśatriya and Ábhiira Kśatriya, frequently fought each other.
-
-Both were good people, but because of some misunderstanding, they were fighting. 
+These Játrii Kśatriya and Ábhiira Kśatriya frequently fought each other.
+- Both were good people, but because of some misunderstanding, they were fighting. 
 
 Krśńa thought, if He united these two, it would be very easy for Him to bring about Great India.
 
 <!-- He applied His practical approach.  -->
 
-He got His elder sister, Subhadra, an Ábhiira Kśatriya, to marry Arjuna.
-
-This He did with a view to make the Játrii Kśatriyas and the Ábhiira Kśatriyas stop fighting.
+His elder sister, Subhadra, was an Ábhiira Kśatriya.
+- He got her to marry Arjuna in order to make the Játrii and Ábhiira Kśatriyas stop fighting.
 
 <!-- Let’s take yet another instance of Lord Krśńa’s practical approach.  -->
 
