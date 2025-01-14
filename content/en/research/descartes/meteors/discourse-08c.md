@@ -2,7 +2,7 @@
 heading: Discourse 8c
 title: The Movement of Light as Rolling Balls
 weight: 42
-description: Descartes gives 4 Precepts on Math and Logic
+description: The nature of the colors which appear towards F consists only in what the fire-aether tends to spin
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

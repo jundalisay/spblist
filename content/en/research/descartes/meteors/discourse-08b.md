@@ -2,7 +2,7 @@
 heading: Discourse 8b
 title: The Effect of the Prism
 weight: 40
-description: Descartes gives 4 Precepts on Math and Logic
+description: There are many other rays that can reach the eye after 2 refractions and 1-2 reflections when this sphere is in another position
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

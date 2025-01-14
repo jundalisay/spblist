@@ -2,7 +2,7 @@
 heading: Discourse 1
 title: The Nature Of Terrestrial Bodies
 weight: 4
-description: Descartes gives 4 Precepts on Math and Logic
+description: This Discourse 1 deals with the nature of terrestrial bodies [earth-ather] in general
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

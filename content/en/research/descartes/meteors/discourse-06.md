@@ -2,7 +2,7 @@
 heading: Discourse 6
 title: Snow, Rain, And Hail
 weight: 28
-description: Descartes gives 4 Precepts on Math and Logic
+description: Clouds do not descend immediately after being formed, for several reasons
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

@@ -2,7 +2,7 @@
 heading: Discourse 7b
 title: Thunder, Whirlwinds, and Lightning
 weight: 35
-description: Descartes gives 4 Precepts on Math and Logic
+description: There are usually exhalations [ionized air] mixed among these vapors, which cannot be driven as far as them by the cloud
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

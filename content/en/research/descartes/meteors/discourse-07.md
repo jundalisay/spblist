@@ -2,7 +2,7 @@
 heading: Discourse 7
 title: Storms, Lightning, and All the Other Fires that Ignite in the Air
 weight: 34
-description: Descartes gives 4 Precepts on Math and Logic
+description: Winds are created when the clouds dissolve into vapors
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

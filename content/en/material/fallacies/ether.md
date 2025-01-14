@@ -34,8 +34,10 @@ God, or substance, consisting of infinite attributes, of which each expresses et
 
 We define aether as the substance of abstract mind and of the ideas and feelings that goes into that mind.
 - Substance is therefore the medium or objectification of the aether. 
-- It is called *citta* or mind-stuff in Hinduism and Buddhism. The citta that you have to create your thoughts is the same citta that the Brahma (totality of substance) to create the physical universe.
-- Substance is interchangeable with the aether, as done by Aristotle, Plato, Descartes, and Spinoza. Aether is the theoretical part. Substance or essence is the actual part. 
+- It is called *citta* or mind-stuff in Hinduism and Buddhism. The citta that you have to create your thoughts is the same citta that the Brahma (totality of substance) uses to create the physical universe.
+- Substance is interchangeable with the aether, as done by Aristotle, Plato, Descartes, and Spinoza. 
+
+<!-- Aether is the theoretical part. Substance or essence is the actual part.  -->
 
 
 The aether is not material nor physical. This makes it difficult to be perceived by minds that have been conditioned to detect only shallow material perceptions and not trained to detect subtle athereal ones. 
@@ -53,7 +55,7 @@ Mach tried to avoid assigning reality to a non-observable thing. Instead of an a
 {{< /q >}}
 
 
-So Einstein's abstract mind chose Electromagnetism, which is 1st Element to Descartes, as the supreme Element. The major flaw is that Electromagnetism is really just the middle Element and not the top or causal one. 
+So Einstein's abstract mind chose observable Electromagnetism, which is 1st Element to Descartes, as the supreme Element. The major flaw is that Electromagnetism is really just the middle Element and not the top or causal one. 
 
 {{< i s="/graphics/super/domains.jpg" c="The aether is the top Element that wraps around and behind reality. It is the backstage of the easily-perceptible physical stage." >}}
 

@@ -2,7 +2,7 @@
 heading: Discourse 3
 title: Salt
 weight: 12
-description: Descartes gives 4 Precepts on Math and Logic
+description: The salinity of the sea consists only of the coarser parts of its water
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

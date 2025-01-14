@@ -13,11 +13,15 @@ icon: /avatars/poincare.png
 
 There are 2 kinds of open conduction currents. 
 
-There are first the currents of discharge of a condenser, or of any conductor whatever. There are also cases in which the electric charges describe a closed contour, being displaced by conduction in one part of the circuit and by convection in the other part. 
+There are first the currents of discharge of a condenser, or of any conductor whatever.
+
+There are also cases in which the electric charges describe a closed contour, being displaced by conduction in one part of the circuit and by convection in the other part. 
 
 The question might be regarded as solved for open currents of the first kind; they were closed by currents of displacement. For open currents of the second kind the solution appeared still more simple. 
 
-It seemed that if the current were closed it could only be by the current of convection itself. For that purpose it was sufficient to admit that a “convection current”—i.e., a charged conductor in motion—could act on the galvanometer. But experimental confirmation was lacking.
+If the current were closed it could only be by the current of convection itself. 
+
+For that purpose it was sufficient to admit that a “convection current”—i.e., a charged conductor in motion—could act on the galvanometer. But experimental confirmation was lacking.
 
 It was difficult to obtain a sufficient intensity even by increasing as much as possible the charge and the velocity of the conductors. 
 
@@ -33,23 +37,32 @@ It was afterwards repeated by Himstedt.
 
 They even believed that they could announce that they had succeeded in making quantitative measurements. 
 
-For 20 years Rowland’s law was admitted without objection by all physicists. Everything seemed to confirm it.
+For 20 years Rowland’s law was admitted without objection by all physicists.
+- Everything seemed to confirm it.
 
-The spark certainly produces a magnetic effect. The spark discharged seemed due to particles taken from one of the electrodes and transferred to the other electrode with their charge. 
+The spark certainly produces a magnetic effect.
+
+The spark discharged seemed due to particles taken from one of the electrodes. This was transferred to the other electrode with their charge. 
 
 Is not the very spectrum of the spark, in which we recognise the lines of the metal of the electrode, a proof of it? 
 
 The spark would then be a real current of induction.
 
-On the other hand, it is also admitted that in an electrolyte the electricity is carried by the ions in motion. The current in an electrolyte would therefore also be a current of convection; but it acts on the magnetic needle. 
+On the other hand, in an electrolyte, the electricity is carried by the ions in motion.
 
-And in the same way for cathode rays; 
+The current in an electrolyte would therefore also be a current of convection. 
+
+But it acts on the magnetic needle. 
+
+This is the same way for cathode rays.
 
 Crookes attributed these rays to very subtle matter charged with negative electricity and moving with very high velocity.
 
 He looked upon them, in other words, as currents of convection. 
 
-These cathode rays are deviated by the magnet. In virtue of the principle of action and reaction, they should in their turn deviate the magnetic needle. 
+These cathode rays are deviated by the magnet.
+
+In virtue of the principle of action and reaction, they should in their turn deviate the magnetic needle. 
 
 Hertz believed that he had proved that:
 - the cathodic rays do not carry negative electricity, and
@@ -72,18 +85,37 @@ To Lorentz, currents of conduction would themselves be true convection currents.
 
 Electricity would remain indissolubly connected with certain material particles called electrons. 
 
-The circulation of these electrons through bodies would produce voltaic currents, and what would distinguish conductors from insulators would be that the one could be traversed by these electrons, while the others would check the movement of the electrons. 
+The circulation of these electrons through bodies would produce voltaic currents.
+
+- Conductors could be traversed by these electrons.
+- Insulators would check the movement of the electrons. 
 
 Lorentz’s theory is very attractive. 
 
-It gives a very simple explanation of certain phenomena, which the earlier theories—even Maxwell’s in its primitive orm—could only deal with in an unsatisfactory manner. 
+It gives a very simple explanation of certain phenomena such as:
+- the aberration of light
+- the partial impulse of luminous waves
+- magnetic polarisation
+- Zeeman’s experiment
 
-For example, the aberration of light, the partial impulse of luminous waves, magnetic polarisation, and Zeeman’s experiment.
+The earlier theories—even Maxwell’s in its primitive form—could only deal unsatisfactorily. 
 
-A few objections still remained. The phenomena of an electric system seemed to depend on the absolute velocity of translation of the centre of gravity of this system, which is contrary to the idea that we have of the relativity of space. 
 
-Supported by M. Crémieu, M. Lippman has presented this objection in a very striking form. Imagine two charged conductors with the same velocity of translation. They are relatively at rest. However, each of them being equivalent to a current of onvection, they should attract one another. By measuring this attraction we could measure their absolute velocity.
+A few objections still remained.
 
+The phenomena of an electric system seemed to depend on the absolute velocity of translation of the centre of gravity of this system.
+
+This is contrary to my idea of the relativity of space. 
+
+Supported by M. Crémieu, M. Lippman has presented this objection in a very striking form.
+
+Imagine 2 charged conductors with the same velocity of translation.
+
+They are relatively at rest.
+
+However, each of them are equivalent to a current of convection so they should attract one another.
+
+By measuring this attraction we could measure their absolute velocity.
 
 The partisans of Lorentz replied:
 
@@ -91,9 +123,15 @@ The partisans of Lorentz replied:
 No! What we could measure in that way is not their absolute velocity, but their relative velocity with respect to the ether, so that the principle of relativity is safe.
 {{< /q >}}
 
-Whatever there may be in these objections, the edifice of electro-dynamics seemed, at any rate in its broad lines, definitively constructed. Everything was presented under the most satisfactory aspect. 
+Whatever the objections, the edifice of electro-dynamics, in its broad lines, was definitively constructed. 
 
-The theories of Ampère and Helmholtz were made for the open currents that no longer existed. They only have purely historic interest. The inextricable complications to which these theories led have been almost forgotten. 
+<!-- Everything was presented under the most satisfactory aspect.  -->
+
+The theories of Ampère and Helmholtz were made for the open currents that no longer existed.
+
+They only have purely historic interest.
+
+The inextricable complications to which these theories led have been almost forgotten. 
 
 This quiescence has been recently disturbed by the experiments of M. Crémieu, which have contradicted, or at least have seemed to contradict, the results formerly obtained by Rowland. 
 
