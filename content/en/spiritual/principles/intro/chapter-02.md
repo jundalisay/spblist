@@ -2,7 +2,7 @@
 heading: "Chapter 2"
 title: "The Different Religions and Belief Systems"
 date: 2024-07-15
-image: "/photos/meta/isaiah.jpg"
+image: /photos/meta/buddhism.jpg
 description: "The 10 virtues are based on Yama and Niyama"
 writer:
   name: Lam

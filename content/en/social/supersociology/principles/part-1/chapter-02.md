@@ -4,7 +4,7 @@ linkTitle: Culture
 heading: "Chapter 2"
 date: 2019-12-17
 weight: 9
-image: "/photos/bio/peacock.jpg"
+image: "/photos/countries/vn/fan.jpg"
 description: "Culture is the expression of the society-organism just as personality is the expression of the individual soul"
 writer:
   name: Juan
@@ -15,7 +15,7 @@ icon: /icons/spsoc.png
 
 Culture is the expression of the society-organism just as personality is the expression of the individual soul. 
 
-{{< img src="/photos/bio/peacock.jpg" alt="Peacock feathers" >}}
+{{< img src="/photos/countries/vn/fan.jpg" alt="Vietnamese culture" >}}
 
 This expression includes:
 - language

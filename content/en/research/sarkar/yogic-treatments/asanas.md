@@ -1,6 +1,6 @@
 ---
 title: "Asanas List"
-weight: 3
+weight: 2
 author: "PR Sarkar"
 description: ""
 image: "/photos/med/heartburn.jpg"

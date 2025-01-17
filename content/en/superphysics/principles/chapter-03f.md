@@ -3,7 +3,7 @@ heading: "Chapter 3f"
 title: "The Cycle of Creation"
 date: 2024-06-02
 weight: 15
-image: "/photos/econ/bake.jpg" 
+image: "/graphics/super/waves.jpg" 
 description: "The cycle of creation follows Positive Direction"
 icon: /icons/sp.png
 writer:

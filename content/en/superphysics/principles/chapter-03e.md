@@ -3,7 +3,7 @@ heading: "Chapter 3e"
 title: "The Geometry of Ideas"
 date: 2020-01-02
 weight: 14
-image: "/photos/objects/rubik.jpg" 
+image: "/graphics/super/direction.jpg"  
 description: "Ideas have a geometry"
 icon: /icons/sp.png
 writer:

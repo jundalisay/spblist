@@ -2,7 +2,7 @@
 heading: "Chapter 11e"
 title: "The Two Operations of Thinking and Feeling"
 date: 2020-12-06
-image: /photos/econ/writer.jpg
+image: /photos/psych/self.jpg
 # date: 2020-12-10
 weight: 67
 description: "Everything in existence is an idea of the Creator of that existence"
@@ -41,6 +41,8 @@ The main job of the intellectual mind is to think about its ideas.
 
 The main job of the emotional mind is to discern its feelings.
 - The act of feeling is the perception and immersion of feelings
+
+{{< i s="/photos/psych/self.jpg" a="Thinking" >}}
 
 We then group this thinking operation into 2 categories:
 
@@ -130,6 +132,8 @@ Repulsion is the tendency to move away an object.
 - Leaving
 - Divorce or Breaking up
 - etc
+
+{{< i s="/photos/psych/freedom.jpg" a="Feeling" >}}
 
 
 ### Usefulness of Combinative and Separative

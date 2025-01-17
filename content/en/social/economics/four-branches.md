@@ -2,7 +2,7 @@
 title: "The 4 Branches of Supereconomics"
 heading: "From the 4 Laws of Value"
 date: 2019-08-02
-image: "/photos/happysuccess.jpg"
+image: "/photos/buy.jpg"
 description : "The 4 branches of Superphysics are Personal, Social, Micro, Macro, These based on the 4 laws of value"
 writer:
   name: Juan
@@ -29,7 +29,7 @@ Currently, Economics has messy divisions arising from the lack of understanding 
 
 ### 1. Personal Economy from The First Law 
 
-![Happy woman](/photos/happysuccess.jpg)
+![Happy woman](/photos/buy.jpg)
 
 This includes demographic data, as well as personal physical and psychological data in order to see the granular supply and demand of any society. 
 

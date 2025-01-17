@@ -3,7 +3,7 @@ heading: "Chapter 4c"
 linkTitle: Particle Shaking
 title: "Particle Shaking Versus Smashing"
 # date: 2023-10-14
-image: /graphics/physics/pentagonic.jpg
+image: /photos/physics/neutrino.jpg
 description: "We simplify the Periodic Table to use Atomic Numbers and 5 Elements Pentagon"
 writer:
   name: Juan

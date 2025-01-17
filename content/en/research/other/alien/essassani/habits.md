@@ -1,7 +1,7 @@
 ---
 title: "Habits and Addictions"
 weight: 50
-image: "/photos/idea.jpg"
+image: "/photos/psych/eat.jpg"
 description: ""
 ---
 

@@ -3,7 +3,7 @@ heading: "Chapter 3d"
 title: "The Great Loop from Desire to Experience"
 date: 2020-01-02
 weight: 13
-image: /photos/econ/writer.jpg
+image: /graphics/psych/horse.jpg
 description: "Everything in existence is created by the two forces"
 icon: /icons/sp.png
 writer:

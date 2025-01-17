@@ -1,7 +1,7 @@
 ---
 heading: Part 4
 title: The Animal Domain
-image: "/photos/medieval/camels2.jpg"
+image: "/photos/bio/horse.jpg"
 # date: 2020-10-31
 weight: 6
 aliases:

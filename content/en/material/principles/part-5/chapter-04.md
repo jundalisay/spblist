@@ -3,7 +3,7 @@ heading: "Chapter 4"
 linkTitle: Substance
 title: "The Substance of Matter: Protons"
 date: 2024-12-31
-image: /photos/physics/neutrino.jpg
+image: /graphics/physics/klm.jpg
 description: "According to Physics, gravity comes from mass which then comes from the Higgs Field"
 writer:
   name: Juan
@@ -17,6 +17,9 @@ icon: /icons/spmat.png
 Protons are the substance of matter. They are:
 - responsible for the persistence and solidity of objects
 - made up of 3 quarks (qom)
+
+
+{{< i s="/graphics/physics/klm.jpg" a="Proton" >}}
 
 We change some names used in Physics in order to match Nature:
 

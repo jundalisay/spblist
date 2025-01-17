@@ -1,10 +1,9 @@
 ---
 title: "Ananda Sutram"
 description: ""
-image: "/covers/mystic.jpg"
-weight: 82
-linkTitle: Travels
-# date: 2022-05-05
+image: "/covers/sutram.jpg"
+weight: 2
+date: 2025-01-11
 # date: 2020-10-31
 ---
 

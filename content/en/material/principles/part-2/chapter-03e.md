@@ -22,9 +22,9 @@ Space is filled with qosts that become mosts whenever matter occupies a space an
 
 An analogy is a ball that displaces the sand, with the most sand being at its surface. 
 
-The bigger and denser the matter, the more space particles are displaced, the larger and stronger the field.
+{{< i s="/graphics/physics/gravityarea.jpg" a="Gravity Territory or Area" >}}
 
-{{< i s="/graphics/physics/grav.jpg" a="Gravity Pressure" >}}
+The bigger and denser the matter, the more space particles are displaced, the larger and stronger the field.
 
 
 When 2 fields meet, they create a channel that lets the displaced space particles stream easier. This creates a low space-pressure area between the bodies, and a high pressure one behind them. 
@@ -39,6 +39,8 @@ Newton thought that the low pressure was a pulling force. Einstein thought it wa
 In fluid mechanics, this is known as the Bernoulli principle, from Daniel and Johann Bernoulli who were devoted Cartesians and anti-Newtonians.
 
 This high-low pressure mechanism is the same for magnetism wherein magnets have channels that reduce the pressure for virtual photons, creating a high pressure magnetic field outside. 
+
+{{< i s="/graphics/physics/grav.jpg" a="Gravity Pressure" >}}
 
 We convert Newton's Universal Law into Cartesian by renaming `G` as the volume of space particles displaced per unit of matter. 
 

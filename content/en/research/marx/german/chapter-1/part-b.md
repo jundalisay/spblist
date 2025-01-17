@@ -30,29 +30,71 @@ It is absurd that the conception of history up to now has neglected these real r
 
 Civil society embraces the whole material intercourse of individuals within a definite stage of the development of productive forces. 
 
-It embraces the whole commercial and industrial life of a given stage and, insofar, transcends the State and the nation, though, on the other hand again, it must assert itself in its foreign relations as nationality, and inwardly must organise itself as State. 
+It embraces the whole commercial and industrial life of a given stage.
+
+It transcends the State and the nation, though it must assert itself in its foreign relations as nationality, and inwardly must organise itself as State. 
 
 The word “civil society” emerged in the 18th century when property relationships had already extricated themselves from the ancient and medieval communal society.
 
-Civil society as such only develops with the bourgeoisie; the social organisation evolving directly out of production and commerce, which in all ages forms the basis of the State and of the rest of the idealistic superstructure, has, however, always been designated by the same name.
+Civil society as such only develops with the bourgeoisie. 
+
+The social organisation evolves directly out of production and commerce.
+
+In all ages, this forms the basis of:
+- the State and
+- the rest of the idealistic superstructure
+
+However, it always been designated by the same name.
+
 
 ## Conclusions from the Materialist Conception of History
 
-History is nothing but the succession of the separate generations, each of which exploits the materials, the capital funds, the productive forces handed down to it by all preceding generations.
+History is the succession of the separate generations.
+
+Each generation exploits:
+- the materials
+- the capital funds
+- the productive forces handed down to it by all preceding generations.
 
 History, thus:
-- on one hand, continues the traditional activity in completely changed circumstances and\
+- on one hand, continues the traditional activity in completely changed circumstances and
 - on the other hand, modifies the old circumstances with a completely changed activity. 
 
-This can be speculatively distorted so that later history is made the goal of earlier history, e.g. the goal ascribed to the discovery of America is to further the eruption of the French Revolution. 
+This can be speculatively distorted so that later history is made the goal of earlier history.
 
-Thereby history receives its own special aims and becomes “a person rating with other persons” (to wit: “Self-Consciousness, Criticism, the Unique,” etc.), while what is designated with the words “destiny,” “goal,” “germ,” or “idea” of earlier history is nothing more than an abstraction formed from later history, from the active influence which earlier history exercises on later history.
+For example, the goal for the discovery of America is to further the eruption of the French Revolution. 
 
-The further the separate spheres, which interact on one another, extend in the course of this development, the more the original isolation of the separate nationalities is destroyed by the developed mode of production and intercourse and the division of labour between various nations naturally brought forth by these, the more history becomes world history.
+Thereby, history receives its own special aims and becomes “a person rating with other persons” (to wit: “Self-Consciousness, Criticism, the Unique,” etc.).
 
-Thus, for instance, if in England a machine is invented, which deprives countless workers of bread in India and China, and overturns the whole form of existence of these empires, this invention becomes a world-historical fact. 
+This is while it is designated with the words “destiny,” “goal,” “germ,” or “idea” of earlier history.
 
-Or again, take the case of sugar and coffee which have proved their world-historical importance in the nineteenth century by the fact that the lack of these products, occasioned by the Napoleonic Continental System, caused the Germans to rise against Napoleon, and thus became the real basis of the glorious Wars of liberation of 1813.
+This is nothing more than an abstraction formed from later history, from the active influence which earlier history exercises on later history.
 
-From this it follows that this transformation of history into world history is not indeed a mere abstract act on the part of the “self-consciousness,” the world spirit, or of any other metaphysical spectre, but a quite material, empirically verifiable act, an act the proof of which every individual furnishes as he comes and goes, eats, drinks and clothes himself.
+
+These separate spheres interact on one another when various nations interact with each other more through:
+- the developed mode of production
+- the division of labour between them
+
+This turns history into world history. 
+
+<!-- the original isolation of the separate nationalities is destroyed by:
+
+ naturally brought forth by these,  -->
+
+For example, a machine in England is invented which:
+- deprives countless workers of bread in India and China
+- overturns the whole form of existence of these empires
+
+This invention becomes a world-historical fact. 
+
+Another example is sugar and coffee gaining world-historical importance in the 19th century the Napoleonic Continental System lacked these products.
+- This caused the Germans to rise against Napoleon.
+- It became the basis of the glorious Wars of liberation of 1813.
+
+This transformation of history into world history is not a mere abstract act on the part of:
+- the “self-consciousness”
+- the world spirit, or
+- any other metaphysical spectre.
+
+It is a material, empirically verifiable act. Every individual furnishes proof of it as he comes and goes, eats, drinks and clothes himself.
 

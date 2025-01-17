@@ -3,7 +3,7 @@ heading: "Chapter 8"
 title: "High and Low Spatial Pressure"
 date: 2024-12-19
 weight: 40
-image: /photos/physics/pulsar.jpg
+image: /photos/physics/blow.jpg
 description: "High and Low Spatial Pressure are vortexless polarities in the Spatial layer"
 icon: /icons/spmat.png
 writer:

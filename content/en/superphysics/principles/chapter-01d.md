@@ -2,7 +2,7 @@
 heading: "Chapter 1c"
 title: "The 8 Dimensions"
 date: 2022-06-22
-image: "/photos/psych/binoculars.jpg"
+image: "/graphics/physics/aetherspaceall.jpg"
 description: "Superphysics opens up a new course for the future that is impossible with the current science"
 weight: 5
 writer:

@@ -3,7 +3,7 @@ heading: Chapter 3c
 linkTitle: Chapter 3c
 title: "Contact Forces Applied"
 # date: 2020-01-31
-image: /photos/physics/baseball.jpg
+image: /graphics/physics/box2.jpg
 description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
 weight: 7
 icon: /icons/spmat.png

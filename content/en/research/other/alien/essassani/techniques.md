@@ -1,7 +1,7 @@
 ---
 title: "Techniques for Manifesting your Preferred Reality"
 weight: 12
-image: "/photos/physics/quasar.jpg"
+image: "/photos/psych/self.jpg"
 description: "Here are 2 Quick Techniques for Manifesting your Preferred Reality"
 author: Consolidated from Bashar
 ---

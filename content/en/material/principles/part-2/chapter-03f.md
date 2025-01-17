@@ -19,6 +19,10 @@ We are pushed down to earth because the Earth displaces space particles.
 
 Most of these are just above its surface, diminishing the farther you go up and away from the surface. As a result, gravity is weaker as you go up
 
+
+{{< i s="/graphics/physics/gravityarea.jpg" a="Gravity Territory or Area" >}}
+
+
 So below you is low pressure space. This creates a high pressure space above you that then pushes you down. 
 
 We can call this as the material gravity of the Earth or a downward gravity. 

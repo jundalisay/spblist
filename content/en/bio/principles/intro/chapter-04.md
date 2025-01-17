@@ -4,7 +4,7 @@ title: "The Self"
 # title: "David Hume's Idea of the Self" # heading: "There are 3 billion yous"
 date: 2020-01-31
 weight: 20
-image: "/photos/social/monkey.jpg"
+image: "/graphics/meta/monkey.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
 tags: ["David Hume", "Ego"]
 writer:
@@ -240,7 +240,7 @@ This is different from the current system where the whole shrub grows unchecked 
 You could say that convicts are those shrubs that were neglected by society so as to grow ugly. They are then imprisoned or chopped down (given the death penalty) in order to prevent them from messing up the beautiful society of shrubs which had *better chances*.
 
 
-{{< img src="/photos/econ/farmer.jpg" alt="Planter checking his plants" cap="A lawmaker must guide his citizens regularly, just as a planter must check his plants daily. This prevents society from being dominated by chance and him from being a rent-seeker, by earning his place at the high levels of society" >}}
+{{< img src="/photos/bio/plant.jpg" alt="Planter checking his plants" cap="A lawmaker must guide his citizens regularly, just as a planter must check his plants daily. This prevents society from being dominated by chance and him from being a rent-seeker, by earning his place at the high levels of society" >}}
 
 
 This new system is much more sophisticated as it gets data regularly to plot the behavior of each self. It then matches their pattern acccording to the general moral template or general moral principles. 

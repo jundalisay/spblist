@@ -67,6 +67,7 @@ Positive feelings | feelings from the Positive Force that naturally make us feel
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
 Religion | a belief system that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings)
 Self | The perception of identity by the same perceiver
+Shiva | “witnessing consciousness”
 Slavery | A regular state of control of another's actions that produces pain
 Socratic Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma, to arrive at a solution to a problem
 Soul | the mind when viewed independently of the body

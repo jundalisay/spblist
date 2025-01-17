@@ -1,7 +1,7 @@
 ---
 title: "Life and the Seven Neutral Needs"
 weight: 6
-image: "/photos/med/run.jpg"
+image: "/photos/buy.jpg"
 description: "Your life becomes whatever you focus your attention on."
 author: Consolidated from Bashar
 ---

@@ -2,7 +2,7 @@
 heading: "Chapter 12b"
 title: "The Superphysics Direction"
 date: 2022-01-22
-image: "/photos/psych/binoculars.jpg"
+image: "/photos/psych/hall.jpg"
 description: "Superphysics opens up a new course for the future that is impossible with the current science"
 weight: 72
 writer:

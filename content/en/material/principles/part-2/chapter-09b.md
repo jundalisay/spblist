@@ -3,7 +3,7 @@ heading: "Chapter 9b"
 title: "Radiant-Radiant Relationality"
 date: 2024-12-19
 weight: 43
-image: /graphics/physics/length.jpg
+image: /graphics/physics/light.gif
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: /icons/spmat.png
 writer:

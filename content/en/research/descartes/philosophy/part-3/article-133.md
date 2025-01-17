@@ -39,7 +39,7 @@ Lastly, the tail can sometimes be wider or narrower, straight or curved, and som
 
 #### 134. This Tail Depends a Certain Refraction
 
-The comet's tail is caused by a new type of refraction. I did discuss this in Dioptrics because it is not observed in terrestrial bodies.
+The comet's tail is caused by a new type of refraction. I did not discuss this in Dioptrics because it is not observed in terrestrial bodies.
 
 <!-- celestial  -->
 This refraction arises because air-aether globules are not all equal in size. Instead, they gradually diminish from the sun's territory from Saturn to the Sun itself. 

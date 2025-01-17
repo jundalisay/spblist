@@ -102,7 +102,7 @@ paginate = 12
       sub = "See how we can exist well in it"
     [languages.en.params.tricon1.items.b]
       url = "/superphysics/principles/chapter-04"
-      img = "/photos/idea.jpg"
+      img = "/graphics/meta/ideas.jpg"
       title = "Everything is an Idea"
       sub = "Inside the Mind or Matrix"
     [languages.en.params.tricon1.items.c]
@@ -165,7 +165,7 @@ paginate = 12
       sub = "See the wave-based alternatives to particle-based Western Medicine"
     [languages.en.params.tricon3.items.b]
       url = "/bio/principles/intro/chapter-04/"
-      img= "/photos/psych/schizo.jpg"
+      img= "/photos/meta/selves.jpg"
       title = "You Have 3 Billion Selves"
       sub = "'You' are made up of a changing wave of 'yous'"
     [languages.en.params.tricon3.items.c]
@@ -187,7 +187,7 @@ paginate = 12
       icon = "/icons/spsoc.png"
     [languages.en.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
-      img = "/photos/social/monkey.jpg"
+      img = "/graphics/meta/monkey.jpg"
       title = "A Society is a Metaphysical Organism"
       sub = "Read how ego causes problems"
     [languages.en.params.tricon4.items.b]
@@ -221,7 +221,7 @@ paginate = 12
       sub = "Fellow-Feeling Replaces Selfish-Interest as the foundation of the Economy just as The Theory of Moral Sentiments is the Basis of the Wealth of Nations"
     [languages.en.params.tricon8.items.b]
       url = "/social/economics/principles/intro/chapter-03"
-      img = "/photos/grains.jpg"
+      img = "/photos/buy.jpg"
       title = "The Metaphysics of Value and the Four Laws of Value"
       sub = "We systematize all Economics concepts neatly under the Four Laws which mirror the Four Laws of Thermodynamics"
     [languages.en.params.tricon8.items.c]
@@ -267,7 +267,7 @@ paginate = 12
 
     [languages.en.params.tricon5.items.i]
       url = "/bio/solutions/sound-agriculture"
-      img = "/photos/objects/pechay.jpg"
+      img = "/photos/bio/plant.jpg"
       title = "Bio Superphysics: Athereal Plant Growth"
       sub = "We harvested Brassica Rapa Chinesis in 30 days instead of 40 using the aether. Very useful against food inflation (2023)"
     [languages.en.params.tricon5.items.j]
@@ -299,7 +299,7 @@ paginate = 12
       sub = "We correctly predicted 2020 as the start of the crisis years filled with economic crises and war, as an effect of the Negative Force and Social Cycles, just as the Seven Years War and WWI and WWII had them."
     [languages.en.params.tricon5.items.k]
       url = "https://pantrypoints.com"
-      img= "/photos/econ/bake.jpg"
+      img= "/photos/econ/barter.jpg"
       title = "Social Superphysics: Moneyless System"
       sub = "We have used a moneyless system for our Pantrypoints startup since 2017 and is how we currently sustain Superphysics. It is based on aethereal trust instead of material money and is meant for the Crisis Years."
     [languages.en.params.tricon5.items.m]
@@ -310,7 +310,7 @@ paginate = 12
 
     [languages.en.params.tricon5.items.o]
       url = "https://en.wikipedia.org/wiki/Samadhi"
-      img = "/photos/med/meditate.jpg"
+      img = "/photos/psych/meditate.jpg"
       title = "Superphysics: Personal Samadhi"
       sub = "Testing began in 2004 by dropping Christianity and adopting Asian Spirituality. Samadhi was achieved in 2008, leading to the precursor of Superphysics in 2012"
    [languages.en.params.tricon5.items.n]
@@ -344,7 +344,7 @@ paginate = 12
     #   sub = "Fabrication that uses aether emissions to cut and flatten metals with high precision (year 2060s)"
     [languages.en.params.tricon6.items.b]
       url = "/material/solutions/foundry"
-      img = "/photos/objects/gold.jpg"
+      img = "/photos/objects/gauge.jpg"
       title = "Material Superphysics: Aether-based Foundry and Fabrication"
       sub = "Manufacturing that adds aether emissions to align Descartes' material 'pores' (year 2060s)"
     [languages.en.params.tricon6.items.c]
@@ -354,7 +354,7 @@ paginate = 12
       sub = "A computer made of glass to overcome the limitations of semiconductors (year 2100s)"
     [languages.en.params.tricon6.items.d]
       url = "/material/ufo"
-      img = "/graphics/physics/bob.jpg"
+      img = "/graphics/physics/drone.jpg"
       title = "Material Superphysics: Floating Vehicles via Anti-Gravity"
       sub = "We propose to use Descartes' spacetime vortices to float vehicles following Bob Lazar's design (year 2100s)"
     [languages.en.params.tricon6.items.f]

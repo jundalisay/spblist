@@ -17,11 +17,16 @@ There are first the currents of discharge of a condenser, or of any conductor wh
 
 There are also cases in which the electric charges describe a closed contour, being displaced by conduction in one part of the circuit and by convection in the other part. 
 
-The question might be regarded as solved for open currents of the first kind; they were closed by currents of displacement. For open currents of the second kind the solution appeared still more simple. 
+The question is solved for open currents of the first kind.
+- They were closed by currents of displacement. 
+
+For open currents of the second kind, the solution appeared evem simpler. 
 
 If the current were closed it could only be by the current of convection itself. 
 
-For that purpose it was sufficient to admit that a “convection current”—i.e., a charged conductor in motion—could act on the galvanometer. But experimental confirmation was lacking.
+For that purpose it was sufficient to admit that a “convection current”—i.e., a charged conductor in motion—could act on the galvanometer.
+
+But experimental confirmation was lacking.
 
 It was difficult to obtain a sufficient intensity even by increasing as much as possible the charge and the velocity of the conductors. 
 
