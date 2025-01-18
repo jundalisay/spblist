@@ -5,7 +5,9 @@ art 133-187 for magnetism
 /material/motion Descartes rules of motion
 /material/charges male female
 
-
+  {{ with .Keywords }} 
+  {{ . }}
+{{ end }}
 
 {{ with .Params.date }}
 

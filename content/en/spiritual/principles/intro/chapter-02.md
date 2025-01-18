@@ -136,6 +136,9 @@ Founder | Confucius
 Scripture | Analects, etc
 Organization | Confucian Institute
 
+{{< i s="/covers/conf.jpg" a="Confucius" >}}
+
+
 Political instability was a huge problem during the Warring States Period in China because of the system of Legalism where arbitrary laws were created by the ruling Emperors.
 
 Confucius' solution was to base laws on tradition by emphasizing the ancestors and elders. 

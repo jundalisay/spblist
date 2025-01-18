@@ -21,47 +21,91 @@ The Jews at the time of Moses were torn between two sides:
 
 ## Right-wing Moses
 
-A right-wing leader named Moses emerged and brought them out of Egypt and formed the God Party with its Ten Commandments as its Constitution which was forced onto all 12 Tribes even on the Levites. Commandment 1 is to have no other party or God other than the God Party. This is seen nowadays in single-party Communism.
+A right-wing leader named Moses emerged and brought them out of Egypt and formed the God Party with its Ten Commandments as its Constitution, guided by the Anunnaki Enki.
 
-Leadership of this party led to the dynasty of David. The problem is that there were many superpowers Assyrians, Babylonians, and Romans with rival Idolatry parties which the weak Jews had to ally with, abandoning the God Party. 
+These Commandments were forced onto all 12 Tribes.
 
-The prophets such as Isaiah were right-wing propagandists for the God Party which dictated public policy. He implored the people to vote for the God Party and abandon the Liberal idols. The God Party needed a savior to save them from the larger Roman party, Assyrian party, etc. 
+Commandment 1 is to have no other party or God other than the God Party.
+- This is seen nowadays in single-party Communism.
 
-John the Baptist was such a right-wing propagandist. Jesus comes to him and signs up to the God Party via baptism with the goal of making the God Party the ruling party against the dominant oligarchic-Pharisees-party (money-changers-at-temples) which was a vassal for the Roman party. John gives Jesus the pseudonym Son of God. 
+Leadership of this party led to the dynasty of David.
+
+The problem is that there were many superpowers Assyrians, Babylonians, and Romans with rival Idolatry parties representing the other Anunnaki factions. 
+
+The Enki faction was inferior to the Enlil faction, and so many Jews wanted to abandon the God Party. 
+
+{{< i s="/graphics/history/moses.jpg" a="Moses" >}}
+
+
+The prophets such as Isaiah were right-wing propagandists for the God Party which dictated public policy. He implored the people to vote for the God Party and abandon the Liberal idols. 
+
+The God Party needed a savior to save them from the larger Roman party, Assyrian party, etc. The savior was to come at 0 AD, in line with the 3,600 year Anunnaki cycles. 
+
+John the Baptist was such a right-wing propagandist. Jesus comes to him some years after 0 AD and signs up to the God Party via baptism.
+
+His goal was to make the God Party the ruling party against the dominant oligarchic-Pharisees-party (money-changers-at-temples) which was a vassal for the Roman party which represented the dominant Enlil faction. 
+
+John gives Jesus the pseudonym Son of God. Enki in the Quran later denies that Jesus was his son.
+
+The leadership transfers to Jesus via 'transfiguration'.
 
 
 ## Left-wing Jesus
 
-After John dies, the resources of the God Party transfer to Jesus who chooses popular left-wing policies to gain followers. He miraculously feeds 5,000 people (dole-outs), changes water to wine, and heals the sick (free healthcare)
+After John dies, the resources of the God Party transfer to Jesus so that he can get more followers through popular left-wing policies.
 
-The leadership transfers to Jesus via 'transfiguration'. 
+These resources allow him to 'miraculously':
+- feed 5,000 people (dole-outs)
+- change water to wine
+- heal the sick (free healthcare)
 
-With his resources and leadership secured, he enters Jerusalem and publicly debates and shames the ruling Pharisees-party and employs fear-tactics as the Second Coming of the God Party as its Restoration.
+ <!-- who chooses  to gain followers. He -->
 
-After securing public opinion, Jesus plans a coup by asking Judas to 'arrest' him so that he could have a meeting with Herod (leader of the Pro-Rome party) and Pilate (a jurist for Rome) to overthrow Caiaphas (the leader of the Pharisees-party) on the spot. After spending time in the Pharisees headquarters, Judas realizes that Jesus' plan is doomed from the beginning and kills himself. 
+With his resources and leadership secured, he enters Jerusalem to:
+- publicly debate and shame the ruling Pharisees-party
+- employ fear-tactics as the Second Coming of the God Party as its Restoration
 
-Jesus talks to Pilate and Herod. He gets both of them to agree with him as planned, but the Pharisees use their trump card -- their connection with the Emperor who is the boss of Herod and Pilate. This totally turns the tables against Jesus and the God Party: 
+After securing public opinion, Jesus planmed a coup by asking Judas to 'arrest' him so that he could have a meeting with:
+- Herod, the leader of the Pro-Rome party
+- Pilate, a jurist for Rome
 
-{{< q >}}
+His goal was to get their support to overthrow Caiaphas, the leader of the Pharisees-party, on the spot.
+
+So Judas goes to the Pharisees headquarters where he realizes that Jesus' plan was doomed from the beginning because both Herod and Pilate were on the payroll of Caiaphas.
+
+Unable to change the course of events, Judas kills himself. 
+
+Jesus talks to Pilate and Herod and gets both of them to agree with his plan.
+
+However, the Pharisees use their trump card -- their connection with the Emperor who is the boss of Herod and Pilate. This totally turns the tables against Jesus and the God Party: 
+
+{{< q a="People" c="John 19:12" >}}
 If you set him free then you are not the Emperor's friend! The only king is the Emperor!
-<cite>John 19:12</cite>
 {{< /q >}}
 
+From that point, the Jesus-plan goes downhill. 
 
-From that point, the Jesus-plan goes downhill. Jesus quits, and his branch of the God Party becomes reduced into a mere propaganda movement under Paul who lobbies the Roman provinces (Letters to the Romans) for better policies towards the Jews. The leadership of the God Party transfers to the Jewish Revolution. 
+Jesus quits, and his branch of the God Party becomes reduced into a mere propaganda movement under Paul who lobbies the Roman provinces (Letters to the Romans) for better policies towards the Jews.
+
+The leadership of the God Party transfers to the Jewish Revolution. 
 
 
 ## Right-wing Islam
 
-In the end, it was another right-wing party called Islam** and its leader **Prophet Mohammad** that freed the Jews from the Roman Party (Byzantines). He bashes the Jewish leaders for not getting the God-politics right. He:
+In the end, it was another right-wing party called Islam** and its leader **Prophet Mohammad** that freed the Jews from the Roman Party (Byzantines).
+
+He bashes the Jewish leaders for not getting the God-politics right. He:
 - rebrands 'God' as 'Allah'
 - creates a whole system of laws called Shariah
 
 If the Torah is Judaism 1.0 and Christianity is Judaism 2.0, then Islam is Judaism 3.0 which is actually successful even to this day.
 
-The main difference is that Jesus used left-wing tools such as mass gatherings and social amelioration (healing, free food and wine) to get his popular base, while the Prophet Mohammad used military conquest, taxation (jizya zakat), and jurisprudence, which are traditional right-wing tools. 
+The main difference is that"
+- Jesus used left-wing tools such as mass gatherings and social amelioration (healing, free food and wine) to get his popular base
+- the Prophet Mohammad used military conquest, taxation (jizya zakat), and jurisprudence, which are traditional right-wing tools
 
-Jesus was correct to employ the popular strategy to defeat the Pharisee-oligarchs because populists naturally defeat oligarchs. But the Pharisees tapped the Emperor, as the biggest militant (tyrant) in the world, which naturally defeated Jesus (since militant-tyrants naturally defeat populist-democrats). 
+Jesus was correct to employ the popular strategy to defeat the Pharisee-oligarchs. This is because populists naturally defeat oligarchs. 
+- But the Pharisees tapped the Emperor, as the biggest militant (tyrant) in the world, which naturally defeated Jesus (since militant-tyrants naturally defeat populist-democrats). 
 
 
 ## A Possible Solution

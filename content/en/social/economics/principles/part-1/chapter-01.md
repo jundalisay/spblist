@@ -39,9 +39,17 @@ A purchaser assigns a nominal value to any good or service that he needs or want
 
 This value can be denoted in 3 forms:
 
-1. Money as number-objects - Exammples are currency and crytocurrency
-2. Moneyless Tangible - Examples are goods and services themselves
-3. Moneyless Intangible - Examples are goodwill, reputation, mental satisfaction or peace of mind
+1. Money as number-objects
+
+Examples are currency and crytocurrency
+
+2. Moneyless Tangible
+
+Examples are goods and services themselves
+
+3. Moneyless Intangible
+
+Examples are goodwill, reputation, mental satisfaction or peace of mind
 
 
 **Nominal price** is exchangeable value denoted as a numerical object.
@@ -56,7 +64,10 @@ In the previous chapter, we gave an example of Adam wanting to buy a cake for hi
 - the practice of giving a cake during birthdays
 - the cake's usefulness to his wife
 
-This worth then forms its exchangeable value. Let uus assume that it is $20.  
+This worth then forms its exchangeable value. Let us assume that it is $20.  
+
+{{< img src="/photos/objects/cake.jpg" alt="Cake slice" >}}
+
 
 This exchangeable value is thus the numerical version or **"nominal price"** of his abstract desire for the cake. This represents the amount of money, goods, or services that Adam is willing to give for the cake.
 - The more he desires the cake, the higher its nominal price will be

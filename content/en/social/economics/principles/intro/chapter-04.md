@@ -35,13 +35,14 @@ Initially, this satisfaction increases with every additional item bought. But in
 
 If you get more, then it might cause dissatisfaction, which is negative satifaction. Just before that point, the utility that you get is "marginal". This feeling tells you to stop buying.
 
-This system of marginal utility requires the quantification of pleasure or utility.
+This system of marginal utility requires **the quantification of pleasure or utility**.
+- This is then ‘maximized’ as ‘profit maximization’ in Economics. 
 
-This is then ‘maximized’ as ‘profit maximization’ in Economics. 
+The problem is that, in the physical domain, objects are finite. **So a maximization of objects in one area will lead to a minimization in another**. 
+- **This minimization leads to poverty and inequality.** 
 
-The problem is that, in the physical domain, objects are finite. So a maximization of objects in one area will lead to a minimization in another. This minimization leads to poverty and inequality. 
-
-When the maximization is done unnaturally, such as through speculation, then the fake maximization will be exposed for its true value which is not so high. This manifests as economic crashes. 
+When the maximization is done unnaturally, such as through speculation, the fake maximization will be exposed for its true value which is not so high. 
+- **This leads to as economic crashes.** 
 
 **Supereconomics disregards marginal utility because utility is subjective.** 
 

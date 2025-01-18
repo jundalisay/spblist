@@ -1,7 +1,7 @@
 ---
 title: Preface
 description: "We list the principles of Economic Superphysics that will lead to solutions"
-image: "/covers/principles.png"	
+image: "/photos/psych/freedom.jpg"	
 linkTitle: Principles
 description: Textbook of Economic Superphysics
 image: /covers/econsp.jpg

@@ -18,13 +18,13 @@ People think that the soul receives its passions in the heart.
 
 In reality, the passions cause some alteration to be felt there. 
 
-This alteration is felt in the heart only through the mediation of a small nerve that descends from the brain to the heart.
+This alteration is felt in the heart only through the mediation of a small [vagus] nerve that descends from the brain to the heart.
 
 This is similar to how:
 - pain is felt in the foot through the mediation of the nerves of the foot,
 - stars are perceived in the sky through the mediation of their light and the optic nerves.
 
-Therefore, it is no more necessary for our soul to exercise its functions immediately in the heart to feel its passions than it is for it to be in the sky to see the stars.
+<!-- Therefore, it is no more necessary for our soul to exercise its functions immediately in the heart to feel its passions than it is for it to be in the sky to see the stars. -->
 
 
 ### 34. How the Soul and the Body Act on Each Other

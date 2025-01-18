@@ -15,9 +15,10 @@ writer:
 {{< dc t="Principles" >}}
 Principles | Assertions
 --- | ---
-There are different kinds of value just as there are different domains and metaphysical strata | 
+Value has a personal and societal perspective | The personal is use value. The societal is exchangeable value.
 {{< /dc >}}
 
+<!-- There are different kinds of value just as there are different domains and metaphysical strata -->
 
 
 The previous chapter explained that value is totally subjective and ultimately based on one's desires. 

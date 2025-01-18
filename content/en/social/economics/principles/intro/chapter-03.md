@@ -53,7 +53,7 @@ For example, the economic value of a bridge is more abstract than its cost-price
 - Its cost price is a specific number such as $100m, paid in 2010. This is exact down to cents, if the accountant is diligent enough. 
 
 
-### Desire
+### The 'Heat' or Thermodynamics of Desire
 
 **Value thus has the same dynamics as inexact fluctuating waves, while price has the dynamics of exact fixed particles.** Value is more fundamental* than prices just as waves are more fundamental than particles. 
 
@@ -95,7 +95,7 @@ Thus:
 
 The Celsius degrees in thermodynamics then manifest as currency prices in Supereconomics. This lets us fit all the principles of Supereconomics elegantly under the four headings of the 4 Laws of Value. 
 
-{{< i s="/graphics/econ/laws.jpg" a="Laws of Value" >}}
+{{< i s="/graphics/econ/laws.png" a="Laws of Value" >}}
 
 
 This classification is different from the messy* organization of Economics as micro-macro-economics, behavioral, political economy, development economics, etc.

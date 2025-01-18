@@ -3,7 +3,7 @@ heading: "Chapter 6b"
 title: "The Circulation of Demand and Supply"
 date: 2021-12-24
 weight: 40
-image: /covers/econsp.jpg
+image: /graphics/econ/circular.png
 description: ""
 writer:
   name: Juan

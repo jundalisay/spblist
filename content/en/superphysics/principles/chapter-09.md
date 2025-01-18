@@ -49,7 +49,7 @@ Thus, an experiencer has 2 parts:
 - mind as the container for experiences
 - consciousness as the perceiver of that container
 
-{{< img src="https://sorasystem.sirv.com/photos/audience.jpg" alt="A show" cap="The mind is the stage where perceptions and thoughts get processed and exoperienced by consciousness" >}}
+{{< i s="/photos/social/audience.jpg" a="A show" c="The mind is the stage where perceptions and thoughts get processed and exoperienced by consciousness" >}}
 
 
 ## Metaphysical Mind, Physical Mind

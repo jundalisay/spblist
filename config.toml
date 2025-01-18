@@ -349,7 +349,7 @@ paginate = 12
       sub = "Manufacturing that adds aether emissions to align Descartes' material 'pores' (year 2060s)"
     [languages.en.params.tricon6.items.c]
       url = "/material/solutions/crystal-computers/"
-      img= "/graphics/physics/eye.jpg"
+      img= "/graphics/physics/solareye.jpg"
       title = "Material Superphysics: Crystal Computers"
       sub = "A computer made of glass to overcome the limitations of semiconductors (year 2100s)"
     [languages.en.params.tricon6.items.d]

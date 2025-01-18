@@ -145,40 +145,41 @@ Socratic Conservative | the Aristocrat caste made up of philosophers, scientists
 Socratic Neoliberal | the Oligarch caste made up of merchants and businessmen. Thhis manifests as Big Business, Speculators, Gamblers, Investors
 
 
-## Supereconomics Revenue
-
-Word | Meaning
---- | ---
-Rent | Regular Arbitrary Revenue, from the Lack of Land
-Wage | Regular Revenue to Live, from the Abundance Experienced by Employers
-Profit | Irregular Revenue from the lack experienced by others
-Donation | Irregular Revenue from the abundance experienced by others 
-
----
-
 ## Supereconomics
 
+<!-- Commerce | the exchange using money -->
+
 Word | Meaning
 --- | ---
-Commerce | the exchange using money
+Barter Trading | a regular barter-exchange activity
+Barter | a purchase done by exchanging goods or services. A barter transaction thus has 2 purchasers or traders
+Buyer | The giver of the money in a buying transaction. Since he receives goods and services, he is also called a purchaser.
+Buying | a purchase that offers money
+Commerce | a regular buying-selling activity
 Commercialization | the shifting of an economy or trade into objective money-based transactions, as opposed to barter to arbitrary exchanges
 Commodity | a raw material or not-so-processed good for sale 
+Donation | Irregular Revenue from the abundance experienced by others 
 Effort Theory of Value | the pegging of economic value into points represented by grains
 Goods | anything that is for sale and occupies a specific spacetime 
 Interest Rate | The revenue in lending that is determined by the demand and credit-worthiness of the borrowers and the availability of the lenders
 Monetization | the conversion of goods and services into money
-Pantrypoints system | the use of Pantries or Hubs as the store of resources
-Pantrypoints Pantry | a permanent or temporary repository of resources. Examples are stalls in a marketplace, a business address, or a person with a bag 
 Pantrypoints Hub | a large pantry that connects to smaller pantries
-Supereconomics | the study of management of resources in a decentralized Pantrypoints system
+Pantrypoints Pantry | a permanent or temporary repository of resources. Examples are stalls in a marketplace, a business address, or a person with a bag 
+Pantrypoints system | the use of Pantries or Hubs as the store of resources
 Pointarism | the exchange using points
 Pointary | the adjective referring to pointarism
 Pointism | the obsession with points
 Pointization | the conversion of goods and services into points 
 Products | a good that is processed and is for sale
+Profit | Irregular Revenue from the lack experienced by others
+Purchase | the acquisition of something by exchange.
+Rent | Regular Arbitrary Revenue, from the Lack of Land
+Selling | the act of giving goods or services by getting money in return. The giver is called the “seller”, the getter is the “buyer”.
 Service | anything that is for sale but does not occupy a specific spacetime 
+Supereconomics | the study of management of resources in a decentralized Pantrypoints system
+Trading | a regular exchange activity
+Wage | Regular Revenue to Live, from the Abundance Experienced by Employers
 Wealth | the actual quality and quantity of useful goods and services
-
 
 
 ## Bio Superphysics

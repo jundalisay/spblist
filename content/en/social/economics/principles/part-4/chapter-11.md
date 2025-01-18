@@ -4,7 +4,7 @@ title: "Neoclassical Economics"
 # date: 2022-03-27
 date: 2021-12-17
 weight: 66
-image: /covers/econsp.jpg
+image: /covers/keynes.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
 writer:
   name: Juan

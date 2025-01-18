@@ -3,7 +3,7 @@ heading: "Chapter 4c"
 linkTitle: Chapter 4c
 title: "The Four Kinds of Exchangeable Value from Relativistic Pricing"
 # date: 2022-03-26
-image: /graphics/econ/laws.jpg
+image: /graphics/econ/laws.png
 weight: 15
 description: "The previous part explained that exchangeable value has different perspectives and scopes"
 writer:

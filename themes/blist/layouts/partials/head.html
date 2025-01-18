@@ -50,13 +50,15 @@
   
   {{ template "_internal/opengraph.html" . }}
 
+
+
 {{- with .Params.Image -}}
 <meta property="og:image" content="{{ . | absURL }}"/>
 {{- end -}}
 
   {{ template "_internal/twitter_cards.html" . }}
-  {{ template "_internal/schema.html" . }}
 
+  {{ template "_internal/schema.html" . }}
 
 
   {{ if gt (len .Site.Languages) 1}}

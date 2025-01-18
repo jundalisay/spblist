@@ -59,7 +59,9 @@ We can say that:
 {{< n n="*This is fully explained in [the Metaphysics of Prices](/social/economics/principles/intro/chapter-03/)" >}}
 
 
-Sometimes you want a thing, sometimes you don't. But normally, the number of your desires increase through time. This is unless you are going towards the end of your life, when the energy to achieve desires naturally wane. In a society, this collective desire-waning manifests as chronic deflation, as seen in Japan which has a declining population.
+Sometimes you want a thing, sometimes you don't. But normally, the number of your desires increase through time. This is unless you are going towards the end of your life, when the energy to achieve desires naturally wane. 
+
+In a society, this collective desire-waning manifests as chronic deflation, as seen in Japan which has a declining population.
 
 However, since the 2008 financial crisis, the global economy has not risen as fast as before even if the global population has kept on increasing.
 
@@ -81,13 +83,17 @@ This means that **the collective desire of humans has not risen**. This contradi
 
 Therefore, there must be something artificial that is hindering the natural desires of humans. 
 
-We can expect an unnatural suppression of desire in authoritarian countries like North Korea or Cuba. But the rest of the world is supposed be democratic. So what is unnaturally causing low economic growth globally?
+We can expect an unnatural suppression of desire in authoritarian countries like North Korea or Cuba. But the rest of the world is supposed be democratic. 
+
+So what is unnaturally causing low economic growth globally?
 
 
 
 ## The Ideas from Neoclassical Economics are Blocking The Natural Wave
 
-The Marginal Revolution overturned Classical Economics (which Supereconomics is reviving), and introduced ideas that led to the following corrupted concepts from Neoclassical Economics:
+The Marginal Revolution overturned Classical Economics (which Supereconomics is reviving).
+
+It introduced ideas that led to the following corrupted concepts that became the basis of the Neoclassical Economics that replaced the Classical:
 
 - [Profit Maximization](/social/economics/fallacies/profit-maximization-is-absurd) and [Equity Trading](/social/economics/principles/part-3/chapter-11b/) in Microeconomics
 - [Liquidity Preference](/research/keynes/general-theory/chapter-02) in Macroeconomics
@@ -106,9 +112,13 @@ Stock trading and stock markets | Stock crashes
 Institutions such as Bretton Woods | Debt Crises
 
 
-Even if an entrepreneur wants to borrow money to create a new product that satisfies the emerging needs of the people, he is subject to interest rates that is decreed by financial authorities. 
+An entrepreneur who wants to borrow money to create a new product would need to be subject to the interest rates decreed by financial authorities. 
 
-Before the invention of open-market operations, interest rates were decided by the actual market. Each bank would have a different interest rate depending on its capital stock and the repayments of its borrowers. 
+Before the invention of open-market operations, interest rates were decided by the actual market.
+
+Each bank would have a different interest rate depending on:
+- its capital stock and
+- the repayments of its borrowers
 
 For example, Adam Smith cites the [Ayr Bank](https://www.superphysics.org/research/smith/wealth-of-nations/book-2/chapter-2i/) which lent at a low 5% interest when the prevailing rate was 6-8%. This caused businessmen to flock to it, causing the [1772 credit crunch](https://www.superhysics.org/social/economics/1772-credit-crunch/)*. 
 
@@ -126,7 +136,9 @@ For example:
 - the South Sea Bubble led to the crisis for private investors only
 
 
-This is different nowadays when whole countries get dragged down by some isolated action such as the peddling of collateralized debt obligations by a few bankers. But in the 18th century, the national economy was affected by wars, such as the Seven Years' War, and not by bankers. 
+This is different nowadays when whole countries get dragged down by some isolated action such as the peddling of collateralized debt obligations by a few bankers. 
+
+In the 18th century, national economies were affected by wars, such as the Seven Years' War, and not by bankers. 
 
 
 ## So How Do We Get Rid of the Bad Ideas from Neoclassical Economics?
