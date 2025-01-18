@@ -22,6 +22,9 @@ The Relativity of Einstein is totally debunked by the reality of non-magnetic le
 - zipping UFOs that produce no sonic boom because they **insert** themselves into the air mass, instead of crashing through
 
 
+{{< youtube _Puf9huY-NI >}}
+
+
 This is done through "atom-shaking" which aligns atoms, by changing their state, to allow qosts (virtual spacetime particles called 2nd Element in Cartesian Physics) to pass through.  
 
 Since gravity is caused by the qosts/2nd Element, then letting them pass through reduces their gravitational push-force on the body. 
