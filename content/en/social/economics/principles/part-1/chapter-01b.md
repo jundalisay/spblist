@@ -14,28 +14,42 @@ icon: /icons/pantry.png
 ---
 
 
+### The Doctrine of Utility
 
 The core flaw of Economics, which is also the source of the unsustainability of "economic" systems, is that it focuses on utility or pleasure from external objects as their ultimate goals. 
 
 According to Adam Smith, this is wrong because utility is merely the effect of existence and is part of the deception of Nature (which in Eastern Philosophy is called Maya).
 
-{{< q a="Adam-Smith" >}}
-It is this deception which rouses and keeps in continual motion the industry of mankind. It is this which first prompted them to cultivate the ground, to build houses, to found cities and commonwealths, and to invent and improve all the sciences and arts, which ennoble and embellish human life.
-<cite>Theory Of Moral Sentiments, Part 4</cite>
+{{< q a="Adam-Smith" c="Theory Of Moral Sentiments, Part 4" >}}
+It is this deception which rouses and keeps in continual motion the industry of mankind.
 {{< /q >}}
+
+<!-- It is this which first prompted them to cultivate the ground, to build houses, to found cities and commonwealths, and to invent and improve all the sciences and arts, which ennoble and embellish human life. -->
 
 Materialists and selfish people usually point to the statement above to justify that Smith approves of utility and the profit motive, conveniently avoiding his other statements that are against utility:
 
-{{< q a="Adam-Smith" >}}
-Power and riches appear then to be, what they are, enormous and operose machines contrived to produce a few trifling conveniencies to the body..ready every moment to burst into pieces, and tocrush in their ruins their unfortunate possessor.. But still I affirm, that it is not this utility which is the principal source of our approbation.. It seems impossible that we would approve of virtue in the same way we approve of a well-made building.. It is to be observed, that so far as the sentiment of approbation arises from the beauty of utility, it hasno reference to the sentiments of others.
-<cite>Theory Of Moral Sentiments, Part 4</cite>
+{{< q a="Adam-Smith" c="Theory Of Moral Sentiments, Part 4" >}}
+Power and riches.. are enormous machines that produce a few trifling conveniencies to the body..ready every moment to burst into pieces and crush their unfortunate possessor.. But it is not this utility which is the principal source of our approbation.. It seems impossible that we would approve of virtue in the same way we approve of a well-made building.. **The sentiment of approbation that arises from the beauty of utility has no reference to the sentiments of others**.
 {{< /q >}}
 
+> The sentiment of approbation that arises from the beauty of utility has no reference to the sentiments of others
 
-{{< img src="/graphics/econ/maslow.jpg" alt="Abraham Maslow hierarchy of needs" cap="Maslow's 'hierarchy of needs' gives more emphasis to utility by starting in the lower material layer and then moving up to the higher needs. It uses the bodily needs to make a path towards self-actualization" >}}
+In other words, utility is only morally good for the self. 
+
+You might be very hungry and want to eat at an Indian restaurant, but your partner, also very hungry, might want to eat at a Korean restaurant. 
+- If we really wanted to maximize our utility, then we would eat separately.
+- But if we want to maximize our love, then one of us will sacrifice utility for that of the other.  
+
+According to Adam Smith, we should have fellow-feeling and address the needs of others.
+- But according to Maslow's hierarchy of needs, we should eat separately. 
+
+{{< img src="/graphics/econ/maslow.jpg" alt="Abraham Maslow hierarchy of needs" cap="Maslow's 'hierarchy of needs' gives more emphasis to utility by starting in the lower material layer and then moving up to the higher needs" >}}
+
+<!-- It uses the bodily needs to make a path towards self-actualization -->
+
+<!-- The dominance of the material sensations is proven in Abraham Maslow's artificial hierarchy of needs. It says that physical physiological and safety needs have more scope and more primary importance than the metaphysical needs of belonging, esteem, and self-actualization.  -->
 
 
-The dominance of the material sensations is proven in Abraham Maslow's artificial hierarchy of needs. It says that physical physiological and safety needs have more scope and more primary importance than the metaphysical needs of belonging, esteem, and self-actualization. 
 
 {{< q a="Maslow" >}}
 These physiological needs are the most pre-potent of all needs. In the human being who is missing everything in life in an extreme fashion, it is most likely that the major motivation would be the physiological needs rather than any others.

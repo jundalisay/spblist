@@ -37,68 +37,86 @@ Cannon (2) has described this process for:
 - (8) constant hydrogen-ion level (acid-base balance)
 - (9) constant temperature of the blood. 
 
-Obviously, this list can be extended to include other minerals, the hormones, vitamins, etc.
+<!-- Obviously, this list can be extended to include other minerals, the hormones, vitamins, etc.
 
-Young in a recent article (21) has summarized the work on appetite in its relation to body needs. If the body lacks some chemical, the individual will tend to develop a specific appetite or partial hunger for that food element.
+Young in a recent article (21) has summarized the work on appetite in its relation to body needs.  -->
 
-Thus it is impossible and useless to make a list of fundamental physiological needs. This is because they can be in any number. 
+If the body lacks some chemical, the individual will have a hunger for that food element.
+
+<!-- Thus it is impossible and useless to make a list of fundamental physiological needs. This is because they can be in any number.  -->
 
  <!-- for they can come to almost any number one might wish, depending on the degree of specificity of description.  -->
 
-We can not identify all physiological needs as homeostatic. 
+<!-- We can not identify all physiological needs as homeostatic.  -->
 
 It has not yet been demonstrated whether sexual desire, sleepiness, sheer activity and maternal behavior in animals, are homeostatic.*
 
 {{< n n="This has already been sorted out by the 10 vayus in the body in Hinduism" >}}
 
 
-This list would not include the various sensory pleasures (tastes, smells, tickling, stroking) which are probably physiological and which may become the goals of motivated behavior.
+<!-- This list would not include the various sensory pleasures (tastes, smells, tickling, stroking) which are probably physiological and which may become the goals of motivated behavior. -->
 
 
 A previous paper pointed out that these physiological needs are unusual rather than typical. This is because:
 - they are isolable
 - they are localizable somatically. 
 
-They are relatively independent of each other, of other motivations and of the organism as a whole,
+They are relatively independent of each other, of other motivations and of the organism as a whole.
 
 In many cases, it is possible to demonstrate a localized, underlying somatic base for the drive. 
 
-This is true less generally than has been thought (exceptions are fatigue, sleepiness, maternal responses) but it is still true in the classic instances of hunger, sex, and thirst.
+This is true in the classic instances of hunger, sex, and thirst.
 
-Any of the physiological needs and the consummatory behavior involved with them serve as channels for all sorts of other needs as well. 
+<!-- This is true less generally than has been thought (exceptions are fatigue, sleepiness, maternal responses) but it is still  -->
 
-The person who thinks he is hungry may actually be seeking more for comfort, or dependence, than for vitamins or proteins.*
+Any of the physiological needs and the consummatory behavior involved serve as channels for other needs. 
+
+The person who thinks he is hungry might actually be seeking more for comfort, or dependence, than for vitamins or proteins.*
 
 {{< n n="Again, this has already been sorted out by Cartesian Physics and by Taoism and Chinese Medicine" >}}
 
 
-Conversely, it is possible to satisfy the hunger need in part by other activities such as drinking water or smoking cigarettes. 
+Conversely, it is possible to satisfy hunger by other activities such as:
+- drinking water or
+- smoking cigarettes. 
 
-In other words, relatively isolable as these physiological needs are, they are not completely so.
+In other words, these physiological needs are relatively isolable but not completely.
 
 **These physiological needs are the most pre-potent of all needs.** 
 
-In the human being who is missing everything in life in an extreme fashion, it is most likely that the major motivation would be the physiological needs rather than any others.
+In a human who is lacking everything, his major motivation would most likely be the physiological needs.
+- A person who is lacking food, safety, love, and esteem would most probably hunger for food more strongly than for anything else.
+- The person is then called hungry because his consciousness is almost completely preempted by hunger. 
+<!-- If all the needs are unsatisfied, and the organism is then dominated by the physiological needs, all other needs may become simply non-existent or be pushed into the background.  -->
 
-A person who is lacking food, safety, love, and esteem would most probably hunger for food more strongly than for anything else.
+<!-- All capacities are put into the service of hunger-satisfaction, and the organization of these capacities is almost entirely determined by the one purpose of satisfying hunger. 
 
-If all the needs are unsatisfied, and the organism is then dominated by the physiological needs, all other needs may become simply non-existent or be pushed into the background. 
+The receptors and effectors, the intelligence, memory, habits, all may now be defined simply as hunger-gratifying tools.  -->
 
-It is then fair to characterize the whole organism by saying simply that it is hungry, for consciousness is almost completely preempted by hunger. 
+Capacities that are not useful for appeasing hunger:
+- lie dormant, or
+- are pushed into the background. 
 
-All capacities are put into the service of hunger-satisfaction, and the organization of these capacities is almost entirely determined by the one purpose of satisfying hunger. 
+The following become forgotten or of secondary importance:
+- the urge to write poetry
+- the desire to acquire an automobile
+- the interest in American history
+<!-- - the desire for a new pair of shoes -->
 
-The receptors and effectors, the intelligence, memory, habits, all may now be defined simply as hunger-gratifying tools. 
+<!-- The man who is extremely and dangerously hungry, no other interests exist but food. 
 
-Capacities that are not useful for this purpose lie dormant, or are pushed into the background. The urge to write poetry, the desire to acquire an automobile, the interest in American history, the desire for a new pair of shoes are, in the extreme case, forgotten or become of secondary importance. 
+He dreams food, he remembers food, he thinks about food, he emotes only about food, he perceives only food and he wants only food. The more subtle determinants that ordinarily fuse with the physiological drives in organizing even feeding, drinking or sexual behavior, may now be so completely overwhelmed as to allow us to speak at this time (but only at this time) of pure hunger drive and behavior, with the one unqualified aim of relief. -->
 
-The man who is extremely and dangerously hungry, no other interests exist but food. 
 
-He dreams food, he remembers food, he thinks about food, he emotes only about food, he perceives only food and he wants only food. The more subtle determinants that ordinarily fuse with the physiological drives in organizing even feeding, drinking or sexual behavior, may now be so completely overwhelmed as to allow us to speak at this time (but only at this time) of pure hunger drive and behavior, with the one unqualified aim of relief.
+Another peculiar characteristic of humans when dominated by a need is that the whole philosophy of the future tends also to change.
 
-Another peculiar characteristic of the human organism when it is dominated by a certain need is that the whole philosophy of the future tends also to change. For our chronically and extremely hungry man, Utopia can be defined very simply as a place where there is plenty of food. 
+Our chronically and extremely hungry man would define Utopia as a place where there is plenty of food. 
 
-He tends to think that, if only he is guaranteed food for the rest of his life, he will be perfectly happy and will never want anything more. Life itself tends to be defined in terms of eating. Anything else will be defined as unimportant. Freedom, love, community feeling, respect, philosophy, may all be waved aside as fripperies which are useless since they fail to fill the stomach. Such a man may fairly be said to live by bread alone.
+<!-- He tends to think that, if only he is guaranteed food for the rest of his life, he will be perfectly happy and will never want anything more. Life itself tends to be defined in terms of eating. Anything else will be defined as unimportant.  -->
+
+Freedom, love, community feeling, respect, philosophy, may all be waved aside.
+
+ <!-- as fripperies which are useless since they fail to fill the stomach. Such a man may fairly be said to live by bread alone. -->
 
 <!-- It cannot possibly be denied that such things are true but  -->
 

@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 3f"
-title: "Reverse Gravity: Van Der Waals Force"
+heading: "Chapter 3e"
+title: "Material Gravity: Gravitational Constant"
 date: 2024-12-11
-weight: 18
-image: /graphics/physics/vander.jpg
+weight: 17
+image: /graphics/physics/grav.jpg
 description: "Newton's Universal Law is based on the idea that the force of gravity comes from matter"
 writer:
   name: Juan
@@ -13,77 +13,60 @@ icon: /icons/spmat.png
 
 
 
-The previous section explained that material gravity comes from the high pressure that arises from low pressure.
+The materialist Physics of Newton and Democritus believes that gravity comes from matter.
 
-We are pushed down to earth because the Earth displaces space particles. 
+On the contrary, Material Superphysics, which is based on the Physics of Descartes and Plato, believes that all forces come from outside of bodies or matter. This is the non-materialist paradigm. 
 
-Most of these are just above its surface, diminishing the farther you go up and away from the surface. As a result, gravity is weaker as you go up
+Space is filled with qosts that become mosts whenever matter occupies a space and displaces the qosts. 
+- These mosts constantly stream out of that matter in straight lines, creating a gravitational territory which Physics calls a gravitational field. 
 
+An analogy is a ball that displaces the sand, with the most sand being at its surface. 
 
 {{< i s="/graphics/physics/gravityarea.jpg" a="Gravity Territory or Area" >}}
 
-
-So below you is low pressure space. This creates a high pressure space above you that then pushes you down. 
-
-We can call this as the material gravity of the Earth or a downward gravity. 
+The bigger and denser the matter, the more space particles are displaced, the larger and stronger the field.
 
 
-### Reverse Gravity
+When 2 fields meet, they create a channel that lets the displaced space particles stream easier. This creates a low space-pressure area between the bodies, and a high pressure one behind them. 
 
-This mechanism can also be used in reverse by making an object stick upwards or sideways and defy downward gravity, as reverse gravity. 
-
-This is done by reducing the pressure between 2 surfaces by eliminating or reducing the flow of the space particles between them. 
-
-There are 2 easy examples of this:
+The high pressure behind the bodies pushes them together and is the cause of the gravity. 
 
 
-1. Gauge Blocks
+{{< youtube 7o5cXV7tDVA >}}
 
-Gauge Blocks are rectangular blocks that are perfectly smooth. Two blocks together thus can have no space between them. 
+Newton thought that the low pressure was a pulling force. Einstein thought it was space warping. 
 
-This creates a zero pressure between them and a high pressure outside, which then pushes them together. 
+In fluid mechanics, this is known as the Bernoulli principle, from Daniel and Johann Bernoulli who were devoted Cartesians and anti-Newtonians.
 
-Rather than call this as a vacuum force, it would be better to call it a pushing force, just to be consistent and simple.
+This high-low pressure mechanism is the same for magnetism wherein magnets have channels that reduce the pressure for virtual photons, creating a high pressure magnetic field outside. 
 
-The center area formed by the 2 blocks must be either straight or wider at the center. In this way, this external space-pressure can converge on the center of gravity.
+{{< i s="/graphics/physics/grav.jpg" a="Gravity Pressure" >}}
 
-{{< i s="/graphics/physics/vander.jpg" a="Space particles" >}}
+We convert Newton's Universal Law into Cartesian by renaming `G` as the volume of space particles displaced per unit of matter. 
 
+```
+F = G (m1 m2)/r^2
+```
 
-2. Gecko Feet: Van Der Waals force
+We keep `m` as the amount of matter, as the Material Layer.
 
-According to Physics, geckos stay on the ceiling because of a "Van Der Waals force", an intermolecular binding force, that binds their feet to the ceiling and counteracts gravity
+This means that `F` is the volume of displaced space particles, as the low pressure that causes the high pressure.
 
-This Van Der Waals force uses charge-based binding between molecules and are therefore electromagnetic. 
+Newton's Universal law thus translates to: "The force of gravity between the 2 soms are based on the most volume that go between them."
 
-However, this same force does not seem apply to gauge blocks that stick to each other without electromagnetism.
+Variable | Newtonian | Superphysics
+--- | --- | --- 
+F | Force of Gravity | Force of mosts
+G | Gravitational Constant | most volume from matter
+g | Earth gravity | mosts from the Earth's surface  
+m | mass | som volume
 
-So we refute the fundamental mechanism of the Van Der Waals force. We instead apply the same mechanism for gauge blocks. 
+The `g` of earth is different from the `g` of Jupiter because their som and qosts are different.
 
-<!--  Instead, the mechanism is said to be intermolecular binding, without any explanation
+From this we can see how material gravity is from space wanting to reduce the displacements and keep everything neat and flat. 
 
-Cartesian Physics explains that the mechanism for both are exactly the same -- the presence or absense of spacetime particles flowing between 2 surfaces
-
-This is the same mechanism for gravity
-
-This is because in Cartesian Physics, gravity is the pushing force of high pressure space particles onto low pressure -->
-
-
-A gecko's feet has tiny flexible hairs called spatulae. These can conform to the roughness of the surface by filling in all the empty space. 
-- This is similar to fine-grained sand being able to fill a bottle and eliminate all space
-
-
-The "Hamaker constant" A used in Van Der Waals force is therefore the same as Newton's G, mentioned in the previous section. 
-
-The difference is that:
-- Newton's G is the volume of space particles displaced by a body. This has a macro perspective.
-- The Hamaker constant is the volume of space particles flowing between surfaces. This has a quantum perspective.
+<!-- youtube C7ipQX4YptA >}} -->
 
 
-Since G is a constant, then there is a limited weight that reverse gravity can keep up.
 
-This also means that the Van Der Waals force is part of the matter-space family of forces like gravity, friction, and surface tension
-
-This is opposed to the electromagnetic-space family like electricity, magnetism, and microlensing
-
-Microlensing wrongly uses G and so it fails when there is no mass, leading to the false idea of dark matter
+<!-- It follows that the `G` of the Milky way can be different from the `G` of other galaxies. This gives the diversity of galaxy colors and forms.  -->
