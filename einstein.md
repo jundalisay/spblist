@@ -1,6 +1,39 @@
 THERE IS ALWAYS RELATIONALITY FROM THE 2 FORCES. EVEN THOUGHT EXPERIEMTNS HAVE THE 2 FORCES. HAVING NO 2 FORCES, ONLY 5 ELEMENTS WOULD LEAD TO BLANK
 
 
+{{< l a="Supereconomics" >}}
+The wealth created by Economics only goes to a few people, as inequality. This is because money, as a static thing, can only bring liquidity to some parts of the economy and not all.  
+
+For example, if you want to hire someone, you must have money at hand to pay him. If you don't, then the opportunity slips away for both of you. There are tons of opportunities missed by economic systems because of the limitations created by money.  
+{{< /l >}}
+
+{{< r a="Boomer" >}}
+But you can use credit to borrow money and hire. 
+{{< /r >}}
+
+{{< l a="Supereconomics" >}}
+Yes. But that adds to the cost. Our solution is to split the tool of trade from the store of value. 
+
+
+This makes it cheaper to run. In fact, we have been running our system since 2017 without money-funding. We call these as barter-credits.
+{{< /l >}}
+
+
+{{< r a="Asker" >}}
+How do barter-credits reduce poverty and inequality?
+{{< /r >}}
+
+
+{{< l a="Supereconomics" >}}
+It eliminates the time-value of money. 
+
+
+ Our cards and apps are the tool
+- Rice and wheat are the stores of value
+
+This makes it cheaper to run. In fact, we have been running our system since 2017 without money-funding. We call these as barter-credits.
+{{< /l >}}
+
 The first step in fixing the theory of Relativity, is to recall that the Standard Model of Physics divides all forces into four categories which we arrange in a hierarchy:   
 
 
