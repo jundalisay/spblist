@@ -44,9 +44,6 @@ The same thing happens in outer space* where:
 {{< n n="Here, Newton confuses the invisible air-aether with physical air. Tine and solid gold fall at the same speed in a vacuum because there is a single vortex of the Earth that draws in the air-aether to the center in a straight line." >}}
 
 
-
-
-
 The 6 planets revolve around the sun:
 - in concentric circles,
 - with motions directed towards the same parts, and

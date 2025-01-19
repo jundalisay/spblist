@@ -1,6 +1,6 @@
 ---
 title: "Why Relativity is a Scam" 
-description: "The damage that Einstein has done to humanity may be ranked as follows"
+description: "Einstein's scam is such a work of genius that it has single-handedly caused the fall of Physics."
 date: 2024-12-25
 weight: 2
 image: "/covers/einstein.jpg"
@@ -241,7 +241,7 @@ Compare the results with 3 clocks on the ground where you left and will arrive. 
 
 ### The Elements Restored
 
-The demarcation of the 3 Elements re-separates the Consevation of Energy and Mass from the prison or confinement created by `E=mc^2`. 
+The demarcation of the 3 Elements re-separates the Conservation of Energy and Mass from the prison or confinement created by `E=mc^2`. 
 
 No longer does one need a huge amount of energy to bypass spacetime and teleport or levitate to other locations. 
 

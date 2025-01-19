@@ -28,8 +28,8 @@ Consciousness | the other half of Existence that lets Existence exist <!-- exper
 Critical Feeling | the expansion of one's feelings onto other entities other than the self, by exerting extra effort or energy
 Critical Thinking | the expansion of one's thinking process beyond the normal limitations of belief or external imposition, by exerting extra effort or energy 
 Death | The state where a mind loses the ability to express independently of the physical aspects of the universe
-Dharma | the inherent, metaphysical nature of any discrete identity with reference to the creator of that identity 
-Dharmic | being in line with one's dharma or the nature of things. This replaces the concept of 'good' which is based on the limited ego.
+Dharma | The inherent, metaphysical nature of any discrete identity with reference to the creator of that identity 
+Dharmic | Being in line with one's dharma or the nature of things. This replaces the concept of 'good' which is based on the limited ego.
 Distance | the gap within identities
 Eagle | the equation for everything, according to Superphysics
 Ego | the feeling of the self 

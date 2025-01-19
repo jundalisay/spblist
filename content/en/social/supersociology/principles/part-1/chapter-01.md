@@ -1,7 +1,7 @@
 ---
 title: "The Society Organism"
 heading: "Chapter 1"
-image: "/photos/meta/yinyang.jpg"
+image: "/graphics/meta/ideas.jpg"
 date: 2021-07-01
 weight: 3
 description : "A society is three or more entities working towards a common interest or goal"

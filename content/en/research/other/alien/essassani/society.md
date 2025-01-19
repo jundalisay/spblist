@@ -2,12 +2,13 @@
 title: "Unified Society"
 weight: 500
 image: "/photos/meta/yinyang.jpg"
-description: "The Steps for Social Experiment"
+description: "Unity in a society does not come from conformityExperiment"
 author: Consolidated from Bashar
 ---
 
 
-> Superhysics Note: The Essassani do have a government and a moneyless economic system that seems to be totally telepathic  
+{{< n n="The Essassani do have a government and a moneyless economic system that seems to be totally telepathic" >}}
+  
 
 Unity in a society does not come from conformity.
 - It can only come from granting equality and validity to the infinite diversity of all the individuals.

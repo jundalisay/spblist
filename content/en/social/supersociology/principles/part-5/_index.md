@@ -5,5 +5,5 @@ linkTitle: "Traders"
 # date: 2022-01-27
 weight: 10
 description: "The Traders are equivalent to the Oligarch class in Plato and the Vaeshya class in Hinduism"
-image: "/photos/econ/crash.jpg"
+image: "/photos/econ/barter.jpg"
 ---

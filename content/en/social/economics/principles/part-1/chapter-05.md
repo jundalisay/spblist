@@ -2,7 +2,7 @@
 heading: "Chapter 5"
 linkTitle: Chapter 5
 title: "Minimum Needs"
-weight: 13
+weight: 22
 date: 2024-08-27
 image: /photos/objects/cake.jpg
 description: Minimum Requirements ensures human dignity and is a better base of a science of resource allocation than marginal utility.  

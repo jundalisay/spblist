@@ -20,9 +20,6 @@ writer:
 Virtue therefore consists in propriety.
 
 
-![Propriety](/photos/idea.jpg)
-
-
 {{< s v="2" >}}
 
 2. Virtue is in the judicious pursuit of our own private interest and happiness through our selfish feelings. Virtue therefore consists in prudence.
