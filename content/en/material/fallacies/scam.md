@@ -17,12 +17,7 @@ I shall suppose that some malicious, powerful, cunning demon has done all to dec
 Like a prisoner who dreams that he is free, my laziness starts to suspect that my reality is merely a dream. It wants to go on dreaming rather than waking up. I fear being shaken out of my dream because I am afraid to realize the prison that I am in
 {{< /q >}}
 
-
-### The Sophistries in the Sciences
-
-The Indians, through the Vedas, were the first ones to lay the truth of the illusion of reality. This then led them to have a culture of renouncing the world. 
-
-This is why all systems of knowledge created by humans have some sophistries in it:
+This is why all systems of knowledge created by humans have some fallacies in it:
 
 Science | Fallacy | Problems Caused
 --- | --- | ---
@@ -31,6 +26,12 @@ Physics | Gravity comes from Matter | No anti gravity, teleportation, free energ
 Western Medicine | Treating Symptom or Effect instead of Cause | Diseases recur and side effects created
 Sociology | Differences in Culture, Language | War, Nationalism, Terrorism, Disputes
 Psychology | Consciousness Comes From Brain | Ineffective Treatments that cause side effects
+
+
+
+### The Sophistries in the Sciences
+
+The Indians, through the Vedas, were the first ones to discover the truth of the illusion of reality -- the physical universe was itself false. This then led them to have a culture of renouncing the world and chasing the Truth. 
 
 
 {{< q a="Foreigner" c="The Sophist" >}}
@@ -46,12 +47,13 @@ It has been said that in paying the interest of the public debt, it is the right
 {{< /q >}}
 
 
-Their most common technique is to use the ambiguity of words. This is the same tactic used by lawmakers to insert loopholes into laws that they will then exploit and profit from. 
+Their most common technique is to **exploit the ambiguity of words**. This is the same tactic used by lawmakers to insert loopholes into laws that they will then exploit and profit from. 
 
 {{< q a="Adam-Smith" c="Theory of Moral Sentiments" >}}
 Money in common language frequently signifies wealth. This **ambiguity of expression** has rendered this popular notion so familiar to us. Even they who are convinced of its absurdity are very apt to forget their own principles.
 {{< /q >}}
 
+> Sophists exploit the ambiguity of words
 
 <!-- Dr. Mandeville places vanity as the source of all virtuous actions. His sophistry is really covered by the ambiguity of language. We only give names to disagreeable feelings. In normal times, we overlook our feelings and do not name them at all. -->
 
@@ -78,11 +80,11 @@ These 3 are all part of the Negative Force or Yin in Taoism or Shakti in Hinduis
 
 A very recent large scam was the blockchain company FTX which really was a ponzi scheme. Its mechanism is the ignorance of people on how blockchain works.
 
-The scammer, Sam Bankman-Fried, then exploits this by claiming to be an expert. Ignorant people then praise him as a genius. 
+The scammer, Sam Bankman-Fried, then exploits this by claiming to be an expert. His mastery allows FTX to earn better than other crypto companies. Ignorant people then praise him as a genius. 
 
 But since his scam goes against Nature, it will eventually be discovered, and karma will be imposed. 
 
-Here, the time factor exposed the FTX scam, just as public debt implodes after some time. This is because the time Element is right below the aether. 
+Here, the time factor exposed the FTX scam, just as public debt and too-big-to-fail finance implodes after some time. This is because the time Element is right below the aether. 
 
 
 ### Newton is a Slight Mistake, Not a Scam

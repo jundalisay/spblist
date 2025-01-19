@@ -1,7 +1,7 @@
 ---
 title: "The Four Generation Rule in Families"
 description: "According to Ibn Khaldun, all nobility and prestige ends after four successive generations"
-image: "/photos/social/family.jpg"
+image: "/photos/social/team.jpg"
 icon: "/icons/spsoc.jpg"
 heading: "Chapter 5b"
 writer:

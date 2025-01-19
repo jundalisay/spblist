@@ -13,27 +13,77 @@ author: "Lucien Poincare"
 
 <!-- If we were confined to the facts I have set forth above, we might conclude that  -->
 
-Two classes of phenomena are today being interpreted with increasing correctness in spite of the few difficulties which have been pointed out. 
+Today, there are 2 kinds of phenomena being interpreted with increasing correctness in spite of a few difficulties:
 
-The hypothesis of the molecular constitution of matter enables us to group together one of these classes, and the hypothesis of the ether leads us to co-ordinate the other.
+1. The hypothesis of the molecular constitution of matter
 
-But these two classes of phenomena cannot be considered independent of each other. Relations evidently exist between matter and the ether, which manifest themselves in many cases accessible to experiment, and the search for these relations appears to be the paramount problem the physicist should set himself. The question has, for a long time, been attacked on various sides, but the recent discoveries in the conductivity of gases, of the radioactive substances, and of the cathode and similar rays, have allowed us of late years to regard it in a new light. Without wishing to set out here in detail facts which for the most part are well known, we will endeavour to group the chief of them round a few essential ideas, and will seek to state precisely the data they afford us for the solution of this grave problem.
+2. The hypothesis of the ether
 
-It was the study of the conductivity of gases which at the very first furnished the most important information, and allowed us to penetrate more deeply than had till then been possible into the inmost constitution of matter, and thus to, as it were, catch in the act the actions that matter can exercise on the ether, or, reciprocally, those it may receive from it.
 
-It might, perhaps, have been foreseen that such a study would prove remarkably fruitful. The examination of the phenomena of electrolysis had, in fact, led to results of the highest importance on the constitution of liquids, and the gaseous media which presented themselves as particularly simple in all their properties ought, it would seem, to have supplied from the very first a field of investigation easy to work and highly productive.
+These 2 classes of phenomena are not independent of each other.
 
-This, however, was not at all the case. Experimental complications springing up at every step obscured the problem. One generally found one's self in the presence of violent disruptive discharges with a train of accessory phenomena, due, for instance, to the use of metallic electrodes, and made evident by the complex appearance of aigrettes and effluves; or else one had to deal with heated gases difficult to handle, which were confined in receptacles whose walls played a troublesome part and succeeded in veiling the simplicity of the fundamental facts. Notwithstanding, therefore, the efforts of a great number of seekers, no general idea disengaged itself out of a mass of often contradictory information.
+Relations evidently exist between matter and the ether. These are accessible to experiment.
 
-Many physicists, in France particularly, discarded the study of questions which seemed so confused, and it must even be frankly acknowledged that some among them had a really unfounded distrust of certain results which should have been considered proved, but which had the misfortune to be in contradiction with the theories in current use. All the classic ideas relating to electrical phenomena led to the consideration that there existed a perfect symmetry between the two electricities, positive and negative. In the passing of electricity through gases there is manifested, on the contrary, an evident dissymmetry. The anode and the cathode are immediately distinguished in a tube of rarefied gas by their peculiar appearance; and the conductivity does not appear, under certain conditions, to be the same for the two modes of electrification.
+ <!-- and the search for these relations appears to be the paramount problem the physicist should set himself. The question has, for a long time, been attacked on various sides, but -->
 
-It is not devoid of interest to note that Erman, a German scholar, once very celebrated and now generally forgotten, drew attention as early as 1815 to the unipolar conductivity of a flame. His contemporaries, as may be gathered from the perusal of the treatises on physics of that period, attached great importance to this discovery; but, as it was somewhat inconvenient and did not readily fit in with ordinary studies, it was in due course neglected, then considered as insufficiently established, and finally wholly forgotten.
+The recent discoveries have allowed us to understand these better:
+
+- the conductivity of gases
+- the radioactive substances
+- the cathode and similar rays
+
+The conductivity of gases first revealed the inmost constitution of matter.
+
+ <!-- and thus to, as it were, catch in the act the actions that matter can exercise on the ether, or, reciprocally, those it may receive from it. -->
+
+<!-- It might, perhaps, have been foreseen that such a study would prove remarkably fruitful. The examination of the phenomena of  -->
+
+Electrolysis had led to the understanding of the constitution of liquids and gases.
+
+<!-- , and the gaseous media which presented themselves as particularly simple in all their properties ought, it would seem, to have supplied from the very first a field of investigation easy to work and highly productive. -->
+
+<!-- This, however, was not at all the case. Experimental complications springing up at every step obscured the problem. One generally found one's self in the presence of violent disruptive discharges with a train of accessory phenomena, due, for instance, to  -->
+
+But the use of metallic electrodes led to the complex appearance of aigrettes and effluves.
+
+Hot gases were hard to study. 
+
+ <!-- or else one had to deal with heated gases difficult to handle, which were confined in receptacles whose walls played a troublesome part and succeeded in veiling the simplicity of the fundamental facts.  -->
+
+<!-- Notwithstanding, therefore, the efforts of a great number of seekers, no general idea disengaged itself out of a mass of often contradictory information. -->
+
+Many French physicists discarded the study of questions which seemed so confused, and it must even be frankly acknowledged that some among them had a really unfounded distrust of certain results which should have been considered proved, but which had the misfortune to be in contradiction with the theories in current use.
+
+The classic ideas of electrical phenomena said that there was a perfect symmetry between the 2 electricities, positive and negative.
+
+
+But the passing of electricity through gases exposed a dissymmetry.
+
+The anode and the cathode are immediately distinguished in a tube of rarefied gas by their peculiar appearance.
+
+The conductivity does not appear, under certain conditions, to be the same for the 2 modes of electrification.
+
+Erman, a German scholar, was once very celebrated and now generally forgotten.
+
+He drew attention as early as 1815 to the unipolar conductivity of a flame.
+
+<!-- His contemporaries, as may be gathered from the perusal of the treatises on physics of that period, attached great importance to this discovery; but, as  -->
+
+But it was inconvenient and did not readily fit in with ordinary studies. So it was neglected and finally forgotten.
 
 All these somewhat obscure facts, and some others—such as the different action of ultra-violet radiations on positively and negatively charged bodies—are now, on the contrary, about to be co-ordinated, thanks to the modern ideas on the mechanism of conduction; while these ideas will also allow us to interpret the most striking dissymmetry of all, i.e. that revealed by electrolysis itself, a dissymmetry which certainly can not be denied, but to which sufficient attention has not been given.
 
-It is to a German physicist, Giese, that we owe the first notions on the mechanism of the conductivity of gases, as we now conceive it. In two memoirs published in 1882 and 1889, he plainly arrives at the conception that conduction in gases is not due to their molecules, but to certain fragments of them or to ions. Giese was a forerunner, but his ideas could not triumph so long as there were no means of observing conduction in simple circumstances. But this means has now been supplied in the discovery of the X rays. Suppose we pass through some gas at ordinary pressure, such as hydrogen, a pencil of X rays. The gas, which till then has behaved as a perfect insulator,[29] suddenly acquires a remarkable conductivity. If into this hydrogen two metallic electrodes in communication with the two poles of a battery are introduced, a current is set up in very special conditions which remind us, when they are checked by experiments, of the mechanism which allows the passage of electricity in electrolysis, and which is so well represented to us when we picture to ourselves this passage as due to the migration towards the electrodes, under the action of the field, of the two sets of ions produced by the spontaneous division of the molecule within the solution.
+It is to a German physicist, Giese, that we owe the first notions on the mechanism of the conductivity of gases, as we now conceive it. In two memoirs published in 1882 and 1889, he plainly arrives at the conception that conduction in gases is not due to their molecules, but to certain fragments of them or to ions. 
 
-Let us therefore recognise with J.J. Thomson and the many physicists who, in his wake, have taken up and developed the idea of Giese, that, under the influence of the X rays, for reasons which will have to be determined later, certain gaseous molecules have become divided into two portions, the one positively and the other negatively electrified, which we will call, by analogy with the kindred phenomenon in electrolysis, by the name of ions. If the gas be then placed in an electric field, produced, for instance, by two metallic plates connected with the two poles of a battery respectively, the positive ions will travel towards the plate connected with the negative pole, and the negative ions in the contrary direction. There is thus produced a current due to the transport to the electrodes of the charges which existed on the ions.
+Giese was a forerunner, but his ideas could not triumph so long as there were no means of observing conduction in simple circumstances. 
+
+But this means has now been supplied in the discovery of the X rays. Suppose we pass through some gas at ordinary pressure, such as hydrogen, a pencil of X rays. 
+
+The gas, which till then has behaved as a perfect insulator,[29] suddenly acquires a remarkable conductivity. If into this hydrogen two metallic electrodes in communication with the two poles of a battery are introduced, a current is set up in very special conditions which remind us, when they are checked by experiments, of the mechanism which allows the passage of electricity in electrolysis, and which is so well represented to us when we picture to ourselves this passage as due to the migration towards the electrodes, under the action of the field, of the two sets of ions produced by the spontaneous division of the molecule within the solution.
+
+Let us therefore recognise with J.J. Thomson and the many physicists who, in his wake, have taken up and developed the idea of Giese, that, under the influence of the X rays, for reasons which will have to be determined later, certain gaseous molecules have become divided into two portions, the one positively and the other negatively electrified, which we will call, by analogy with the kindred phenomenon in electrolysis, by the name of ions.
+
+If the gas be then placed in an electric field, produced, for instance, by two metallic plates connected with the two poles of a battery respectively, the positive ions will travel towards the plate connected with the negative pole, and the negative ions in the contrary direction. There is thus produced a current due to the transport to the electrodes of the charges which existed on the ions.
 
 If the gas thus ionised be left to itself, in the absence of any electric field, the ions, yielding to their mutual attraction, must finally meet, combine, and reconstitute a neutral molecule, thus returning to their initial condition. The gas in a short while loses the conductivity which it had acquired; or this is, at least, the phenomenon at ordinary temperatures. But if the temperature is raised, the relative speeds of the ions at the moment of impact may be great enough to render it impossible for the recombination to be produced in its entirety, and part of the conductivity will remain.
 

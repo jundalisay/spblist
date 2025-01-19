@@ -16,50 +16,71 @@ To define the word 'shape', we may:
 - create in our mind the ideas of circles, squares, triangles of different sizes and proportions, and
 - not rest on one image or idea.
 
-We form the idea of individuals whenever we use any general term.
+We form the idea of individuals which we can seldom or never exhaust.
 
-We seldom or never can exhaust these individuals.
+ <!-- whenever we use any general term. -->
 
-Those which remain are only represented by means of that habit, by which we recall them whenever needed.
-This then is the nature of our abstract ideas and general terms.
-In this way, we account for the foregoing paradox, that some ideas are specfic in their nature, but general in their representation.
+<!-- We  these individuals. -->
 
-A specific idea becomes general by being annexed to a general term.
+The individuals that remain unexhausted are only represented through our habit of recalling them whenever needed.
 
-This general term:
-- has a relation to many other particular ideas, from a customary conjunction, and
-- readily recalls those ideas in the imagination.
+This then is the nature of our:
+- abstract ideas
+- general words
+
+ <!-- terms. -->
+
+This accounts for the foregoing paradox that some ideas are specfic in their nature, but general in their representation.
+
+A specific idea becomes general by being annexed to a general concept or term.
+
+<!-- term , from a customary conjunction, and-->
+This general concept:
+- has a relation to many other particular ideas
+- readily recalls those ideas in the imagination*
+
+{{< n n="The general concept is the array variable, while the specific ideas are the elements in the array" >}}
+
 
 The only difficulty is the habit which so readily:
 - recalls every particular idea we may have occasion for, and
-- is excited by any word or sound we commonly annex to it.
+- is excited by any concept or sound we commonly annex to it.
 
-I think the most proper method of explaining this act of the mind is by producing:
+<!-- I think the most proper method of explaining this act of the mind is by producing:
 - other instances analogous to it, and
-- other principles which facilitate its operation.
+- other principles which facilitate its operation. -->
 
-It is impossible to explain the ultimate causes of our mental actions.
+It is impossible to explain the ultimate causes of our mental actions. 
+- But we can give an account of them from experience and analogy.
 
-But it is enough to give any satisfactory account of them from experience and analogy.
 
-Reflection 1: When we mention any big number, such as 1,000, the mind generally has no adequate idea of it.
+### Reflection 1: When we mention any big number, such as 1,000, the mind generally has no adequate idea of it.
 
 It can only produce such an idea through its idea of decimals, under which the number is comprehended.
+
 However, this imperfection in our ideas is never felt in our reasonings.
+
 It seems to be an instance parallel to the present reasoning of universal ideas.
 
-Reflection 2: We have several instances of habits, which may be revived by a single word.
+
+### Reflection 2: We have several instances of habits, which may be revived by a single word.
 
 A person who has memorized a discourse can remember it through that single word.
-Reflection 3: We do not annex distinct and complete ideas to every term we use.
+
+<!-- term -->
+### Reflection 3: We do not annex distinct and complete ideas to every concept we use.
 
 When we talk of 'government', 'negotiation', and 'conquest', we seldom go through all the simple ideas that make up these complex ideas.
+
 Despite this imperfection, we can avoid talking nonsense on these subjects.
+
 We can perceive contradictions among these ideas, even if we were not experts in government, negotiation, and conquest.
+
 For example, instead of saying Argument 1 that 'the weaker party in a war always can seek negotiation', we might say Argument 2 that 'the weaker always have recourse to conquest'.
+
 Our habit of attributing certain relations to ideas:
-still follows the words, and
-makes us immediately perceive the absurdity of Argument 2 because of the difference between 'weaker' and 'conquest'.
+- still follows the words, and
+- makes us immediately perceive the absurdity of Argument 2 because of the difference between 'weaker' and 'conquest'.
 
 
 ### Reflection 4: The individuals are collected together and placed under a general term which resembles each other.
