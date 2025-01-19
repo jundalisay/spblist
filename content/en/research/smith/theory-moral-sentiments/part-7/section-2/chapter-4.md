@@ -216,35 +216,65 @@ However, it seldom happens that human nature has this much firmness.
  -->
 
 
-{{< s v="103" >}} Dr. Mandeville places vanity as the source of all virtuous actions. 
-
-He also points out that virtue is a concealed indulgence of our passions.
+{{< s v="103" >}} Dr. Mandeville places:
+- vanity as the source of all virtuous actions 
+- virtue as a concealed indulgence of our passions
 
 According to him, anything beyond ascetic abstinence and what is necessary to support human nature is a luxury. There is vice even in the use of:
 - a clean shirt, or
 - a convenient habitation.
 
-He considers sexual indulgence in marriage as the same with the most hurtful sexual gratification. It derides that temperance and chastity which can be practised so cheaply. His sophistry is really covered by the ambiguity of language. Some of our feelings have no other names except those which are disagreeable. We only think of such feelings when those feelings shock us or give us some uneasiness. This makes us give our sentiments a name. In normal times, we overlook them altogether and do not name them at all.
+He considers sexual indulgence in marriage as the same with the most hurtful sexual gratification.
 
-If we give them any name, it is one which marks the passion's subject than its degree. Thus, the common names of 'the love of pleasure' and 'the love of sex', denote a vicious and offensive degree of those passions. On the other hand, the words 'temperance' and 'chastity' mark the restraint which 'the love of pleasure' and 'the love of sex' are kept under. They do not indicate the degree which they are allowed to subsist in.
+It derides the temperance and chastity which can be practised so cheaply.
+
+**His sophistry is really covered by the ambiguity of language.**
+
+Some of our feelings have no other names except those which are disagreeable. 
+
+We only think of such feelings when those feelings shock us or give us some uneasiness.
+
+This makes us give our sentiments a name.
+
+In normal times, we overlook them altogether and do not name them at all.
+
+If we give them any name, it is one which marks the passion's subject than its degree.
+
+Thus, the common names of 'the love of pleasure' and 'the love of sex', denote a vicious and offensive degree of those passions.
+
+On the other hand, the words 'temperance' and 'chastity' mark the restraint which 'the love of pleasure' and 'the love of sex' are kept under.
+
+They do not indicate the degree which they are allowed to subsist in.
 
 <!--  which it still is allowed to subsist in after it is so subjected and restrained. -->
 
-Mandeville thinks that he has demolished the virtues of temperance and chastity by showing that they are mere impositions on mankind's inattention and simplicity. In reality, temperance and chastity do not require an entire insensibility to lust. They only aim at restraining lust as not to hurt the person or offend society.
+Mandeville thinks that he has demolished the virtues of temperance and chastity by showing that they are mere impositions on mankind's inattention and simplicity.
+
+In reality, temperance and chastity do not require an entire insensibility to lust. 
+
+They only aim at restraining lust as not to hurt the person or offend society.
 
 
-{{< s v="104" >}} His book's great fallacy was to represent every passion as totally vicious. He sees everything which has any reference to the feelings of others as vanity. Through this sophistry, he establishes his favourite conclusion that private vices are public benefits.
+{{< s v="104" >}} His book's great fallacy was to represent every passion as totally vicious.
 
-The following are public benefits if they are regarded as luxury, sensuality, and ostentation= 
+He sees everything which has any reference to the feelings of others as vanity.
+
+Through this sophistry, he establishes his favourite conclusion that private vices are public benefits.
+
+The following are public benefits if they are regarded as luxury, sensuality, and ostentation:
 - a taste for:
 - the elegant arts and improvements of life,
 - whatever is agreeable in dress, furniture, equipage, architecture, statuary, painting, and music, and
 - the indulgence of those passions without inconvenience,
 - the love of magnificence.
 
-He bestows such scornful names on such qualities. Without those qualities, the refined arts could never find encouragement. They would languish for lack of employment.
+He bestows such scornful names on such qualities.
 
-This licentious system was caused by the popular ascetic doctrines before his time. They placed virtue in the destruction of all our passions. It was easy for Dr. Mandeville to prove:
+Without those qualities, the refined arts could never find encouragement. They would languish for lack of employment.
+
+This licentious system was caused by the popular ascetic doctrines before his time. 
+
+They placed virtue in the destruction of all our passions. It was easy for Dr. Mandeville to prove:
 - that this entire conquest never actually took place among men
 - that if it took place universally, it would be harmful to society
 

@@ -59,7 +59,15 @@ How could that new law-book be created?
 {{< l a="Social-Superphysics" >}}
 Ideally, Palestinians, Jews, and Arabs should get together and write it.
 
-Until then, a shortcut could be to use machine learning like ChatGPT or Bard to combine the Torah and the Quran for the sake of world peace (since both are text-data). It would be a proof of concept of the great uses of AI -- using it to unite people instead of being [a danger to humanity](https://www.nytimes.com/2023/03/29/technology/ai-artificial-intelligence-musk-risks.html)
-
+Until then, our workaround is to unify them with the Anunnaki Quran and Old Testament, wherein we replace "God" and "Allah" with Enki. Hopefully, this will unify them by implying that they really are worshipping the same Enki (or faction of Enki) which merely had rivalries with other Anunnaki. 
 {{< /l >}}
 
+{{< r a="Muslim" >}}
+You mean the Zecharaiah Stitchin pseudo-science Anunnaki?
+{{< /r >}}
+
+{{< l a="Social-Superphysics" >}}
+No. We mean the Sumerian, Babylonian, Jewish, Greek, Egyptian, Mayan Anunnaki from the original texts. We then cross reference these with various channeled information from aliens. We reject outright any inconsistencies in order to give us a big picture. 
+{{< /l >}}
+
+ <!-- a shortcut could be to use machine learning like ChatGPT or Bard to combine the Torah and the Quran for the sake of world peace (since both are text-data). It would be a proof of concept of the great uses of AI -- using it to unite people instead of being [a danger to humanity](https://www.nytimes.com/2023/03/29/technology/ai-artificial-intelligence-musk-risks.html) -->

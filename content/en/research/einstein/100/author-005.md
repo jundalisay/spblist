@@ -74,7 +74,7 @@ events would turn out to be relative, the arithmetical and geometric numbers and
 which the subjective-relative orientations are calculated remain constant as such, as arithmetic and
 mathematical data, under which one use the relative temporal orientation.
 
-Thirdly, if relativism were to be mentioned here, this relativism, in the midst of Relativity itself, is to
+3. If relativism were to be mentioned here, this relativism, in the midst of Relativity itself, is to
 be understood only physically, i.e. solely in relation to the natural, material events.
 
 But this natural, material, physical event exceeds the aesthetic, ethical, philosophical and religious
@@ -82,10 +82,6 @@ values, which do not stand or fall with a potentially physical event. Because th
 up as a "duty", "idea" "Ideal" etc. about -natural, even anti-natural. The evaluation of these values is
 therefore not physical, but a metaphysical one.
 
-Fourthly, although these values should be relative, the human spirit nevertheless refers all, even
-these relative values, to the absolute, to the thought, the spirit, god or whatever word one may
-choose, in order to mean that unity is in- the midst of the multiplicity of science, wisdom and
-religion.
+4. Although these values should be relative, the human spirit nevertheless refers all, even these relative values, to the absolute, to the thought, the spirit, god or whatever word one may choose, in order to mean that unity is in- the midst of the multiplicity of science, wisdom and religion.
 
-Fifth, Einstein's assertion of a finite universe is very suitable for making scientific, philosophical, and
-theological discussions about the spirit transcendent beyond this universe.
+5. Einstein's assertion of a finite universe is very suitable for making scientific, philosophical, and theological discussions about the spirit transcendent beyond this universe.

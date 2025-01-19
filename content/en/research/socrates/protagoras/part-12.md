@@ -13,14 +13,12 @@ icon: "/icons/socrates.png"
 
 
 {{< r a="Hippias-the-Sage" >}}
-I think, Socrates, that you have given a very good explanation of the poem. But I also have an excellent interpretation of my own if you would let me share it.
+Socrates, you have given a very good explanation of the poem. But I also have an excellent interpretation of my own if you would let me share it.
 {{< /r >}}
 
 
 {{< r a="Alcibiades" >}}
-No, Hippias, not now. Maybe some other time.
-
-At present, we must abide by the compact which was made between Socrates and Protagoras. 
+No, Hippias, not now. Maybe some other time. At present, we must abide by the compact made between Socrates and Protagoras. 
 
 As long as Protagoras is willing to ask, Socrates should answer; or that if he would rather answer, then that Socrates should ask.
 {{< /r >}}
@@ -41,6 +39,7 @@ But where the company are real gentlemen and men of education, you will see no f
 
 They have no nonsense or games, but are contented with one another's conversation, of which their own voices are the medium, and which they carry on by turns and in an orderly manner, even though they are very liberal in their potations.
 {{< /l >}}
+
 
 {{< l a="Socrates" >}}
 A company like this of ours, and men such as we profess to be, do not require the help of another's voice, or of the poets whom you cannot interrogate about the meaning of what they are saying.
@@ -73,6 +72,7 @@ Do not imagine, Protagoras, that I have any other interest in asking questions o
 for all men who have a companion are readier in deed, word, or thought; but if a man
 
      'Sees a thing when he is alone,'
+
 he goes about straightway seeking until he finds some one to whom he may show his discoveries, and who may confirm him in them. 
 {{< /l >}}
 
@@ -101,7 +101,7 @@ You replied that the 5 names were not the names of the same thing. Each of them 
 
 
 {{< r a="Protagoras" >}}
-All these qualities are parts of virtue. Four out of the five are to some extent similar. The fifth is courage. It is very different from the other four.
+All these qualities are parts of virtue. 4 out of the 5 are to some extent similar. The fifth is courage. It is very different from the other four.
 
 Many men are utterly unrighteous, unholy, intemperate, ignorant, who are nevertheless remarkable for their courage.
 {{< /r >}}
