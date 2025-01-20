@@ -4,7 +4,7 @@ title: "The Self"
 # title: "David Hume's Idea of the Self" # heading: "There are 3 billion yous"
 date: 2020-01-31
 weight: 20
-image: "/graphics/meta/monkey.jpg"
+image: "/graphics/meta/mirror.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
 tags: ["David Hume", "Ego"]
 writer:

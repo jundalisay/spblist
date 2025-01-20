@@ -20,7 +20,8 @@ Word | Meaning
 Absolute Entity | A theoretical (non-existing) Entity that precedes Existence. Also, Pre-Existence 
 Abstract Reasoning | The use logic to explain nonphysical or philosophical causes and effects.
 Active Observation | Observing the object while probing it or doing actions on it.
-Adharmic | not being in line with one's dharma or the nature of things. This replaces the concept of 'bad' or 'evil' which are based on the limited ego. 
+Adharmic | not being in line with one's dharma or the nature of things. This replaces the concept of 'bad' or 'evil' which are based on the limited ego
+Atheism | a belief system that negates the existence of a Supreme Entity
 Attribute | a part of Substance.
 Belief | a set of ideas that the ego attaches itself to
 Conscience | the intuition or feeling for the dharma or true nature
@@ -41,6 +42,7 @@ gods | entities that represent beings more advanced than humans with correspondi
 Gravitational Signature | the unique code or idea that is the basis for the discrete entity. In a living body, this manifests as its DNA
 Humor | Ability to make connections from seemingly unconnected things (Bashar)
 Idea | An original metaphysical object created by the Supreme that is accessed by abstract minds. Also, a product of Ideation (accessing pre-existing ideas)
+Ideology | a system of beliefs built around a centeral idea
 Identity | A discrete resultant perception separate from other perceptions or a mass of perceptions
 Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable. Also generally adharmic since Existence is Positive.
 Instant | The minimum moment of time (Descartes, Principles of Philosophy)
@@ -65,7 +67,7 @@ Personality Structure | Determines the DNA patterns of the body in order to rein
 Physics | The study of the Supreme Entity in its physical forms. This includes the 5 Layers or Elements. This absorbs the word 'science'
 Positive feelings | feelings from the Positive Force that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature, since Existence is Positive
 Positive Force | the force or flow from the desire of Existence that leads to unification and attraction. Also, Shiva or Yang.
-Religion | a belief system that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings)
+Religion | a ideology that is centered around God (as Enki or Enlil for Judeo-Christian Religions) or gods (as more advanced beings)
 Self | The perception of identity by the same perceiver
 Shiva | “witnessing consciousness”
 Slavery | A regular state of control of another's actions that produces pain
@@ -77,6 +79,7 @@ Spirituality | Any concept or idea that related to the pure Positive Force, with
 Substance | a thing which exists in such a way that it needs nothing beyond itself in order to exist (Descartes, Principia Philosophia Part 1)
 Supreme Entity | The Absolute Entity in active form in order to gain reality and be perceived
 Tao | the dharma in active flowing form
+Theism | a belief system that is based on the idea of the existence of a Supreme Entity
 Thought | A physicalized version of a metaphysical Idea, as a result of thinking
 Time | Gap between perceptions in general 
 Time Dilation | The increase of timespan within time 
@@ -155,6 +158,7 @@ Barter Trading | a regular barter-exchange activity
 Barter | a purchase done by exchanging goods or services. A barter transaction thus has 2 purchasers or traders
 Buyer | The giver of the money in a buying transaction. Since he receives goods and services, he is also called a purchaser.
 Buying | a purchase that offers money
+Capitalism | an economic system that uses outside ownership to amass private profits
 Commerce | a regular buying-selling activity
 Commercialization | the shifting of an economy or trade into objective money-based transactions, as opposed to barter to arbitrary exchanges
 Commodity | a raw material or not-so-processed good for sale 
@@ -162,7 +166,10 @@ Donation | Irregular Revenue from the abundance experienced by others
 Effort Theory of Value | the pegging of economic value into points represented by grains
 Goods | anything that is for sale and occupies a specific spacetime 
 Interest Rate | The revenue in lending that is determined by the demand and credit-worthiness of the borrowers and the availability of the lenders
+Market Price | The value that producers actually assign for the goods or services that they produce or render
 Monetization | the conversion of goods and services into money
+Natural Price | The average value that the producer can actually sell his goods or services with ordinary profits
+Nominal Price | The value that a purchaser sets for a good or service that he demands
 Pantrypoints Hub | a large pantry that connects to smaller pantries
 Pantrypoints Pantry | a permanent or temporary repository of resources. Examples are stalls in a marketplace, a business address, or a person with a bag 
 Pantrypoints system | the use of Pantries or Hubs as the store of resources
@@ -173,6 +180,7 @@ Pointization | the conversion of goods and services into points
 Products | a good that is processed and is for sale
 Profit | Irregular Revenue from the lack experienced by others
 Purchase | the acquisition of something by exchange.
+Real Price | The value that a producer sets for a good or service that he produces or renders
 Rent | Regular Arbitrary Revenue, from the Lack of Land
 Selling | the act of giving goods or services by getting money in return. The giver is called the “seller”, the getter is the “buyer”.
 Service | anything that is for sale but does not occupy a specific spacetime 

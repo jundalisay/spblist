@@ -38,7 +38,7 @@ To understand why humans behave as such, it is necessary to analyze the most bas
 
 Unlike animal minds, human minds are endowed with a higher level of sentience or self-consciousness which lets us exercise freedom from basic instincts. 
 
-![Monkey](/graphics/meta/monkey.jpg)
+![Monkey](/graphics/meta/mirror.jpg)
 
 Animal Minds | Human Minds
 --- | ---

@@ -67,6 +67,7 @@ It seems to be an instance parallel to the present reasoning of universal ideas.
 
 A person who has memorized a discourse can remember it through that single word.
 
+
 <!-- term -->
 ### Reflection 3: We do not annex distinct and complete ideas to every concept we use.
 
@@ -109,7 +110,7 @@ This faculty is called 'genius' as it is most perfect in the greatest geniuses.
 
 But it cannot be explained by the utmost efforts of human understanding.
 
-These four reflections help remove difficulties in my hypothesis on abstract ideas.
+Th ese four reflections help remove difficulties in my hypothesis on abstract ideas.
 
 My hypothesis is so contrary to the prevailing hypothesis in philosophy.
 Honestly, I place my chief confidence in my proposition on the impossibility of general ideas, according to the common method of explaining them.

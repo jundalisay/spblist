@@ -67,7 +67,7 @@ He saw it as having the right to be the governing principle of the rest. It lets
 
 1. Those in the irritable part of the soul.
 
-![Pride](/graphics/meta/monkey.jpg)
+![Pride](/graphics/meta/mirror.jpg)
 
 - These are founded on pride and resentment.
 - These desires rise from what we commonly call 'spirit' or 'natural fire'.

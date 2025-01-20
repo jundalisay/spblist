@@ -44,7 +44,9 @@ The problem is that, in the physical domain, objects are finite. **So a maximiza
 When the maximization is done unnaturally, such as through speculation, the fake maximization will be exposed for its true value which is not so high. 
 - **This leads to as economic crashes.** 
 
-**Supereconomics disregards marginal utility because utility is subjective.** 
+**Supereconomics disregards marginal utility because utility is subjective.** Metaphysically, it is caused by the constant fight between the 2 Forces of Positive and Negative.
+- Supereconomics always pushes for the Positive and so there is constant dynamism 
+
 
 Each person gets a different level of satisfaction at every good or service, and so it would be wrong to create a rigid, objective model for dynamic, subjective utility. 
 

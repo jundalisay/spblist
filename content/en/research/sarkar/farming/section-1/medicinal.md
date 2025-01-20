@@ -1,6 +1,5 @@
 ---
 title: "Medicinal Plants"
-
 weight: 20
 writer:
   name: PR Sarkar

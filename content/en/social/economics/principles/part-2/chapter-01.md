@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 1"
-title: "The Second Law of Value"
+title: "The Second Law of Value: Real Price"
 # date: 2022-01-03
 # date: 2022-01-31
 image: "/graphics/econ/law2.png"

@@ -5,8 +5,8 @@ title: "Resource Mechanisms: Stores of Value"
 date: 2022-08-24
 # date: 2022-08-22
 weight: 14
-# image: /photos/objects/money.jpg
-image: /graphics/econ/resourcemechanism.png
+image: /photos/objects/money.jpg
+# image: /graphics/econ/resourcemechanism.png
 description: "Economics uses money both as a store of value and tool of trade. Supereconomics uses three tools--money, points, and barter"
 writer:
   name: Juan
@@ -61,7 +61,11 @@ The caravans of Moors who go to Timbuktu, in the heart of Africa, do not need mo
 {{< /q >}}
 
 
-Gradually, as humans became more civilized, they chose precious coins as their tool. This was to standardize the value and prevent fraud:
+Basing value on weight is really basing it on its material density, since denser bodies are heavier. This is really a quantitative way. 
+
+Gradually, as humans became more civilized, they chose precious coins as their tool. The preciousness is the qualitative way. 
+
+Coins standardized the value and prevented fraud:
 
 {{< q a="Smith" >}}
 Mints are institutions exactly of the same nature as the aulnagers and stampmasters of woollen and linen cloth. Through a public stamp, they ascertain the amount and uniform goodness of those commodities when brought to market. 
@@ -72,9 +76,12 @@ The first public stamps affixed to precious metals were intended to ascertain th
 
 <!-- From precious coins, the world moved on to bimetallism, the gold standard, and then fiat money.   -->
 
-This money system was essential for the spread of the commercial system and mercantilism which disrupted native modes of valuation and exchange. 
+This money system was used by the commercial system and mercantilism.
+- This disrupted native modes of valuation and exchange of using commodities and weights. 
 
-Coinage was augmented by paper bank notes and paper stock certificates which allowed rapid economic growth. However, these created many problems:
+Coinage was later standardized into silver, and augmented by paper bank notes and paper stock certificates. This allowed rapid economic growth because people could now increase money nominally by writing bigger numbers. 
+
+This manifests as paper assets and paper wealth that can be created or be made to vanish quickly, through: 
 
 - hyperinflation and financial crisis during the Mississippi Scheme
 - stock bubbles like the South Sea Bubble 
@@ -83,87 +90,34 @@ Coinage was augmented by paper bank notes and paper stock certificates which all
 These problems persist even today.
 
 
-### The Problem with Money
+### Grains as the Store of Value
 
-The dominance of money as a resource mechanism in society leads to problems because it is the crudest mechanism possible. 
+The root cause of the problem with economic value is the arbitrariness of the assignment of value due to the invention of paper bank notes and stock certificates.
 
-{{< i s="/graphics/econ/resourcemechanism.png" a="Resource Mechanisms" c="Money is the crudest resource mechanism. This is why it is often said to be the root of all evil." >}}
+This can be seen in:
+- checks that have no money
+- stock corporations that have wrong valuation 
+- financial statements with cooked books
 
-If we plug it into our 5 Strata model, we find that it occupies the lowest stratum. This is because, as a represntative number, it is purely quantitative and not qualitative. This makes it very precise, but at the expense of other information. 
+Even if money is avoided and metals are used, not all societies have gold and silver for facilitating transactions. 
 
+<!-- It will not be a store of value that everyone can relate to.  -->
 
-{{< i s="/graphics/econ/quality.jpg" a="Quality vs Quantity" c="Quantity reduces and loses information for the sake of precision" >}}
+This is why Supereconomics uses the common food as the store of value. 
+- In most cases, these will be grains such as rice or wheat.  
+- In barren places that have little agriculture such as Greenland and Alaska, these are in fish or wild game.
 
-For example, we can think of 3 tomatoes as either:
-- 3 real, red, wet, juicy, shiny tomatoes, or
-  - This one has a lot of information that is expressed during our perception of them.
-- `3` and `"tomato"`  
-  - This only has 2 pieces of infromation: `3` and `tomatoes`
-
-<!-- we can think of 3 tomatoes as merely the number `3` and the word "tomato".  -->
-
-
-And so quantitative resource mechanisms drastically reduce the amount of information in every transaction. This is done so that decision makers can make quick decisions through aggregated data, instead of granularly making decisions for each item. 
-
-> Quantitative resource mechanisms drastically reduce the amount of information in every transaction
-
-For example, assume you were a manager who had to fire 10% of your 100 staff who you did not personally know. To make a quick decision you would refer to some quantitative data like productivity or contribution to revenue. 
-
-However, you might not be aware that some of your staff are contributing in non quantative means to the success of your company. 
-
-Relying on quantitative information would therefore lead to bad decisions. However, qualitative information would be hard to define or cause information overload. Or it would incur a cost to collect. 
-
-This is why large companies tend to rely mostly on quantitative information or metrics.
-
-Society can incur the cost of getting that qualitative information about its people because the purpose of society is not to get a quantity of money. It is to raise the quality of life. 
-
-Information overload can be addressed by artificial intelligence.
+The important thing that they should be prevalent and known by all, as to be the common measure of economic valuation.
 
 
+{{< q a="Smith" c="Wealth of Nations, Book 1 Chapter 11" >}}
+In every state of society and every stage of improvement, equal amounts of wheat will, more nearly represent equal amounts of labour than equal amounts of any rude produce.
 
-<!-- The final showdown between the commercial and the traditional system took place as the Opium Wars wherein the Chinese were defeated.
+In all the different stages of wealth and improvement, wheat is a more accurate measure of value than any other commodity.
 
-Because of the European commercial system and colonization, all countries adopted the European system of precious metals.
+In all those different stages, we can judge the real value of silver by comparing it with wheat than any other commodity.
+{{< /q >}}
 
-This led to:
-- national currencies which were intially based on the gold standard, but later was replaced by fiat money
-- money being the sole tool for valuation and exchange
-
-This disrupted the natural balance of the 4 classes (Worker, Leader, Thinker, Trader) giving more importance to traders and merchants.  -->
-
-### Stores of Value
-
-We can classify resource mechanisms into two:
-
-Basis | Examples
---- | ---
-Trust-based | Fiat Money, Cryptocurrency 
-Commodity-based | Gold Standard, Use of salt, shells, nails, oxen, etc
-<!-- Morality-based | Points such as quipu strings -->
-
-
-1. Trust-based
-
-These rely on some common interest that may or may not be moral. For example, the US Dollar bill has the words "In God We Trust". This implies a common interest in trusting the system. 
-
-The same is true for cryptocurrencies wherein you have blind trust in the crypto issuer. 
-
-
-2. Commodity-based
-
-These are the native means of exchange. Examples, as meniotned earlier, are the use of salt, gold dust, precious metals, shells, etc. This relies on tangible objects and is natural for all humans.  
-
-
-<!-- 3. Morality-based
-
-This relies on the sense of morals that are defined by an authority. An example is the ayni system of the Inca which uses quipu strings for valuation and exchange. This requires training for the users and can only happen in well-knit societies.    -->
-
-
-The current economic system, just like blockchain, is trust-based since fiat money is not backed by any commodity. This is why it can crash spectacularly. 
-
-Our solution is a hybrid system, using both trust and commodities. 
-- The trust manifests as a general and a bilateral credit score
-- THe commodity is based on the common grain food of the people
-
-<!-- Supereconomics is based on sustainability and so we will discuss this extensively, specifically as a points-based system similar to the Incan. -->
-
+This concept is the foundation of the grain index which will be used for: 
+- Net Domestic Product
+- Zero Inflation Goal 

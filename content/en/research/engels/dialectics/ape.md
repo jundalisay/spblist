@@ -49,7 +49,7 @@ Charles Darwin has given us an approximate description of these ancestors of our
 Their hands had different functions than the feet when climbing. They began to lose the habit of using their hands to walk and adopted a more and more erect posture. 
 - This was the decisive step in the transition from ape to man.
 
-![Monkey](/graphics/meta/monkey.jpg)
+![Monkey](/graphics/meta/mirror.jpg)
 
 All extant anthropoid apes can stand erect and move about on their feet alone, but only in case of urgent need and in a very clumsy way. 
 - Their natural gait is in a half-erect posture and includes the use of the hands. 

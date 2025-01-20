@@ -1,7 +1,7 @@
 ---
 title: "The Ego Separates the Union of Souls"
 heading: "Chapter 1b"
-image: "/graphics/meta/monkey.jpg"
+image: "/graphics/meta/mirror.jpg"
 date: 2021-07-01
 weight: 4
 description : "A society is three or more entities working towards a common interest or goal"

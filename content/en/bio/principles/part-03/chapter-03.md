@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 1"
+heading: "Chapter 3"
 title: Maximized Farming
 # title: "David Hume's Idea of the Self" # heading: "There are 3 billion yous"
 date: 2020-01-31
-weight: 2
+weight: 22
 image: "/photos/grains.jpg"
 description: Maximized Farming is based on the 5 Layers as they apply to agriculture.
 writer:
@@ -24,14 +24,25 @@ Convertible | The changes caused by the previous layers to the farm
 Material | The chemicals and elements and other effects existing or produced in the farm
 
 
+
 ### Aethereal: Utility and Self-Reliance
 
-The goal of the aethereal layer is for the farm to be useful to its users. 
+The very first step is to identify the *general* nature of the plants or animals in question. 
+
+This includes:
+- their compatibility with the soil and with each other
+- their ease or difficulty and maintenance
+- their harvest or slaughter method
+- their storage and transportation
+
+<!-- The goal of the aethereal layer is for the farm to be useful to its users.  -->
 
 
 ### Spacetime: No Waste, Mixed Intercroping
 
-The concept of maximization enters in this layer. This involves the maximization of the land as well as resources for farming. In this way, this layer facilitates the goals of the aethereal layer above it. 
+The concept of maximization enters in this layer.
+
+This involves the maximization of the land as well as resources for farming. In this way, this layer facilitates the goals of the aethereal layer above it. 
 
 Included here is the physical location of the farm such as elevation, type of soil, etc. as well as the time of planting and the seasons. 
 
@@ -56,6 +67,7 @@ In addition, the "cooperation" of plants, a new concept advanced by Maximized Fa
 This includes the light and temperature which are really details of the previous spacetime layer. 
 
 
+
 ### Convertible: Growth and Evolution of the Farm
 
 The interaction of the plants with the landlords, farmers, location, climate, etc then produce the changes in the plants which we see as growth. This layer is where farming techniques and tactics are implemented just as farming strategy and overall planning are done in the aethereal layer. 
@@ -65,4 +77,3 @@ The interaction of the plants with the landlords, farmers, location, climate, et
 ### Material: Resources
 
 The farming techniques will require material resources in order to create the growth or evolution that will match the goals set in the aethereal  layer.   This includes fertilizers, farming tools, pesticides, farming infrastruture, etc. 
-

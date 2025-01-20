@@ -146,8 +146,9 @@ Let us suppose that a bounty of 60 pence on the exportation of the quarter* of w
 The people must pay an extra 48 pence on every quarter of wheat they consume.
 This is in addition to the bounty of 60 pence they must pay. [48 + 60 = 108 pence]
 
-According to the very well informed author of the tracts upon the corn trade, the average proportion of exported corn to corn consumed at home is not more than 1= 31.
-    For every 60 pence the people pay for the bounty, they must contribute 1,488 pence as payment on the higher price of corn. [48 pence * 31 = 1,488 pence]
+According to the very well informed author of the tracts upon the corn trade, the average proportion of exported corn to corn consumed at home is not more than 1:31.
+
+For every 60 pence the people pay for the bounty, they must contribute 1,488 pence as payment on the higher price of corn. [48 pence * 31 = 1,488 pence]
 
 This very heavy price of a basic food necessity must:
 - reduce the subsistence of the labouring poor, and

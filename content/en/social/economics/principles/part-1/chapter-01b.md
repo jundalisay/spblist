@@ -43,13 +43,17 @@ You might be very hungry and want to eat at an Indian restaurant, but your partn
 According to Adam Smith, we should have fellow-feeling and address the needs of others.
 - But according to Maslow's hierarchy of needs, we should eat separately. 
 
+
+### Overhauling Maslow and Disregarding Marginal Utility
+
+Maslow's hierarchy of needs views the lower physiological needs as more urgent. This manifests as economic systems emphasizing immediate utility over their long-term consequences.
+
+
 {{< img src="/graphics/econ/maslow.jpg" alt="Abraham Maslow hierarchy of needs" cap="Maslow's 'hierarchy of needs' gives more emphasis to utility by starting in the lower material layer and then moving up to the higher needs" >}}
 
 <!-- It uses the bodily needs to make a path towards self-actualization -->
 
 <!-- The dominance of the material sensations is proven in Abraham Maslow's artificial hierarchy of needs. It says that physical physiological and safety needs have more scope and more primary importance than the metaphysical needs of belonging, esteem, and self-actualization.  -->
-
-
 
 {{< q a="Maslow" >}}
 These physiological needs are the most pre-potent of all needs. In the human being who is missing everything in life in an extreme fashion, it is most likely that the major motivation would be the physiological needs rather than any others.
@@ -58,19 +62,30 @@ A person who is lacking food, safety, love, and esteem would most probably hunge
 {{< /q >}}
 
 
-It views the lower needs as more urgent. This manifests as economic systems emphasizing immediate utility over their long-term consequences.
+The great big problem with this method is that the metaphysical dimension is superior to the material dimension. 
 
-The great big problem with this method is that the metaphysical dimension is superior to the material dimension. Using material things to achieve the metaphysical goals is as ineffective as using drugs to make oneself happy, or using makeup to seem beautiful. 
+
+Using material things to achieve the metaphysical goals is as ineffective as:
+- using drugs to make oneself happy, or
+- using makeup to seem beautiful
 
 The result of these is a fake or artificial happiness which is temporary at best. 
 
 This then leads to the need for repetition to sustain that fake happiness which then leads to addiction and withdrawal symptoms. These then result in pain and unhappiness as a natural karma for trying to achieve metaphysical goals in the wrong or artificial way.
 
-Economic systems fall for this.
+Economic systems fall for this and is why they have the concept of marginal utility which reveals a reduction in pleasure. 
+- To avoid this, they create profit maximization. 
 
-That is why money and prices become a sort of drug which creates addiction to those who follow the utility and marginal pricing theories of Economics. 
+This would be like:
+- using more different drugs to make oneself happy
+- going beyond makeup and into plastic surgery to make oneself beautiful
 
-Their karma then is the volatility in their prices and valuation which also bring in [pain, unhappiness,and even death](https://edition.cnn.com/2020/06/19/business/robinhood-suicide-alex-kearns/index.html). This volatility is unacceptable if we want to create a better system that is more stable, sustainable, and non-fatal.
+
+In Economics, money and prices become a sort of drug which creates addiction to those who follow utility and marginal pricing theories. 
+
+Their karma then is the volatility in their prices and valuation which also bring in [pain, unhappiness,and even death](https://edition.cnn.com/2020/06/19/business/robinhood-suicide-alex-kearns/index.html). 
+
+This volatility is unacceptable if we want to create a better system that is more stable, sustainable, and non-fatal.
 
 
 ## An Alternative to "Selfish Interest"
@@ -86,10 +101,8 @@ It is an established maxim in metaphysics, that whatever the mind clearly concei
 
 
 This metaphysical starting point is called the idea of the self. 
-
-The path taken by the self is then ruled by its interest as 'self-interest' which is an ambiguous word. 
-
-One may be 'interested' in pursuing material pleasures or in achieving spiritual goals. Western authors solve this by specifying an enlightened self-interest, as opposed to the ordinary one. 
+- The path taken by the self is then ruled by its interest as 'self-interest' which is an ambiguous word. 
+- One may be 'interested' in pursuing material pleasures or in achieving spiritual goals. Western authors solve this by specifying an enlightened self-interest, as opposed to the ordinary one. 
 
 But the word 'enlightened' is also unclear.
 - Is stealing $1 more enlightened than stealing $1,000? 
@@ -160,8 +173,10 @@ Therefore, his passion in baking represents:
 - the nominal price to his customers, as the First Law of Value
 - the real price for himself, as the Second Law of Value
 
-This focus on svadharma, from the viewpoint of the seller, makes up the Effort Theory of Value which is an essential component of the Second Law of Value.  
+If you do what you are passionate about then utility will always be at a maximum and there will be no marginal utility. This is why Supereconomics can do without marginal utility.
 
+
+This focus on svadharma, from the viewpoint of the seller, makes up the Effort Theory of Value which is an essential component of the Second Law of Value.  
 
 In contrast, in Economics, a baker bakes because he is supposed to be chasing the profits as the money from bread sales. To get more money, he logically must:
 - adulterate his goods
@@ -171,8 +186,7 @@ In contrast, in Economics, a baker bakes because he is supposed to be chasing th
 
 In other words, the economic baker is not a baker but a merchant masquerading as a baker. More commonly, the baker was brainwashed to become a merchant.
 
-
-Supereconomics keeps the baker as a baker and the merchant as a merchant. This is to preserve the division of labor in society. 
+Supereconomics keeps the baker as a baker and the merchant as a merchant. This is to preserve the division of labor in society and put everyone in their proper supereconomic place.
 
 
 

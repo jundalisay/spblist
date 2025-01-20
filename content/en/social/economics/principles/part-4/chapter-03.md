@@ -13,7 +13,7 @@ writer:
 
 <!-- The Force of Capital 
 The Time Value of Capital  -->
-
+{{< i s="/graphics/econ/resourcemechanism.png" a="Resource Mechanisms" c="Money is the crudest resource mechanism. This is why it is often said to be the root of all evil." >}}
 
 The time value of money states that a dollar today is worth more than a dollar tomorrow. This is due to a few key reasons:
 

@@ -31,8 +31,9 @@ Psychology | Consciousness Comes From Brain | Ineffective Treatments that cause 
 
 ### The Sophistries in the Sciences
 
-The Indians, through the Vedas, were the first ones to discover the truth of the illusion of reality -- the physical universe was itself false. This then led them to have a culture of renouncing the world and chasing the Truth. 
+The Indians, through the Vedas, were the first ones to discover the illusion of reality -- the physical universe was itself false. This led them to have a culture of renouncing the false world and chasing the Truth.
 
+However, there are many who want to favor the illusion. Such people were called Sophists in ancient Greece.
 
 {{< q a="Foreigner" c="The Sophist" >}}
 The Sophist has a sort of conjectural or apparent knowledge, which is not the truth.
@@ -130,7 +131,7 @@ Einstein shows that he is aware of the scam, as "reasoning in a circle". Yet he 
 
 This is why **Relativity works very well in measuring things** even if it throws away causation altogether -- because all it can do is to measure things.  
 
-{{< q a="Linke" c="100 Authors Against Einstein" >}}
+{{< q a="Professor Dr. P. F. Linke" c="100 Authors Against Einstein" >}}
 In the building of a physics in this way, Relativity provides evidence of its feasibility. The task of research is the establishment of the truth. The only question is **whether this feasibility was achieved at the expense of the truth**. It is an open secret that thinking about the categorical foundations of Relativity actually leads to logical difficulties. 
 {{< /q >}}
 
@@ -140,6 +141,8 @@ In the building of a physics in this way, Relativity provides evidence of its fe
 Relativity is useful when you need some accuracy in timekeeping, such as in GPS.
 
 But that's it. 
+
+All successful tests of Relativity are just measurements using light or electromagnetism. It doesn't even allow you to move anything. 
 
 Through Einstein, Physics gets that German precision in timekeeping, **but loses how Nature actually works**. 
 
@@ -178,11 +181,11 @@ Both Poincare and Sabine Hossenfelder blames the collapse of Physics to the domi
 The mathematicians of the Berlin school have devoted themselves to constructing this continuous scale of irrational and fractional numbers using only the integer. The mathematical continuum from this point of view would be a pure creation of the mind in which experiment would have no part
 {{< /q >}}
 
-Ideally, math should be used by engineering which would then implement the theory. Both Newton and Maxwell were strong experimentalists just as they were good at math.
+Ideally, math should be used by engineering which would then implement the theory. Both Newton and Maxwell were strong at experimentation just as they were good at math.
 
-But the people after Maxwell seemed to lack experimental ability. 
+But the people after Maxwell seemed to lack experimentation ability. 
 
-Our experiments with Cartesian aether could be done with household equipment and gauge blocks. So there is no excuse for richer countries to have weak experimental ability. 
+Our experiments with Cartesian aether could be done with household equipment and gauge blocks. So there is no excuse for richer countries to have weak experimentation ability. 
 
 
 ## The Solution
@@ -251,7 +254,7 @@ More importantly, it restores the aether, via mental spacetime. You can now use 
 
 This will then allow it to levitate or at least become lighter, as done by levitating Buddhist monks. 
 
-{{< youtube ufORgD0s2Mo >}}
+{{< youtube 6y3bqvRWRSA >}}
 
 
 For material bodies, such as vehicles, this can be done by applying Maxwell's 4th Equation, which is about waves and energy, onto gravity. 
