@@ -56,15 +56,3 @@ Economically, it supports state control over capitalists.
    - **Economic Characteristics**: Centralized control over industries, corporatism (collaboration between the state and large corporations), and militarization of the economy. -->
 
 Examples are Nazi Germany and Fascist Italy under Mussolini.
-
-
-#### d. **Capitalism**
-   - **Core Ideas**: Capitalism emphasizes **private ownership of property** and the means of production, with minimal state intervention. It relies on the profit motive, competition, and free markets to allocate resources and generate wealth.
-   - **Economic Characteristics**: Market-driven economy, minimal regulation, and wealth accumulation through individual and corporate entrepreneurship.
-   - **Examples**: Modern capitalist economies, especially in countries like the USA, UK, and most Western nations.
-
-#### e. **Democratic Socialism**
-   - **Core Ideas**: Democratic socialism combines the **democratic political system** with **socialist economic policies**. It advocates for the **public ownership** of essential industries and services (e.g., healthcare, education) while allowing private ownership in other sectors.
-   - **Economic Characteristics**: High taxation, wealth redistribution, universal public services, and workers' rights protection.
-   - **Examples**: Modern Scandinavian countries (e.g., Denmark, Norway), as well as the UK under Labour governments.
-

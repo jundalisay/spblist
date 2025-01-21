@@ -69,7 +69,7 @@ The part of our hand that touches the nail closely is **smaller** than the part 
 
 <!-- than the rest of the hand, as far as it can be separated from the other parts of the same hand, has the nature of another body.  -->
 
-This small part of our hand is more easily separated from the rest of the hand than the part of the nail from the rest of the nail.
+**This small part of our hand is more easily separated from the rest of the hand than the part of the nail from the rest of the nail.**
 
 This is why trying to separate the nail with our hand produces pain.
 <!-- , we cannot break the iron nail with one hand alone;  -->

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 11c"
-title: "Objectivism and Libertarianism"
+title: "Neoliberalism and Globalization"
 linkTitle: Both Objectivism and Neoliberalism are oligarchic ideologies.  
 # date: 2015-07-24
 date: 2025-01-02
@@ -14,9 +14,11 @@ icon: /icons/pantry.png
 ---
 
 
-### 2. **Neoliberalism**
-   - **Core Ideas**:
-     - **Free Markets and Deregulation**: Neoliberalism advocates for a minimal role of the state in the economy, stressing that markets are the most efficient way to allocate resources. It calls for **privatization** of state-owned enterprises, **deregulation** of industries, and **global free trade**.
+### Neoliberalism
+
+Neoliberalism emerged from the  
+
+**Free Markets and Deregulation**: Neoliberalism advocates for a minimal role of the state in the economy, stressing that markets are the most efficient way to allocate resources. It calls for **privatization** of state-owned enterprises, **deregulation** of industries, and **global free trade**.
      - **Individual Responsibility**: It places a strong emphasis on personal responsibility and self-reliance over state-provided welfare.
      - **Globalization**: Neoliberalism encourages the free movement of capital, goods, and services across borders, which often leads to reduced tariffs and trade barriers.
      - **Market-driven solutions**: Neoliberalism argues that the market can solve social issues (e.g., healthcare, education) better than government intervention.

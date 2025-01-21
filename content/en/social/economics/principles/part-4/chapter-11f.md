@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 11c"
-title: "Objectivism (Libertarianism), Neoliberalism Oligarchy"
+heading: "Chapter 11f"
+title: "Neoliberalism, Oligarchy, and Technocracy"
 linkTitle: Both Objectivism and Neoliberalism are oligarchic ideologies.  
 # date: 2015-07-24
 date: 2025-01-02
@@ -14,43 +14,9 @@ icon: /icons/pantry.png
 ---
 
 
-**Libertarianism**, **Liberalism**, **Oligarchy**, and **Technocracy** are all distinct political and governance systems, each with its own principles, goals, and methods of organizing society. Below is an exploration of each system, followed by a comparison of their core differences:
 
----
+### Oligarchy
 
-### 1. **Libertarianism**
-   - **Core Ideas**:
-     - **Emphasis on Individual Freedom**: Libertarianism is a political philosophy that prioritizes **individual liberty** and autonomy. It advocates for minimal government intervention in both personal lives and the economy.
-     - **Minimal Government**: Libertarians argue for a **minimal state**—often referred to as a **night-watchman state**—which is primarily concerned with protecting individuals' rights (e.g., property rights, personal safety, and freedom of speech). The government’s role should be restricted to law enforcement, national defense, and the judicial system.
-     - **Free Markets**: Libertarianism supports **free-market capitalism**, advocating for voluntary exchange without government regulation, taxation, or redistribution.
-     - **Non-Aggression Principle**: Libertarians believe that the initiation of force is inherently wrong and that individuals should interact voluntarily and peacefully.
-
-   - **Key Principles**:
-     - **Private property rights**
-     - **Freedom of choice**
-     - **Self-ownership**
-     - **Non-interventionist policies**
-
----
-
-### 2. **Liberalism**
-   - **Core Ideas**:
-     - **Emphasis on Individual Rights and Equality**: Liberalism is a political and moral philosophy that emphasizes the protection of individual rights, **freedom**, and **equality**. It has evolved over time and has two primary strands: **classical liberalism** and **social liberalism**.
-     - **Classical Liberalism**: Focuses on individual freedom, limited government, and free-market economics. It advocates for minimal government interference, similar to libertarianism, but is more accepting of certain government functions, such as maintaining a social safety net.
-     - **Social Liberalism**: This strand supports a **welfare state**, with more active government involvement in the economy to ensure social justice and reduce inequality. Social liberals argue that the government should play a role in regulating markets, providing public goods (like healthcare and education), and redistributing wealth to ensure fairness.
-
-   - **Key Principles**:
-     - **Freedom of speech**
-     - **Equality before the law**
-     - **Social justice**
-     - **Democratic governance**
-
-   - **Modern Liberalism** (especially in the U.S. and Europe) tends to favor a **regulated market economy**, **universal healthcare**, and **progressive taxation**.
-
----
-
-### 3. **Oligarchy**
-   - **Core Ideas**:
      - **Rule by the Few**: An **oligarchy** is a political system in which power is concentrated in the hands of a small group of individuals, families, or organizations. This ruling group typically holds significant wealth, power, or influence.
      - **Elite Control**: Oligarchies often maintain their power through control over key resources, such as the economy, media, military, or political institutions. Unlike democracy, where power theoretically lies with the people, an oligarchy ensures that decision-making is largely restricted to a privileged few.
      - **Concentration of Power**: Oligarchies are often characterized by **corruption**, **nepotism**, and a lack of political competition. The ruling class might exploit their power for personal gain, suppressing opposition and maintaining control over the state.
@@ -60,19 +26,18 @@ icon: /icons/pantry.png
      - **Economic and political power are concentrated**
      - **Limited or no political competition**
 
----
 
 ### 4. **Technocracy**
-   - **Core Ideas**:
-     - **Rule by Experts**: A technocracy is a political system in which **technical experts** (scientists, engineers, economists, etc.) hold decision-making power, particularly in areas requiring specialized knowledge. Technocrats believe that governance should be guided by scientific principles and data-driven policies rather than by political ideologies or popular opinion.
-     - **Focus on Efficiency and Rationality**: Technocracy aims to optimize societal organization based on rational, evidence-based decision-making. It is rooted in the belief that experts can make better policy decisions than politicians because they are better equipped to understand complex systems.
-     - **Economic Planning**: Technocrats often advocate for **centralized economic planning** that is guided by data and expertise. This includes managing resources, production, and distribution to ensure efficiency and sustainability.
+ - **Core Ideas**:
+   - **Rule by Experts**: A technocracy is a political system in which **technical experts** (scientists, engineers, economists, etc.) hold decision-making power, particularly in areas requiring specialized knowledge. Technocrats believe that governance should be guided by scientific principles and data-driven policies rather than by political ideologies or popular opinion.
+   - **Focus on Efficiency and Rationality**: Technocracy aims to optimize societal organization based on rational, evidence-based decision-making. It is rooted in the belief that experts can make better policy decisions than politicians because they are better equipped to understand complex systems.
+   - **Economic Planning**: Technocrats often advocate for **centralized economic planning** that is guided by data and expertise. This includes managing resources, production, and distribution to ensure efficiency and sustainability.
 
-   - **Key Principles**:
-     - **Expert-driven governance**
-     - **Rational, data-based decision-making**
-     - **Emphasis on efficiency and productivity**
-     - **Potential centralization of economic planning**
+ - **Key Principles**:
+   - **Expert-driven governance**
+   - **Rational, data-based decision-making**
+   - **Emphasis on efficiency and productivity**
+   - **Potential centralization of economic planning**
 
 ---
 
