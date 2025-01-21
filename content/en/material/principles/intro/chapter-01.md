@@ -44,9 +44,11 @@ The 4th force as gravity is not yet fully understood by Modern Physics. To under
 
 Modern Physics came from Isaac Newton who came up with classical mechanics to explain why 17th-century things move. For example, a falling apple immediately includes 3 of the 5 forces:
 
-1. Strong force to keep the apple's identity
+1. Strong force to keep the apple's identity and not go through the earth*
 2. Gravitational force to make the apple fall
-3. Electromagnetism for the apple to be seen and to repel the Earth so as to not fall through the soil  
+3. Electromagnetism for the apple to be seen  
+
+{{< n n="In Material Superphysics, contact forces are facilitated by the same mechanism as the Strong Force which we call aetherspace particles" >}}
 
 <!-- > *Newton's Principia is written in Latin, the language of the Roman Empire -->
 
@@ -63,9 +65,14 @@ Whereas, when you think about `peace`, `prosperity`, and `love`:
 
 This is why Socrates said that the mathematician cannot possibly discover how the greater universe works. Rather, it is the dialectician who can.  
 
-{{< q a="Socrates" c="The Republic by Plato Simplified, Book 7" >}}
-Surely the skilled mathematician is not a dialectician.
-{{< /q>}}
+{{< l a="Socrates" >}}
+Surely the skilled mathematician is not a dialectician. (The Republic by Plato Simplified, Book 7)
+{{< /l >}}
+
+{{< r a="Glaucon" >}}
+Surely no, I do not know any mathematician capable of reasoning.
+{{< /r >}}
+
 
 
 This is consistent with great sages being bad at math:
@@ -79,12 +86,15 @@ afterwards recount from memory, to the great joy of the villagers. He enjoyed pa
 
 Newton's ignorance of metaphysics is why he could not find the cause of gravity.
 
+{{< q a="Hume" c="Treastise of Human Nature" >}}
+The Newtonian philosophy asserts that the real nature of space is unknown.
+{{< /q >}}
+
+Without the ability to 'feel for the universe', Newton has no choice but to use the "shut up and calculate" way of reasoning. 
+
 {{< q a="Newton" c="Principia Mathematica Book 3, General Scholium" >}}
 But I have not been able to discover the cause of gravity from phenomena. I have no hypotheses because hypotheses have no place in experimental philosophy.. To me, it is enough that gravity exists and that it accounts for all the motions of the the celestial bodies, and of our sea. 
 {{< /q >}}
-
-
-Without the ability to 'feel for the universe', Newton had no choice but to make predictions for the universe based on the [prophecies of Daniel](/research/newton/daniel/part-1) in the Bible.  
 
   <!-- go But it is most obvious in his attempts to find hidden codes or prophecies in the Bible.  -->
 
@@ -95,8 +105,11 @@ The knowledge of metaphysics can be revealed by knowing the nature of the **aeth
   - This is good for quantifying and therefore math and engineering
 
 The operations of the mind for math and for philosophy are very different. 
-- A good philosopher often is bad at math
-- An excellent mathematician is often awful at philosophy
+- Philosophy requires both heart and brain
+- Math requires brain only, as proven by calculators that have zero heart
+
+<!-- - A good philosopher often is bad at math
+- An excellent mathematician is often awful at philosophy -->
 
 In fact, it is common to hear about mathematicians theorizing about paradoxes involving infinitity. This is merely a waste of time and mental energy. 
 
@@ -124,7 +137,9 @@ Physicists are still mystified by gravity, as proven by the lack of anti-gravity
 
 Einstein's General Relativity (GR) was supposed to explain it. Like Newton, Einstein was good at math and also chose to base his principles on the obvious. In this case, Einstein chose to base time on light when in reality, time should be based on psychology. 
 
-This has led to his [field equations being unsolvable](https://www.forbes.com/sites/startswithabang/2019/12/04/this-is-why-scientists-will-never-exactly-solve-general-relativity/).
+We call this the [Einstein trap or the Relativity scam](/material/fallacies/scam).
+
+<!-- This has led to his [field equations being unsolvable](https://www.forbes.com/sites/startswithabang/2019/12/04/this-is-why-scientists-will-never-exactly-solve-general-relativity/). -->
 
 
 ## The Asian Model
@@ -141,7 +156,7 @@ Earth (cube) | Pritvi | 金 solid metal | Cube ![Cube](/graphics/physics/cube.gi
 
 
 
-## Superphysics Uses Layers Instead of Fields
+## Superphysics Uses Layers Instead of Fields, Data Models Instead of Equations
 
 Physicists think in 'fields' as a consequence of Faraday assigning '[lines of force](/research/whittaker/aether/chapter-06)' to electromagnetic phenomena. 
 
@@ -151,7 +166,9 @@ But this is refuted by Timeaus who wrote that circular motion is the default mot
 The universe was made to move in the same way and on the same spot, within his own limits revolving in a circle. All the other 6 motions were taken away from it. As this circular movement required no feet, the universe was created without legs and without feet.
 {{< /q >}}
 
-This was later developed by Descartes in his theory of vortices. This is why we use layers (and slices) instead of fields. 
+This was later developed by Descartes in his theory of vortices. This is why we use layers (and slices) instead of fields.
+
+The top layer, aether, always changes and so we use data models that have conditionals.  
 
 We then unify all the understandings of the Romans, Greeks, Hindus, and Chinese under our 5-Layer model:
 
@@ -162,7 +179,7 @@ Aethereal | Aether, Akasha, 水 (still water) | Pseudo-science | Mind
 Spatial | Air, Vayu, 木 (moving wood) | Gravity | Space
 Radiant | Fire, Tejas, 火 (expanding fire) | Electromagnetism | Radiance
 Convertible | Water, Jala, 土 (changing earth) | Weak | Conversion 
-Material | Earth, Pritvi, 金 (solid metal) | Strong | Near-Void Aetherspace
+Material | Earth, Pritvi, 金 (solid metal) | Strong | Aetherspace
 
 <!-- Rank | Name | Greek-Hindu | Chinese | Physics Force | Superphysics Force | Force Carrier | Resulting particles in Superphysics | Pythagorean Note
 --- | --- | --- | --- | --- | --- | --- | --- | --- 

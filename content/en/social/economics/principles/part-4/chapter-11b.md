@@ -143,3 +143,9 @@ The labourer, who receives wages, sells his labour for a day.. The manufacturer,
 {{< img alt="Stock price ticker" cap="Stocks and stock prices are inseparable from modern capitalism just as commodities and commodity prices were inseparable from mercantilism" src="https://socioecons.files.wordpress.com/2015/07/fm50.jpg" >}}
 
 
+<!-- Capitalism emphasizes **private ownership of property** and the means of production, with minimal state intervention. It relies on the profit motive, competition, and free markets to allocate resources and generate wealth.
+
+Economic Characteristics**: Market-driven economy, minimal regulation, and wealth accumulation through individual and corporate entrepreneurship.
+
+Examples**: Modern capitalist economies, especially in countries like the USA, UK, and most Western nations. -->
+

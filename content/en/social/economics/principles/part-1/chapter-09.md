@@ -4,7 +4,7 @@ linkTitle: Chapter 9
 title: "The Rural Economy: Farming Models"
 weight: 34
 # date: 2022-08-04
-image: /photos/grains.jpg
+image: /photos/bio/plant.jpg
 description: "In Supereconomics, both urban and rural economies have importance. This is because it also gives importance to the wildlife and natural environment"
 writer:
   name: Juan
@@ -163,6 +163,8 @@ Examples are local CSA farms in the United States, Europe, and parts of Asia.
 Urban agriculture involves growing crops within city environments, often using innovative farming techniques such as vertical farming or hydroponics.
 
 Urban farms may be small and located on rooftops, vacant lots, or inside buildings. 
+
+{{< i s="/photos/bio/plant.jpg" a="Plant" >}}
 
 Vertical farming uses stacked layers or hydroponic systems to grow crops indoors, utilizing artificial light and climate control.
 

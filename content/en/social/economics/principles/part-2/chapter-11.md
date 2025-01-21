@@ -17,8 +17,15 @@ writer:
 The dominance of the Warrior Class usually leads to the following economic ideologies:
 
 1. Communism
-2. Fascism
+2. Feudalism and Fascism
 
+
+## Communism
+
+
+   - **Core Ideas**: Communism, based on Marxist principles, seeks to establish a classless society by abolishing private property and capitalism entirely. It envisions the collective ownership of the means of production, where all goods and services are distributed based on need rather than profit.
+   - **Economic Characteristics**: Complete state ownership of resources, centralized planning, and the eventual elimination of money and markets.
+   - **Examples**: Former Soviet Union, China under Mao Zedong.
 
 ## The Demands of Communism
 
