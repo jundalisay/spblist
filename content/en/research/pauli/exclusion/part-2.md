@@ -12,7 +12,7 @@ The problem of the closing of the electronic shells was not clear.
 
 The only thing that was clear was that a closer relation of this problem to the theory of multiplet structure must exist. I therefore tried to examine again critically the simplest case, the doublet structure of the alkali spectra.
 
-According to the point of view then orthodox, which was also taken over by Bohr in his already mentioned lectures in Göttingen,
+According to the point of view then orthodox, which was also taken over by Bohr in his already mentioned lectures in Göttingen.
 
 
 ### Classically Non-describable Two-valuedness
