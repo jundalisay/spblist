@@ -8,15 +8,46 @@ date: 2025-01-11
 ---
 
 
-The word Economy, or Œconomy, is derived from οἰκός, a house, and νόμος, law, and meant originally only the wise and legitimate government of the house for the common good of the whole family.
+The word "Œconomy" is derived from:
+- οἰκός, a house
+- νόμος, law
 
-This was was then extended to the government of that great family, the State. To distinguish these two senses of the word, the latter is called general or political economy, and the former domestic or particular economy. The first only is discussed in the present discourse.
+It originally meant only the wise and legitimate government of the house for the common good of the whole family.
 
-Even if there were as close an analogy as many authors maintain between the State and the family, it would not follow that the rules of conduct proper for one of these societies would be also proper for the other.
+This was was then extended to the government of that great family, the State.
 
-They differ too much in extent to be regulated in the same manner; and there will always be a great difference between domestic government, in which a father can see everything for himself, and civil government, where the chief sees hardly anything save through the eyes of others. To put both on an equality in this respect, the talents, strength, and all the faculties of the father would have to increase in proportion to the size of his family, and the soul of a powerful monarch would have to be, to that of an ordinary man, as the extent of his empire is to that of a private person's estate.
+To distinguish these two senses of the word:
+- the state economy is called general or political economy
+- the family economy is called domestic or particular economy. 
 
-But how could the government of the State be like that of the family, when the basis on which they rest is so different? The father being physically stronger than his children, his paternal authority, as long as they need his protection, may be reasonably said to be established by nature. But in the great family, all the members of which are naturally equal, the political authority, being purely arbitrary as far as its institution is concerned, can be founded only on conventions, and the Magistrate can have no authority over the rest, except by virtue of the laws. The duties of a father are dictated to him by natural feelings, and in a manner that seldom allows him to neglect them. For rulers there is no such principle, and they are really obliged to the people only by what they themselves have promised to do, and the people have therefore a right to require of them. 
+I will talk about the political economy.
+
+There is a close analogy between the State and the family.
+
+But the rules of conduct proper for one is not proper for the other.
+
+<!-- They differ too much in extent to be regulated in the same manner; and there will always be a great difference between -->
+
+In a domestic government, a father can see everything.
+
+In a civil government, the chief sees hardly anything save through the eyes of others.
+
+For them to be the same, the talents, strength, and the faculties of the king would have to increase in proportion to the size of his empire. 
+
+<!-- family, and the soul of a powerful monarch would have to be, to that of an ordinary man, as the extent of his empire is to that of a private person's estate. -->
+
+<!-- But how could the government of the State be like that of the family, when the basis on which they rest is so different?  -->
+
+The father is physically stronger than his children.
+
+<!-- , his paternal authority, as long as they need his protection, may be reasonably said to be established by nature.  -->
+
+But in the state:
+- all the members are naturally equal.
+- the political authority is:
+  - purely arbitrary
+  - founded only on conventions
+- the Magistrate can have no authority over the rest, except by virtue of the laws. The duties of a father are dictated to him by natural feelings, and in a manner that seldom allows him to neglect them. For rulers there is no such principle, and they are really obliged to the people only by what they themselves have promised to do, and the people have therefore a right to require of them. 
 
 Another more important difference is that since the children have nothing but what they receive from their father, it is plain that all the rights of property belong to him, or emanate from him; but quite the opposite is the case in the great family, where the general administration is established only to secure individual property, which is antecedent to it. 
 
