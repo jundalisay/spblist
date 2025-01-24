@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 11"
+heading: "Chapter 11b"
 title: "Socialism and Democracy"
 # date: 2022-07-30
 weight: 42
@@ -8,10 +8,11 @@ description: "The dominance of the Worker Class usually leads to the Socialist s
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay
+draft: true
 ---
 
 
-### Liberalism
+<!-- ### Liberalism
 
 This began right after the French Revolution.
 
@@ -67,13 +68,15 @@ It:
 Most anarchists seek:
 - the abolition of capitalism
 - decentralized decision-making, where power is distributed at the local level, and communities have autonomy over their own affairs
- <!-- seeing it as an economic system that exploits workers and reinforces inequality. -->
+seeing it as an economic system that exploits workers and reinforces inequality. -->
      
+
+
 It rejects private property in favor of collective ownership or communal resources.
 
 Advocacy for **self-managed cooperatives** and workers’ control of production.
-     - Anti-capitalist and anti-state, seeking to replace both with decentralized and voluntary systems of cooperation.
-     - **Free Markets** in some forms of anarchism (e.g., anarcho-capitalism), but usually combined with strong anti-authoritarian principles.
+- Anti-capitalist and anti-state, seeking to replace both with decentralized and voluntary systems of cooperation.
+- **Free Markets** in some forms of anarchism (e.g., anarcho-capitalism), but usually combined with strong anti-authoritarian principles.
 
 <!--      - **Anarcho-syndicalism**: A branch of anarchism focusing on direct worker control of industries through unions or syndicates.
      - **Anarcho-communism**: Advocates for a stateless, classless society with common ownership of the means of production.

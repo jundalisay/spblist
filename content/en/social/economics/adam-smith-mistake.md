@@ -7,8 +7,9 @@ description : "Adam Smith suggested some policies in the Wealth of Nations which
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+# icon: /icons/pantry.png
 ---
+
 
 Adam Smith wrote the Wealth of Nations as an attack on Mercantilism which has since evolved into Neoclassical Economics. Despite his attack, it's very strange for him to entrust an entire country's external trade to foreign merchants:
 <!-- For me, there is only one striking and significant error or wrong idea that has led to a big mistake that still exists today. It is Smith's advocacy of--> 

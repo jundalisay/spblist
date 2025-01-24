@@ -9,77 +9,79 @@ icon: "/avatars/krishna.png"
 ---
 
 
+<!-- Thou whom all mortals praise, Janardana! Now am I by thy doubtful speech disturbed!
+Tell me one thing, and tell me certainly;-->
 {{< r a="Arjuna" >}}
-Thou whom all mortals praise, Janardana!
+<sup>1</sup> If meditation is nobler than action then great Kesava, do you impel me to this dreadful fight?
 
-If meditation be a nobler thing than action, wherefore, then, great Kesava!
-Dost thou impel me to this dreadful fight?
-
-Now am I by thy doubtful speech disturbed!
-Tell me one thing, and tell me certainly;
-By what road shall I find the better end?
+<sup>2</sup> By what road shall I find the better end?
 {{< /r >}}
 
 
 {{< l a="Krishna" >}}
-There are 2 paths, 2 schools of wisdom.
+<sup>3</sup> There are 2 paths, 2 schools of wisdom.
 
 1. The Sankhya's
 
-This saves through the way of works or action or karma prescribed[FN#4] by reason
+This saves through the way of works or action or karma prescribed by reason
 
 2. The Yoga
 
 This is attained by meditation and spirituality.
 
-These are one.
+<sup>4</sup> These are one.
 - No one can escape karma by shunning action.
 - No one can attain perfection by mere renouncements .
 
 <!-- Nay, and no jot of time, at any time,
 Rests any actionless; his  -->
-
-Nature's law compels the yogi to act, even if he is unwilling. [Even thought is act in fancy]. 
-
-He who sits suppressing his bodily desires <!-- all the instruments of flesh, --> yet in his idle heart thinks about them is a guilty hypocrite. 
-
-But he who, with strong body serving mind, gives up his mortal powers to do worthy work, not seeking gain,  such a one is honourable. 
 {{< /l >}}
 
 
 {{< l a="Krishna" >}}
-Do your allotted task!
+<sup>5</sup> Nature's law compels the yogi to act, even if he is unwilling. [Even thought is act in fancy]. 
 
-Work is more excellent than idleness. The body's life proceeds not, lacking work.
+<sup>6</sup> A guilty hypocrite sits suppressing his bodily desires yet thinks about them in his idle heart. 
+
+<sup>7</sup> But an honourable person is he who, with strong body serving mind, gives up his mortal powers to do worthy work, not seeking gain. 
+{{< /l >}}
+
+
+{{< l a="Krishna" >}}
+<sup>8</sup> Do your duty! Work is more excellent than idleness. 
+
+Even the body's maintenance would not be possible by inaction.
+
+<sup>9</sup> The world is bound by actions other than those performed for the sake of sacrifice.
+
+Do thou, therefore, O son of Kunti, perform action for that sake (for sacrifice) alone, free from attachment!
+
+<!-- The body's life proceeds not, lacking work.
 There is a task of holiness to do, Unlike world-binding toil, which bindeth not
 
 The faithful soul; such earthly duty do
 Free from desire, and thou shalt well perform
 
-Thy heavenly purpose.
+Thy heavenly purpose. -->
 {{< /l >}}
 
 
 {{< l a="Krishna" >}}
-Prajapati said:
+<sup>10</sup> Prajapati said:
 
 {{< q >}}
-In the beginning, when all men were made,
-And, with mankind, the sacrifice-- "Do this!
-Work! sacrifice! Increase and multiply
-With sacrifice! This shall be Kamaduk,
-Your 'Cow of Plenty,' giving back her milk
-Of all abundance. Worship the gods thereby;
+In the beginning, when all men were made, And, with mankind, the sacrifice-- "Do this!
+Work! sacrifice! Increase and multiply With sacrifice! This shall be Kamaduk,
+Your 'Cow of Plenty,' giving back her milk Of all abundance. Worship the gods thereby;
 
-The gods shall yield thee grace. Those meats ye crave
-The gods will grant to Labour, when it pays
-Tithes in the altar-flame. But if one eats
-Fruits of the earth, rendering to kindly Heaven
+The gods shall yield thee grace. Those meats ye crave The gods will grant to Labour, when it pays Tithes in the altar-flame. But if one eats Fruits of the earth, rendering to kindly Heaven
 
 No gift of toil, that thief steals from his world."
 {{< /q >}}
+{{< /l >}}
 
 
+{{< l a="Krishna" >}}
 Those who eat food after their sacrifice are free of fault. But those who spread a feast all for themselves, eat and drink sin.
 
 Food comes of rain. Rain comes by the pious sacrifice. Sacrifice is paid with tithes of toil. 
@@ -117,6 +119,7 @@ For guidance, sinking back to sloth again
 Because I slumbered, would decline from good,
 And I should break earth's order and commit
 Her offspring unto ruin, Bharata!
+
 Even as the unknowing toil, wedded to sense,
 So let the enlightened toil, sense-freed, but set
 To bring the world deliverance, and its bliss;
@@ -154,24 +157,28 @@ The objects of the sense will stir the sense
 To like and dislike, yet th' enlightened man
 Yields not to these, knowing them enemies.
 
-Finally, this is better, that one do His own task as he may, even though he fail,
-Than take tasks not his own, though they seem good.
-To die performing duty is no ill;
+<!-- But who seeks other roads shall wander still. -->
 
-But who seeks other roads shall wander still.
+<sup>35</sup> It is better to do one's own duty, even he fails to succeed in doing the duty of another.
+It is better to die performing one's duty, than to do another's duty with fear. 
 {{< /l >}}
 
+<!-- Better is one’s own duty, though devoid of merit, than the duty of another well
+discharged.
+
+Better is death in one’s own duty; the duty of another is fraught with fear. -->
 
 {{< r a="Arjuna" >}}
-What causes a man to turn bad unwillingly? <!-- ; as if one
+<sup>36</sup> What causes a man to turn bad unwillingly? <!-- ; as if one
 Pushed him that evil path? -->
 {{< /r >}}
 
 
 {{< l a="Krishna" >}}
-It is karma and passion. These are born of the Darknesses, mighty of appetite, and are man's enemy!
+<sup>37</sup> It is desire, it is anger born of the quality of Rajas, all-sinful and all-devouring; know this
+as the foe here in this world.
 
-As smoke blots the white fire, as clinging rust
+<sup>38</sup> As smoke blots the white fire, as clinging rust
 Mars the bright mirror, as the womb surrounds
 The babe unborn, so is the world of things
 Foiled, soiled, enclosed in this desire of flesh.

@@ -4,13 +4,12 @@ heading: Chapter 10
 title: "The Worker Class"
 # date: 2022-08-01
 weight: 40
-image: /photos/medieval/slave.jpg
+image: /photos/econ/computer.jpg
 description: "The Worker Class is called the Shudras in Hinduism"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
-
 
 
 The First Law is aligned with the Worker class. 

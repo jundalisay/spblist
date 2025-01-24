@@ -31,12 +31,12 @@ This mirrors the Second Law of Thermodynamics which relates to heat transfer and
 {{< f f="*In Bio Superphysics, this manifests as the transference of properties to the body of whatever is affecting health. In Supersociology, this is the feelings of members of society affecting other members." >}}
  
 
-Exchange exists in both Economics and Superphysics. The latter, however, allows more mediums of exchange as fiat, barter, and points. 
-
-In our cake example, Mr. Chef baked a cake at $2 real price and exchanged it into $4 by selling it. 
+Exchange exists in both Economics and Supereconomics. The latter, however, allows more mediums of exchange as fiat, barter, and points. 
 
 
 ## Market Price
+
+In our cake example, Mr. Chef baked a cake at $2 real price and exchanged it into $4 by selling it. 
 
 The $4 is called the **market price** which is the actual price that the item is exchanged. Unlike the nominal price that might vary from customer to customer, the market price is applied to all customers. 
 
@@ -50,15 +50,24 @@ The $4 is called the **market price** which is the actual price that the item is
 
 ## Smith's Innovation on Market Prices: Moneyless
 
-Both Economics and Superphysics observe market prices. But what new thing can Supereconomics offer?
+Both Economics and Supereconomics observe market prices. But what new thing can Supereconomics offer?
 
-Economics was created from Mercantilism which is based on money. Superphysics is based on real value of whatever s important to the person, whether it be money, reputation, land, iPhones, family, etc. 
+Economics was created from Mercantilism which is based on money. 
 
-As such, it allows alternatives to money such as direct barter or indirect barter via points which are based on grains. Direct Barter is anything for anything now. Indirect Barter is anything for anything eventually.
+In contrast, Supereconomics is based on real value of whatever is important to the person, whether it be money, reputation, land, iPhones, family, etc. As such, it allows alternatives to money such as direct barter or indirect barter via points which are based on grains.
 
-Thus, the Fourth law leads to **finance and monetary systems** in Economics, and [points-based valuation](/social/economics/alternatives-to-money) and [points-banking](https://www.pantrypoints.com/trisactions/banking/) to Superphysics. 
+- Direct Barter is anything for anything now
+- Indirect Barter is anything for anything eventually
 
-The Fourth Law generates value through *primary arbitrage* or the difference of your skill and passion level versus the skill and passion of others. For example, if guitar-playing costs 1 unit of effort to you and 2 units of effort to another  person, then you can produce twice his value for the same effort. 
+Thus, the Fourth law leads to:
+- **finance and monetary systems** 
+- [points-based valuation](/social/economics/alternatives-to-money) and [points-banking](https://www.pantrypoints.com/trisactions/banking/)
+
+Economics only has finance. Supereconomics has both finance and barter. 
+
+The Fourth Law generates value through *primary arbitrage* or the difference of your skill and passion level versus the skill and passion of others. 
+
+For example, if guitar-playing costs 1 unit of effort to you and 2 units of effort to another  person, then you can produce twice his value for the same effort. 
 
 The Fourth Law spreads that value through *secondary arbtirage* or the difference between the market price and the natural price, which will be explained next. 
 

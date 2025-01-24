@@ -1,5 +1,5 @@
 ---
-title: "Basic Points Revenue as an Alternative to Microfinance"
+title: "Pointization: Basic Points Revenue"
 heading: "Chapter 3b"
 linkTitle: Chapter 3b
 weight: 18
