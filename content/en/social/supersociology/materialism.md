@@ -5,7 +5,7 @@ title: The Origin of Modern Western Materialism
 date: 2023-12-01
 weight: 12
 description: "Socially, materialism led to 2 materialist philosophies"
-image: "/photos/russia.jpg"
+image: "/photos/countries/ru/war.jpg"
 draft: true
 ---
 
@@ -50,5 +50,5 @@ These have caused a lot of conflict and suffering since matter is naturally crud
 - The West imposed financial wealth sanctions to make Russia change its offensive actions
 - Russia uses physical bombs and tanks to make Ukraine change into surrender
 
-{{< img src="/photos/russia.jpg" alt="Russian Invasion" cap="Superphysics explains universal principles. We show examples of how principles in one science is connected, and manifests, in another. In this case, the materialist principles manifest both in physics and politics/economics" >}}
+{{< img src="/photos/countries/ru/war.jpg" alt="Russian Invasion" cap="Superphysics explains universal principles. We show examples of how principles in one science is connected, and manifests, in another. In this case, the materialist principles manifest both in physics and politics/economics" >}}
 

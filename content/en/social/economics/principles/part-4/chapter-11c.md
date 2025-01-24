@@ -1,6 +1,5 @@
 ---
-heading: "Chapter 7b"
-linkTitle: Chapter 7b
+heading: "Chapter 11c"
 title: "Neoclassical Macroeconomics"
 # How Profit Maximization Disrupted The Natural Balance of Economies"
 # date: 2022-03-27

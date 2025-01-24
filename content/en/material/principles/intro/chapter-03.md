@@ -25,11 +25,11 @@ There are 5 Layers in Reality | The MSQ Classification makes it easier to classi
 To make Physics easier to understand, we classify everything in Existence into three:
 
 1. Medium
-2. Susbtance
+2. Substance
 3. Quantum
 
 
-Substance is the essence of things or identities that we perceive.  
+**Substance** is the essence of things or identities that we perceive.  
 
 {{< q a="Descartes" c="Meditations Simplified, Part 3">}}
 I think of myself as a thing that thinks and is not extended. I also think of the stone as a thing that is extended and does not think. The two conceptions differ enormously. But they seem to have the classification ‘substance’ in common. 
@@ -43,7 +43,7 @@ Sensory ideas must be produced by some substance other than me. This substance a
 
 Both physical things such as rocks, and metaphysical things such as a soul, have substance or essence in common. 
 
-Quantum is the smallest part of substance.
+**Quantum** is the smallest part of substance.
 
 {{< q a="Hegel" c="Science of Logic, Book 2, Article 814" >}}
 In logic, essence occupies the same place as quantity in the sphere of being. Essence has absolute indifference to limitation.
@@ -57,7 +57,7 @@ Substance is free whereas quantum is confined.
 - Substance is general
 - Quantum is specific
 
-Medium is how a substance of quantum is perceived. 
+**Medium** is how a substance of quantum is perceived. 
 
 {{< q a="Hegel" c="The Phenomenology of Spirit, Introduction" >}}
 If knowledge is not an instrument, but is instead a kind of passive medium through which the light of the truth reaches us, then here too we do not receive the Absolute as It is. Instead, we get the medium-version of the Absolute.
@@ -78,7 +78,7 @@ Therfore, everything in the universe is either a Medium or a Substance.
 The ancients classified all phenomena into 5 Elements, 3 of which are known to Modern Physics:
 
 
-Name | Greek-Hindu-Chinese | Physics
+Superphysics "Layers" | Greek-Hindu-Chinese "Elements" | Physics "Standard Model"
 --- | --- | --- | --- 
 Probability | Metaphysical | Probability
 Aethereal | Aether, Akasha, 水 (still water) | Pseudo-science
@@ -107,7 +107,9 @@ We then integrate the Medium-Substance-Quantum model with the 5 Elements model.
 
 <!-- In contrast, Superphysics is created from the top Aethereal layer working downwards to the Material. This allows us to see all particles and forces from the highest viewpoint and reclassify them in a proper and intuitive way. -->
 
-Instead of the messy and arbitrary naming of Fermions, Bosons, Hadrons, Baryons, Mesons, Leptons, etc., we use base the name on whether it is a medium, substance, quantum and the Layer involved. 
+Instead of the messy and arbitrary naming of Fermions, Bosons, Hadrons, Baryons, Mesons, Leptons, etc., we use base the name on:
+- whether it is a medium, substance, quantum and
+- the Layer involved. 
 
  <!-- that the particle or force operates from.  -->
 
@@ -125,11 +127,11 @@ Instead of unsystemic names such as gluons, quarks, electrons, we use acronyms t
 
 Physics Particle | Superphysics Particle
 --- | ---
-Photon | mor
-Electron | qor 
-Neutrino | qoc
-Gluon | mom
-Quark | qom
+Photon | mor (Medium of Radiance)
+Electron | qor (Quantum of Radiance)
+Neutrino | qoc (Quantum of Conversion)
+Gluon | mom (Medium of Matter)
+Quark | qom (Quantum of Matter)
 
 
 {{< img src="/graphics/physics/msq.jpg" alt="Superphysics 5 Layer Model" cap="The Superphysics MSQ Model uses a simpler naming convention for particles. Note how there is no such thing as an atom-substance, but rather a proton to represent the material layer. This is consistent with the periodic table of elements, which we call vom or versions of matter, being based on proton number" >}}
@@ -152,6 +154,18 @@ This exposes a huge gap in knowledge, mostly with the upper layers of the aether
 - the internal boundaries of the convertible and material
 
 Knowing the internal boundaries of the lower layers will help create new compounds and sub-states of matter. 
+
+For now, we hypothesize 2 additional versions of protons and neutrons to fill the gaps:
+
+Name | Physical Example 
+--- | --- 
+soc1 (upper neutron) | ?
+soc3 (lower neutron) | Neutron weapons (Lazar)
+som1 (upper proton) | Element 115 (Lazar)
+som3 (lower proton) | Indestructible metals (Essassani)
+
+
+### Differences Between MSQ and Standard Model Particles 
 
 The MSQ model also exposes some differences between Particle Physics and Particle Superphysics regarding neutrons and neutrinos.
 - Physics classifies neutrinos under ELectromagnetism (Radiant Layer) and neutrons under the Strong Force (Material Layer). This is because neutrinos run at nearly the speed of light and because neturons have quarks.

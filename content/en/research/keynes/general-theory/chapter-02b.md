@@ -53,7 +53,7 @@ The second postulate flows from the idea that the real wages of workers depend o
 **{{< c v="red">}}Nevertheless, it is the money-wage that determines the real wage*.{{< /c >}}**
 
 
-{{< img src="/photos/wtf.jpg" alt="WTF" cap="WTF" >}}
+{{< img src="/graphics/wtf.png" alt="WTF" cap="WTF" >}}
 
 
 {{< n n="Here, Keynes clearly corrupts the Classical Theory by imposing that nominal value as determininng real value" >}}
@@ -97,7 +97,7 @@ The classical conclusions:
 
 
 
-{{< img src="/photos/wtf.jpg" alt="WTF" cap="WTF?!? Is effect the new cause during Keynes' time?" >}}
+{{< img src="/graphics/wtf.png" alt="WTF" cap="WTF?!? Is effect the new cause during Keynes' time?" >}}
 
 
 {{< n n="The Classical conclusions are based on a dynamic open system. It does not care about the money-wages that will render it as a closed system. The proper statement is that the reduction of money-wages is caused by a reduction in economic activity (sales), investments (liquidity), etc." >}}

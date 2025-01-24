@@ -177,7 +177,7 @@ This leads us to the more general conclusion that **the mass of a body is a meas
 If the energy changes by `L`, the mass changes in the same sense by `L/9 × 1020`, the energy being measured in ergs, and the mass in grams*.
 
 
-{{< i s="/photos/wtf.jpg" a="WTF" >}}
+{{< i s="/graphics/wtf.png" a="WTF" >}}
 
 {{< n n="In Cartesian Physics, any staticity or potential energy of the 1st and 3rd Elements can be made dynamic or kinetic via the 2nd Element (spacetime). This is because spacetime is totally kinetic. (Static 2nd Element is actually the atherspace around the 3rd Element). A reduction of 1st Element in a body would reduce its total mass in a very small way and is denoted in MeV. A reduction of 3rd element will reduce it a lot and is denoted in grams. **Einstein does not make a distinction between the 3rd and 1st Elements. This locks in matter with light, preventing any logical need for the aether or 5th Element**. This locking in is formalized by using light to measure the difference. This is not useful for teleporting masses, wherein the mass disappears. And so it makes the levitation and teleportation of masses logically impossible, which is not true" >}}
 

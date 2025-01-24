@@ -20,7 +20,7 @@ icon: /avatars/lam.jpg
 The recent trend in extreme weather, as seen in El Nino, in the drought in California, and in supertyphoons, has proven that climate change is here and that it can get worse if nothing is done.
 
 
-{{< i s="/photos/countries/ua/fires.jpg" alt="Forest Fires" >}}
+{{< i s="/photos/countries/us/fires.jpg" alt="Forest Fires" >}}
 
 Unnatural climate change is caused by excessive greenhouse gases, best represented by carbon dioxide (CO2) from human activity. Though a lot of CO2 emissions come from energy and transportation, food production also contributes greatly to it. 
 

@@ -190,7 +190,8 @@ Conclusions from analogy |	Start with clear beliefs for what you clearly prefer 
 External Reality = Holographic Illusion
 
 
-{{< i s="/social/monkey.jpg" a="Mirror" >}}
+{{< i s="/graphics/meta/mirror.jpg" a="Mirror" >}}
+
 
 Our perceived "external reality" is actually an illusion (a holographic illusion) that is reflelcting (like a mirror) back to us our Beliefs, Thoughts, & Feelings.
 

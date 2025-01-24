@@ -187,7 +187,7 @@ paginate = 12
       icon = "/icons/spsoc.png"
     [languages.en.params.tricon4.items.a]
       url = "/social/supersociology/principles/part-1/chapter-01"
-      img = "/graphics/meta/monkey.jpg"
+      img = "/graphics/meta/mirror.jpg"
       title = "A Society is a Metaphysical Organism"
       sub = "Read how ego causes problems"
     [languages.en.params.tricon4.items.b]

@@ -118,7 +118,7 @@ So from this logic, the killing of the UHG CEO was **immoral** but **karmic**, n
 - It is incorrect to say that it was good or bad because good and bad can be defined in a number of ways
 - It can also not be called dharmic because there was no higher purpose in it
 
-{{< i s="/photos/countries/ua/uhg.jpg" a="UHG CEO" c="The UHG CEO on the left, and his killer on the right" >}}
+{{< i s="/photos/countries/us/uhg.jpg" a="UHG CEO" c="The UHG CEO on the left, and his killer on the right" >}}
 
 > The killing of the UHG CEO was *immoral* but *karmic*
 

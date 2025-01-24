@@ -143,7 +143,7 @@ Until Germany has returned to its natural Germanic vibration*, there should be n
 
 The tariffs imposed by Trump on Germany is actually a good thing because it will correctly cut off or reduce the American vibration. 
 
-{{< i s="/photos/countries/ua/trump.jpg" a="Trump" c="Germany needs to split from the US" >}}
+{{< i s="/photos/countries/us/trump.jpg" a="Trump" c="Germany needs to split from the US" >}}
 
 
 In addition, the war in Ukraine will cut off or reduce the Russian vibration through the cutting of Russian gas supplies.

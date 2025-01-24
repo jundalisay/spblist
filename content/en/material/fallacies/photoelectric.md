@@ -43,7 +43,7 @@ Otherwise, you kill the laws of Physics. Nature will then not give you those tec
 
 Therefore, Einstein, along with the other Germans called Hitler and Marx, is like a cruel joke of Nature designed to make fools of humans.
 
-{{< i s="/photos/countries/ua/fires.jpg" a="Wildfires" >}}
+{{< i s="/photos/countries/us/fires.jpg" a="Wildfires" >}}
 
 
 Either Einstein burns you instantly with the nukes that he promoted, or through a slow cook through global warming.

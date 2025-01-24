@@ -23,7 +23,7 @@ These have been accompanied by moral dilemmas such as:
 <!-- have presented themselves to most of the world. 
 Chinese versus the US, and -->
 
-{{< img src="/photos/ukraine.jpg" alt="Ukraine war" >}}
+{{< img src="/photos/countries/ua/war.jpg" alt="Ukraine war" >}}
 
 
 The causes of these are obviously one and the same -- the selfishness that lingers in the hearts of most humans. 

@@ -1,12 +1,12 @@
 ---
-heading: "Chapter 11c"
-title: "Objectivism and Libertarianism"
-linkTitle: Both Objectivism and Neoliberalism are oligarchic ideologies.  
+heading: "Chapter 11e"
+title: "Neoliberalism, Oligarchy, and Technocracy"
+linkTitle: Oligarchy  
 # date: 2015-07-24
 date: 2025-01-02
-weight: 72
-image: /covers/rand.jpg
-description: "Objectivism is a philosophy from Russian Ayn Rand."
+weight: 80
+image: /photos/city.jpg
+description: "In Socrates' Law of Social Cycles, the Oligarchy follows after the Aristocratic cycle. "
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,32 +14,84 @@ icon: /icons/pantry.png
 ---
 
 
-Traders get revenue from circulating goods and services of which they get a cut from each transaction. 
 
-This is why they want as much freedom as possible so that there would be as much circulation as possible. 
+## Oligarchy
 
-They disregard the evils of overcirculation just as Warriors disregard the evils of undercirculation. 
+In Socrates' Law of Social Cycles, the Oligarchy follows after the Aristocratic cycle. 
 
-This commonly leads to 
-The dominance of traders and 
+Contrary to popular belief, Oligarchy is the rule by money, not the rule by a few. This is because the  aristocratic cycle is also ruled by a few people.
 
+The main driver of an oligarchy is the need for wealth and economic growth. 
 
-
-### 1. **Libertarianism**
-   - **Core Ideas**:
-     - **Emphasis on Individual Freedom**: Libertarianism is a political philosophy that prioritizes **individual liberty** and autonomy. It advocates for minimal government intervention in both personal lives and the economy.
-     - **Minimal Government**: Libertarians argue for a **minimal state**—often referred to as a **night-watchman state**—which is primarily concerned with protecting individuals' rights (e.g., property rights, personal safety, and freedom of speech). The government’s role should be restricted to law enforcement, national defense, and the judicial system.
-     - **Free Markets**: Libertarianism supports **free-market capitalism**, advocating for voluntary exchange without government regulation, taxation, or redistribution.
-     - **Non-Aggression Principle**: Libertarians believe that the initiation of force is inherently wrong and that individuals should interact voluntarily and peacefully.
-
-   - **Key Principles**:
-     - **Private property rights**
-     - **Freedom of choice**
-     - **Self-ownership**
-     - **Non-interventionist policies**
+There are 2 main subforms of Oligarchy today.
 
 
-### 1. **Neoliberalism**
+### 1. Technocracy
+
+A technocracy is the rule by experts. 
+
+This can be seen as a modern Timocracy, which is the sub-cycle in between an aristocracy and an oligarchy. 
+
+According to Socrates, this happens when the philosophers become steadily drawn by the love of money. And so they use their expert skills to make money.  
+
+The moderm philosophers are now scientists, engineers, economists, etc.
+
+These are like private consultants who are hired to solve specific problems that require specialized knowledge.
+
+Technocrats believe that governance should be guided by scientific principles and data-driven policies rather than by political ideologies or popular opinion.
+
+<!--    - **Focus on Efficiency and Rationality**: Technocracy aims to optimize societal organization based on rational, evidence-based decision-making. It is rooted in the belief that experts can make better policy decisions than politicians because they are better equipped to understand complex systems.
+   - **Economic Planning**:  -->
+
+Technocrats often advocate for **centralized economic planning** that is guided by data and expertise.
+- This includes managing resources, production, and distribution to ensure efficiency and sustainability.
+
+
+
+### 2. Neoliberalism 
+
+
+Neoliberalism emerged from the Bretton Woods system established after the end of World War 2.
+
+Instead of managing the world through a council such as the League of Nations or the United Nations, the strategy changed to using Economics through the following economic institutions:
+
+1. The World Bank 
+
+This provided loans for capital expenditures such as infrastructure and power plants. 
+
+2. The IMF
+
+This provided financing for government services and operating costs and non capital expenses. 
+
+3. World Trade Organization
+
+This set the rules for world trade. 
+
+
+#### Free Markets and Deregulation
+
+Instead of competing through destructive warfare, nations agreed to compete in terms of goods and services.
+
+This required deregulation and the opening up of markets, including the privatization of state-owned enterprises.
+
+The resulting global free trade was called globalization. This included the free movement of capital, goods, and services across borders, which often leads to reduced tariffs and trade barriers.
+
+Instead of state solutions, the burden of solving problems fell to companies which were tasked with providing market-driven solutions. This is based on the belief that the market can solve social issues (e.g., healthcare, education) better than government intervention.
+
+
+<!--    - **Economic Characteristics**:
+     - **Privatization** of government-run businesses and services.
+     - **Deregulation** of industries, allowing businesses to operate with minimal government intervention.
+     - **Lower Taxes**: Often calls for lower taxes, especially on businesses and wealthier individuals, to stimulate investment.
+     - **Reduced Welfare**: Neoliberalism tends to advocate for **reduced government spending** on welfare programs, focusing on market-based solutions. -->
+
+Examples of neoliberalism are the policies implemented by Margaret Thatcher's UK, Ronald Reagan's USA
+
+<!-- **, and in many international organizations like the **IMF** and **World Bank**. -->
+
+
+
+<!-- ### 1. **Neoliberalism**
    - **Core Ideas**:
      - **Market-Oriented Reforms**: Neoliberalism is an economic and political ideology that promotes **free markets**, **minimal state intervention**, and **privatization** of state-owned enterprises. It advocates for reducing the role of the state in economic affairs and promoting policies that encourage competition and market efficiency.
      - **Globalization**: Neoliberalism supports the **globalization** of trade, including **free trade agreements**, **deregulation**, and the **free movement of capital** across borders.
@@ -53,115 +105,41 @@ The dominance of traders and
      - **Welfare Reduction**: Neoliberalism tends to reduce social safety nets, focusing instead on encouraging private solutions for issues like healthcare, education, and pensions.
 
    - **Key Figures**: 
-     - **Milton Friedman**, **Ronald Reagan**, and **Margaret Thatcher** are often associated with the promotion and implementation of neoliberal economic policies.
+     - **Milton Friedman**, **Ronald Reagan**, and **Margaret Thatcher** are often associated with the promotion and implementation of neoliberal economic policies. -->
    
-   - **Examples**: 
-     - **1980s Reaganomics** in the U.S. and **Thatcherism** in the U.K. are often cited as practical examples of neoliberalism. These policies included tax cuts for the wealthy, deregulation, and reductions in social welfare programs.
+<!-- ### **Comparison of Libertarianism, Liberalism, Oligarchy, and Technocracy**
 
-
-
-### Objectivism
-
-This is a philosophical system from Russian Ayn Rand based on individualism -- the belief that individuals have the right to pursue their own happiness and self-interest without interference from others, including the state.
-
-Objectivism believes that rational self-interest should guide human actions. It emphasizes the importance of:
-- reason
-- individual rights
-- the pursuit of one’s own happiness
-
-We put this under the 4th Law because it happens twards the end of the Trader Cycle where the lack of spiritual knowledge causes the mind to go further into freedom and material desires. 
-
-To satisfy more desires, it pushes for liberty. 
-
-Objectivism advocates for a **laissez-faire capitalist** society, where the government’s role is limited to protecting individual rights—specifically, protecting people’s property and ensuring the enforcement of contracts. and national defense.
-
-Rand argued that capitalism is the only moral social system because it respects individual rights and allows people to pursue their own happiness.
-
-
-     - **Ethics of Rational Self-Interest**: Objectivism is grounded in an ethical theory of **rational self-interest**, where the pursuit of one's own happiness is considered the highest moral purpose. This contrasts with altruistic ideologies that prioritize the well-being of others over the individual’s own desires.
-
-It rejects altruism or the moral doctrine that individuals have a duty to serve the needs of others. This is because it sees altruism as a form of self-sacrifice that undermines human flourishing.
-
-There are no taxes, no regulation of business, and no welfare systems.
-
-**Private Property**: Objectivism strongly defends **private property** and the right of individuals to freely engage in commerce, accumulate wealth, and keep the fruits of their labor.
-
-**Self-Interest and Voluntary Exchange**: Objectivism argues that individuals should engage in **voluntary, mutually beneficial exchanges** in the marketplace, driven by rational self-interest.
-
-**Ayn Rand**, the creator of Objectivism, with her major works being *Atlas Shrugged* and *The Fountainhead*. Rand’s philosophy has had a lasting influence on libertarianism and free-market capitalism.
-
-
-Its principles are reflected in **libertarian movements** and the idea of a **night-watchman state**, which limits the government’s role to protecting individual rights.
-
-
-
-### **Founder of Liberalism:**
-Liberalism as a political ideology does not have a single "founder" in the same way some other movements do. It evolved over time through the work of many philosophers and political thinkers. However, key figures who are often credited with laying the foundations of liberalism include:
-
-1. **John Locke** (1632–1704) - Often considered one of the **founders of classical liberalism**:
-   - Locke's writings on **natural rights**, including **life, liberty, and property**, are central to liberal thought. He argued that individuals have inalienable rights and that government exists to protect these rights, with its power being derived from the consent of the governed.
-   - Locke's **social contract theory** greatly influenced liberal democratic thought and the principles of limited government, equality, and individual freedom.
-
-2. **Adam Smith** (1723–1790) - Known as the **father of modern economics** and a key figure in **classical liberalism**:
-   - Smith's **The Wealth of Nations** (1776) laid the foundation for economic liberalism, advocating for free markets, the **invisible hand** of competition, and minimal government interference in economic matters.
-
-3. **Jean-Jacques Rousseau** (1712–1778) - While Rousseau is sometimes considered more associated with democratic theory and republicanism, his ideas on the **general will** and **popular sovereignty** influenced the liberal tradition of thought.
-
-As liberalism evolved, it branched into different strands, such as **classical liberalism** (focused on individual freedom and free markets) and **social liberalism** (focused on social justice, equality, and government intervention to correct inequality).
-
----
-
-### **Founder of Libertarianism:**
-Libertarianism, as a distinct political philosophy, developed later than liberalism and draws heavily from classical liberalism. Some key figures associated with the development of **modern libertarianism** include:
-
-1. **John Locke** (1632–1704) - As with liberalism, Locke's ideas on **natural rights** (life, liberty, and property) and the limited role of government laid the groundwork for **libertarian principles**, especially his emphasis on the protection of individual freedom and the non-aggression principle.
-
-2. **Murray Rothbard** (1926–1995) - Often considered the **founder of modern libertarianism**:
-   - Rothbard, an economist and political theorist, advanced the **anarcho-capitalist** form of libertarianism. His work emphasized the **absolute rights of the individual**, advocating for a stateless society where private property and voluntary exchange govern all interactions.
-   - His book, *Man, Economy, and State* (1962), and his role in the **Austrian School of Economics** played a major role in developing the libertarian tradition of **free-market capitalism** and **minimal government intervention**.
-
-3. **Ayn Rand** (1905–1982) - While not always considered a "classic" libertarian (since she advocated for a minimal government), her **Objectivist philosophy** has significantly influenced libertarian thought, particularly her defense of **rational self-interest** and **capitalism**. She is well-known for her books *Atlas Shrugged* and *The Fountainhead*.
-
-4. **Friedrich Hayek** (1899–1992) - While primarily an economist, Hayek’s work on the dangers of central planning and his advocacy for **limited government** and **individual liberty** made him a key intellectual influence on modern libertarian thought. His book, *The Road to Serfdom* (1944), critiqued socialist and interventionist policies, arguing that they would lead to totalitarianism and the erosion of individual freedoms.
-
-In summary:
-- **Liberalism** can be traced back to thinkers like **John Locke** and **Adam Smith**, with its development over time influencing modern democratic governance.
-- **Libertarianism** as a more distinct and modern ideology emerged with thinkers like **Murray Rothbard**, **Ayn Rand**, and **Friedrich Hayek**, drawing heavily from the classical liberal tradition but emphasizing more extreme minimalism in government and individual freedom.
-
-
-<!-- ### **Comparison of Neoliberalism vs. Objectivism**
-
-| **Aspect**                  | **Neoliberalism**                              | **Objectivism**                               |
-|-----------------------------|------------------------------------------------|----------------------------------------------|
-| **Philosophical Basis**      | Focuses on **market efficiency**, limited government, and individual responsibility. | A complete **philosophy** based on **rational self-interest**, individual rights, and laissez-faire capitalism. |
-| **Role of Government**       | Advocates for a **minimal government**, but allows for some regulation and intervention in certain sectors (e.g., security, education). | Advocates for a **minimal government** whose only role is to protect individual rights (property rights, enforcing contracts, national defense). |
-| **Economic System**          | Supports **market-oriented capitalism** with some degree of state intervention, such as privatization and deregulation. | Advocates for **laissez-faire capitalism**, with no government intervention in the economy. |
-| **Welfare and Redistribution** | **Opposes** state-run welfare programs, encourages private solutions. | **Rejects** all forms of welfare or redistribution, emphasizing personal responsibility and voluntary charity. |
-| **Individual Rights**        | Supports **individual freedom** but within a framework of competitive markets and state regulation to maintain stability. | Central to Objectivism; **individual rights** (including property rights) are paramount, with no compromise for collective or altruistic goals. |
-| **View on Altruism**         | Generally **neutral or dismissive** of state-sponsored altruism (e.g., welfare programs), but may accept some government support for the disadvantaged. | **Strongly rejects altruism** as a moral doctrine and holds that individuals should act for their own rational self-interest. |
-| **Globalization**            | Supports **global trade** and open markets as part of economic efficiency and competition. | Supports **free trade** but places less emphasis on globalization per se—focus is on individual rights and economic freedom. |
-| **Examples of Policy**       | **Reaganomics**, **Thatcherism**, **World Bank** reforms promoting free markets, privatization, and deregulation. | **Ayn Rand’s philosophy** often advocated for minimal government involvement and a purely **free market system** without government interference. |
+| **Aspect**                  | **Libertarianism**                          | **Liberalism**                              | **Oligarchy**                               | **Technocracy**                             |
+|-----------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|---------------------------------------------|
+| **Role of Government**       | **Minimal**: Focus on protecting individual rights, with limited functions (e.g., law enforcement, defense). | **Varies**: Classical liberalism advocates for limited government; social liberalism supports a larger role in welfare and regulation. | **Concentrated**: Power is held by a small group of elites. The state is controlled by this group for their interests. | **Expert-driven**: Government is run by specialists who make decisions based on technical expertise. |
+| **Economic System**          | **Free-market capitalism** with minimal regulation or interference. | **Mixed economy**: Support for both free markets and government intervention (e.g., welfare, regulation). | **Economic control by elites**: Wealth and resources are controlled by the ruling group, leading to inequality. | **Centralized economic planning**: Economic decisions are made by experts to maximize efficiency and productivity. |
+| **Social Equality**          | **Minimal**: Focus on equality of opportunity rather than outcomes; supports a meritocratic system. | **Emphasis on equality of outcomes**: Advocates for redistribution of wealth and opportunities to ensure fairness. | **Highly unequal**: Power and wealth are concentrated among a small elite, leading to systemic inequality. | **Efficiency over equality**: Social and economic decisions are made for the greatest benefit based on expertise, though inequality may arise depending on the system. |
+| **Power Distribution**       | **Decentralized**: Emphasis on individual autonomy, personal freedom, and decentralization of power. | **Democratic**: Power rests with the people, often mediated through elected representatives and institutions. | **Centralized**: Power is concentrated in the hands of a small elite group. | **Centralized in experts**: Decision-making is concentrated in the hands of specialized experts and technocrats. |
+| **Political Participation**  | **Direct or minimal**: Advocates for individual autonomy and voluntary association, with minimal political intervention. | **Representative democracy**: Individuals participate through elections and voting for political representatives. | **Limited**: Political participation is often restricted or manipulated by the ruling elite. | **Limited**: Public participation is often reduced to consulting experts, with little direct influence on decision-making. |
+| **Governance Principle**     | **Non-aggression** and **individual liberty**. | **Individual rights** and **social justice**. | **Rule by a small, powerful group**. | **Efficiency and rationality** based on expert knowledge. |
 
 ---
 
 ### **Key Differences**:
-1. **Philosophical Foundation**:  
-   - Neoliberalism is primarily an **economic and political theory** focused on promoting free markets, deregulation, and limited government intervention in the economy.  
-   - Objectivism, on the other hand, is a **comprehensive philosophy** that encompasses ethics, metaphysics, epistemology, and politics. It emphasizes **individualism** and rational self-interest as the guiding principles of human life and society.
 
-2. **Government's Role**:  
-   - Neoliberalism supports a **minimal government**, but it often allows for some form of state regulation (e.g., infrastructure, welfare, market rules) to ensure stability.  
-   - Objectivism advocates for an even **smaller government**, limited to only the protection of individual rights through the **military**, **police**, and **courts**. It believes that the government should not interfere in any other aspect of life or the economy.
+1. **Role of Government**:
+   - **Libertarianism** and **Liberalism** both support the idea of a limited government but differ in the extent to which the government should intervene in the economy or social issues. Libertarianism advocates for **minimal government intervention**, while liberalism, especially in its **social** form, supports a more active role in addressing social inequalities and welfare.
+   - **Oligarchy** and **Technocracy**, on the other hand, have more centralized forms of governance. In an oligarchy, power is concentrated among a few elites, and the government is run for their benefit. In a technocracy, decision-making is centralized in the hands of experts to achieve efficiency and rationality.
 
-3. **Welfare**:  
-   - Neoliberalism seeks to **reduce or privatize welfare** programs but does not advocate for their complete abolition. It encourages market-based solutions to social problems.  
-   - Objectivism **completely rejects welfare** programs and sees them as a form of coercion that violates individual rights. It advocates for voluntary charity, but not as a moral duty.
+2. **Economic System**:
+   - **Libertarianism** advocates for a **pure free-market economy** with no government regulation. **Liberalism** supports a more balanced approach, with a combination of **free markets** and **government regulation** to ensure fairness and protect citizens.
+   - **Oligarchies** control the economy through elite monopolies and wealth, leading to high inequality, whereas **technocracies** may support **centralized economic planning**, guided by data and experts, with the aim of maximizing efficiency and productivity.
 
-4. **Market Regulation**:  
-   - Neoliberalism allows for some **market regulation** to ensure competition and prevent abuses (e.g., antitrust laws, environmental protections).  
-   - Objectivism, in contrast, argues for **no government regulation** in markets, insisting that voluntary transactions and competition should be entirely unrestricted.
+3. **Social Equality**:
+   - **Libertarianism** focuses on **equality of opportunity**, not outcome, and believes that individuals should be free to pursue their own success.
+   - **Liberalism** places a higher emphasis on **social justice** and redistribution to ensure **equality of outcomes**.
+   - **Oligarchy** results in **inequality**, as power and resources are controlled by the elite. **Technocracy**, while focusing on efficiency, may still result in inequality if experts and elites dominate decision-making processes.
 
----
+4. **Political Participation**:
+   - **Libertarianism** favors minimal state involvement and prefers a system where individuals govern their own lives.
+   - **Liberalism** emphasizes **democracy** and participation through voting and political representation.
+   - **Oligarchy** limits participation to a small group, while **Technocracy** restricts political participation to **expert decision-making**. -->
 
-### **Conclusion**:
-While **Neoliberalism** and **Objectivism** share some common ground in their support for **free-market capitalism** and **individual freedom**, they differ significantly in their underlying philosophical principles and approaches to government intervention. Neoliberalism is more pragmatic and focused on economic policies to manage market efficiency, while Objectivism is a **comprehensive philosophy** that demands a very limited government with an ethical foundation rooted in **rational self-interest**. Objectivism advocates for a purely **laissez-faire capitalist society**, with **no government interference** in the economy or personal lives, whereas Neoliberalism permits some level of government action if it facilitates economic growth and competition. -->
+
+<!-- ### **Conclusion**:
+In summary, **Libertarianism** and **Liberalism** are political philosophies that focus on governance through individual rights, with Libertarianism pushing for minimal government and Liberalism advocating for a balance between free markets and social safety nets. **Oligarchy** is a governance system where power is concentrated in the hands of a few elites, often leading to inequality, while **Technocracy** is a system in which decision-making is led by experts in various fields, focusing on efficiency and data-driven solutions. While **Libertarianism** and **Liberalism** are philosophies that guide political structures, **Oligarchy** and **Technocracy** represent forms of governance that can be implemented within various systems. -->

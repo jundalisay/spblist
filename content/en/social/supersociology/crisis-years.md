@@ -1,7 +1,7 @@
 ---
 title: "The Height of the Crisis Years (2025-2030)"
 date: 2024-11-07
-image: "/photos/countries/ua/trump.jpg"
+image: "/photos/countries/us/trump.jpg"
 description: "It would have been better for the democrats, and the world, if Hillary Clinton or any Positive Warrior, ran in 2024 instead of Harris"
 writer:
   name: Juan
@@ -49,7 +49,7 @@ However, the US does not follow the popular vote system and so Trump won the pre
 Just like any Negative Trader, Trump wants maximum gain and riches at the expense of others. 
 
 
-{{< i s="/photos/countries/ua/trump.jpg" a="Trump MAGA" >}}
+{{< i s="/photos/countries/us/trump.jpg" a="Trump MAGA" >}}
 
 
 <!-- Trump's legacy has been Covid, Trade War, and the loss of Afghanistan.  -->

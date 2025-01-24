@@ -2,7 +2,7 @@
 heading: "Chapter 4b"
 title: "Vegetarian Diets"
 date: 2024-12-31
-image: "/photos/buy.jpg"
+image: "/photos/psych/eat.jpg"
 description: "Vegetarian Diets are important for health and spirituality"
 writer:
   name: Lam
@@ -38,6 +38,8 @@ High-sugar foods lead to an oversupply of sugar which cannot be assimilated by t
 - headache and dizziness
 - frequent urination
 
+
+{{< i s="/photos/psych/eat.jpg" a="Anh eating" >}}
 
 Vegetarian diets avoid meat and fish while reducing sugar and protein intake.  
 

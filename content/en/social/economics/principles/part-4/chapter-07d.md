@@ -3,6 +3,7 @@ title: "The Circular Flow of Economics vs Supereconomics"
 heading: Chapter 7d
 # heading: "Profits vs Balance"
 date: 2019-10-17
+weight: 52
 image: /graphics/econ/circular.png
 description : "The Circular Flow of Economics emphasizes Businesses. That of Superphysics emphasizes balance and the natural price"
 writer:
@@ -11,7 +12,6 @@ writer:
 icon: /icons/pantry.png
 toc: false
 ---
-
 
 
 To maximize profits, business-systems pool money together in order to create the equity that makes up the firms and corporations. Such organizations then create, buy, and sell real goods and services via secondary arbitrage*.
@@ -118,4 +118,3 @@ These then explain why economic crises, poverty, and inequality still persist de
 
 
 {{< u d="June 2021" u="Overhauled to Superphysics and added Basic Universal revenue, Pool clearing, fairtax, etc" >}}
-

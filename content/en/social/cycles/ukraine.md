@@ -22,7 +22,7 @@ To be determined | - | -
 The Russia-Ukraine war is now on its second year, creating nearly the worst reality after a year of conflict.
 
 
-{{< img src="/photos/ukraine.jpg" alt="Russian Invasion" >}}
+{{< img src="/photos/countries/ua/war.jpg" alt="Russian Invasion" >}}
 
 
 The best reality in 2022 would have been for the Ukranian President to flee in February, allowing Russia to control all of Ukraine. This would have prevented:

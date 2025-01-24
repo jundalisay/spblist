@@ -1,6 +1,7 @@
 ---
-heading: Section 1
-title: "Essence as Reflection Within Itself"
+heading: Chapter 1
+title: Illusory Being
+# title: "Essence as Reflection Within Itself"
 weight: 4
 description: "Essence issues from being. Hence it is not immediately in and for itself but is a result of that movement. "
 author: Hegel
@@ -9,10 +10,7 @@ image: /covers/science.png
 ---
 
 
-
-§ 817
-
-Essence issues from being. It is an effect of existence. 
+<sup>817</sup> Essence issues from being. It is an effect of existence. 
 
 <!-- Hence it is not immediately in and for itself but is a result of that movement.  -->
 
@@ -39,11 +37,10 @@ determines itself and its determinations are a positedness which is at the same 
 Essence as the reflection-into-self by the process of identification converts itself into ground and passes over into Existence and Appearance.
 
 
-Chapter 1 Illusory Being
 
-§ 818
+## Chapter 1 Illusory Being
 
-Essence from existence confronts existence as an opposite. This immediate existence is:
+<sup>818</sup> Essence from existence confronts existence as an opposite. This immediate existence is:
 
 1. The unessential
 2. Essenceless existence (more than unessential existence)
@@ -54,9 +51,8 @@ The showing of this illusory existence within essence itself is reflection.
 
 
 <!-- A THE ESSENTIAL AND THE UNESSENTIAL -->
-§ 819
 
-Essence is sublated existence. It is simple equality with itself, as the negation of existence in general.
+<sup>819</sup> Essence is sublated existence. It is simple equality with itself, as the negation of existence in general.
 
 Essence thus exists in time, preserved by this sublating.
 
@@ -71,17 +67,13 @@ Therefore essence is an identified negation [of existence].
 In this way, existence and essence are related to each other. Each has an existence, a time. These are indifferent to each other. 
 <!-- , and with respect to this being, being and essence are equal in value. -->
 
-§ 820
-
-But at the same time, existence is the unessential. In relation to essence, existence is identified as sublated exostemce.
+<sup>820</sup> But at the same time, existence is the unessential. In relation to essence, existence is identified as sublated exostemce.
 
 Existence is only related to essence simply as an other. 
 
 <!-- Essence is not strictly essence but only a differently determined being, the essential. -->
 
-§ 821
-
-The distinction of essential and unessential has caused essence to relapse into a real identity.
+<sup>821</sup> The distinction of essential and unessential has caused essence to relapse into a real identity.
 
 This is because essence in its initial phase is has an identity in time, an affirmative essence.
 
@@ -108,9 +100,7 @@ It is a separation of one part of it from another that does not affect the thing
 
 It originates in some external standpoint. The same content can therefore be regarded now as essential and as unessential. -->
 
-§ 822
-
-Essence is essential only relatively to what is unessential. This is because it is taken only as sublated existence or identified existence.
+<sup>822</sup> Essence is essential only relatively to what is unessential. This is because it is taken only as sublated existence or identified existence.
 
 The first negation is the negation which is an identification through which existence becomes an identified existence, or identified existence becomes an other.
 
@@ -126,20 +116,20 @@ We are in the sphere of essence. The time that is still distinguished from essen
 - It is only a non-essence, illusory existence.
 
 
-B Illusory Existence
+<!-- B Illusory Existence -->
 
-§ 823
+<sup>823</sup> 
 
-1. Existence is illusory existence. The existence of illusory existence consists solely in the sublatedness of existence, in its nothingness.
+1. Existence is illusory existence.
+
+The existence of illusory existence consists solely in the sublatedness of existence, in its nothingness.
 
 This nothingness it has in essence and apart from its nothingness, apart from essence, illusory existence is not. 
 
 It is the negative posited as negative.
 
 
-§ 824
-
-Illusory existence is all that still remains from the sphere of existence.
+<sup>824</sup> Illusory existence is all that still remains from the sphere of existence.
 
 But it still seems to have an time aspect that is independent of essence, an other of essence.
 

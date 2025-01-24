@@ -1,6 +1,6 @@
 ---
 title: "General Notion of Logic"
-weight: 2
+weight: 4
 description: "The science of logic begins with the subject matter itself, without preliminary reflections"
 image: /covers/science.png
 ---
@@ -10,10 +10,7 @@ image: /covers/science.png
 
 Introduction -->
 
-
-§ 33
-
-The science of logic begins with the subject matter itself, without preliminary reflections. 
+<sup>33</sup> The science of logic begins with the subject matter itself, without preliminary reflections. 
 
 In other sciences:
 - the subject matter and the scientific method are distinguished from each other.
@@ -30,9 +27,7 @@ But these are only premises taken for granted. These form definitions that:
 - are employed with the usual kind of reasoning to establish their general concepts and fundamental determinations.
 
 
-§ 34
-
-Logic on the contrary, cannot presuppose any of these:
+<sup>34</sup> Logic on the contrary, cannot presuppose any of these:
 - forms of reflection 
 - laws of thinking.
 
@@ -56,9 +51,8 @@ Consequently, the premise of this Introduction is to use some historical explana
 
  is not intended, as it were, to establish the Notion of Logic or to justify its method scientifically in advance, but rather by the aid of some reasoned and  -->
 
-§ 35
 
-We consider logic as the science of thinking in general.
+<sup>35</sup> We consider logic as the science of thinking in general.
 
 This thinking constitutes the mere form of a cognition that logic abstracts from all content. This creates matter which comes from somwhere else. 
 
@@ -69,37 +63,58 @@ This matter is absolutely independent of logic.
 This indpendence of matter can provide only the formal conditions of genuine cognition and cannot in its own self contain any real truth, not even be the pathway to real truth because just that which is essential in truth, its content, lies outside logic.®
 
 
-§ 36
+<sup>36</sup> But in the first place, it is quite inept to say that logic abstracts from all content, that it teaches only the rules of thinking without any reference to what is thought or without being able to consider its nature.
 
-But in the first place, it is quite inept to say that logic abstracts from all content, that it teaches only the rules of thinking without any reference to what is thought or without being able to consider its nature. For as thinking and the rules of thinking are supposed to be the subject matter of logic, these directly constitute its peculiar content; in them, logic has that second constituent, a matter, about the nature of which it is concerned.
+For as thinking and the rules of thinking are supposed to be the subject matter of logic, these directly constitute its peculiar content; in them, logic has that second constituent, a matter, about the nature of which it is concerned.
 
-§ 37
 
-But secondly, the conceptions on which the Notion of logic has rested hitherto have in part already been discarded, and for the rest, it is time that they disappeared entirely and that this science were grasped from a higher standpoint and received a completely changed shape.
+<sup>37</sup> But secondly, the conceptions on which the Notion of logic has rested hitherto have in part already been discarded, and for the rest, it is time that they disappeared entirely and that this science were grasped from a higher standpoint and received a completely changed shape.
 
-§ 38
 
-Hitherto, the Notion of logic has rested on the separation, presupposed once and for all in the ordinary consciousness, of the content of cognition and its form, or of truth and certainty. First, it is assumed that the material of knowing is present on its own account as a ready-made world apart from thought, that thinking on its own is empty and comes as an external form to the said material, fills itself with it and only thus acquires a content and so becomes real knowing.
+<sup>38</sup> Hitherto, the Notion of logic is based on the separation of:
 
-§ 39
+- the content of cognition
+- the form of cognition, or of truth and certainty.
 
-Further, these two constituents — for they are supposed to be related to each other as constituents, and cognition is compounded from them in a mechanical or at best chemical fashion — are appraised as follows: the object is regarded as something complete and finished on its own account, something which can entirely dispense with thought for its actuality, while thought on the other hand is regarded as defective because it has to complete itself with a material and moreover, as a pliable indeterminate form, has to adapt itself to its material. Truth is the agreement of thought with the object, and in order to bring about this agreement — for it does not exist on its own account — thinking is supposed to adapt and accommodate itself to the object.
+1. It is assumed that:
+- the material of knowing is present on its own account as a ready-made world that is separate from thought.
+- thinking on its own is empty and comes as an external form to the said material
+- thinking fills itself with this material and only thus acquires a content and so becomes real knowing.
 
-§ 40
 
-Thirdly, when the difference of matter and form, of object and thought is not left in that nebulous indeterminateness but is taken more definitely, then each is regarded as a sphere divorced from the other. Thinking therefore in its reception and formation of material does not go outside itself; its reception of the material and the conforming of itself to it remains a modification of its own self, it does not result in thought becoming the other of itself; and self-conscious determining moreover belongs only to thinking. In its relation to the object, therefore, thinking does not go out of itself to the object; this, as a thing-in-itself, remains a sheer beyond of thought.
+<sup>39</sup> 2. Content and form are supposed to be related to each other as constituents.
 
-§ 41
+Cognition is compounded from them in a mechanical or chemical way.
 
-These views on the relation of subject and object to each other express the determinations which constitute the nature of our ordinary, phenomenal consciousness; but when these prejudices are carried out into the sphere of reason as if the same relation obtained there, as if this relation were something true in its own self, then they are errors — the refutation of which throughout every part of the spiritual and natural universe is philosophy, or rather, as they bar the entrance to philosophy, must be discarded at its portals.
+The object is regarded as something complete and finished on its own account.
 
-§ 42
+It something which can entirely dispense with thought for its actuality.
 
-Ancient metaphysics had in this respect a higher conception of thinking than is current today. For it based itself on the fact that the knowledge of things obtained through thinking is alone what is really true in them, that is, things not in their immediacy but as first raised into the form of thought, as things thought. Thus this metaphysics believed that thinking (and its determinations) is not anything alien to the object, but rather is its essential nature, or that things and the thinking of them — our language too expresses their kinship — are explicitly in full agreement, thinking in its immanent determinations and the true nature of things forming one and the same content.
+Thought, on the other hand, is regarded as defective because it:
+- has to complete itself with a material.
+- has a pliable and indeterminate form
+  - It has to adapt itself to its material.
 
-§ 43
+**Truth is the agreement of thought with the object.**
 
-But reflective understanding took possession of philosophy. We must know exactly what is meant by this expression which moreover is often used as a slogan; in general it stands for the understanding as abstracting, and hence as separating and remaining fixed in its separations. Directed against reason, it behaves as ordinary common sense and imposes its view that truth rests on sensuous reality, that thoughts are only thoughts, meaning that it is sense perception which first gives them filling and reality and that reason left to its own resources engenders only figments of the brain. In this self-renunciation on the part of reason, the Notion of truth is lost; it is limited to knowing only subjective truth, only phenomena, appearances, only something to which the nature of the object itself does not correspond: knowing has lapsed into opinion.
+The truth does not exist on its own account.
+
+In order to bring about this agreement, thinking is supposed to adapt and accommodate itself to the object.
+
+
+<sup>40</sup> 3. when the difference of matter and form, of object and thought is not left in that nebulous indeterminateness but is taken more definitely, then each is regarded as a sphere divorced from the other. 
+
+Thinking therefore in its reception and formation of material does not go outside itself; its reception of the material and the conforming of itself to it remains a modification of its own self, it does not result in thought becoming the other of itself; and self-conscious determining moreover belongs only to thinking. In its relation to the object, therefore, thinking does not go out of itself to the object; this, as a thing-in-itself, remains a sheer beyond of thought.
+
+
+<sup>41</sup> These views on the relation of subject and object to each other express the determinations which constitute the nature of our ordinary, phenomenal consciousness; but when these prejudices are carried out into the sphere of reason as if the same relation obtained there, as if this relation were something true in its own self, then they are errors — the refutation of which throughout every part of the spiritual and natural universe is philosophy, or rather, as they bar the entrance to philosophy, must be discarded at its portals.
+
+
+<sup>42</sup> Ancient metaphysics had in this respect a higher conception of thinking than is current today. For it based itself on the fact that the knowledge of things obtained through thinking is alone what is really true in them, that is, things not in their immediacy but as first raised into the form of thought, as things thought.
+
+Thus this metaphysics believed that thinking (and its determinations) is not anything alien to the object, but rather is its essential nature, or that things and the thinking of them — our language too expresses their kinship — are explicitly in full agreement, thinking in its immanent determinations and the true nature of things forming one and the same content.
+
+<sup>43</sup> But reflective understanding took possession of philosophy. We must know exactly what is meant by this expression which moreover is often used as a slogan; in general it stands for the understanding as abstracting, and hence as separating and remaining fixed in its separations. Directed against reason, it behaves as ordinary common sense and imposes its view that truth rests on sensuous reality, that thoughts are only thoughts, meaning that it is sense perception which first gives them filling and reality and that reason left to its own resources engenders only figments of the brain. In this self-renunciation on the part of reason, the Notion of truth is lost; it is limited to knowing only subjective truth, only phenomena, appearances, only something to which the nature of the object itself does not correspond: knowing has lapsed into opinion.
 
 § 44
 

@@ -75,7 +75,7 @@ This then creates our current universe where there is no levitation or teleporta
 
 The problem is that everyone thought Einstein was a genius and therefore adopted his mentality. And so everyone gets a reality where there is no levitation and therefore no nuclear fusion which could have prevented wildfires and typhoons by reducing CO2 emissions. 
 
-{{< i s="/photos/countries/ua/fires.jpg" a="fires" c="California residents should blame Einstein for making nuclear fusion impossible. This would have reduced CO2 emissions, make the planet cooler, and prevent the destruction of their homes" >}}
+{{< i s="/photos/countries/us/fires.jpg" a="fires" c="California residents should blame Einstein for making nuclear fusion impossible. This would have reduced CO2 emissions, make the planet cooler, and prevent the destruction of their homes" >}}
 
 
 ### The Einstein Ether Cannot Do Anything. The Cartesian Aether Can Do Everything
