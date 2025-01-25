@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 2c"
-linkTitle: Chapter 2c
+heading: "Chapter 2"
+linkTitle: Chapter 2
 title: "Resource Mechanisms: Stores of Value"
 date: 2022-08-24
 # date: 2022-08-22

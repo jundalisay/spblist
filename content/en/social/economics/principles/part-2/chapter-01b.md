@@ -14,6 +14,9 @@ toc: false
 ---
 
 
+
+The **Real Price** is the subjective cost that the seller or producer incurred to create a thing.
+
 Let us assume that a cake was baked by Mr. Chef for 2 units of effort.
 
 To bake the same cake, it will take Arun, Bhaskar, and Chandra 4, 6, and 8 units of effort respectively. And so they each assign a real price of $4, $6, and $8 for the cake.

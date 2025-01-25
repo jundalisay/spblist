@@ -85,16 +85,33 @@ The body is a source of endless trouble to us by its:
 
 
 {{< l a="Socrates" >}}
-whence but from the body and the lusts of the body? wars are occasioned by the love of money, and money has to be acquired for the sake and in the service of the body; and by reason of all these impediments we have no time to give to philosophy; and, last and worst of all, even if we are at leisure and betake ourselves to some speculation, the body is always breaking in upon us, causing turmoil and confusion in our enquiries, and so amazing us that we are prevented from seeing the truth. 
+The lusts of the body come but from the body. Wars are occasioned by the love of money. Money has to be acquired for the sake and in the service of the body.
+
+These impediments give us no time for philosophy. Even if we are at leisure and can do some speculation, the body is always breaking in on us. It causes turmoil and confusion in our enquiries, and prevents us from seeing the truth.
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
-It has been proved to us by experience that if we would have pure knowledge of anything we must be quit of the body—the soul in herself must behold things in themselves= and then we shall attain the wisdom which we desire, and of which we say that we are lovers, not while we live, but after death; for if while in company with the body, the soul cannot have pure knowledge, one of two things follows—either knowledge is not to be attained at all, or, if at all, after death. For then, and not till then, the soul will be parted from the body and exist in herself alone. 
+For us to have pure knowledge of anything, we must be quit of the body. The soul in herself must behold things in themselves.
 
-In this present life, I reckon that we make the nearest approach to knowledge when we have the least possible intercourse or communion with the body, and are not surfeited with the bodily nature, but keep ourselves pure until the hour when God himself is pleased to release us.
+And then we shall attain the wisdom which we desire after death.
 
-Thus having got rid of the foolishness of the body we shall be pure and hold converse with the pure, and know of ourselves the clear light everywhere, which is no other than the light of truth.' For the impure are not permitted to approach the pure. These are the sort of words, Simmias, which the true lovers of knowledge cannot help saying to one another, and thinking.
+<!-- , and of which we say that we are lovers, not while we live, but ; for if  -->
+
+While in the body, the soul cannot have pure knowledge. 
+
+In this present life, I we make the nearest approach to knowledge when we:
+- have the least possible intercourse or communion with the body
+- keep ourselves pure until the hour we die
+
+Thus having got rid of the foolishness of the body, we shall:
+- be pure and hold converse with the pure
+- know of ourselves the clear light everywhere, the light of truth.
+
+The impure are not permitted to approach the pure. 
 {{< /l >}}
 
 
+<!-- These are the sort of words, Simmias, which the true lovers of knowledge cannot help saying to one another, and thinking. are not surfeited with the bodily nature, but
+ when God himself is pleased to release us.
+ one of two things follows—either knowledge is not to be attained at all, or, if at all, after death. For then, and not till then, the soul will be parted from the body and exist in herself alone.  -->

@@ -15,7 +15,7 @@ icon: /icons/pantry.png
 
 The Mercantile period from the 16th to the 18th centuries led to the amassment of land ownership to a few wealthy individuals such as European conquistadors and religious orders. These were often connected to the colonial governments. 
 
-This led to the modern development of native lands, at the cost of creating huge inequalities in wealth. This is because those land owners were like feudal lords.
+This led to the modern development of native lands, at the cost of creating huge inequalities in wealth. This is because those land owners acted like feudal lords.
 
 {{< q a="Adam-Smith" >}}
 This original great engrossing of uncultivated lands might have been but a transitory evil.. Great tracts of uncultivated land were engrossed by particular families in this way. Such lands were prevented from being divided again.
@@ -54,9 +54,10 @@ For example, Adam Smith believes that the land should be broken up in order to:
 - increase productivity and cost-efficiency by letting the owners micro-manage their land better 
 
 
-{{< q a="Adam-Smith" >}}
-There are still some great estates in the United Kingdom which have continued without interruption in the hands of the same family since feudal times. Compare the present condition of those estates with the possessions of the small proprietors near them, and you will see how unfavourable such extensive property is to improvement.
-<cite>The Simple Wealth of Nations</cite>
+{{< q a="Smith" c="The Wealth of Nations" >}}
+There are still some great estates in the United Kingdom which have continued without interruption in the hands of the same family since feudal times. 
+
+Compare the present condition of those estates with the possessions of the small proprietors near them, and you will see how unfavourable such extensive property is to improvement.
 {{< /q >}}
 
 
