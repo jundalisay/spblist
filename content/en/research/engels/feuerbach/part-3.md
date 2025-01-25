@@ -14,25 +14,39 @@ icon: /icons/engels.png
 
 
  
-The real idealism of Feuerbach becomes evident as soon as we come to his philosophy of religion and ethics. 
+The real idealism of Feuerbach is shown by his philosophy of religion and ethics. 
 
-He does not want to abolish religion. He wants to perfect it. 
+He wants to perfect religion, not abolish it. 
 
 Philosophy itself must be absorbed in religion.
 
-“The periods of humanity are distinguished only by religious changes. A historical movement is fundamental only when it is rooted in the hearts of men. The heart is not a form of religion, so that the latter should exist also in the heart; the heart is the essence of religion.” (Quoted by Starcke, p.168.)
+{{< q a="" >}}
+The periods of humanity are distinguished only by religious changes. A historical movement is fundamental only when it is rooted in the hearts of men. The heart is not a form of religion, so that the latter should exist also in the heart; the heart is the essence of religion. (Quoted by Starcke, p.168.)
+{{< /q >}}
 
-According to Feuerbach, religion is the relation between human beings based on the affections, the relation based on the heart, which relation until now has sought its truth in a fantastic mirror image of reality — in the mediation of one or many gods, the fantastic mirror images of human qualities — but now finds it directly and without any mediation in the love between “I” and “Thou”. 
 
-Thus, finally, with Feuerbach sex love becomes one of the highest forms, if not the highest form, of the practice of his new religion.
+According to Feuerbach, religion is the relation between human beings based on the affections of the heart.
 
-Now relations between human beings, based on affection, and especially between the two sexes, have existed as long as mankind has. 
+This relation is mirrored in the mediation of one or many gods.
+
+<!--  until now has sought its truth in a fantastic mirror image of reality — in the 
+
+ , the fantastic mirror images of human qualities — but now finds it directly and without any mediation in the love between “I” and “Thou”.  -->
+
+With Feuerbach male-female love becomes one of the highest forms of his new religion.
+
+Male-female love has existed as long as mankind has.
+<!-- Now relations between human beings, based on affection, and especially between the two sexes, have  -->
 
 Sex love in particular has undergone a development and won a place during the last 800 years which has made it a compulsory pivotal point of all poetry during this period. 
 
-The existing positive religions have limited themselves to the bestowal of a higher consecration upon state-regulated sex love — that is, upon the marriage laws — and they could all disappear tomorrow without changing in the slightest the practice of love and friendship. Thus the Christian religion in France, as a matter of fact, so completely disappeared in the year 1793–95 that even Napoleon could not re-introduce it without opposition and difficulty; and this without any need for a substitute in Feuerbach’s sense, making itself in the interval.
+The existing positive religions have limited themselves to the bestowal of a higher consecration upon state-regulated sex love — that is, upon the marriage laws — and they could all disappear tomorrow without changing in the slightest the practice of love and friendship. 
 
-Feuerbach’s idealism consists here in this: he does not simply accept mutual relations based on reciprocal inclination between human beings, such as sex love, friendship, compassion, self-sacrifice, etc., as what they are in themselves — without associating them with any particular religion which to him, too, belongs to the past; but instead he asserts that they will attain their full value only when consecrated by the name of religion. 
+Thus the Christian religion in France, as a matter of fact, so completely disappeared in the year 1793–95 that even Napoleon could not re-introduce it without opposition and difficulty; and this without any need for a substitute in Feuerbach’s sense, making itself in the interval.
+
+Feuerbach’s idealism is that he does not accept mutual relations based on reciprocal inclination between human beings, such as sex love, friendship, compassion, self-sacrifice, etc., as what they are in themselves — without associating them with any particular religion which to him, too, belongs to the past; 
+
+instead he asserts that they will attain their full value only when consecrated by the name of religion. 
 
 The chief thing for him is not that these purely human relations exist, but that they shall be conceived of as the new, true, religion. 
 
@@ -70,9 +84,23 @@ He appears just as shallow, in comparison with Hegel, in his treatment of the an
 
 “One believes one is saying something great,” Hegel remarks, “if one says that ‘man is naturally good’. But one forgets that one says something far greater when one says ‘man is naturally evil’.”
 
-With Hegel, evil is the form in which the motive force of historical development presents itself. This contains the twofold meaning that, on the one hand, each new advance necessarily appears as a sacrilege against things hallowed, as a rebellion against condition, though old and moribund, yet sanctified by custom; and that, on the other hand, it is precisely the wicked passions of man — greed and lust for power — which, since the emergence of class antagonisms, serve as levers of historical development — a fact of which the history of feudalism and of the bourgeoisie, for example, constitutes a single continual proof. But it does not occur to Feuerbach to investigate the historical role of moral evil. To him, history is altogether an uncanny domain in which he feels ill at ease. Even his dictum: “Man as he sprang originally from nature was only a mere creature of nature, not a man. Man is a product of man, of culture, of history” — with him, even this dictum remains absolutely sterile.
+With Hegel, evil is the form in which the motive force of historical development presents itself. 
 
-What Feuerbach has to tell us about morals can, therefore, only be extremely meagre. The urge towards happiness is innate in man, and must therefore form the basis of all morality. But the urge towards happiness is subject to a double correction. First, by the natural consequences of our actions: after the debauch comes the “blues”, and habitual excess is followed by illness. Secondly, by its social consequences: if we do not respect the similar urge of other people towards happiness they will defend themselves, and so interfere with our own urge toward happiness. Consequently, in order to satisfy our urge, we must be in a position to appreciate rightly the results of our conduct and must likewise allow others an equal right to seek happiness. Rational self-restraint with regard to ourselves, and love — again and again love! — in our intercourse with others — these are the basic laws of Feuerbach’s morality; from them, all others are derived. And neither the most spirited utterances of Feuerbach nor the strongest eulogies of Starcke can hide the tenuity and banality of these few propositions.
+- each new advance disrespects the respected, as a rebellion against an old rule that was sanctified by custom
+- the wicked passions of man — greed and lust for power — are the levers of historical development.
+
+ <!-- which, since the emergence of class antagonisms, serve as -->
+This is proven by the history of feudalism and of the bourgeoisie. 
+
+But Feuerbach does not investigate the historical role of moral evil.
+
+To him, history is altogether an uncanny domain in which he feels ill at ease. Even his dictum: “Man as he sprang originally from nature was only a mere creature of nature, not a man. Man is a product of man, of culture, of history” — with him, even this dictum remains absolutely sterile.
+
+What Feuerbach has to tell us about morals can, therefore, only be extremely meagre. The urge towards happiness is innate in man, and must therefore form the basis of all morality. But the urge towards happiness is subject to a double correction. 
+
+First, by the natural consequences of our actions: after the debauch comes the “blues”, and habitual excess is followed by illness. Secondly, by its social consequences: if we do not respect the similar urge of other people towards happiness they will defend themselves, and so interfere with our own urge toward happiness. 
+
+Consequently, in order to satisfy our urge, we must be in a position to appreciate rightly the results of our conduct and must likewise allow others an equal right to seek happiness. Rational self-restraint with regard to ourselves, and love — again and again love! — in our intercourse with others — these are the basic laws of Feuerbach’s morality; from them, all others are derived. And neither the most spirited utterances of Feuerbach nor the strongest eulogies of Starcke can hide the tenuity and banality of these few propositions.
 
 Only very exceptionally, and by no means to this and other people’s profit, can an individual satisfy his urge towards happiness by preoccupation with himself. Rather, it requires preoccupation with the outside world, with means to satisfy his needs — that is to say, food, an individual of the opposite sex, books, conversation, argument, activities, objects for use and working up. Feuerbach’s morality either presupposes that these means and objects of satisfaction are given to every individual as a matter of course, or else it offers only inapplicable good advice and is, therefore, not worth a brass farthing to people who are without these means. And Feuerbach himself states this in plain terms:
 

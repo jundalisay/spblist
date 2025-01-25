@@ -14,7 +14,13 @@ writer:
 
 In Economics, the urban economy has higher importance than the rural economy beause of the amassing of wealth fromt he Capitalist system. 
 
-In Supereconomics, both urban and rural economies have importance. This is because it also gives importance to the wildlife and natural environment. These need to be protected.  
+In Supereconomics, both urban and rural economies have importance. This is because the basis for the economy is the grain value. 
+
+While Economics favors the trading class, Supereconomics favors the working class, specifically the farmers who provide food for society. 
+
+Supereconomics also gives importance to the wildlife and natural environment that are essential to support the weather and climate systems for sustainable agriculture.
+
+ <!-- These need to be protected.   -->
 
 The rural economy can be divided into two:
 

@@ -50,6 +50,24 @@ Locke's social contract theory greatly influenced liberal democratic thought and
 He also pushed for a social contract theory, as well as corporate organization. 
 
 
+3. John Stuart Mill (1806-1873) 
+
+He created the concept of Utilitarianism which is really based on material pleasures. 
+
+His moral rule is for everyone to pursue his happiness. The flaw in Mill's philosophy is that **personal happiness is subjective**. If pursued without thinking of others, then it becomes arbitrary. 
+
+For example, it might bring happiness to a rich country to invade a poorer country for oil as the former would think that it would bring happiness and progress to both countries.
+
+Conversely, it might bring happiness to terrorists to attack a rich, extravagant country thinking that it would bring it closer to simplicity and austerity which are foundations for religious happiness. Even Jesus himself said it will be difficult for the rich to enter the Kingdom of God.
+
+{{< i s="/photos/countries/af/taliban.jpg" a="Taliban" c="The Taliban are doing what they feel is moral, just as what the US is doing" >}} 
+
+**Utilitarianism is useful only when one is alone.** 
+
+It, however, creates problems when one comes into society because people have diverse experiences, opinions, and moral standards. 
+
+It's the type of thing that works only in thought experiments but fails in the real world. 
+
 
 
 ### Socialism
@@ -73,7 +91,6 @@ It emphasizes:
 - wealth redistribution to reduce inequality
 
 Examples are The Soviet Union, Cuba, and modern social democracies (e.g., Sweden).
-
 
 
 

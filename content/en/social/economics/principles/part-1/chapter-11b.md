@@ -94,3 +94,7 @@ Advocacy for **self-managed cooperatives** and workers’ control of production.
 | **Communism**         | Abolition of the state, full collective control | Centralized planning, no private property             | Collective ownership, no markets | Classless, stateless society |
 | **Capitalism**        | Minimal government involvement | Free markets, private ownership, competition          | Private ownership, wealth accumulation | Profit-driven economic growth |
 | **Fascism**           | Authoritarian, state-controlled economy | State-directed economy, corporatism                   | Private ownership but subordinated to the state | Nationalism, centralized power | -->
+
+
+
+

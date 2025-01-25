@@ -184,10 +184,10 @@ Donation | Irregular Revenue from the abundance experienced by others
 Effort Theory of Value | the pegging of economic value into points represented by grains
 Goods | anything that is for sale and occupies a specific spacetime 
 Interest Rate | The revenue in lending that is determined by the demand and credit-worthiness of the borrowers and the availability of the lenders
-Market Price | The value that producers actually assign for the goods or services that they produce or render
+Market Price | the price that sellers actually assign to the things they sell
 Monetization | the conversion of goods and services into money
-Natural Price | The average value that the producer can actually sell his goods or services with ordinary profits
-Nominal Price | The value that a purchaser sets for a good or service that he demands
+Natural Price | the average price that the producer or seller can actually sell his goods or services with ordinary profits for given period of time
+Nominal Price | the prince that a purchaser sets for a good or service that he demands
 Pantrypoints Hub | a large pantry that connects to smaller pantries
 Pantrypoints Pantry | a permanent or temporary repository of resources. Examples are stalls in a marketplace, a business address, or a person with a bag 
 Pantrypoints system | the use of Pantries or Hubs as the store of resources
@@ -198,7 +198,7 @@ Pointization | the conversion of goods and services into points
 Products | a good that is processed and is for sale
 Profit | Irregular Revenue from the lack experienced by others
 Purchase | the acquisition of something by exchange.
-Real Price | The value that a producer sets for a good or service that he produces or renders
+Real Price | the subjective cost that the seller or producer incurred to create a thing
 Rent | Regular Arbitrary Revenue, from the Lack of Land
 Selling | the act of giving goods or services by getting money in return. The giver is called the “seller”, the getter is the “buyer”.
 Service | anything that is for sale but does not occupy a specific spacetime 

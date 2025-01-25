@@ -25,8 +25,8 @@ Economics | Money and Profit Maximization | Economic crises, Poverty, Inequality
 Physics | Gravity comes from Matter | No anti gravity, teleportation, free energy
 Western Medicine | Treating Symptom or Effect instead of Cause | Diseases recur and side effects created
 Sociology | Differences in Culture, Language | War, Nationalism, Terrorism, Disputes
+Evolution Theory | Survival of the Fittest | Nazism, Racism, Exploitation of the Weak
 Psychology | Consciousness Comes From Brain | Ineffective Treatments that cause side effects
-
 
 
 ### The Sophistries in the Sciences
@@ -63,7 +63,7 @@ Money in common language frequently signifies wealth. This **ambiguity of expres
 
 Nowadays, we use the word 'scam' instead of sophistry. 
 
-In the case above, the scam is the financial sector pushing governments to get more loans under the pretence that it will provide employment to the people, when it really just provides employment and profits to the financial system.  
+In the case above, the scam is the financial sector equating money with wealth. They use this to push governments to get more money-loans under the pretence that it will provide employment and therefore wealth to the people, when it really just provides employment and wealth to the financial system.  
 
 
 Unlike the Dunning-Kruger effect which is just a miscalculation of one's abilities, Sophists have mastery and push their scam with the ill intent of self-gain. 
@@ -88,30 +88,29 @@ But since his scam goes against Nature, it will eventually be discovered, and ka
 Here, the time factor exposed the FTX scam, just as public debt and too-big-to-fail finance implodes after some time. This is because the time Element is right below the aether. 
 
 
-### Newton is a Slight Mistake, Not a Scam
+<!-- ### Newton is a Slight Mistake, Not a Scam
 
 We do not regard Newton as a scammer because he properly attributed the cause of gravity to the "Spirit of Lord God". 
 
 This is consistent with the Indians saying that all the mechanism for the universe, and the universe itself, is from God as Brahma. 
 
-{{< q a="Newton" c="Principia Mathematica, Book 3 Scholium" >}}
+q a="Newton" c="Principia Mathematica, Book 3 Scholium" >}}
 This most beautiful system can only come from an intelligent and powerful Being.. I call Him Lord God. A Spirit pervades and lies hidden in all gross bodies. Its action and force causes the particles of bodies to mutually attract one another.. My work can lay the foundation to discover how this Spirit operates.
-{{< /q >}}
+/q >}}
 
 This Spirit is the same as the Cartesian aether or substance of Spinoza that creates the vast universe. 
 
-{{< q a="Spinoza" c="The Ethics, Part 1, Prop 11" >}}
+q a="Spinoza" c="The Ethics, Part 1, Prop 11" >}}
 God, or substance, consisting of infinite attributes, of which each expresses eternal and infinite essentiality, necessarily exists
-{{< /q >}}
+/q >}} -->
 
 
 
 ### The Einstein Scam: The Simultaneity of Time
 
-Unlike Newton, Descartes, and Spinoza who ascribed the causal mechanisms of everything to God, Spirit, or Substance, Einstein put all to matter and energy.
+<!-- Unlike Newton, Descartes, and Spinoza who ascribed the causal mechanisms of everything to God, Spirit, or Substance, Einstein put all to matter and energy. -->
 
-His scam began in 1905 when he pushed the concept of **simultaneity of time**. 
-
+Einstein's scam began in 1905 when he pushed the concept of **simultaneity of time**. 
 
 {{< q a="Einstein" >}}
 We test simultaneity by putting an observer in the middle `M` between `A` and `B`. He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time. If he sees both flashes at the same time, then they are simultaneous. You object by saying that "time" would be measured by light, but the speed of light is measured by time. You would say this is **reasoning in a circle** and therefore, simultaneity has absolutely nothing to do with light.
@@ -155,7 +154,7 @@ Likewise, all the effort of unifying quantum mechanics with Relativity have fail
 - String Theory
 - Loop Quantum Gravity
 
-{{< i s="/graphics/physics/einstein.jpg" a="Einstein" >}}
+{{< i s="/graphics/physics/einstein.jpg" a="Einstein" c="David Hume's system of critical thinking involves chasing the train of ideas to find the origin idea" >}}
 
 
 It would have been better to sleep for 100 years achieving nothing than waste so much time and effort achieving the same nothing. This is because like the blockchain exaxmple, the wasted effort is actually a negative. 
@@ -185,7 +184,10 @@ Ideally, math should be used by engineering which would then implement the theor
 
 But the people after Maxwell seemed to lack experimentation ability. 
 
-Our experiments with Cartesian aether could be done with household equipment and gauge blocks. So there is no excuse for richer countries to have weak experimentation ability. 
+Our experiments with Cartesian aether could be done with household equipment and gauge blocks. So there is no excuse for richer countries to have weak experimentation ability.
+
+But mathematicians protect their intellectual position by implying that those who go against math are weak-minded.
+- This is similar to how priests protected their dogma by implying that those who went against them were influenced by the Devil.
 
 
 ## The Solution
@@ -195,7 +197,7 @@ We correct Relativity by converting it to Cartesian Relationality.
 The 3 components of the Einstein scam are: 
 
 1. His desire for Nobel Prize money which he gave to his wife who actually created Relativity
-2. The fact that no one, even himself, knew the aether or 5th Element 
+2. The fact that no one, even himself, knew the aether or 5th Element
 3. Use of the ambiguity of time
 
 We fix the simultaneity of time by having a moral paradigm:
