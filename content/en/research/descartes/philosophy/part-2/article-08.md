@@ -94,15 +94,25 @@ It is in reality, however, impossible that any, even the least part, of such qua
 
 
 
-#### 9. Physical matter, when distinguished from metaphysical quantity, is confusedly conceived as something metaphysical.
+### 9. The corporeal substance, when distinguished from its number, is confusedly thought of as incorporeal.
 
+<!-- Physical matter, when distinguished from metaphysical quantity, is confusedly conceived as something metaphysical.
 
 When people distinguish physical matter from metaphysical space or number, they either:
 - mean nothing by the word "physical matter", or
 - form in their minds merely a confused idea of metaphysical substance, which they falsely think to be physical. 
 
 Then they leave to metaphysical space the true idea of this physical matter.
-- This metaphysical space they call an accident. But this means that their words are not in harmony with their thoughts.  
+- This metaphysical space they call an accident. But this means that their words are not in harmony with their thoughts.   -->
+
+<!-- And although perhaps some may say otherwise, I do not think they perceive anything else; but  -->
+
+People who distinguish substance from size or number actually do not know what incorporeal substance means. 
+- They think that substance is physical. 
+
+They thus think that a corporeal substance has a [metaphysical] size which they nevertheless call an accident.
+
+And so they express something quite different from what they comprehend in their mind.
 
 
 #### 10. What is space or internal place?

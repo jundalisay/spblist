@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 1b"
 linkTitle: Chapter 1b
-title: "The Flaw of Utility Theories"
+title: "Disregarding Marginal Utility"
 date: 2015-08-20
-# date: 2022-08-29
+# date: 2022-08-29  The Flaw of Utility Theories
 weight: 10
 image: /graphics/econ/maslow.jpg
 description : "Economics enshrines Utility as the foundation of value, while Supereconomics emphasizes Dharma"
