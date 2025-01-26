@@ -125,6 +125,10 @@ Wisdom | An intellect that is in line with the dharma of the causes and effects 
 
  <!-- (usually simple and obvious). It's essentially a consequence of the proven theorem without requiring further proof. -->
 
+
+
+
+
 ## Material Superphysics Definitions
 
 Word | Acronym | Meaning
@@ -142,6 +146,10 @@ Quantum of Space-time | Qost | Invisible spacetime particles in the Spatial Laye
 [Substance](/research/descartes/meditations/part-3c/) | A Cartesian Substance subject to measurement
 [Spin](/material/principles/part-3/chapter-06/) | Orientation of that particle relative to the virtual photon 
 Spin Number | Ratio of Virtual Photons needed to rotate the particle. 1/2 spin means 2 virtual photons are needed for each rotation
+Volt | electron flow pressure
+Amp | electron flow volume (rate)
+Watt | total flow  <!-- = volt x amps pressure multiplied by the flow rate -->
+
 
 
 Axioms: The foundation stones, accepted as true without question.

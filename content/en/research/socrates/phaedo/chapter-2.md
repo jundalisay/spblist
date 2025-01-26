@@ -10,7 +10,9 @@ icon: "/icons/socrates.png"
 
 
 {{< l a="Socrates" >}}
-The real philosopher has reason to be of good cheer when he is about to die. After death he may hope to obtain the greatest good in the other world. The true devotee of philosophy is always pursuing death. He has had the desire of death all his life long.
+The real philosopher has reason to be of good cheer when he is about to die. After death he may hope to obtain the greatest good in the other world. 
+
+The true devotee of philosophy is always pursuing death. He has had the desire of death all his life long.
 {{< /l >}}
 
 

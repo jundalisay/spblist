@@ -4,7 +4,7 @@ title: "Death"
 heading: Chapter 2
 weight: 6
 image: "/covers/phaedo.png"
-description: "The true philosopher is known specially for his courage and temperance. The latter is the control and regulation of the passions. It is a virtue belonging to those only who despise the body, and who pass their lives in philosophy"
+description: "The true philosopher is known specially for his courage and temperance. The latter is the control and regulation of the passions"
 icon: "/icons/socrates.png"
 ---
 
@@ -29,7 +29,10 @@ This separation and release of the soul from the body is called death.
 Only the true philosophers are ever seeking to release the soul. The separation and release of the soul from the body is their especial study. 
 
 There would be a ridiculous contradiction in men studying to live as nearly as they can in a state of death, and yet repining when it comes on them.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 The true philosophers, Simmias, are always occupied in the practice of dying. Wherefore also to them least of all men is death terrible. 
 
 If they have been the enemies of the body  in every way, and are wanting to be alone with the soul, when this desire of theirs is granted, how inconsistent would they be if they trembled and repined, instead of rejoicing at their departure to that place where, when they arrive, they hope to gain that which in life they desired

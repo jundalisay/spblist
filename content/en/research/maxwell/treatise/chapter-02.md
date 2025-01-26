@@ -12,7 +12,7 @@ image: "/covers/elec.png"
 
 17.] Take any deep vessel of metal,—a pewter ice-pail was used by Faraday,—a piece of wire gauze rolled into a cylinder and set on a metal plate is very convenient, as it allows any object within it to be seen.
 
-Set this vessel on an insulating stand, and place an electroscope near it. Connect one elec- trode of the electroscope permanently with the earth or the walls of the room, and the other with the insulated vessel, either permanently by a wire reaching from the one to the other, or occasionally by means of a wire carried on an ebonite rod and made to touch the vessel and the electrode at the same time. We shall generally suppose the vessel in permanent connection with the elec- troscope. The simplest way when a gold-leaf electroscope is used is to set the vessel on the top of it.
+Set this vessel on an insulating stand, and place an electroscope near it. Connect one elec- trode of the electroscope permanently with the earth or the walls of the room, and the other with the insulated vessel, either permanently by a wire reaching from the one to the other, or occasionally by means of a wire carried on an ebonite rod and made to touch the vessel and the electrode at the same time. We shall generally suppose the vessel in permanent connection with the electroscope. The simplest way when a gold-leaf electroscope is used is to set the vessel on the top of it.
 
 Take a metal ball at the end of an ebonite rod, electrify it by means of the electrophorus, and carrying it by the rod as a handle let it down into the metal vessel without touching the sides.
 

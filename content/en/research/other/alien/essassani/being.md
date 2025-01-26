@@ -40,6 +40,16 @@ Your higher mind knew you had to experience certain themes. But it never imposed
 {{< /l >}}
 
 
+### Bigger Eyes Mean More access to Higher Mind
+
+The eyes are the window to another dimension. 
+
+Some ETs have bigger eyes because they have more access to the higher mind.  
+
+You can know another person by starting into his/her eyes. 
+
+
+
 
 <!-- conscio pattern can be dealt with as if it were autonomous for the purpose of reflectivity.   -->
 

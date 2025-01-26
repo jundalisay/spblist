@@ -83,7 +83,9 @@ These admissions were not unfair. If generation were in a straight line only, an
 {{< l a="Socrates" >}}
 A simple thing enough, which I will illustrate by the case of sleep, he replied. You know that if there were no alternation of sleeping and waking, the tale of the sleeping Endymion would in the end have no meaning, because all other things would be asleep, too, and he would not be distinguishable from the rest. Or if there were composition only, and no division of substances, then the chaos of Anaxagoras would come again. 
 
-Similarly, if all things which partook of life were to die, and after they were dead remained in the form of death, and did not come to life again, all would at last die, and nothing would be alive—what other result could there be? For if the living spring from any other things, and they too die, must not all things at last be swallowed up in death? (But compare Republic.)
+Similarly, if all things which partook of life were to die, and after they were dead remained in the form of death, and did not come to life again, all would at last die, and nothing would be alive—what other result could there be? 
+
+For if the living spring from any other things, and they too die, must not all things at last be swallowed up in death? (But compare Republic.)
 {{< /l >}}
 
 {{< r a="Cebes" >}}
@@ -94,7 +96,9 @@ I am confident that:
 - the living spring from the dead
 - the souls of the dead are in existence
 - the good souls have a better portion than the evil
+{{< /r >}}
 
+{{< r a="Cebes" >}}
 Your favorite doctrine is that knowledge is simply recollection. It implies a previous time in which we have learned that which we now recollect.
 
 But this would be impossible unless our soul had been in some place before existing in the form of man; here then is another proof of the soul's immortality.
@@ -105,11 +109,15 @@ But tell me, Cebes, said Simmias, interposing, what arguments are urged in favou
 {{< /r >}}
 
 {{< r a="Cebes" >}}
-One excellent proof, said Cebes, is afforded by questions. If you put a question to a person in a right way, he will give a true answer of himself, but how could he do this unless there were knowledge and right reason already in him? And this is most clearly shown when he is taken to a diagram or to anything of that sort.
+One excellent proof, said Cebes, is afforded by questions.
+
+If you put a question to a person in a right way, he will give a true answer of himself, but how could he do this unless there were knowledge and right reason already in him?
+
+This is most clearly shown when he is taken to a diagram or to anything of that sort.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-But if, said Socrates, you are still incredulous, Simmias, I would ask you whether you may not agree with me when you look at the matter in another way;—I mean, if you are still incredulous as to whether knowledge is recollection.
+But if you are still incredulous, Simmias, I would ask you whether you may not agree with me when you look at the matter in another way;—I mean, if you are still incredulous as to whether knowledge is recollection.
 {{< /l >}}
 
 {{< r a="Simmias" >}}
@@ -120,7 +128,9 @@ I am not incredulous. But I want to have this doctrine of recollection brought t
 What a man recollects he must have known at some previous time. What is the nature of this knowledge or recollection? 
 
 I mean to ask, Whether a person who, having seen or heard or in any way perceived anything, knows not only that, but has a conception of something else which is the subject, not of the same but of some other kind of knowledge, may not be fairly said to recollect that of which he has the conception?
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 The knowledge of a lyre is not the same as the knowledge of a man. Yet what is the feeling of lovers when they recognize a lyre, or a garment, or anything else which the beloved has been in the habit of using? Do not they, from knowing the lyre, form in the mind's eye an image of the youth to whom the lyre belongs? And this is recollection. 
 
 Similarly, anyone who sees Simmias may remember Cebes. There are endless examples of this.
@@ -132,7 +142,10 @@ Recollection is most commonly a process of recovering that which has been alread
 From seeing the picture of a horse or a lyre, you might remember a man. From the picture of Simmias, you might remember Cebes, or remember Simmias himself. 
 
 In all these cases, the recollection may be derived from things either like or unlike.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 When the memory is derived from like things, then another consideration is sure to arise, The likeness in any degree falls short of that which is remembered. 
 
 There is such a thing as equality, not of one piece of wood or stone with another, but that, over and above this, there is absolute equality.
@@ -158,9 +171,12 @@ But equal portions of wood and stone, or other material equals? and what is the 
 Are they equals in the same sense in which absolute equality is equal? or do they fall short of this perfect equality in a measure?
 
 I look at an object. I see that it aims at being some other thing, but falls short of, and cannot be that other thing. Rather it is inferior. This means I must have had a previous knowledge of that other thing. 
+{{< /l >}}
 
  <!-- to which the other, although similar, was inferior. -->
 
+
+{{< l a="Socrates" >}}
 This was our own case in the matter of equals and of absolute equality.
 
 Then we must have known equality previously to the time when we first saw the material equals. We then reflected that all these apparent equals strive to attain absolute equality, but fall short of it

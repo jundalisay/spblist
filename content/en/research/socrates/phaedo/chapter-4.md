@@ -103,7 +103,10 @@ One of us is part body, another is part soul.  The body is the seen and the soul
 The soul uses the body as an instrument of perception. It uses sight or hearing. 
 
 Perceiving through the body is perceiving through the senses. The soul too is then dragged by the body into the region of the changeable. It wanders and is confused. The world spins round her, and she is like a drunkard, when she touches change. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 But when returning into herself she reflects, then she passes into the other world, the region of purity, and eternity, and immortality, and unchangeableness, which are her kindred, and with them she ever lives, when she is by herself and is not let or hindered. 
 
 Then she ceases from her erring ways, and being in communion with the unchanging is unchanging. 

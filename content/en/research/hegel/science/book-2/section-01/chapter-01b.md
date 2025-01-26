@@ -104,7 +104,11 @@ But this determinateness is itself absolute negativity, and this determining whi
 
 As such, it is the negative returned into itself, non-self-subsistent being as in its own self not self-subsistent.
 
-This self-relation of the negative or of non-self-subsistent being is its immediacy; it is an other than the negative itself; it is its determinateness over against itself; or it is the negation directed against the negative. But negation directed against the negative is purely self-related negativity, the absolute sublating of the determinateness itself.
+This self-relation of the negative or of non-self-subsistent being is its immediacy.
+
+It is an other than the negative itself; it is its determinateness over against itself; or it is the negation directed against the negative.
+
+But negation directed against the negative is purely self-related negativity, the absolute sublating of the determinateness itself.
 
 
 <sup>831</sup> The determinateness, therefore, which illusory being is in essence is infinite determinateness; it is the purely self-coincident negative; it is thus the determinateness which as such is self-subsistent and indeterminate. 
@@ -122,4 +126,14 @@ But both essence and illusory being, and also the difference of essence from the
 
 The first immediacy is thus only the determinateness of immediacy.
 
-The sublating of this determinateness of essence, therefore, consists simply and solely in showing that the unessential is only illusory being and that the truth is rather that essence contains the illusory being within itself as the infinite immanent movement that determines its immediacy as negativity and its negativity as immediacy, and is thus the reflection of itself within itself. Essence in this its self-movement is reflection
+Therefore, the sublating of this determinateness of essence consists solely in showing that:
+- the unessential is only illusory being and 
+- the truth is that essence contains the illusory being within itself.
+
+This illusion is the infinite immanent movement that determines:
+- its immediacy as negativity
+- its negativity as immediacy
+
+It is thus the reflection of itself within itself. 
+
+Essence in this self-movement is reflection.

@@ -7,6 +7,14 @@ author: Consolidated from Bashar
 ---
 
 
+## How to Get Over Depression
+
+Get over it!
+
+Do not accept beliefs that devalue you.
+
+
+
 ## 2 Quick Techniques for Manifesting your Preferred Reality
 
 

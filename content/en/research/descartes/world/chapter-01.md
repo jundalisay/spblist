@@ -1,5 +1,4 @@
 ---
-# title: "The Difference Between Our Sensations and the Things That Produce Them"
 title: "Our Sensations and the Things That Produce Them"
 linkTitle: "Our Sensations"
 heading: "Chapter 1"

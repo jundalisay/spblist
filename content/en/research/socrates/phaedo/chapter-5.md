@@ -43,7 +43,10 @@ A person who has not studied philosophy and who is not entirely pure at the time
 This is why, Simmias and Cebes, the true devotees of philosophy:
 - abstain from all fleshly lusts
 - hold out against them and refuse to give themselves up to them
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 The lovers of money and the world fear poverty or the ruin of their families. The lovers of power and honour dread the dishonour or disgrace of evil deeds.
 
 But those who care about their own souls do not merely live moulding and fashioning the body. They say farewell to all this.

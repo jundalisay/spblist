@@ -1,7 +1,6 @@
 ---
 heading: Chapter 1
 title: Illusory Being
-# title: "Essence as Reflection Within Itself"
 weight: 4
 description: "Essence issues from being. Hence it is not immediately in and for itself but is a result of that movement. "
 author: Hegel

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 9"
-title: The Principle of Vibration [Tao]
+title: The Principle of Vibration
 description: "Nothing rests; everything moves; everything vibrates.—The Kybalion"
 image: /covers/kybalion.jpg
 weight: 18
