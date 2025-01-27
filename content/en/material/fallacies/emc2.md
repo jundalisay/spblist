@@ -1,7 +1,7 @@
 ---
 title: "Mass-Energy Equivalence"
 date: 2024-03-13
-weight: 34
+# weight: 34
 image: /graphics/physics/effort.jpg
 description: "The idea of Mass-Energy Equivalence was created by Einstein through his famous equation: E=mc^2"
 writer:

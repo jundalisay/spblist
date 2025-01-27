@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4
-title: "Slavery"
-description: ""
+title: "Conventions are the Basis of Authority"
+description: "No man has a natural authority over his fellow. Force creates no right."
 image: "/covers/rousseau.jpg"
 weight: 10
 date: 2025-01-11
@@ -20,17 +20,16 @@ Why could not a whole people do the same and make itself subject to a king?
 
 To alienate is to give or to sell.
 
-A man who becomes the slave of another does not give himself; he sells himself, at the least for his subsistence: 
+A man who becomes the slave of another sells himself for subsistence.
 
-but for what does a people sell itself? 
+But a people sells itself for what? 
 
-A king is so far from furnishing his subjects with their subsistence that he gets his own only from them; and, according to Rabelais, kings do not live on nothing.
+<!-- A king is so far from furnishing his subjects with their subsistence that he gets his own only from them; and, according to Rabelais, kings do not live on nothing.
 
-Do subjects then give their persons on condition that the king takes their goods also? I fail to see what they have left to preserve.
+Do subjects then give their persons on condition that the king takes their goods also? I fail to see what they have left to preserve. -->
 
 The despot assures his subjects civil tranquillity.
-
-But he can also bring wars from his ambition. 
+- But he can also bring wars from his ambition. 
 
 <!-- What do they gain, if the very tranquillity they enjoy is one of their miseries?  -->
 
@@ -44,11 +43,16 @@ It is absurd to say that a man gives himself gratuitously.
 
 To say the same of a whole people is to suppose a people of madmen; and madness creates no right.
 
-Even if each man could alienate himself, he could not alienate his children. They are born men and free.
+ <!-- alienate  alienate -->
+Even if each man could sell himself, he could not his children.*
+- They are born men and free.
+- Their liberty belongs to them. Only they have the right to dispose of it.
 
-Their liberty belongs to them. Only they have the right to dispose of it.
+{{< n n="This is false, as humans have been known to sell their children" >}}
+
 
 Before they come to years of discretion, the father can, in their name, lay down conditions for their preservation and well-being, but he cannot give them, irrevocably and without conditions: such a gift is contrary to the ends of nature, and exceeds the rights of paternity.
+
 
 It would therefore be necessary, in order to legitimise an arbitrary government, that in every generation the people should be in a position to accept or reject it; but, were this so, the government would be no longer arbitrary.
 

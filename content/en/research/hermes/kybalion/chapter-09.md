@@ -6,6 +6,7 @@ image: /covers/kybalion.jpg
 weight: 18
 ---
 
+
 {{< q >}}
 "Nothing rests; everything moves; everything vibrates."—The Kybalion.
 {{< /q >}}
@@ -80,15 +81,23 @@ No sound is heard from the revolving wheel. The rate of motion being so high tha
 
 ## Heat 
 
-Then comes the perception of rising degrees of Heat. Then after quite a time the eye catches a glimpse of the object becoming a dull dark reddish color. As the rate increases, the red becomes brighter.
+Then comes the perception of rising degrees of Heat. After quite a time the eye catches a glimpse of the object becoming a dull dark reddish color. As the rate increases, the red becomes brighter.
 
 Then as the speed is increased, the red melts into an orange. Then the orange melts into a yellow. 
 
 Then follow, successively, the shades of green, blue, indigo, and finally violet, as the rate of sped increases. Then the violet shades away, and all color disappears, the human eye not being able to register them. 
 
-But there are invisible rays emanating from the revolving object, the rays that are used in photographing, and other subtle rays of light. Then begin to manifest the peculiar rays known as the "X Rays," etc., as the constitution of the object changes. Electricity and Magnetism are emitted when the appropriate rate of vibration is attained.
+But there are invisible rays emanating from the revolving object, the rays that are used in photographing, and other subtle rays of light. 
 
-When the object reaches a certain rate of vibration its molecules disintegrate, and resolve themselves into the original elements or atoms. Then the atoms, following the Principle of Vibration, are separated into the countless corpuscles of which they are composed. And finally, even the corpuscles disappear and the object may be said to Be composed of The Ethereal Substance. 
+Then begin to manifest the peculiar rays known as the "X Rays," etc., as the constitution of the object changes. 
+
+Electricity and Magnetism are emitted when the appropriate rate of vibration is attained.
+
+When the object reaches a certain rate of vibration its molecules disintegrate, and resolve themselves into the original elements or atoms. 
+
+Then the atoms, following the Principle of Vibration, are separated into the countless corpuscles of which they are composed.
+
+Finally, even the corpuscles disappear and the object may be said to Be composed of The Ethereal Substance. 
 
 
 Science does not dare to follow the illustration further. 

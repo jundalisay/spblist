@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3"
 linkTitle: Chapter 3
-title: "The Force of Capital"
+title: "The Force of Capital: Opportunity Cost"
 weight: 16
 date: 2023-11-03
 image: /photos/objects/gold.jpg
@@ -13,12 +13,15 @@ writer:
 
 
 
-
 The Effort Theory of Value revealed that it is the passion or interest of a person that drives his industry and prompts him to get the skills and abilities to realize that interest.
 
 This same passion pushes us to use our capital or skills, abilities, and  assets to produce value for others, otherwise we feel a sense of waste or regret.
 
 In Economics, this manifests as the opportunity cost which is defined as the potential forgone profit from a missed opportunity.
+
+
+{{< i s="/photos/meta/god.jpg" a="Opportunity" >}}
+
 
 It necessarily leads to the concept of the time value of money which says that a sum of money is worth more now than the same sum will be at a future date, due to its earnings potential in the interim.
 

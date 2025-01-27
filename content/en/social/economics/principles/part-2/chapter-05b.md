@@ -3,7 +3,7 @@ heading: "Chapter 5b"
 # linkTitle: Chapter 5
 title: "Points Bailout"
 date: 2020-08-20
-weight: 20
+weight: 23
 image: "/charts/econ/prod.png"
 description : "During economic crises, the points can be used as interest-free deposits of goods and services to distressed companies."
 writer:

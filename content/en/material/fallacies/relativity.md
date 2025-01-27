@@ -1,13 +1,13 @@
 ---
 # heading: "Chapter 9b"
 title: "The History of Relativity"
-# date: 2020-01-31
+date: 2020-01-31
 image: "/covers/einstein.jpg"
 description: "Relativity has its roots with the Luminiferous Aether idea of Augustin Fresnel who presented his wave theory in 1816"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 40
+# weight: 40
 icon: /icons/spmat.png
 ---
 

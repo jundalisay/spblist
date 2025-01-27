@@ -2,7 +2,7 @@
 title: "Why String Theory and Supersymmetry are a waste of time"
 # date: 2023-05-23
 date: 2024-12-21
-weight: 2
+# weight: 2
 image: /graphics/physics/string.jpg
 description: "To unify both, physicists invented string theory wherein particles become threads which integrate with the fabric of spacetime."
 writer:

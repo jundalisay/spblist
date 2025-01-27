@@ -4,7 +4,7 @@ title: Feudalism and Fascism
 # title: "Classical Economics and Buddhist Economics"
 # date: 2022-03-27
 date: 2022-01-09
-weight: 32
+weight: 62
 image: /photos/medieval/hitler.jpg
 description: "The Feudal System arose from the fall of the Roman system which collapsed after the Romans lost their dharma or martial spirit"
 writer:

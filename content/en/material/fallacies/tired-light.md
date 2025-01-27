@@ -1,7 +1,7 @@
 ---
 title: "The Fallacy Zwicky's of Tired Light"
 date: 2024-10-14
-weight: 4
+# weight: 4
 image: /photos/psych/fail.jpg
 description: "The Fallacy Zwicky's of Tired Light"
 writer:

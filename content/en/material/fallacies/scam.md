@@ -2,8 +2,8 @@
 title: "Why Relativity is a Scam" 
 description: "Einstein's scam is such a work of genius that it has single-handedly caused the fall of Physics."
 date: 2024-12-25
-weight: 2
-image: "/covers/einstein.jpg"
+# weight: 2
+image: "/graphics/physics/einstein.jpg"
 ---
 
 

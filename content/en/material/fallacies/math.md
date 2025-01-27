@@ -1,7 +1,7 @@
 ---
 title: "The Corruption of Physics by Mathematics"
 date: 2024-12-11
-weight: 2
+# weight: 2
 image: /graphics/physics/corruption.jpg
 description: "The major Physics theories of the past century such as String Theory, Supersymmetry, Loop Quantum Gravity are all based on Einstein's Relativity and been all equally useless"
 writer:

@@ -1,7 +1,7 @@
 ---
-heading: Chapter 1
-title: "Freedom"
-description: ""
+heading: Chapters 1-2
+title: "Men are Slaves"
+description: "Man is born free yet everywhere he is in chains."
 image: "/covers/rousseau.jpg"
 weight: 6
 date: 2025-01-11
@@ -77,9 +77,15 @@ He seems to incline to the former alternative, which is also the view of Hobbes.
 
 On this showing, the human species is divided into so many herds of cattle, each with its ruler, who keeps guard over them for the purpose of devouring them.
 
-As a shepherd is of a nature superior to that of his flock, the shepherds of men, i.e. their rulers, are of a nature superior to that of the peoples under them. Thus, Philo tells us, the Emperor Caligula reasoned, concluding equally well either that kings were gods, or that men were beasts.
+A shepherd is superior to his flock. 
 
-The reasoning of Caligula agrees with that of Hobbes and Grotius.
+The rulers are the shepherds of men and are superior to them. 
+
+Thus, Philo tells us that the Emperor Caligula concluded that either:
+- kings were gods or
+- men were beasts.
+
+This agrees with Hobbes and Grotius.
 
 Aristotle had said that:
 - men are not equal naturally

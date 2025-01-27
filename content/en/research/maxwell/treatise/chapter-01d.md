@@ -7,7 +7,7 @@ image: "/covers/elec.png"
 ---
 
 
-14.] In the gold-leaf electroscope, the only electrification in the field is the electrification to be tested. In the Quadrant Electrometer the needle is kept always charged. 
+14. In the gold-leaf electroscope, the only electrification in the field is the electrification to be tested. In the Quadrant Electrometer the needle is kept always charged. 
 
 Instruments in which the only electrification is that which we wish to test, are called Idiostatic. Those in which there is electrification independent of that to be tested are called Heterostatic. In an idiostatic instru- ment, like the gold-leaf electroscope, the indications are the same, whether the potential to be tested is positive or negative, and the amount of the indi- cation is, when very small, nearly as the square of the difference of potential. 
 

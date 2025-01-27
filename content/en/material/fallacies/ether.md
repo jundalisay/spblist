@@ -2,7 +2,7 @@
 title: "Einstein's Ether Versus Cartesian Aether" 
 description: "The damage that Einstein has done to humanity may be ranked as follows"
 date: 2025-01-11
-weight: 2
+# weight: 2
 image: "/graphics/physics/ether.jpg"
 ---
 

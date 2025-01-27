@@ -11,29 +11,79 @@ writer:
 ---
 
 
-A still more perfect knowledge of how all the parts of the body are nourished is to be had when we consider how they were originally formed from the seed. Until now, I have been unwilling to put my views on this topic into writing, because I have not yet been able to make enough  observations to test all the thoughts I have had on the matter.
+A still more perfect knowledge of how all the parts of the body are nourished is to be had when we consider how they were originally formed from the seed. 
 
-Nevertheless, I cannot refrain from setting out some very general points in passing, as I hope that these are those least likely to be among those that I will have to retract later, when new observations have enlightened me further.
+Until now, I have been unwilling to put my views on this topic into writing, because I have not yet been able to make enough observations to test all the thoughts I have had on the matter.
 
-I specify nothing concerning the shape and the arrangement of the particles of the seed: it is enough for me to say that that of plants, being hard and solid, can have its parts arranged and situated in a particular way which cannot be altered without making them useless.
+<!-- Nevertheless, I cannot refrain from setting out some very general points in passing, as I hope that these are those least likely to be among those that I will have to retract later, when new observations have enlightened me further. -->
 
-But the situation in the case of seed in animals and humans is quite different, for this is quite fluid and is usually produced in the copulation between the two sexes, being, it seems, an unorganised mixture of two liquids, which act on each other like a kind of yeast, heating one another so that some of the particles acquire the same degree of agitation as fire, expanding and pressing on the others, and in this way putting them gradually into the state required for the formation of parts of the body. And these two liquids need not be very different from one another for this purpose.
+I specify nothing on the shape and arrangement of the particles of the seed.
 
-For, just as we can observe how old dough can make new dough swell, and how the scum formed on beer is able to serve as yeast for making more beer, so we can easily agree that the seeds of the two sexes, when mixed together, serve as yeast to one another. 
+<!-- it is enough for me to say that that of  -->
 
-The first thing that happens in this mixture of seed,  and which makes all the drops cease to resemble one another, is that the heat generated there – which acts in the same way as does new wine when it ferments, or as hay which is stored before it is dry – causes some of the particles to collect in a part of the space containing them, and then makes them expand, pressing against the others. This is how the heart begins to be formed.
+Plants, being hard and solid, can have its parts arranged and situated in a particular way which cannot be altered without making them useless.
 
-Then, because these tiny parts, which have been thus expanded, tend to continue in their movement in a straight line, and the heart, which has now begun to form, resists them, they slowly move away and make their way to the area where the brain stem will later be formed, in the process displacing others which move around in a circle to occupy the place vacated by them in the heart. After the brief time needed for them to collect in the heart, these in turn expand and move away, following the same path as the former. This results in some of the former group which are still in the same position – together with others that have moved in from elsewhere to take the place of those that have left in the meantime – moving into the heart. 
+But the situation in the case of seed in animals and humans is quite different, for this is quite fluid and is usually produced in the copulation between the two sexes, being, it seems, an unorganised mixture of two liquids, which act on each other like a kind of yeast, heating one another so that some of the particles acquire the same degree of agitation as fire, expanding and pressing on the others, and in this way putting them gradually into the state required for the formation of parts of the body.
 
-And it is in this expansion, which occurs thus in a repeated way, that the beating of the heart, or the pulse, consists. But it should be noted, in connection with this material that passes into the heart, that the violent agitation of the heat that makes it expand not only causes some of the particles to move apart and become separated, but also some others to gather, pressing and bumping against one another and  dividing into many extremely tiny branches which remain so close to one another that only the finest matter (which I called the ‘first element’ in the Principles of Philosophy) can occupy the spaces remaining around them. And the particles that, in leaving the heart, join together with one another in this way, never leave the circuit by which they return to it, in contrast to the many other particles that penetrate the mass of seed more easily, and from the seed new particles continue to move towards the heart, until it is all used up.
+These two liquids need not be very different from one another for this purpose.
 
-And this – as those who know my explanation of the nature of light in my Dioptrics and Principles of Philosophy, and the nature of colours in my Meteors, will easily understand – is why the blood of all animals is red. For I showed there that what makes us see light is simply the pressure exerted by matter of the second element, which I explained was made up of many little corpuscles all touching one another; and that we can observe two motions in these corpuscles: one, that by which they follow a straight line towards our eyes, which gives us the sensation of light; the other, that by which, at the same time, they turn about their own centres. And if the speed at which they turn is much less than that of their rectilinear motion, the body from which they come appears blue, whereas if they turn very much more quickly, it looks red to us.
+Old dough can make new dough swell.
+
+The scum formed on beer is able to serve as yeast for making more beer
+
+Likewise, the seeds of the two sexes, when mixed together, serve as yeast to one another. 
+
+The first thing that happens in this mixture of seed, and which makes all the drops cease to resemble one another, is that the heat generated there – which acts in the same way as does new wine when it ferments, or as hay which is stored before it is dry – causes some of the particles to collect in a part of the space containing them, and then makes them expand, pressing against the others. This is how the heart begins to be formed.
+
+These tiny parts then expand and continue their movement in a straight line.
+
+Its heart has now begun to form. This resists them.
+
+They slowly move away and go to where the brain stem will later be formed.
+
+In the process, they displace others which move around in a circle to occupy the place vacated by them in the heart.
+
+After the brief time needed for them to collect in the heart, these in turn expand and move away, following the same path as the former.
+
+This results in some of the former group which are still in the same position – together with others that have moved in from elsewhere to take the place of those that have left in the meantime – moving into the heart. 
+
+The beating of the heart, or the pulse, consists in this repeating expansion.
+
+ this material that passes into the heart, that 
+
+The violent agitation of the heat makes the blood:
+- expand and move apart and become separated
+- gather and press and bump against one another and divide into many extremely tiny branches.
+
+These branches remain so close to one another that only the finest matter (which I called the 1st Element in the Principles of Philosophy) can occupy the spaces remaining around them. 
+
+The particles that, in leaving the heart, join together with one another in this way, never leave the circuit by which they return to it, in contrast to the many other particles that penetrate the mass of seed more easily, and from the seed new particles continue to move towards the heart, until it is all used up.
+
+This is why the blood of all animals is red, as explained in:
+- Dioptrics and Principles of Philosophy on the nature of light
+- Meteors on the nature of colours
+
+We see light through the pressure exerted by the air-aether [2nd element] which are made up of many little corpuscles all touching one another.
+
+These corpuscles have 2 motions:
+
+1. They follow a straight line towards our eyes
+
+This gives us the sensation of light.
+
+2. They turn around their own centres.
+
+If their rotation speed is much less than that of their rectilinear motion, the body which they come from appears blue.
+
+If they turn much more quickly, it looks red to us.
 
 But the only kind of body that could make them turn faster is one whose tiny parts have branches so delicate and so close to one another that the only matter turning around them is that of the first element, and I have shown blood to be like this.
 
-The little corpuscles of the second element encounter, on the surface of the blood, this first-element matter, which continually passes with a very rapid oblique motion from one of these pores to the next, thus moving in the opposite direction to the corpuscles, and they are forced by this first- element matter to turn around their centres, and even to turn more with a greater speed than could be caused in any other way, since the first element surpasses all others in speed.
+The little corpuscles of the 2nd element encounter, on the surface of the blood, this first-element matter, which continually passes with a very rapid oblique motion from one of these pores to the next, thus moving in the opposite direction to the corpuscles, and they are forced by this first- element matter to turn around their centres, and even to turn more with a greater speed than could be caused in any other way, since the first element surpasses all others in speed.
 
-It is for much the same reason that iron, when it is hot, and coals, when they are burning, appear red: for then many of their pores are filled only with the first element. But because these pores are not as small as those of blood, the shade of red is different from that of blood.
+It is for much the same reason that iron, when it is hot, and coals, when they are burning, appear red: for then many of their pores are filled only with the first element.
+
+But because these pores are not as small as those of blood, the shade of red is different from that of blood.
 
 As soon as the heart begins to form in this way, the rarefied blood which leaves it takes it course in a straight line in the direction in which it is freest to move, which is the region where the brain will later be formed;  and the path taken by the blood begins to form the upper part of the aorta. Now because of the resistance offered by the parts of the seed that it encounters, the blood does not travel very far in a straight line before it is pushed back towards the heart along the same path by which it came. But it cannot go back down this path because the way is blocked by the new blood that the heart is producing.
 
@@ -83,7 +133,9 @@ What is more, the portion of the seed from which the head will be formed, pushed
 
 On this matter, it must be noted that these spirits having taken their course from the middle of the head towards three different sides, namely towards the back where they trace the spinal column, and also via the shoulder towards the left and right front sides, the matter whose place they took has been able to be drawn towards the top of the skull, in the three spaces that the three sides mark out; and from there taking its course through the two sides of the spinal column towards the heart, it makes room for the three principal branches of the great ‘triangular vessel’ that is between the folds of membrane that envelop the brain, and which has the characteristic that it brings together the functions of the artery and the vein. For the matter that was in that place, being pushed by the spirits, leaves there so easily and quickly that the branches of the arteries joined to the branches of the veins through which it flows towards the heart, are merged with these in forming this vessel, which afterwards  extends its tiny channels on all sides inside the skull, so that it alone provides almost all the nourishment to the brain.
 
-Nevertheless, the blood in the principal tube of the aorta, which comes in a straight line from the heart, cannot penetrate the base of the head at first, because the tiny parts of the seed are too closely packed there and exactly below a spot where afterwards a gland will be formed, which physicians have supposed serves only to receive the pituita from the brain. It exerts itself everywhere against the small parts of the seed, which resist it, and gradually drives some out, which flow from the side towards the veins sufficiently distant from there. By these means are formed those tiny branches of the arteries called the Rets admirabilus, which are more easily observed in animals than in humans, and which seem not to be joined to the veins.
+Nevertheless, the blood in the principal tube of the aorta, which comes in a straight line from the heart, cannot penetrate the base of the head at first, because the tiny parts of the seed are too closely packed there and exactly below a spot where afterwards a gland will be formed, which physicians have supposed serves only to receive the pituita from the brain. 
+
+It exerts itself everywhere against the small parts of the seed, which resist it, and gradually drives some out, which flow from the side towards the veins sufficiently distant from there. By these means are formed those tiny branches of the arteries called the Rets admirabilus, which are more easily observed in animals than in humans, and which seem not to be joined to the veins.
 
 Next, it was also raised higher towards the top of the head, in the neighbourhood of the spot through which the spirits enter the head, around which it has made innumerable tiny channels, which are so many tiny arteries that have begun to form the small membrane called the infundibulum, and then that which covers the duct of the ventricle that is behind the brain, and also the small tissues called the ‘choroid’ tissues, which are in the two cavities in front; and after that, being collected around the spot where the small gland called the ‘pineal gland’ will be formed, they entered all together the middle of the triangular vessel which nourishes the brain.
 
@@ -96,7 +148,11 @@ found in all places in the body and not only in their extremities, for even
 if one cuts one’s foot or one’s hand, one does not thereby impede the
 blood in the leg, or in the arm.
 
-I will add here just three examples of the division, the growth, and the joining of these tiny channels. There was no doubt at the beginning only a single tube, which carried the spirits in a straight line from the heart to the brain, but the tracheal artery, through which the respiratory air passes, is formed later (so I shall say more in its proper place), and the air  that it contains having more force to rise following this straight line than does the blood that comes from the heart, this tube came to be divided into two branches, namely, what are called the ‘carotid’ arteries. The two veins called the ‘spermatic’ veins were embedded in the vena cava, each as low as the other, at the time of their first formation, but the agitation of the aorta, when the liver and the vena cava are turned to the right side, is the reason why the spot where the left spermatic vein was embedded is raised gradually as far as the emulgent vessel while that on the right remains unchanged; just as, on the other hand, as a result of the same cause, the vein called the ‘adipose’, of the left kidney, is raised from the emulgent vessel, where it was first, to the trunk of the vena cava, while the expansion of the liver causes the right one to be lowered. I mean what I say when I tell you that this is something I have long sought, and indeed something in which I had the least hope of success, although it has not stopped others.
+I will add here just three examples of the division, the growth, and the joining of these tiny channels. There was no doubt at the beginning only a single tube, which carried the spirits in a straight line from the heart to the brain, but the tracheal artery, through which the respiratory air passes, is formed later (so I shall say more in its proper place), and the air that it contains having more force to rise following this straight line than does the blood that comes from the heart, this tube came to be divided into two branches, namely, what are called the ‘carotid’ arteries. 
 
-The arteries and the veins that descend in mammals have a very different origin from those that are called ‘epigastric’, which come from the bottom up towards the abdomen. Nevertheless, several of their branches are joined vein to vein, and artery to artery, towards the navel. This happens because the former spot is the last from which the parts of the seed run towards the heart, because they have a longer route to traverse to arrive there; and because having done exactly this, the blood –  as much in rising through the veins in mammals as in descending through the epigastrics – which comes from one part or another through the arteries which accompany them, drives out the parts of the seed which are between the two, until it has gradually pushed them all through the very tiny passages in the veins, and in this way the principal branches of the arteries find themselves joined to the opposite arteries, and those of the veins to veins.
+The 2 veins called the ‘spermatic’ veins were embedded in the vena cava, each as low as the other, at the time of their first formation, but the agitation of the aorta, when the liver and the vena cava are turned to the right side, is the reason why the spot where the left spermatic vein was embedded is raised gradually as far as the emulgent vessel while that on the right remains unchanged; just as, on the other hand, as a result of the same cause, the vein called the ‘adipose’, of the left kidney, is raised from the emulgent vessel, where it was first, to the trunk of the vena cava, while the expansion of the liver causes the right one to be lowered. I mean what I say when I tell you that this is something I have long sought, and indeed something in which I had the least hope of success, although it has not stopped others.
+
+The arteries and the veins that descend in mammals have a very different origin from those that are called ‘epigastric’, which come from the bottom up towards the abdomen. Nevertheless, several of their branches are joined vein to vein, and artery to artery, towards the navel. 
+
+This happens because the former spot is the last from which the parts of the seed run towards the heart, because they have a longer route to traverse to arrive there; and because having done exactly this, the blood –  as much in rising through the veins in mammals as in descending through the epigastrics – which comes from one part or another through the arteries which accompany them, drives out the parts of the seed which are between the two, until it has gradually pushed them all through the very tiny passages in the veins, and in this way the principal branches of the arteries find themselves joined to the opposite arteries, and those of the veins to veins.
 

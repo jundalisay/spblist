@@ -24,7 +24,8 @@ Chapter | Topic
 4 | Effective Demand
 4b | Poverty cycle
 5 | Minimum Needs
-6 | Inflation Deflation
+6 | Demand model: Value of Rarity
+6b | Inflation Deflation
 7 | Karma
 7b | Probem: Ponzi
 8 | Grain Index
@@ -32,6 +33,7 @@ Chapter | Topic
 9b Usufruct Land Titles
 10 Worker Class
 11 Liberalism Socialism
+
 
 ### Part 2
 
@@ -41,9 +43,13 @@ Chapter | Topic
 1b | Real Price
 1c | Effort
 2 | Grain Valua
-3 | Fixed Capital
-3b | Force of Capital
-
+2b | Fixed Circlating Capital
+3 | Force of Capital: Opportunity Cost
+3b | 6 Types of Effort
+4 | Primary Arbitrage
+5 | Surplus
+6 |
+7 |
 
 
 
