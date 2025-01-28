@@ -1,159 +1,138 @@
 ---
 heading: "Chapter 7"
-title: "Economic Karma"
-description : "Economic Karma is the cause and effect of economic actions"
-weight: 30
-# orig date: 2016-01-01
+linkTitle: Chapter 7
+title: "Grain Index"
+weight: 32
 date: 2025-01-19
-image: /photos/meta/buddhism.jpg
+image: "/photos/grains.jpg"
+description: "The Grain Index is the table of ratios of goods and services to grains"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
 
-Chapter 1 explained the concept of Svadharma which is being aligned to one's own *dharma*. 
 
-We define dharma as the inherent, metaphysical nature of any discrete identity with reference to the creator of that identity.
+Chapter 2 explained the use of food-grains as the store of value in a supereconomy.
 
-For example, the nature of a basketball is very different from that of a smartphone.
-- You can throw a ball around
-- But you have to take care of your phone
-
-{{< i s="/photos/objects/ball.jpg" a="Ball" >}}
-
-If you treat your phone like a basketball then it will break. Likewise, if you are so careful with a basketball, then it becomes useless.
-
-The breaking and uselessness are bad *karma* arising from not keeping with their dharma. 
+Chapter 3 explained that these food-grains are the basis for points valuation. This is opposed to the current economic system which is based on fiat money. 
 
 
-## Economic Karma
+{{< i s="/photos/grains.jpg" a="Grains" >}}
 
-Likewise, an economy has a dharma or true nature just like everything else. 
+Supereconomics uses grains as the store or measure of value because grains are:
 
-This dharma is to provide for the physical well being of everyone through effort and work, including plants and animals.
+1. Common
 
-The 4 Laws then help keep up that dharma. Violation of those Laws, as *adharma*, will lead to economic crises and problems. 
+Everyone eats and is familiar with the value of food. Grains are the most common food in the world.
 
-Both dharma and the discovery of those laws are an effect of the Positive Force, as Yang in Taoism or Shiva in Hinduism. 
+- Asia uses rice
+- Europe uses wheat
+- The Americas use corn
 
-Violations of dharma and of those laws are caused by the Negative Force, as Yin in Taoism or Shakti in Hinduism. This pushes identities towards selfishness and matter, just as the Positive Force pushes towards selflessness and spirit.
+2. Granular
 
-An example of a Negative push is from the mind of John Stuart Mill who equated happiness to physical or material pleasure. 
+Grains are made up of single bits that are very small. This allows a precise valuation that can be increased or decreased in small increments. 
 
-{{< q a="John-Stuart-Mill" c="Utilitarianism" >}}
-The doctrine that the basis of morals is utility, or the greatest happiness principle, holds that actions are right in proportion as they tend to promote happiness, wrong in proportion as they tend to produce the reverse of happiness. 
 
-By ‘happiness’ is meant pleasure and the absence of pain; by ‘unhappiness’ is meant pain and the lack of pleasure.
+{{< q a="Smith" >}}
+At distant times, equal amounts of labour will be bought with equal amounts of wheat than with any other commodity.
+
+At distant times, equal amounts of wheat will enable its possessor to buy the same amount of the labour of other people. Although equal amounts of wheat will not do it exactly.
 {{< /q >}}
 
 
-This materialism is mirrored by Marx who made the Positive (spirit) subservient to the Negative (matter):
 
-{{< q a="Marx" c="Communist Manifesto" >}}
-Man’s consciousness changes with every change in the conditions of his material existence. The history of ideas prove that intellectual production changes its character in proportion as material production is changed.
+Some countries, like Greenland, do not produce their own grains. This is where the Grain Index comes in.
 
-The first step in the revolution is to make the proletariat the ruling class. They will then wrest all capital from the capitalists and centralise all production
-{{< /q >}}
+It is also used for reconciling the different grain-values from different continents.  
 
+The Grain Index is the table of ratios of goods and services to grains. This is similar to a Big Mac Index which bases value on the market price of a Big Mac. 
 
-This is why both Laissez-Faire Capitalism and Communism are unsustainable.
-- Capitalism only creates physical well-being for the rich
-- Communism only creates physical well-being for the ruling class 
+Assume that 3 countries each have a main grain and have different local prices for grains in USD:
 
-Both schools of thought wanted physical well-being. But they only knew physics and not metaphysics which is the cause of everything in the physical domain. 
+Country | Rice/kg | Wheat/kg | Corn/kg 
+--- | --- | --- | ---
+A rice | $1 | $2 | $3
+B wheat | $2 | $1 | $3
+C corn | $3| $2 | $1
 
-They dealt with effects without addressing the root cause of their economic problems. This then led to new problems. The more radical their solution the more radical the problem became, as a natural karma. 
+Each country will use their main grain as the basis for 1 point. 
 
-This makes the policy fall short of its goals or even makes the problem worse. 
+If Country A sells a thing locally worth 100 points real price to Country C, will Country C assign to it a market price of $100 or $300? 
 
+According to convention, 1 point represents the real value of 1 kilogram of the cheapest basic grain in a country.
 
-<!-- Smith was one of the few Western intellectuals to hint at the concept of dharma, or the natural and sustainable activities of humans, and apply it both for moral and economic purporses.
+However, 1 kilogram of a low value crop light cassava might be of less real value compared to 1 kilogram of rice.  
+<!-- Assuming that 600 grams of rice is needed daily, and the calories of different grains are below -->
 
-Instead of the word dharma, however, he named his concept the invisible hand. This had economic applications in The Wealth of Nations and moral applications in The Theory of Moral Sentiments.
-
-### Weaponizing the Invisible Hand
-
-The main difference between Smith’s invisible hand and Eastern dharma is that the former has moral, spiritual, and practical uses, while the latter emphasizes only its moral and spiritual use. -->
-
-<!-- Eastern philosophers did not dare teach the practical use of dharma because they knew that it would merely lead to corruption and evil.
-
-For example, the Chinese discovered the principles of gunpowder which the Europeans took and weaponized in order to enslave Africa, South America, and Asia and even take Hongkong. Similarly, Western physicists discovered the nuclear fission and weaponized it to drop atom bombs on Japan.
-
-Smith and the Physiocrats discovered the principles of wealth created by knowing one's own self-interest or purpose in life or svadharma. But this was soon "weaponized" by the merchants to enrich themselves via Mercantilism and trade wars instead of enriching all humans. 
-
-Those merchants merely brushed aside the warnings by Smith against the pursuit of utility and avarice that the principles might bring. Later economists such as John Stuart Mill and Jean Baptiste Say even built economic theories around selfishness instead of dharma or morality:
-
-
-Smith's invisible hand, on the contrary, works both personally by tapping into one's conscience, or "the man within the breast", and  socially by knowing what others are interested in, through selling and market research.
-
-
-## Why did later economists miss out on the invisible hand or dharma?
-
-The first reason is because Say and Mill lived during the start and the height of the Industrial Revolution which lasted from 1760 to 1840. The increase in productivity increased the number and variety of products available for use or utility and for satisfying the senses which were not available before. Thus, utility and all its shallow and short-term benefits came to dominate the field of morality.
-
-Another more important reason is because both dharma and the invisible hand are naturally invisible or not obvious to shallow observation. Both can only be seen by highly-penetrating and highly-evolved minds that can look far beyond the obvious. 
-
-In Hinduism, the concept of dharma naturally leads to the concept of karma. Anything that has a self will want to act to express that self. This action is called karma. Other selves will then react to this karma to create a reaction or another karma that boomerangs on the intial actor or self. This is why in English, karma is loosely translated as "What goes around, comes around." -->
-
-
-## Smith on Economic Karma
-
-Since karma is universal and timeless, it works the same way regardless of time and location, whether in the distant past, distant future, or in a very distant place. Selfish actions always and everywhere bring about something hurtful, or opposite of what was intended, in the long-run or even short-run:
-
-{{< q a="Adam-Smith" >}}
-At first sight, the monopoly of the great commerce of America seemed to have the highest value. The dazzling splendour of the object, however, is the very quality which renders the monopoly of it hurtful..
-{{< /q >}}
-
-{{< q a="Adam-Smith" >}}
-The regulations of each nation to secure the exclusive trade of its own colonies are frequently more hurtful to those colonies than beneficial.
-{{< /q >}}
-
- <!-- the countries in favour of which they are established than to those against which they are established. -->
-
-{{< q a="Adam-Smith" c="The Wealth of Nations" >}}
-The unjust oppression of the industry of other countries falls back on the heads of the oppressors. It crushes their industry more than it does that of those other countries.
-
-The country's industry is turned away from an advantageous employment [because of the monopoly of the home market]. The value of its produce is reduced by such regulations instead of being increased according to the intention of the lawmaker
-{{< /q >}}
-
-
-{{< i s="/graphics/meta/karma.jpg" a="Karma boxes falling" >}}
-
-
-
-History is full of examples of narrow-minded economic policies going back to hurt the intended beneficiaries or producing opposite effects:
-
-Bad Policy | Karma
+Crop | Calories 
 --- | ---
-US Tariffs in the 1930's were meant to protect US industries | They contributed to the Great Depression that destroyed them
-1990's Credit derivatives were created to increase the wealth of investment banks | They caused their bankruptcy through the Great Recession
-The Greek government borrowed massively for the Athens Olympics to make their country richer | It led to the Greek debt crisis
-Trump reduced environmental rules to make the US wealthier in 2017 | Nature fought back with Covid in 2020 which locked down the US
-
-<!-- debt crisis where massive government spending, which was thought to draw in future investors, actually plunged Greece into a crisis.  -->
-
-<!-- Those policies were created to increase wealth rapidly, but ended up destroying it. The more people study Smith and his ideas, the better will be humanity's chances in avoiding bad economic karma from selfish motives. -->
+Rice | 1
+Corn | 0.9 
+Wheat | 0.8 
+Cassava | 0.4
 
 
-{{< dc t="Luck vs Karma" >}}
-According to Eastern Philosoophy, there is no such thing as good or bad luck. Instead, everything is based on karma or action and reaction.
+Therefore:
+- the value of 1 point of cassava would be around 0.4 points of rice
+- the value of 1 point of corn would be around 0.9 points of rice
 
-If you plant good deeds, then you get good rewards and a good feeling from such rewards. If you plant bad or selfish deeds, then you get bad consequences and a bad feeling from such consequences.
+This can be made more accurate by defining the type of grains and getting the actual calorie content. 
 
-The problem is that such reactions do not happen in a fixed nor predictable time period. A good action today might create a reaction that will be experienced 10 days from now, 10 years from now, or 10 lifetimes from now (since Asian philosophy believes in reincarnation).
+The important difference here with the fiat-based valuation is that differences in the values are allowed. 
+- For example, a common breed of sweet corn might be 0.7-0.9 calories compared to 1 calorie of rice. But they will never be as low as 0.3-0.4 as cassava. 
+- Instead of precise cents or decimal values, Supereconomics relies on viable ranges that are common and understandable to all.
 
-So if you plant a good action now and experience the good effects 10 lifetimes from now, then your future self will regard it as good luck. This is because your future self will have no memory of the good deed you performed 10 lifetimes ago. Likewise, the 'bad luck' that we experience today could come from our bad actions 10 days ago, 10 years ago, or 10 lifetimes ago.
+This slight imprecision allows freedom and flexibility, very different from the rigidity of the current Economic system. 
 
-This is why Asian philosophies have certain policy suggestions:
 
-1. **Do good deeds as much as you can and avoid doing bad.** 
 
-According to Hindus and Buddhists, this is to deposit good karma into your existential bank account <!-- of consequences --> so you have a lot of good karma to withdraw in the future.
+## Basis for Zero Market Price Inflation 
 
-However, according to Superphysics, this is not 100% technically correct. Instead, the act of consistently doing good deeds makes the 'wave' of your soul attain a certain shape. This shape then will let it fit in its proper reality, just as a classical violin fits into an orchestra and not in a death-metal band or a gangsta rap group.
+<!-- Demand and Supply Efficiency as  -->
 
-2. **Learn the techniques to burn karma faster, whether good or bad. **
+The goal of Supereconomics is to match demand with supply in real time. A perfect match represents the match of real with nominal values. 
 
-This is akin to making your karmic bank account more liquid. In this way, bad karma doesn't occur in one go, which might overwhelm your mind. Likewise, good karma doesn't all fall on you in one package, as this might bloat your ego.  Instead, karma is taken in manageable pieces, just like a loan that gets easy payment terms.
-{{< /dc >}}
+This means that there is zero or minimum demand or supply inefficiency compared to the previous time period.
+
+This manifest as zero Market price inflation in the perspective of modern Economics.
+
+The grain index is the basis for judging Market price inflation. For example, the price of chicken and rice in 2 countries were different in 2019:
+
+
+Q4 2019 | **Philippines** | **Vietnam** 
+--- | --- | ---
+1 kg Rice can buy | **330 grams chicken** | 100 grams chicken
+1 kg Chicken can buy | 3.33 kg Rice | **10 kg Rice**
+
+
+This means that:
+- chicken is really cheaper in the Philippines
+- rice is really cheaper in Vietnam
+
+If rice is a basic need and chicken is a luxury, then Filipinos enjoy luxuries better but Vietnamese enjoy basics better. 
+
+This is consistent if we replace chickens with cars. A Toyota Vios is 16,000 kg rice in the Philippines, but 44,250 kg rice in Vietnam.
+
+As of Q4 2019 | **Singapore** | **Philippines** | **Vietnam**
+--- | --- | --- | ---
+GDP per capita | {{< c v="lightseagreen" >}} $100,345 (1st place, 13x Vietnam) {{< /c >}} | $8,936 (2nd place, 1.19x Vietnam) | {{< c v="tomato" >}} $7,510 (3rd place){{< /c >}}
+Rice Prices per kg | 75 US cents or 1.1 SGD (2nd place or 1.5x Vietnam) | {{< c v="tomato" >}}80 US cents or 40 PHP (3rd or 1.6x Vietnam){{< /c >}} | {{< c v="lightseagreen" >}}50 US cents or 12k VND (1st place or cheapest){{< /c >}}
+Chicken Prices in rice | 4.22 kg rice (2nd place or 1.3x Philippines) | {{< c v="lightseagreen" >}} 3.25 kg rice (1st place){{< /c >}} | {{< c v="tomato" >}}8.33 kg rice (3rd place or 2.56x Philippines){{< /c >}}
+Toyota Vios in rice | {{< c v="tomato" >}}73,636 kg rice (3rd place or 4.46x Philippines){{< /c >}} | {{< c v="lightseagreen" >}}16,500 kg rice (1st place){{< /c >}} | 44,250 kg rice (2nd place or 2.68x Philippines)
+Toyota Alphard Luxury Van in rice | 206,000 kg rice (2nd place or 2.25x Philippines) | {{< c v="lightseagreen" >}}91,250 kg rice (1st place){{< /c >}} | {{< c v="tomato" >}}336,000 kg rice (3rd place or 3.7x Philippines){{< /c >}}
+
+
+The grain index thus explains:
+- the different socioeconomic condition of each society. This is the grain index compared with others
+- the increase or decrease of the demand and supply efficiencies through time. This is the grain index compared with itself through time or with instances of itself
+
+
+
+## Exposing Problems with the Economies 
+
+The grain index is the basis of Net Domestic Product which is the Supereconomic alternative to Gross Domestic Product (GDP) of Economics.  
+
+The NDP includes the different budgets and spending patterns of various governments, based on Law 3. This lets people know which social cycle their soceity is in. 
+

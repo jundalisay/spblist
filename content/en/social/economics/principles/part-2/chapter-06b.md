@@ -1,18 +1,19 @@
 ---
 heading: "Chapter 6b"
 linkTitle: Chapter 6b
-title: "Producer's & Consumer's Surplus and Deadweight Loss"
+title: Supply Efficiency and Inefficiency
+# title: "Producer's & Consumer's Surplus and Deadweight Loss"
 date: 2019-06-17
 weight: 25
-image: "/charts/econ/prod.png"
+image: "/graphics/econ/supplydemand.jpg"
 description : "The Producer’s & Consumer’s Surplus and Deadweight Loss in Economics is very different from the ones of Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/pantry.png
 toc: false
-aliases:
-  /social/economics/fallacies/surplus/
+# aliases:
+#   /social/economics/fallacies/surplus/
 ---
 
 
@@ -37,6 +38,31 @@ Demand Efficiency | Demand is matched as precisely to Supply as Possible |
 Demand Inefficiency | There is a mismatch between Demand and Supply | 
 Supply Efficiency | Costs decline   
 Supply Inefficiency | Costs increase
+
+
+
+### Supply Efficiency and Inefficency
+
+This happens when there is a match of suppliers to demanders from the supply side. 
+
+For example, there are 9 job applicants in your company. You are looking for someone who can stay long in the job.
+
+Applicant | Skill | Asking Salary | Willing to Stay Long?
+--- | --- | --- | ---
+A | Low | Low | Yes
+B | Low | Medium | Yes
+C | Low | High | Yes
+D | Medium | Low | No
+E | Medium | Medium | Yes
+F | Medium | High | No
+G | High | Low | Yes
+H | High | Medium | Yes
+I | High | High | No
+
+The best match for the job would be Person H. 
+
+- Supply Efficiency is in employing Person H as having the best match. 
+- Supply Inefficiency is in employing Person F as having the worst match. 
 
 
 According to Economics, a market dis-equilibrium creates 3 inefficiencies:

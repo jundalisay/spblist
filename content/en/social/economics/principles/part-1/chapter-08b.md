@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 6"
-title: "Commerce and Xcomerce: Circulating Demand and Supply"
+title: "Ecommerce and XCommerce: Last Mile"
 date: 2024-11-20
 weight: 38
-image: /photos/buy.jpg
+image: /graphics/econ/ui.jpg
 description: "Historically, commerce involved both barter and money exchanges"
 writer:
   name: Juan
@@ -11,15 +11,39 @@ writer:
 ---
 
 
-Supply is delivered to Demand through the system of commerce. 
+
+Aside from retail, supply can be delivered to Demand through the system of commerce. 
 
 "Commerce" comes from the Latin word "commercium" which means to trade. 
 
-Historically, commerce involved both barter and money exchanges. After the Spanish colonized South America, they were able to mine huge amounts of silver which became Spanish silver coins circulated in the world trade. 
+Historically, commerce involved both barter and money exchanges. It meant bringing products from one place to another. 
+
+Therefore, commerce has 2 ideas: 
+
+1. Trade\
+
+Trade is made up of the rules and conventions to facilitate the exchange. This will be discussed in Parts 2-4.
+
+2. Logistics
+
+This the physical transportation and storage of the products. 
+
+
+<!-- After the Spanish colonized South America, they were able to mine huge amounts of silver which became Spanish silver coins circulated in the world trade. 
 
 In time, money, as coins, replaced the barter system and the word "commerce" came to mean money transactions.
 
 Supereconomics goes with the historical definition of commerce that allows both money and barter transactions. 
+ -->
+
+Commerce involves 
+
+
+
+
+
+
+
 
 
 ### Xcommerce

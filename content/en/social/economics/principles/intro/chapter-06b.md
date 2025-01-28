@@ -18,21 +18,26 @@ Chapter | Topic
 --- | ---
 1 | Nominal Price
 1b | Marginal Utility
-2 | Resource Mechanism Stores of Value: Grain
+2 | Resource Mechanism Stores of Value: **Grain**
 3 | Consumption Motive
-3b | Pointization BPR
+3b | **Pointization BPR**
 4 | Effective Demand
 4b | Poverty cycle
 5 | Minimum Needs
 6 | Demand model: Value of Rarity
-6b | Inflation Deflation
-7 | Karma
-7b | Probem: Ponzi
-8 | Grain Index
-9 Farming models
-9b Usufruct Land Titles
-10 Worker Class
-11 Liberalism Socialism
+6b | Demand Efficiency
+6c | Inflation Deflation
+7 | Grain Index
+8 | Retail 
+8b | Search Engines, Ecommerce
+9 | Insurance Fraud
+9b | Austerity Shutdowns
+9c | Food inflation
+9d | Rising Healthcare
+10 | Usufruct Land Titles
+10b | Farming models
+11 | Worker Class
+12 | Liberalism Socialism
 
 
 ### Part 2
@@ -52,4 +57,18 @@ Chapter | Topic
 7 |
 
 
+### Part 3
 
+Chapter | Topic
+--- | ---
+1 | Real Price
+1b | Real Price
+1c | Effort
+2 | Grain Valua
+2b | Fixed Circlating Capital
+3 | Force of Capital: Opportunity Cost
+3b | 6 Types of Effort
+4 | Primary Arbitrage
+5 | Surplus
+6 |
+7 | Karma

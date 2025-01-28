@@ -15,7 +15,7 @@ icon: /icons/pantry.png
 
 The science of resource allocation began with Xenophon's *The Economist* which narrates how Socrates was taught about proper estate management.  
 
-Socrates cites Cyrus the Great of Persia as the first person during that period to get Economics right by having policies that encouraged the productivity of the empire. 
+Socrates cites Cyrus the Great of Persia as the first person during that period to get Economics right by having policies that encouraged the productivity of the empire.
 
 In the West, this knowledge was carried over from the Persians to the Greeks and then to the Romans. 
 

@@ -81,9 +81,9 @@ n n="*In Medical Superphysics, this dynamism or entropy manifests as the mind ju
 
 
 
-## The Resulting Concepts from the Third Law
+## The Resulting Concepts from the Second Law
 
-The resulting concepts from the Third Law of Value are:
+The resulting concepts from the Second Law of Value are:
 
 - The invisible hand of dharma
 - The Force of Capital

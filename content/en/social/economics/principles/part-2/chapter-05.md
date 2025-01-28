@@ -27,6 +27,26 @@ These produce goods and services for society.
 
 
 
+### Types of Business and Industry Organizations 
+
+1. Sole Proprietorships
+
+2. Partnerships
+
+3. Corporations
+
+4. Associations
+
+
+
+### Types of Government and Social Organizations 
+
+1. Government offices and bureaus
+
+2. Non-Goverment Organizations
+
+
+
 <!-- The resources in a society takes the form of either goods or services. -->
 
 

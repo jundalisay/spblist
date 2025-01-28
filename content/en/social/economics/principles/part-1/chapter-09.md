@@ -2,7 +2,7 @@
 heading: "Chapter 9"
 linkTitle: Chapter 9
 title: "The Rural Economy: Farming Models"
-weight: 34
+weight: 40
 # date: 2022-08-04
 image: /photos/bio/plant.jpg
 description: "In Supereconomics, both urban and rural economies have importance. This is because it also gives importance to the wildlife and natural environment"

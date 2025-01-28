@@ -2,7 +2,7 @@
 heading: "Chapter 11b"
 title: "Socialism and Democracy"
 # date: 2022-07-30
-weight: 42
+weight: 46
 image: /photos/team.jpg
 description: "The dominance of the Worker Class usually leads to the Socialist system of economy and the Democratic system of politics"
 writer:

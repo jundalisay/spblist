@@ -1,7 +1,7 @@
 ---
 title: "Land Reform: Usufruct Land Titles"
 heading: Chapter 9b
-weight: 36
+weight: 41
 # date: 2022-08-02
 # date: 2016-02-07
 description: "According to Adam Smith, Land Reform should focus on the productivity of the land"
