@@ -1,89 +1,106 @@
 ---
 heading: "Chapter 3c"
-linkTitle: Electromagnetism
-title: "Electromagnetism or Vortex Magnetism"
-linkTitle: Electromagnetism
+linkTitle: Virtual Photons
+title: "Virtual Photons and Material Magnetism"
 # date: 2023-03-01
 date: 2024-12-29
-weight: 10
+weight: 11
 # image: /graphics/physics/magnetboat.jpg 
-description: "Magnetism is facilitated by virtual photons which have a columnar shape"
-image: /graphics/physics/vmagnet.jpg
+# description: "Magnetism is facilitated by virtual photons which have a columnar shape"
+image: /graphics/physics/vphoton.jpg
+description: "The Source of All Movement is Internal configuration, powered Externally"
 icon: /icons/spmat.png
 ---
 
 
-There are 2 kinds of magnetism based on layer:
+Magnetism is the combined effect of 2 Layers:
 
-1. Vortexless or Material Magnetism 
-
-This is natural magnets in the material layer caused by natural channels in metals.
-
-This is created by:
-- the natural channels in ferromagnets
-  - Ferromagnets have channels because they do not close 
-- the alignment of magnetic domains in metals
-  - A channel can align by putting it through a strong magnetic field. 
-
-
-2. Vortex Magnetism or Electromagnetism
-
-This is created by:
-- the magnetic moment of particle
-  - This is from the channels formed by the spinning particle
-- the orbital magnetism of atoms
-  - This is from the channels formed by orbital movement
-
-
-
-Object | Mechanism
+Layer | Job
 --- | ---
-Magnetic Moment | Hole or Gap in Particles
-Electromagnet | Channels created by electricity
-Superconductors | Channels created by coldness
-Cling wrap | Static electricity acting as channels
-Gecko feet | Electron density acting as channels
+Radiant | Provides the force
+Material | Provides the avenues for the force
 
 
-{{< i s="/graphics/physics/vmagnet.jpg" a="Magnet" >}}
+We define magnetism as the tendency for materials to attract and repel, independent of gravitation (which is the force of space particles on matter).
+
+
+## The Nature of Virtual Photons
+
+Magnetic force comes from energetic virtual photons (mor2) that tunnel into channels, either in matter or non-media particles, to either repel or attract other matter. 
+
+These can be visualized like drill bits that rotate postively (anticlockwise). They require specific receiver particles or channels that will let them through and transfer their rotation or force.  
+
+{{< i s="/graphics/physics/vphoton.jpg" a="Virtual Photon" >}}
+
+Unlike gravity which is based on the displaced qosts (spacetime particles) by matter, magnetism uses mor3's. 
+
+Virtual photons or mor3's have a columnar shape. This is different from photons which are flat and therefore can only have a wave-shape. Space is full of these virtual photons that travel in straight lines.
+
+{{< youtube ww92Q0tGL5s >}}
+
+
+### Dipoles 
+
+The virtual photons transfer their energy to the particles or matter that have channels to allow them to pass through.
+
+ <!-- This lets those particles or metals attract or repel others depending on the orientation of those channels.  -->
+
+Each channel has an entrance and exit, called poles. 
+
+A material magnet always has two poles, as dipoles, because that is the nature of a channel.
+
+A radiant magnet, called a magnetic moment, also has diploes. 
+
+Layer | Effect of Virtual Photon on Channel
+--- | ---
+Radiant, Convertible, Material Quanta| Spin
+Material vom | North and South Poles
+
+
+### Spin
+
+The magnetic moment on a radiant particle also exposes that particle to spin as it absorbs the rotation of the virtual photon.
+
+The spin number is the ratio of virtual photons needed to rotate the particle. 1/2 spin means 2 virtual photons are needed for each rotation.
+
+Particle | Spin Number
+--- | ---
+Electron and Quanta | 1/2 (half-integer)
+Substances | 3/2, 5/2 (half-integer)
+Media | 1 (integer)
 
 
 
-## Magnetic Fields: Divergence and Curl
+### Material Magnetism
 
-A magnetic field is created by a channel in matter. The entrance and exit of the channel are the 2 poles. 
+Material Magnetism requires channels in matter to flow through. This is opposed to electromagnetism which requires electrons to organize themselves into channels.  
 
-This channel allows virtual photons to enter from one side and exit the other. This creates:
-- a low pressure at the entrance, called a negative divergence, and inside the channel
-- a high pressure at the exit, called a positive divergence
+We can say that:
+- material magetism is vortexless magetism
+- electromagnetism is vortex magnetism where in the spinning electrons create the channels.   
 
-The virtual photons at the exit go back the lowest pressure at the entrance in order to equalize the imbalance the pressures. 
-- This creates a flowing circular pattern called 'curl' that is part of a magnetic field in Physics.
-- a positive curl is a clockwise rotation in the field
-- a negative curl is an anticlockwise rotation
+This is consistent with material gravity being vortexless and orbital gravity having a vortex.
+
+Type | Radiant | Spatial
+--- | --- | ---
+Vortex | Electromagnetism | Orbits
+Vortexless | Material Magnetism | Material Gravity 
 
 
+All magnetic forces, even material magnetism, originated from vortex magnetism. 
 
-## The Lesser Magnetic Forces
+Natural magnets are an example of material magnetism. These were magnetized when they were struck by lightning.  
 
-The attractive and repulsive forces done through virtual photons and electrons of the Radiant Layer produce the following foces:
+Another example is the superconductor which are metals that have very straight channels.
 
-Force | Description 
---- | --- 
-Electromotive Force (EMF) | Conversion of energy to electrical energy via electrons
-Van der Waals Force | The magnetic effect by static electricity 
 
-<!-- gives the direction for thloops back or 'curls' around that entrance or exit.  -->
+### Magnetic Attraction and Repulsion
 
-<!-- 1. Quantum Level
-2. Substance Level
-3. Version (chemical element) Level 
-4. Material Level
+Repulsion happens when the channels are opposed to each other. For example, when:
+- an exit faces an exit
+- an entrance faces and an entrance 
 
-In Cartesian Physics, the mechanism for magnetism is similar to that of light: There has to be straight, continuous channels which the virtual photons can pass through unimpeded. 
-- An alignment for virtual photons leads to magnetic bodies
-- An alignment for photons leads to transparent bodies -->
+Attraction happens when the chanels are aligned like when an exit is next to an entrance. This allows the virtual photons to keep on flowing.
 
-<!-- {{< youtube pQyy7W41Dkg >}} -->
+This increases the magnetism by increasing the low pressure to a larger area.  
 
-<!-- https://youtu.be/ww92Q0tGL5s -->

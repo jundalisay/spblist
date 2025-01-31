@@ -15,11 +15,29 @@ These veins and arteries in mammals, together with the epigastrics, seem to be t
 
 And because they pass from the brain through the spinal column to several sides at the same time, they finally come together again in the same place, which is that where the navel will be formed. But before I pause to describe this, I shall explain how the heart, the brain, the flesh of the muscles, and the majority of skins or membranes come to be formed, because this does not depend on the nourishment that the animal being formed receives from the womb.
 
-When the arteries and the veins begin to be formed, they still have no membrane covering them, and are just tiny channels of blood spreading this way and that in the seed. But in order to understand how their skins are formed, and subsequently the other solid parts, it should be noted that I have already distinguished above between the particles of blood that rarefaction in the heart separates from one another, and those that the same action joins together, squeezing and crumpling them in such a way that several small branches are formed around them which easily attach one to the other.
+When the arteries and the veins begin to be formed, they still have no membrane covering them, and are just tiny channels of blood spreading this way and that in the seed. 
 
-Now the first are so fluid that they do not seem to be able to enter into the composition of those parts of the body which harden; but except for the spirits that go to the brain, and which are formed and made up from the finest, all the others should just be considered as vapours or serosities of the blood, from which they are continually issued, via all the pores they find along the arteries and the veins through which they pass.
+There are 2 kinds of blood:
 
-Thus there only remain the other particles of blood (those that make it appear red) which properly serve to make up and nourish the solid parts; nonetheless, they do not serve this role while they are severally joined together, but only when they have come apart from one another, for in going backwards and forwards several times through the heart, their branches gradually break, and finally are separated by the same action that had joined them. Then, because they are less readily moved than the other particles of blood, and because some branches usually remain, they come to a halt  against the surface of the passages through which they pass, and thus they begin to form their skins.
+1. The blood that decompression in the heart separates from one another.
+
+This is first areso fluid that they do not seem to be able to enter into the composition of those parts of the body which harden; but except for the spirits that go to the brain, and which are formed and made up from the finest, all the others should just be considered as vapours or serosities of the blood, from which they are continually issued, via all the pores they find along the arteries and the veins through which they pass.
+
+2. The blood that is joined by the same action of the heart
+
+<!--  decompression in the heart separates from one another.
+
+But in order to understand how their skins are formed, and subsequently the other solid parts, it should be noted that I have already distinguished above between the particles of 
+
+and those that the same action joins together, squeezing and crumpling them in such a way that several small branches are formed around them which easily attach one to the other. -->
+
+This appears red and nourishes the solid parts. 
+
+<!-- Thus there only remain the other particles of blood (those that make it appear red) which properly serve to make up and  -->
+
+nonetheless, they do not serve this role while they are severally joined together, but only when they have come apart from one another, for in going backwards and forwards several times through the heart, their branches gradually break, and finally are separated by the same action that had joined them.
+
+Then, because they are less readily moved than the other particles of blood, and because some branches usually remain, they come to a halt against the surface of the passages through which they pass, and thus they begin to form their skins.
 
 Then, those that come after these membranes have begun to form are joined to the first, not indiscriminately in every direction, but only from the side where, without preventing the flow of serosities, there can be vapours, and also other finer matter, namely the first two elements that I described in my Principles of Philosophy, which run incessantly through the pores of these membranes; and gradually joining themselves to each other, they form the tiny filaments of which I said above all solid parts were made.
 

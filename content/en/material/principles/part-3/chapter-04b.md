@@ -1,22 +1,21 @@
 ---
 heading: "Chapter 4b"
-title: "Colors"
-date: 2024-12-28
-image: /graphics/physics/spectrum.jpg
-description: "Colors are part of the spectrum."
+title: "Static Electricity: Lightning"
+# title: "Electric Potential"
+# date: 2023-11-10
+draft: true
+weight: 14
+image: /covers/maxwell.jpg
+description: "Electricity is the main substance of radiance"
+icon: /icons/spmat.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 14
-icon: /icons/spmat.png
-toc: false
 ---
 
 
-Colors are produced by the variations in wavelength relative to others. 
-
-White light has many wavelengths of ranging from 
-
-{{< i s="/graphics/physics/spectrum.jpg" a="Colors" >}}
+Maxwell's Treatise on Electricity starts with the description of static electricity which is caused by friction. 
 
 
+
+Lightning is caused by ions in the clouds. 

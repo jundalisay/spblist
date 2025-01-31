@@ -11,6 +11,62 @@ icon: /icons/descartes.png
 ---
 
 
+
+<!-- its two sides  and  descend equally quickly toward the surface of the water , where
+the movement of the side marked , which encounters it first, is retarded,
+while that of side  still continues; 
+
+This makes the ball to rotate following the numbers . 
+
+It is surrounded by four others – , , ,  – also moving towards x. 
+
+ and R move with more a greater force than the ball.
+
+ and  move with less force. 
+
+ presses on the part of the ball marked 
+ presses on . These increase its rotation
+
+R and T do not hinder it, because R moves toward X faster than the ball follows it.
+
+T is not disposed to
+follow the ball as quickly as it precedes it. 
+
+This explains the action of the ray .
+
+on the other hand, if  and  tend more slowly than it toward , and  and  tend there more rapidly
+
+ hinders the motion of part , and  that of part , without the two others –  and  – doing
+anything. This explains the action of the ray .
+
+This ball  is quite round, it can easily happen that, when it
+is pressed hard by the two balls  and , it is turned and rotates around
+the axis , rather than their causing its rotation to stop.
+
+And so, changing its position in an instant, it subsequently rotates following the numbers
+; for the two balls  and , which caused it to begin to rotate, make it
+continue until it has completed a half-turn in this direction, and then they
+can increase its rotation instead of retarding it.
+
+The nature of the colours appearing at  consists just in the parts of the subtle matter which transmit the action of light having a much greater tendency to rotate than to travel in a straight
+line. 
+
+As a consequence, those which have a much stronger tendency to rotate cause the colour red, and those which have only a slightly stronger tendency cause yellow. 
+
+The nature of those that are visible at , on the other hand, consists just in the fact that these small parts do not rotate as quickly as normal, when there is no particular cause hindering them; so
+that green appears when they rotate just a little more slowly, and blue
+when they rotate very much more slowly. And usually this blue is combined with a pinkish colour at its edges, which makes it vivacious and sparkling, and changes it into violet or purple.
+
+The cause of this is with-out doubt the same as that which usually slows down the rotation of
+the parts of the subtle matter when it has enough strength to change the
+position of some of them and increase their rotation, while slowing that
+of others. -->
+
+
+
+
+
+
 To better understand this, imagine that the ball `1234` is pushed from `V` to `X` in a straight line.
 - Its two sides `1` and `3` descend equally quickly to the surface of the prism `YY`.
 - `3` makes contact with the prism first. This delays its movement while `1` continues.

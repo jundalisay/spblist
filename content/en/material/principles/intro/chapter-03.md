@@ -46,12 +46,13 @@ Both physical things such as rocks, and metaphysical things such as a soul, have
 **Quantum** is the smallest part of substance.
 
 {{< q a="Hegel" c="Science of Logic, Book 2, Article 814" >}}
-In logic, essence occupies the same place as quantity in the sphere of being. Essence has absolute indifference to limitation.
+In logic, essence occupies the same place as quantity in the sphere of being. Essence has absolute indifference to limitation [*essence is unlimited*].
 
 But quantity is this indifference in an **immediate** determination.
 
-It gains a limit due to its immediate external determinateness and becomes a quantum.
+It gains a limit due to its immediate external determinateness and becomes a quantum [*quantum is limited essence or substance. Quantum is created when the mind forcibly quantizes the inherently-illogical or arbitrary substance so that the mind can use logic on the naturally-illogical*].
 {{< /q >}}
+
 
 Substance is free whereas quantum is confined. 
 - Substance is general
@@ -99,6 +100,10 @@ Physics Name | Superphysics Name
 quark | qom
 electron | qor
 light | mor2 -->
+
+Noticably absent in Physics is the aethereal layer or element which serves as the backstage or code for the physical stage or app that interact with the audience or users, where the audience are the perceivers of phenomena. 
+
+This is why Physics is unable to pin down causal mechanisms just as a stage-play that does not use a backstage will lead to a messy show that has stage and backstage elements together, like how Physics mixes up cause and effect.  
 
 We then integrate the Medium-Substance-Quantum model with the 5 Elements model. 
 
@@ -155,21 +160,21 @@ This exposes a huge gap in knowledge, mostly with the upper layers of the aether
 
 Knowing the internal boundaries of the lower layers will help create new compounds and sub-states of matter. 
 
-For now, we hypothesize 2 additional versions of protons and neutrons to fill the gaps:
+For now, we hypothesize 2 additional versions of protons and neutrons to fill the gaps which we got from accounts of alien technology:
 
 Name | Physical Example 
 --- | --- 
 soc1 (upper neutron) | ?
-soc3 (lower neutron) | Neutron weapons (Lazar)
-som1 (upper proton) | Element 115 (Lazar)
+soc3 (lower neutron) | Neutron weapons (Lazar from Grays)
+som1 (upper proton) | Element 115 (Lazar from Grays)
 som3 (lower proton) | Indestructible metals (Essassani)
 
 
 ### Differences Between MSQ and Standard Model Particles 
 
 The MSQ model also exposes some differences between Particle Physics and Particle Superphysics regarding neutrons and neutrinos.
-- Physics classifies neutrinos under ELectromagnetism (Radiant Layer) and neutrons under the Strong Force (Material Layer). This is because neutrinos run at nearly the speed of light and because neturons have quarks.
-- Superphysics classifies both under the Convertible Layer or Weak Force. This is because they facilitate change or the conversion of matter just like the W and Z Bosons. 
+- Physics classifies neutrinos under Electromagnetism (Radiant Layer) and neutrons under the Strong Force (Material Layer). This is because neutrinos run at nearly the speed of light and because neutrons have quarks.
+- Superphysics, on the contrary, classifies both under the Convertible Layer or Weak Force. This is because they facilitate change or the conversion of matter just like the W and Z Bosons.
 
 <!-- Matter (3 quarks) -->
 

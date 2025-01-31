@@ -46,7 +46,12 @@ Light is the most obvious and important force of Radiance. It travels in straigh
 
 ### Polarization 
 
-Mor1s are made up of 2-dimensional aether particles. This allows it to be channeled into a single angle, as polarization.
+<!-- Mor1s are made up of 2-dimensional aether particles. This allows it to be channeled into a single angle, as polarization. -->
+
+Polarization is the orientation of the spin of light which is made up of flat aether particles. 
+
+So the polarization of light (a 'boson') is the light version of the integer and half-integer spin of 'fermions'. 
+ 
 
 
 ### Invariance 

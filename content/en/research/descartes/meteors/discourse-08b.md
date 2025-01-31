@@ -62,7 +62,9 @@ This is because the surfaces of this crystal are all flat.
 
 2. **The size of the angle under which they appear are not necessary.** 
 
-The angle can be changed here without them changing. It can be done so that the rays that go towards `F` bend sometimes more and sometimes less than those that go towards `H`. 
+The angle can be changed here without the colors changing.
+
+It can be done so that the rays that go towards `F` bend sometimes more and sometimes less than those that go towards `H`. 
 
 Yet:
 - they still paint red always
@@ -93,16 +95,18 @@ If the opening `DE` is made large enough:
 
 Why are these colors different towards `H` than towards `F`, although refraction and shadow and light concur in the same way?
 
-This is because of the action or movement of the fire-aether as particles of small balls that **roll in the pores of earthly bodies**.
+This is because of the action or movement of the fire-aether as small balls that **roll in the pores of earthly bodies**.
 <!--  And conceiving the nature of light as I have described it in Optics, namely, as 
 a certain very subtle matter -->
 
 
-These balls can roll in various ways, according to the various causes that determine them there.
+<!-- These balls can roll in various ways, according to the various causes that determine them there. -->
 
-**All refractions that are made towards the same side determine them to turn in the same direction.**
+**All refractions that are made towards the same side make them turn in the same direction.**
 
-**But when they have no neighbors that move faster or slower than them, their rotation is only approximately equal to their movement in a straight line.**
+**But when they do not have neighbors moving faster or slower than themselves, their rotation is approximately equal to their straight-line motion.**
+
+
 
 They form the blue `EH` ray when they have some neighbors on one side that move faster.
 - This makes then roll more slowly.
@@ -112,15 +116,14 @@ They form the red `DF` ray when they have some neighbors on one side that move s
 
  <!-- and on the other that move more or equally quickly, as happens at the confines of shadow and light;  -->
 
-if they meet those that move less quickly, on the side towards which they roll, as do those that make up the `EH` ray, this is because they do not turn as quickly, that they move in a straight line; and it is quite the opposite when they meet them on the other side as do those of the red DF ray.
+<!-- if they meet those that move less quickly, on the side towards which they roll, as do those that make up the `EH` ray, this is because they do not turn as quickly, that they move in a straight line.
+
+This is opposite when they meet them on the other side as do those of the red `DF` ray.
 
 
 
+Whereas when they have on one side neighbors moving slower, and on the other side neighbors moving faster or equally fast, as happens at the boundaries of shadow and light.
 
-"And in particular that all refractions occurring towards the same side determine them to turn in the same direction; But that when they do not have neighbors moving notably faster or slower than themselves, their rotation is approximately equal to their straight-line motion; 
+if they encounter those moving slower on the side towards which they roll, like those composing the ray `EH`, this causes them to rotate slower.. not to rotate as swiftly as they move straight; 
 
-Whereas when they have on one side neighbors moving slower, and on the other side neighbors moving faster or equally fast, as happens at the boundaries of shadow and light; 
-
-if they encounter those moving slower on the side towards which they roll, like those composing the ray EH, this causes them to rotate slower.. not to rotate as swiftly as they move straight; 
-
-and it is quite the opposite when they encounter them on the other side, like those of the ray DF."
+and it is quite the opposite when they encounter them on the other side, like those of the ray DF." -->

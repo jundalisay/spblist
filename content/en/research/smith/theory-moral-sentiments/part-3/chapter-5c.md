@@ -12,15 +12,26 @@ icons: /avatars/smith.png
 
 
 
-{{< s v="108" >}}  The general rules which distribute prosperity and adversity are perfectly suited to mankind's situation. Yet they are not suited to some of our natural feelings.
+{{< s v="108" >}}  The general rules which distribute prosperity and adversity are perfectly suited to mankind's situation. 
 
-We naturally love some virtues so much that we want to give them honours.
-On the contrary, we detest some vices so much that we want to give them every disgrace.
-Magnanimity, generosity, and justice, command so much admiration.
+Yet they are not suited to some of our natural feelings.
+
+We naturally love some virtues so much, such as magnanimity, generosity, and justice, that we want to give them honours.
+
+, command so much admiration.
 
 We want to see them crowned with wealth, power, and honours.
+
 Those rewards are the natural consequences of prudence, industry, and application.
+
 Prudence, industry, and application are separable from wealth, power, and honours.
+
+
+
+On the contrary, we detest some vices so much that we want to give them every disgrace.
+
+
+
 On the other hand, fraud, falsehood, brutality, and violence excite such scorn and abhorrence.
 
 Our indignation against them increases whenever we see them gain advantages that come from diligence and industry.

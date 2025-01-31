@@ -55,7 +55,10 @@ The violent agitation of the heat makes the blood:
 - expand and move apart and become separated
 - gather and press and bump against one another and divide into many extremely tiny branches.
 
-These branches remain so close to one another that only the finest matter (which I called the 1st Element in the Principles of Philosophy) can occupy the spaces remaining around them. 
+These branches remain so close to one another.
+- Only the fire-aether can occupy the spaces remaining around them.
+
+ <!-- that only the finest matter (which I called the 1st Element in the Principles of Philosophy)  -->
 
 The particles that, in leaving the heart, join together with one another in this way, never leave the circuit by which they return to it, in contrast to the many other particles that penetrate the mass of seed more easily, and from the seed new particles continue to move towards the heart, until it is all used up.
 
@@ -77,25 +80,58 @@ If their rotation speed is much less than that of their rectilinear motion, the 
 
 If they turn much more quickly, it looks red to us.
 
-But the only kind of body that could make them turn faster is one whose tiny parts have branches so delicate and so close to one another that the only matter turning around them is that of the first element, and I have shown blood to be like this.
+<!-- But the only kind of body that could make them turn faster is one whose tiny parts  that the only matter turning around them is that of the first element, and I have shown  -->
 
-The little corpuscles of the 2nd element encounter, on the surface of the blood, this first-element matter, which continually passes with a very rapid oblique motion from one of these pores to the next, thus moving in the opposite direction to the corpuscles, and they are forced by this first- element matter to turn around their centres, and even to turn more with a greater speed than could be caused in any other way, since the first element surpasses all others in speed.
+Blood particles have branches so delicate and so close to one another. Only the fire-aether can go around them. 
 
-It is for much the same reason that iron, when it is hot, and coals, when they are burning, appear red: for then many of their pores are filled only with the first element.
+On the surface of the blood, the air-aether meets the fire-aether. 
 
-But because these pores are not as small as those of blood, the shade of red is different from that of blood.
+The fire-aether continually:
+- passes very quickly obliquely from one blood-pore to the next
+- moves in the opposite direction to the air-aether
 
-As soon as the heart begins to form in this way, the rarefied blood which leaves it takes it course in a straight line in the direction in which it is freest to move, which is the region where the brain will later be formed;  and the path taken by the blood begins to form the upper part of the aorta. Now because of the resistance offered by the parts of the seed that it encounters, the blood does not travel very far in a straight line before it is pushed back towards the heart along the same path by which it came. But it cannot go back down this path because the way is blocked by the new blood that the heart is producing.
+This forces the air-aether to rotate faster, creating a red color. 
 
-This forces it to return somewhat to the side opposite to that of the new material entering the heart, and it is on this side, where the spine will later develop, that it makes its way towards the region where the parts that will serve for generation will be formed, and the path that it takes in its descent is the lower part of the aorta. But because parts of the seed also press on it from this side, they resist the movement of the blood, and because the heart continually sends new blood to the top and bottom of this artery, this blood is forced to take a circular path back towards the heart, via the side furthest from the spine, where the chest will later develop. And the path that the blood takes in returning thus to the heart is what we afterwards call the vena cava. I would not add anything here concerning the formation of the heart, if it had only a single ventricle like that of fish; but because there are two ventricles in all animals that respire, it is necessary that I try to say how the second is formed.
+ <!-- centres, and even to turn more with a greater speed than could be caused in any other way, since the first element surpasses all others in speed. -->
 
-I have already distinguished between two kinds of parts in the portion of the seed that expands in the heart, before it takes any nourishment from  outside, namely, those that move apart and are easily separated, and those that join together and attach themselves to one another. 
+This is why hot iron and burning coals appear red -- their pores are filled only with the fire-aether. 
+- Their pores are not as small as those of blood.
+- This is why their shade of red is different from that of blood.
 
-Now although both kinds of parts are found in the blood of all animals, it should nevertheless be noted that there are many fewer of those that move apart and are easily separated in the blood of those animals that have only a single ventricle in the heart than in those animals that have two. Consequently, one can conclude that there are some of these small parts that expand easily, which I call here ‘aerial’ particles, which are the cause of the second ventricle of the heart, and these, after the animal has been formed, are to be found inclined towards the right side.
+ <!-- first element. -->
 
-But at the beginning of its formation, I believe that the first ventricle, which is subsequently inclined towards the left side, is rightly located in the middle of the body, and that the blood that leaves from this left ventricle runs first towards the place where the brain is formed, then from there to the opposite spot, where the generative parts are formed, and that in descending from the brain to there, they pass principally between the heart and the place where the spinal column is formed, and after that, as much from the top as from the bottom, they return to the heart.
+As soon as the heart begins to form in this way, the decompressed blood which leaves it takes its course in a straight line in the direction in which it is freest to move, which is the region where the brain will later be formed.
 
-I also believe that, as soon as this blood comes near to the heart, it expands partially before entering the left ventricle, and because this expansion pushes the matter surrounding it, it forms the second ventricle.  I say that it expands because there are several aerial particles in it which facilitate this expansion, and which were not able to break loose as quickly as the others; but I say that it only dilates partially, because the portion of the seed which is joined to it, since it left the left ventricle, does not expand so readily as those of its parts that have already been rarefied there. This is why the expansion of this portion of the seed is postponed until it has entered the left ventricle, to where a part of the blood that has already been rarefied in the right ventricle returns.
+The path taken by the blood begins to form the upper part of the aorta. 
+
+Now because of the resistance offered by the parts of the seed that it encounters, the blood does not travel very far in a straight line before it is pushed back towards the heart along the same path by which it came. But it cannot go back down this path because the way is blocked by the new blood that the heart is producing.
+
+This forces it to return somewhat to the side opposite to that of the new material entering the heart, and it is on this side, where the spine will later develop, that it makes its way towards the region where the parts that will serve for generation will be formed, and the path that it takes in its descent is the lower part of the aorta. But because parts of the seed also press on it from this side, they resist the movement of the blood, and because the heart continually sends new blood to the top and bottom of this artery, this blood is forced to take a circular path back towards the heart, via the side furthest from the spine, where the chest will later develop.
+
+The path that the blood takes in returning thus to the heart is what we afterwards call the vena cava. I would not add anything here concerning the formation of the heart, if it had only a single ventricle like that of fish; but because there are two ventricles in all animals that respire, it is necessary that I try to say how the second is formed.
+
+<!-- I have already distinguished between two kinds of parts in  -->
+
+The portion of the seed that expands in the heart, before it takes any nourishment from outside, has 2 kinds of particles:
+
+1. Those that move apart and are easily separated
+2. Those that join together and attach themselves to one another. 
+
+These 2 are found in the blood of all animals.
+
+There are many fewer of those that move apart and are easily separated in the blood of those animals that have only a single ventricle in the heart than in those animals that have two.
+
+Consequently, some of these small particles expand easily. I call them ‘aerial’ particles.
+
+These are the cause of the second ventricle of the heart. 
+
+These, after the animal has been formed, are to be found inclined towards the right side.
+
+But at the beginning of its formation, the first ventricle, which is subsequently inclined towards the left side, is rightly located in the middle of the body, and that the blood that leaves from this left ventricle runs first towards the place where the brain is formed, then from there to the opposite spot, where the generative parts are formed, and that in descending from the brain to there, they pass principally between the heart and the place where the spinal column is formed, and after that, as much from the top as from the bottom, they return to the heart.
+
+As soon as this blood comes near to the heart, it expands partially before entering the left ventricle, and because this expansion pushes the matter surrounding it, it forms the second ventricle.
+
+It expands because there are several aerial particles in it which facilitate this expansion, and which were not able to break loose as quickly as the others; but I say that it only dilates partially, because the portion of the seed which is joined to it, since it left the left ventricle, does not expand so readily as those of its parts that have already been rarefied there. This is why the expansion of this portion of the seed is postponed until it has entered the left ventricle, to where a part of the blood that has already been rarefied in the right ventricle returns.
 
 And when this blood leaves the right ventricle, those of its particles that are the most agitated and the most energetic enter the aorta; but the others, which are in part the largest and heaviest, and in part also the most aerial and the softest, begin, in separating, to make up the lung. For some of the most aerial remain there, and form tiny passages, which afterwards will be the branches of the artery whose extremity is the throat or the windpipe, through which the respiratory air enters; and the largest will return to the left ventricle of the heart. And the path by which they leave the right ventricle is what will later become the pulmonary artery; and that by which they come from there into the left ventricle is what will later become the pulmonary vein.
 

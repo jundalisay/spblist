@@ -14,25 +14,44 @@ writer:
 
 There is heat in the heart. One can even feel it with one’s hand when one opens up the body of a living animal.
 
-And we should not imagine that this heat is of a different nature from that which is caused by the addition of some fluid, or yeast, which causes the body with which it is mixed to expand.
+This heat is of the same nature as that which is caused by adding yeast or some fluid to make a body expand when mixed with it.
 
-But because the dilation of the blood that causes this heat is the first and principal spring of our whole machine, I would like those who have never studied anatomy to take the trouble to look at the heart of some land animal, something reasonably large (for they are more or less similar to those of men), and, having first cut off the end of the heart, to take note that there are two caverns or cavities inside, which are able to hold a lot of blood. If one then puts one’s fingers in these cavities, towards the base of the heart (and from which it discharges its contents), to seek out the openings through which they receive the blood, what one will find there is that there are two very large ones in each: to wit, in the right ventricle, there is a large opening which leads the finger into the vena cava, and another which will lead it into the pulmonary artery.
+The dilation of the blood that causes this heat is the first and principal spring of our whole bodily machine.
 
-Then, if they cut through the flesh of the heart along this ventricle, as far as these two  openings, they will find three small membranes (commonly called the ‘valvules’) at the entry to the vena cava, which are arranged in such a way that when the heart is elongated and deflated (as it always is when animals are dead) they do not stop any of the blood from this vein descending into this ventricle; but if, because of the abundance and expansion of the blood that it contains, the heart is swollen and shortened, these three membranes must raise themselves and in this way close the entrance of the vena cava so that the blood can no longer descend through it into the heart.
+, I would like those who have never studied anatomy to take the trouble to look at the heart of some land animal, something reasonably large (for they are more or less similar to those of men), and, having first cut off the end of the heart, to take note that there are 2 cavities inside, which are able to hold a lot of blood.
 
-Three small membranes or valvules can also be found at the entrance to the pulmonary artery, and these are differently disposed than those of the vena cava, so that they prevent the blood contained in this pulmonary artery from being able to descend into the heart; but if there is some blood in the right ventricle of the heart that tries to leave it, they will not prevent this leaving at all.
+If one then puts one’s fingers in these cavities, towards the base of the heart (and from which it discharges its contents) via the right ventricle, to seek out the openings through which they receive the blood, what one will find there is that there are two very large ones in each: 
 
-In the same way, if one puts one’s finger into the left ventricle, one will find there two openings towards the base, which lead, one into the pulmonary vein, the other into the aorta. And in opening up this whole ventricle, we see two valvules at the entrance of the pulmonary vein which are just the same as those in the vena cava, and are positioned in the same way, and there would be no difference at all, were it not that the pulmonary vein is pressed on the one side by the aorta and on the other by the pulmonary artery, which makes its opening oblong. Because of this, two small membranes are enough to close it, rather than the three needed  to shut the vena cava.
+1. One that goes to the vena cava
+2. Another that goes to the pulmonary artery
 
-One will also see three other valvules at the entrance to the aorta, which do not differ at all from those at the entrance to the pulmonary artery, so that they do not prevent the blood in the left ventricle of the heart rising The World and Other Writings into this aorta, but they do prevent it passing back down this artery into the heart.
+Cut through along this ventricle, as far as these 2 openings. This will reveal 3 small membranes, commonly called the ‘valvules’, at the entry to the vena cava.
 
-And it will be noted that these two vessels, namely the pulmonary artery and the aorta, are composed of skin that is much stronger and thicker than the vena cava and the pulmonary vein.
+<!-- These are arranged in such a way that  -->
 
-This shows that the latter have a completely different use from the former, and that what is called the ‘venous artery’ is really a vein [viz. the pulmonary vein], just as what is called the ‘arterial vein’ is really an artery [viz. the pulmonary artery]. 
+When the heart is elongated and deflated (as it always is when animals are dead) they do not stop any of the blood from this vein descending into this ventricle.
 
-But what made the ancient writers call an ‘artery’ what they  should have called a ‘vein’, and call a ‘vein’ what they should have called an ‘artery’, is the fact that they believed that all the veins came from the right ventricle of the heart, and all the arteries from the left.
+But if, because of the abundance and expansion of the blood that it contains, the heart is swollen and shortened, these three membranes must raise themselves and in this way close the entrance of the vena cava so that the blood can no longer descend through it into the heart.
 
-Finally, it will be noted that these two parts of the heart which are called its ‘auricles’ are nothing but the extremities of the vena cava and the pulmonary vein, which are widened and folded up here for reasons I shall go into below.
+3 small membranes or valvules can also be found at the entrance to the pulmonary artery, and these are differently disposed than those of the vena cava, so that they prevent the blood contained in this pulmonary artery from being able to descend into the heart; but if there is some blood in the right ventricle of the heart that tries to leave it, they will not prevent this leaving at all.
+
+In the same way, if one puts one’s finger into the left ventricle, one will find there two openings towards the base, which lead, one into the pulmonary vein, the other into the aorta.
+
+In opening up this whole ventricle, we see two valvules at the entrance of the pulmonary vein which are just the same as those in the vena cava, and are positioned in the same way, and there would be no difference at all, were it not that the pulmonary vein is pressed on the one side by the aorta and on the other by the pulmonary artery, which makes its opening oblong. Because of this, two small membranes are enough to close it, rather than the three needed  to shut the vena cava.
+
+One will also see three other valvules at the entrance to the aorta, which do not differ at all from those at the entrance to the pulmonary artery, so that they do not prevent the blood in the left ventricle of the heart rising into this aorta, but they do prevent it passing back down this artery into the heart.
+
+The pulmonary artery and the aorta are composed of skin that is much stronger and thicker than the vena cava and the pulmonary vein.
+
+This shows that:
+- the vena cava and the pulmonary vein have a completely different use from the pulmonary artery and the aorta
+- the ‘venous artery’ is really a vein [viz. the pulmonary vein], just as what is called the ‘arterial vein’ is really an artery [viz. the pulmonary artery]. 
+
+But what made the ancient writers call an ‘artery’ what they should have called a ‘vein’, and call a ‘vein’ what they should have called an ‘artery’, is the fact that they believed that all the veins came from the right ventricle of the heart, and all the arteries from the left.
+
+These 2 parts of the heart called its ‘auricles’ are nothing but the extremities of the vena cava and the pulmonary vein, which are widened and folded up.
+
+ <!-- here for reasons I shall go into below. -->
 
 When the anatomy of the heart is seen in this way, if one considers that it always has more heat in it when the animal is alive than any other part of the body, and that the blood is of such a nature that when it is a little hotter than usual it expands very quickly, one cannot doubt that the movement of the heart, and following it the pulse, or the beating of the arteries, occurs in the way that I shall describe.
 
@@ -116,33 +135,73 @@ If one does not wish to take the trouble to open up a living animal, one need on
 
 But if it is tied too tightly, the flow is stopped, just as it is if they tie it a little further from the heart – but not at the place where the vein opens – even if they do not tie it very tightly.
 
-This clearly shows that, in its ordinary course, the blood is carried towards the hands and other extremities of the body by the arteries, and returns from these through the veins towards the heart. And this has already been so clearly demonstrated by Harvey, that it can be doubted only by those so attached to their prejudices, or so accustomed to dispute  everything, that they cannot distinguish true and certain arguments from those that are false or probable.
+This shows that ordinarily, the blood is carried towards the hands and other extremities of the body by the arteries, and returns from these through the veins towards the heart. 
 
-But I believe Harvey has not been so successful as regards the move- ment of the heart, for he thinks, contrary to the common opinion of other physicians, and against the common judgement of sight, that when the heart lengthens, its ventricles increase in size, and conversely that when they shorten, they become narrower. Against this, I shall demonstrate that they always become larger.
+This has already been clearly demonstrated by Harvey.
 
-The arguments that have led him to this view are as follows. He has observed that the heart, in shrinking, becomes harder, and also that in frogs and other animals that have little blood, it becomes more white, or less red, than when it lengthens; and that, if one makes an incision down as far as the ventricles, it is at the moment when it is shrunk that the blood leaves through the incision, and not when it is elongated.
+<!-- , that it can be doubted only by those so attached to their prejudices, or so accustomed to dispute  everything, that they cannot distinguish true and certain arguments from those that are false or probable.has not been so successful as regards the move- ment of the heart, for he -->
 
-From this he believes we must conclude that, since the heart becomes hard, it is contracting; and moreover that its becoming less red in some animals indicates that the blood is leaving it. Finally, he thinks that since we see this blood leave via the incision, we must consider that the blood comes when the place that contains it is narrower.
+But Harvey believes that:
+- when the heart lengthens, its ventricles increase in size
+- when the heart shortens, its ventricles become narrower
 
-He could have confirmed this by a very evident experiment: namely, if one cuts the point of the heart of a living dog, and through the incision one puts one’s finger into one of its ventricles, one will clearly feel that every time the heart shortens it presses the finger, and that it will stop  pressing it whenever it is elongated. This seems to ensure conclusively that its ventricles are narrower when the finger is pressed more than when it is pressed less. 
+This is contrary to:
+- the common opinion of other physicians
+- the common judgement of sight
 
-But all this shows that the same observations can often mislead us, if we do not examine their possible causes sufficiently. For although, if the heart does contract from within, as Harvey believes, this would make it become harder and less red in animals that have little blood, and would also make the blood in the ventricles spurt out through the incision we have made, and, finally, would make the finger inserted in the incision feel pressure; nevertheless, none of this alters the fact that the same effects could also proceed from a different cause, namely the expansion of the blood as I have described it.
+Against this, I shall demonstrate that they always become larger.
 
-But in order to be able to tell which of these two causes is the true one, we must consider other observations which are not compatible with both of them. And the first that I can give is that if the heart hardens due to a contraction of the fibres in it this would necessarily reduce its size; but if the hardening is due to the expansion of the blood contained in the heart, this on the contrary would lead to an expansion. 
+The arguments that have led him to this view are as follows. 
 
-Now observations show us that it loses nothing of its size: rather, it grows larger, which has led other physicians to consider that it swells up during this phase. It is true nevertheless that the increase in size is not great, but the reason for this is clear: the heart has several fibres stretched like cords from one side of its ventricles to the other, and these prevent them from opening very much.
+He has observed that:
+- the shrinking heart becomes harder
+- in frogs and other animals that have little blood, the heart becomes more white, or less red, than when it lengthens
+- if one makes an incision down as far as the ventricles, it is at the moment when it is shrunk that the blood leaves through the incision, and not when it is elongated.
+
+From this he thinks that:
+- the heart contracts when it becomes hard
+- the blood leaves the heart causing it to become less red in some animals 
+- since we see this blood leave via the incision, then the blood comes when the place that contains it is narrower.
+
+He could have confirmed this by a very evident experiment: namely, if one cuts the point of the heart of a living dog, and through the incision one puts one’s finger into one of its ventricles, one will clearly feel that every time the heart shortens it presses the finger, and that it will stop pressing it whenever it is elongated.
+
+This seems to ensure conclusively that its ventricles are narrower when the finger is pressed more than when it is pressed less. 
+
+But all this shows that the same observations can often mislead us, if we do not examine their possible causes sufficiently. 
+
+For although, if the heart does contract from within, as Harvey believes, this would make it become harder and less red in animals that have little blood, and would also make the blood in the ventricles spurt out through the incision we have made, and, finally, would make the finger inserted in the incision feel pressure; nevertheless, none of this alters the fact that the same effects could also proceed from a different cause, namely the expansion of the blood as I have described it.
+
+Which of these 2 causes is the true one?
+
+We must consider other observations which are not compatible with both of them.
+
+1. If the heart hardens due to a contraction of the fibres in it this would necessarily reduce its size.
+
+2. But if the hardening is due to the expansion of the blood contained in the heart, this on the contrary would lead to an expansion. 
+
+Observations show that the heart does not lose its size. Rather, it grows larger.
+
+This has led other physicians to consider that it swells up during this phase. 
+
+It is true nevertheless that the increase in size is not great, but the reason for this is clear: the heart has several fibres stretched like cords from one side of its ventricles to the other, and these prevent them from opening very much.
 
 Another observation shows that when the heart shortens and hardens,  its ventricles do not become narrower but, on the contrary, become larger: if one cuts the point of the heart of a young rabbit that is still alive, the naked eye shows that its ventricles become a little larger and expel blood at the moment at which the heart hardens, and even when it expels only small drops of blood, because very little blood remains in the animal’s body, they continue to have the same size. 
 
-What prevents them from opening ever wider are fibres which stretch from one side to another, which hold them in place. What makes this much less apparent in the heart of a dog or some other more vigorous animal than in a young rabbit is that the fibres take up more of the ventricles; they stiffen when the heart hardens and can press against a finger inserted into one of the ventricles. But despite that, the ventricles do not become narrower but on the contrary larger.
+What prevents them from opening ever wider are fibres which stretch from one side to another, which hold them in place.
+
+What makes this much less apparent in the heart of a dog or some other more vigorous animal than in a young rabbit is that the fibres take up more of the ventricles; they stiffen when the heart hardens and can press against a finger inserted into one of the ventricles. But despite that, the ventricles do not become narrower but on the contrary larger.
 
 I would add yet a third observation, which is that the blood does not leave the heart with the same qualities it had when it entered it, but is very much warmer, more rarefied, and more agitated. Now supposing that the heart moves in the way that Harvey describes, not only must we imagine some faculty which causes the movement, the nature of which is much more difficult to conceive than what it is invoked to explain: we must also suppose the existence of yet other faculties that alter the qualities of the  blood while it is in the heart.
 
-But if we confine our attention instead to the expansion of the blood, which must necessarily follow its heating, which everyone recognises is greater in the heart than in any other part of the body, then it will be clear that this expansion is enough to make the heart move in the way I have described, and also to change the nature of the blood in the way observation indicates. Indeed, it is also sufficient to explain any change one might imagine as necessary so that the blood is prepared and made more suitable for nourishing all the bodily parts that can be used for all the other functions for which it is used in the body. 
+But if we confine our attention instead to the expansion of the blood, which must necessarily follow its heating, which everyone recognises is greater in the heart than in any other part of the body, then it will be clear that this expansion is enough to make the heart move in the way I have described, and also to change the nature of the blood in the way observation indicates. 
+
+Indeed, it is also sufficient to explain any change one might imagine as necessary so that the blood is prepared and made more suitable for nourishing all the bodily parts that can be used for all the other functions for which it is used in the body. 
 
 In this way, we need suppose no unknown or extraneous faculties. For what better and swifter arrangement can we imagine than that which is brought about by fire, which is the most powerful agent we know in nature: rarefying the blood, it separates its small parts from one another, dividing them up and changing their shapes in every imaginable way.
 
-This is why I am extremely surprised that, despite the fact that it has always been known that there is more heat in the heart than in the rest of the body, and that the blood can be rarefied by heat, it has not been noticed by anyone to date that it is this rarefaction of the blood alone that is the cause of the movement of the heart. For although it might seem  that Aristotle thought this when he wrote in chapter  of his book De respiratione ‘that this movement resembles the action of a liquid that heat brings to a boil’, and also that what causes the pulse is ‘juices from the food one has eaten continually coming into the heart and rising to its outer wall’, nevertheless, because he makes no mention in this passage of the blood, or of the material from which the heart is constructed, it is clear that it is just by chance that he has said something approaching the truth, and that he possessed no certain knowledge of it.
+This is why I am extremely surprised that, despite the fact that it has always been known that there is more heat in the heart than in the rest of the body, and that the blood can be rarefied by heat, it has not been noticed by anyone to date that it is this rarefaction of the blood alone that is the cause of the movement of the heart.
+
+For although it might seem  that Aristotle thought this when he wrote in chapter  of his book De respiratione ‘that this movement resembles the action of a liquid that heat brings to a boil’, and also that what causes the pulse is ‘juices from the food one has eaten continually coming into the heart and rising to its outer wall’, nevertheless, because he makes no mention in this passage of the blood, or of the material from which the heart is constructed, it is clear that it is just by chance that he has said something approaching the truth, and that he possessed no certain knowledge of it.
 
 Nor was his opinion adopted by anyone, even though he had the good fortune to have a number of followers on many other questions where his views are far less plausible.
 

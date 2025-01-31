@@ -92,14 +92,32 @@ The heart is the great spring or the principle of all its movements
 
 The veins are the tubes which conduct the blood from all the parts of the body towards the heart, where it fuels the heat there.
 
- just as the stomach and the intestines are another much larger tube, perforated with many little holes, through which the juices from the food run through the veins, which carry them straight to the heart. 
+This is similar to how the stomach and the intestines are another much larger tube.
+- This tube is perforated with many little holes.
+- The juices from the food run through these holes into the veins, which carry them straight to the heart. 
 
-The arteries are yet another set of tubes, through which the blood, heated and rarefied in the heart, passes from there into all the other parts of the body, to which it brings heat and matter to sustain them. 
+ <!-- rarefied -->
+The heart then heats up and decompresses this blood which is then sent to the arteries, as yet another set of tubes.
 
-The most agitated and most active parts of this blood are carried to the brain by arteries which follow the straightest line in their passage from the heart, comprising an air or very fine wind which is called the ‘animal spirits’. 
+The arteries send this heated blood into all the other parts of the body to bring that heat and matter to sustain them. 
 
-These dilate the brain, enabling it to receive both the impressions from external objects, and those from the soul, thereby acting as the organ or the seat of the common sense, of the imagination, and of the memory. 
+The most agitated and active parts of this blood are carried to the brain by arteries which follow the straightest line in their passage from the heart.
 
-Then, this same air or these same spirits flow from the brain through the nerves into all the muscles, thereby making these nerves serve as organs of the external senses, and inflate the muscles in various ways imparting movement to all bodily parts.
+This blood is made up of an air or very fine wind called the ‘animal spirits’.*
+
+{{< n n="In Yogic science, the heart chakra imbues the blood with vibrations from the aether. This creates the aethereal animal spirits which are really of the Air Element or spacetime since it has speed and shape or area. This is opposed to prana which is of the Fire Element or as living energy, without shape. These animal spirits are vayu in Yoga and chi in Taoism. Vayu/chi allows telekinesis and organic levitation and is proof of its Spatial or Aerial nature. Death happens when the vayu/chi leave the body as a result of lack of prana. Food is the most common source of prana. Paper has no prana and so it does not give prana to the body and so it is not food. But a leaf has prana and so it can be food if that prana is compatible with the body's needs" >}}
+
+These dilate the brain, enabling it to receive both the impressions from:
+- external objects, and
+- the soul
+
+The brain thus acts as the organ or the seat of:
+- common sense
+- imagination
+- memory
+
+These same spirits flow from the brain through the nerves into all the muscles.
+
+This makes these nerves serve as organs of the external senses, and inflate the muscles, imparting movement to all bodily parts.
 
 <!-- In sum, these are all the things that I shall describe so that, knowing distinctly what in each of our actions depends only on the body, and what depends on the soul, we can make better use of the one and the other to heal or prevent their maladies. -->

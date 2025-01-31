@@ -1,106 +1,74 @@
 ---
 heading: "Chapter 3b"
-linkTitle: Virtual Photons
-title: "Virtual Photons and Material Magnetism"
-# date: 2023-03-01
-date: 2024-12-29
+title: "Colors: Prisms and LEDs"
+date: 2024-12-28
+image: /graphics/physics/spectrum.jpg
+description: "Colors are part of the spectrum."
+writer:
+  name: Juan
+  url: https://www.linkedin.com/in/jundalisay/
 weight: 9
-# image: /graphics/physics/magnetboat.jpg 
-# description: "Magnetism is facilitated by virtual photons which have a columnar shape"
-image: /graphics/physics/vphoton.jpg
-description: "The Source of All Movement is Internal configuration, powered Externally"
 icon: /icons/spmat.png
+toc: false
 ---
 
 
-Magnetism is the combined effect of 2 Layers:
+<!-- Colors are produced by the variations in wavelength relative to others. 
 
-Layer | Job
---- | ---
-Radiant | Provides the force
-Material | Provides the avenues for the force
+White light has many wavelengths of ranging from  -->
 
-
-We define magnetism as the tendency for materials to attract and repel, independent of gravitation (which is the force of space particles on matter).
+A vortex-less light-wave is called 'white'.
+- A lightwave that is absorbed instead of being reflected is called black.
 
 
-## The Nature of Virtual Photons
+A lightwave becomes colored by adding a vortex or spin to it. 
+- A fast photon spin is called red. It travels at 700 nanometers per time unit. 
+- A slow photon spin is called blue. It travels at 450 nanometers per time unit. 
 
-Magnetic force comes from energetic virtual photons (mor2) that tunnel into channels, either in matter or non-media particles, to either repel or attract other matter. 
-
-These can be visualized like drill bits that rotate postively (anticlockwise). They require specific receiver particles or channels that will let them through and transfer their rotation or force.  
-
-{{< i s="/graphics/physics/vphoton.jpg" a="Virtual Photon" >}}
-
-Unlike gravity which is based on the displaced qosts (spacetime particles) by matter, magnetism uses mor3's. 
-
-Virtual photons or mor3's have a columnar shape. This is different from photons which are flat and therefore can only have a wave-shape. Space is full of these virtual photons that travel in straight lines.
-
-{{< youtube ww92Q0tGL5s >}}
+This can be done in:
+- angled surfaces such as prisms and LEDs
+- curved surfaces such as droplets which show colors as rainbows
 
 
-### Dipoles 
+### Prisms
 
-The virtual photons transfer their energy to the particles or matter that have channels to allow them to pass through.
+A prism creates colors by adding a vortex or spin to mors by slowing it down. 
 
- <!-- This lets those particles or metals attract or repel others depending on the orientation of those channels.  -->
+In the image below, the light wave enters through the prism flat. However, the wave exists the prism at different lengths. 
 
-Each channel has an entrance and exit, called poles. 
-
-A material magnet always has two poles, as dipoles, because that is the nature of a channel.
-
-A radiant magnet, called a magnetic moment, also has diploes. 
-
-Layer | Effect of Virtual Photon on Channel
---- | ---
-Radiant, Convertible, Material Quanta| Spin
-Material vom | North and South Poles
+{{< i s="/graphics/physics/prism.jpg" a="Prism" >}}
 
 
-### Spin
-
-The magnetic moment on a radiant particle also exposes that particle to spin as it absorbs the rotation of the virtual photon.
-
-The spin number is the ratio of virtual photons needed to rotate the particle. 1/2 spin means 2 virtual photons are needed for each rotation.
-
-Particle | Spin Number
---- | ---
-Electron and Quanta | 1/2 (half-integer)
-Substances | 3/2, 5/2 (half-integer)
-Media | 1 (integer)
+The right side goes through more prism which makes it slower relative to the light waves on the left which passes through less prism. 
+- This makes the left side red and the right side blue.
 
 
-
-### Material Magnetism
-
-Material Magnetism requires channels in matter to flow through. This is opposed to electromagnetism which requires electrons to organize themselves into channels.  
-
-We can say that:
-- material magetism is vortexless magetism
-- electromagnetism is vortex magnetism where in the spinning electrons create the channels.   
-
-This is consistent with material gravity being vortexless and orbital gravity having a vortex.
-
-Type | Radiant | Spatial
---- | --- | ---
-Vortex | Electromagnetism | Orbits
-Vortexless | Material Magnetism | Material Gravity 
+### Light-Emitting Diode or LED 
 
 
-All magnetic forces, even material magnetism, originated from vortex magnetism. 
+An LED is a metal that converts virtual photons in to colored photons. 
 
-Natural magnets are an example of material magnetism. These were magnetized when they were struck by lightning.  
+This is done by creating channels for electrons ('minutiae' in Cartesian Physics) to flow while spinning since electrons and photons are vortices. 
 
-Another example is the superconductor which are metals that have very straight channels.
+An n-type semiconductor has an oversupply of electrons. This goes to a p-type which has a hole for that electron. 
 
+Within a semiconductor is a band gap where electrons can switch lanes as they flow from n to p. 
 
-### Magnetic Attraction and Repulsion
+The virtual photons ('striated particles' in Cartesian Physics) in the band gap go through the spinning electrons as they switch lanes.
 
-Repulsion happens when the channels are opposed to each other. For example, when:
-- an exit faces an exit
-- an entrance faces and an entrance 
+If the electrons flow as tight channels, the virtual photons would become dense. This creates magnetism that would push space particles.  
 
-Attraction happens when the chanels are aligned like when an exit is next to an entrance. This allows the virtual photons to keep on flowing.
+But since the electrons that cross the band gap are not tight, the virtual photons are less compressed. And so they become photons instead of causing magnetism.
 
-This increases the magnetism by increasing the low pressure to a larger area.  
+A red LED has a small band gap that acts as a spatial prism. This lets the photon pass quickly, causing red light. 
+
+A blue LED has a large band gap. This lets the photon pass slowly, causing blue light. 
+
+{{< i s="/graphics/physics/spectrum.jpg" a="Colors" >}}
+
+In theory, an electron that changes lanes in a 90 degree angle would give off white light just as a light that passes through a flat glass will come out the same white. 
+
+So in theory, Superphysics can lead to real-definition LEDs that exactly match real life visual crispness. 
+
+That 90 degree sudden shift is like a car switching lanes instantly. That can only be done by application of the aether, as in all cases that require violations of spacetime.
 
