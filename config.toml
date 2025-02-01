@@ -202,7 +202,7 @@ paginate = 12
       sub = "We classify parties and groups in order to predict their evolution, success, or failure"
     [languages.en.params.tricon4.items.d]
       url = "/social/cycles/"
-      img= "/photos/ukraine.jpg"
+      img= "/photos/countries/ua/war.jpg"
       title = "Social Cycles Predictions"
       sub = "See our model's predictions for various countries"
 
@@ -294,7 +294,7 @@ paginate = 12
 
     [languages.en.params.tricon5.items.l]
       url = "/social/supersociology/precrisis-years/"
-      img= "/photos/ukraine.jpg"
+      img= "/photos/countries/ua/war.jpg"
       title = "Social Superphysics: The Crisis Years"
       sub = "We correctly predicted 2020 as the start of the crisis years filled with economic crises and war, as an effect of the Negative Force and Social Cycles, just as the Seven Years War and WWI and WWII had them."
     [languages.en.params.tricon5.items.k]
@@ -642,7 +642,7 @@ paginate = 12
       sub = "انظر كيف نستخدمه للتنبؤ بالأحداث مثل الانتخابات الرئاسية والانكماش الاقتصادي"
     [languages.ar.params.tricon4.items.d]
       url = "/social/cycles/"
-      img= "/photos/ukraine.jpg"
+      img= "/photos/countries/ua/war.jpg"
       title = "السياسة والقانون والعدالة من أجل عالم أفضل"
       sub = "السوبراجتماعية تتعامل مع السياسة والقانون والحكم والقضايا الاجتماعية والسياسية الأخرى"
 
@@ -786,7 +786,7 @@ paginate = 12
       sub = "看看我们如何用它来预测总统选举和经济衰退等事件"
     [languages.zh.params.tricon4.items.d]
       url = "/social/cycles/"
-      img= "/photos/ukraine.jpg"
+      img= "/photos/countries/ua/war.jpg"
         title = "社会周期预测"
        sub = "查看我们的模型对各个国家的预测"
 
@@ -930,7 +930,7 @@ paginate = 12
       sub = "Sehen Sie, wie wir sie verwenden, um Ereignisse wie Präsidentschaftswahlen und Rezessionen vorherzusagen."
     [languages.de.params.tricon4.items.d]
       url = "/social/cycles/"
-      img= "/photos/ukraine.jpg"
+      img= "/photos/countries/ua/war.jpg"
       title = "Geschichte wiederholt sich"
       sub = "Sehen Sie sich die sozialen Zyklen für jedes Land an"
 
@@ -1074,7 +1074,7 @@ paginate = 12
       sub = "La supersociologie traite de la politique, du droit, de la gouvernance et d'autres problèmes socio-politiques"
     [languages.fr.params.tricon4.items.d]
       url = "/social/cycles/"
-      img= "/photos/ukraine.jpg"
+      img= "/photos/countries/ua/war.jpg"
       title = "L'Histoire se Répète comme une Onde"
       sub = "Découvrez comment nous l'utilisons pour prédire des événements tels"
 
@@ -1216,7 +1216,7 @@ paginate = 12
       sub = "हम इसे चुनाव और मंदी जैसी घटनाओं की पूर्वानुमानित करने के लिए कैसे उपय"
     [languages.hi.params.tricon4.items.d]
       url = "/social/cycles/"
-      img= "/photos/ukraine.jpg"
+      img= "/photos/countries/ua/war.jpg"
       title = "Social Cycles"
       # sub = "Supersosiologi mengatasi politik, hukum, tata pemerintahan, dan masalah sosial-politik lainnya"
 
@@ -1358,7 +1358,7 @@ paginate = 12
       sub = "Lihat bagaimana kami menggunakannya untuk memprediksi peristiwa seperti pemilihan presiden dan resesi"
     [languages.id.params.tricon4.items.d]
       url = "/social/cycles/"
-      img= "/photos/ukraine.jpg"
+      img= "/photos/countries/ua/war.jpg"
       title = "Politik, Hukum, dan Keadilan untuk Dunia yang Lebih Baik"
       sub = "Supersosiologi mengatasi politik, hukum, tata pemerintahan, dan masalah sosial-politik lainnya"
 
@@ -1503,7 +1503,7 @@ paginate = 12
       sub = "大統領選挙や景気後退などのイベントを予測するためにそれをどのように使用できますか？"
     [languages.jp.params.tricon4.items.d]
       url = "/social/cycles/"
-      img= "/photos/ukraine.jpg"
+      img= "/photos/countries/ua/war.jpg"
       title = "社会サイクルの予測。"
       sub = "さまざまな国々に関する当社のモデルの予測を読んでください"
 
@@ -1682,7 +1682,7 @@ paginate = 12
       sub = "Как мы можем использовать его для предсказания событий, таких как президентские выборы и рецессии?"
     [languages.ru.params.tricon4.items.d]
       url = "/social/cycles/"
-      img= "/photos/ukraine.jpg"
+      img= "/photos/countries/ua/war.jpg"
       title = "Прогнозы социальных циклов"
       sub = "Читайте прогнозы нашей модели для различных стран"
 

@@ -39,6 +39,7 @@ Of course, that is **ABSOLUTELY FALSE**, since Smith pointed to [sympathy and be
 
 Samuelson merely cherry-picked Smith’s views on self-interest, which to Smith was a 'praise-worthy' positive quality, and then corrupted it into selfishness which is a negative quality:
 
+
 {{< q a="Adam-Smith" c="Theory Of Moral Sentiments Simplified, Part 7, Section 2, Chapter 3" >}}
 Regard to our own private happiness and interest often appear as very laudable principles of action. The habits of oeconomy, industry, discretion, attention, and application of thought, are cultivated from self-interested motives. These habits are seen as very praise-worthy qualities.. 
 

@@ -10,11 +10,22 @@ writer:
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes
 ---
 
- When one knows that the blood is continually dilated in the heart in this way, and from there pushed forcibly through the arteries into all the other parts of the body, whence it returns subsequently through the veins towards the heart, one can easily judge that it is while it is in the arteries, rather than while it is in the veins, that it serves to nourish the parts of the body. 
 
- For although I do not wish to deny that, while it is flowing from the extremities of the veins to the heart, some of its parts pass through the pores in their surrounding membranes and become attached there – as happens particularly in the liver, which is without doubt nourished by the blood from the veins, because it receives almost none from the arteries – nevertheless in all other cases where the veins are accompanied by arteries, it is evident that the blood contained in these arteries, being finer and moved with a greater force than that in the veins, is very much more easily attached to other parts, without the thickness of their covering membranes hampering it.
+The blood is continually dilated in the heart. 
 
-This is because, at their extremities their skins are hardly any thicker than those of the veins, and also because when the blood coming from the heart inflates them, the pores in their skins are enlarged in the process. And then the small parts of this blood, which have been separated from each other by the rarefaction that it has undergone in the heart, push these membranes forcefully from all sides, easily entering those pores of similar proportions, and go to strike the roots of the small filaments that make up the solid parts. 
+From there it is pushed forcibly through the arteries into all the other parts of the body, whence it returns subsequently through the veins towards the heart.
+
+The blood nourishes the body while it is in the arteries, rather than the veins.
+
+For although I do not wish to deny that, 
+
+While blood is flowing from the extremities of the veins to the heart, some of its parts pass through the pores in their surrounding membranes and become attached there – as happens particularly in the liver, which is without doubt nourished by the blood from the veins, because it receives almost none from the arteries
+
+But in all other cases where the veins are accompanied by arteries, the blood contained in these arteries, being finer and moved with a greater force than that in the veins, is very much more easily attached to other parts, without the thickness of their covering membranes hampering it.
+
+This is because, at their extremities their skins are hardly any thicker than those of the veins, and also because when the blood coming from the heart inflates them, the pores in their skins are enlarged in the process. 
+
+And then the small parts of this blood, which have been separated from each other by the rarefaction that it has undergone in the heart, push these membranes forcefully from all sides, easily entering those pores of similar proportions, and go to strike the roots of the small filaments that make up the solid parts. 
 
 Then, at the moment when the arteries deflate, these pores contract, and in the process several parts of the blood remain caught against the roots of the small filaments of the solid parts that they are nourishing (and several others flow away through the pores that surround them), and in this way they also enter into the  composition of the body.
 
@@ -26,7 +37,11 @@ We must think of the fluid parts, that is to say the humours and the spirits, fl
 
 After following these filaments and various twists and turns in the body, they come finally to the surface of the skin, through the pores of which these humours and spirits evaporate into the air.
 
-Now as well as these pores through which the humours and the spirits run, there are also many other narrower pores through which there  continually passes matter of the first two elements, as described in my Principles of Philosophy. And as the agitated matter of the first two elements encounters that of these humours and spirits, running along the filaments that make up the solid parts, they continually make the filaments move forward slightly, albeit very slowly; so that as a result every part of the filaments runs from where it has its roots to the surface of the limb where they terminate, and when it reaches there it comes into contact with the air or other bodies touching the surface of the skin, and separates from it. Thus there is always some part being separated from the end of each filament while at the same time another part is being attached to the root, in the manner already described. But the separated part evaporates into the air if it emerges from the skin, whereas if it emerges from the surface of a muscle, or from some other internal part, it mixes with the fluid parts and flows with them wherever they go: some- times outside the body, and sometimes through the veins towards the heart, to which the fluid parts often return.
+Now as well as these pores through which the humours and the spirits run, there are also many other narrower pores through which there continually passes matter of the first two elements, as described in my Principles of Philosophy.
+
+And as the agitated matter of the first two elements encounters that of these humours and spirits, running along the filaments that make up the solid parts, they continually make the filaments move forward slightly, albeit very slowly; so that as a result every part of the filaments runs from where it has its roots to the surface of the limb where they terminate, and when it reaches there it comes into contact with the air or other bodies touching the surface of the skin, and separates from it.
+
+Thus there is always some part being separated from the end of each filament while at the same time another part is being attached to the root, in the manner already described. But the separated part evaporates into the air if it emerges from the skin, whereas if it emerges from the surface of a muscle, or from some other internal part, it mixes with the fluid parts and flows with them wherever they go: some- times outside the body, and sometimes through the veins towards the heart, to which the fluid parts often return.
 
 Hence it can be seen that all the parts of the filaments making up the solid parts of the body undergo a motion which is no different from that of the humours and spirits, only slower; similarly, the motion of the humours and spirits is slower than that of the most subtle matter.
 

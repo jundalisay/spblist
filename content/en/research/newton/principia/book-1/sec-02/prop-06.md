@@ -9,11 +9,23 @@ weight: 14
 ---
 
 
-In a space void of resistance, if a body revolves in any orbit about an immovable centre, and in the least time describes any arc just then nascent; and the versed sine of that arc is supposed to be drawn bisecting the chord, and produced passing through the centre of force: the centripetal force in the middle of the arc will be as the versed sine directly and the square of the time inversely.
+Assume a space with an immovable centre and void of resistance.
 
-For the versed sine in a given time is as the force (by Cor. 4, Prop. 1); and augmenting the time in any ratio, because the arc will be augmented in the same ratio, the versed sine will be augmented in the duplicate of that ratio (by Cor. 2 and 3, Lem. XI.), and therefore is as the force and the square of the time. Subduct on both sides the duplicate ratio of the time, and the force will be as the versed sine directly, and the square of the time inversely.   Q.E.D.
+A body revolves in any orbit around that center. In the shortest time draws any arc just then nascent.
 
-And the same thing may also be easily demonstrated by Corol. 4, Lem. X.
+The versed sine of that arc is supposed to be drawn bisecting the chord, passing through the centre of force.
+
+The centripetal force in the middle of the arc will be as the versed sine directly and the square of the time inversely.
+
+This is because the versed sine in a given time is as the force (by Cor. 4, Prop. 1).
+
+Augmenting the time in any ratio, because the arc will be augmented in the same ratio, the versed sine will be augmented in the duplicate of that ratio (by Cor. 2 and 3, Lem. XI.).
+
+Therefore is as the force and the square of the time. 
+
+Subduct on both sides the duplicate ratio of the time, and the force will be as the versed sine directly, and the square of the time inversely.   Q.E.D.
+
+The same thing is also easily demonstrated by Corol. 4, Lem. X.
 
 
 ### Cor. 1

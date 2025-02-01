@@ -49,7 +49,7 @@ The collective wave of desire of society is most easily seen in the following:
 - foreign exchange rates
 - cryptocurrencies (as long as they are market-driven)
 
-{{< img src="/graphics/econ/wework.png" alt="We Work Stock price" cap="Stock prices reflect the Positive or Negative force in an economy. (Update April 29, 2024)" >}}
+{{< img src="/graphics/econ/wework.jpg" alt="We Work Stock price" cap="Stock prices reflect the Positive or Negative force in an economy. (Update April 29, 2024)" >}}
 
 We can say that:
 - peaks in prices represent a time of high desire for that stock or product

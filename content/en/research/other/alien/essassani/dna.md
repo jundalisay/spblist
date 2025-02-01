@@ -1,7 +1,7 @@
 ---
 title: "12 Strands of DNA"
 weight: 4
-image: "/photos/handshake.jpg"
+image: "/photos/med/sperm.jpg"
 description: "3 strands of DNA are for physical reality"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Silver Cord"
 weight: 16
-image: "/photos/medieval/anu.jpg"
+image: "/photos/balancerock.jpg"
 description: "Bashar answers Questions about Atlanteans"
 ---
 

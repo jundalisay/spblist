@@ -12,9 +12,15 @@ icon: /avatars/smith.png
 
 
 
-### Introduction 
+<!-- ### Introduction  -->
 
-{{< s v="1" >}} The spectator can go along with our feelings which lie in a certain middle. If it is too high or too low, he cannot enter into it. For example, grief for private misfortunes and injuries may easily be too high in many people. They may also be too low, but rarely.
+### The Middle Ground
+
+{{< s v="1" >}} The spectator can go along with our feelings which lie in a certain middle.
+
+If it is too high or too low, he cannot enter into it.
+
+For example, grief for private misfortunes and injuries may easily be too high in many people. They may also be too low, but rarely.
 - We call excessive grief as 'weakness' and 'fury'.
 - We call the shortage of grief as 'stupidity', 'insensibility', and 'lack of spirit'.
 - We cannot enter into either and are astonished and confounded to see them.

@@ -16,16 +16,11 @@ icons: /avatars/smith.png
 
 Yet they are not suited to some of our natural feelings.
 
-We naturally love some virtues so much, such as magnanimity, generosity, and justice, that we want to give them honours.
-
-, command so much admiration.
-
-We want to see them crowned with wealth, power, and honours.
+We naturally love some virtues so much , such as magnanimity, generosity, and justice, that we want to give them honours.
 
 Those rewards are the natural consequences of prudence, industry, and application.
 
 Prudence, industry, and application are separable from wealth, power, and honours.
-
 
 
 On the contrary, we detest some vices so much that we want to give them every disgrace.

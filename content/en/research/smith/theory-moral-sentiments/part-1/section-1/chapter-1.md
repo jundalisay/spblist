@@ -18,7 +18,7 @@ writer:
 - render the happiness of others necessary to him
 <!-- , even if he only gets the pleasure of seeing that happiness -->
 
-Pity or compassion is our feeling for the misery of others. 
+**Pity or compassion** is our feeling for the misery of others. 
 
 We often derive sorrow from the sorrow of others. 
 - The virtuous and humane feel it most sensibly. 
@@ -27,80 +27,119 @@ We often derive sorrow from the sorrow of others.
 
 {{< s v="2" >}} We do not immediately know what other men feel. 
 
-We only have *an idea* of how they are affected. We get this idea by thinking how we ourselves would feel in the same situation.
+We only have *an idea* of how they are affected.
+- We get this idea by thinking how we ourselves would feel in the same situation.
 
-If our brother is on the rack, we will never feel his pains exactly, as our senses are limited to ourselves. Only by our imagination can we imagine his sensations.
+If our brother is on the rack, we will never feel his pains exactly. We can only imagine his pain. 
 
-Our imagination copies only the impressions that we get from our own senses. By imagination: 
-- we place ourselves in his situation,
-- we conceive ourselves enduring the same torments.
+ <!-- as our senses are limited to ourselves. Only by our imagination can we imagine his sensations. -->
+
+Our imagination copies only the impressions that we get from our own senses. By imagination, we: 
+- place ourselves in his situation
+- see ourselves enduring the same torments
 
 <!-- - we enter into his body,
 - we become the same person with him,
 - we form some idea of his sensations,
 - we even feel something similar, though weaker. -->
 
-His agonies affect us when we bring them to ourselves and made our own. 
-- We then shudder at the thought of what he feels.
-
-Pain or distress excites the most excessive sorrow. 
-- To imagine pain or distress excites sorrow proportional to the intensity of the pain or distress imagined.
+<!-- His agonies affect us when we bring them to ourselves and made our own.  -->
+We then shudder at the thought of what he feels.
 
 
-## The Source of our Compassion is our conception of the pain of others
+<!-- Pain or distress excites the most excessive sorrow. 
+- To imagine pain or distress excites sorrow proportional to the intensity of the pain or distress imagined. -->
 
-{{< s v="3" >}} This is the source of our fellow-feeling for the misery of others. We are affected by what he feels by changing places with the sufferer, in imagination.
+
+## Our Bodies Recreate The Human Phenomena We Perceive That Impacts Us
+
+<!-- The Source of our Compassion is our conception of the pain of others -->
+
+{{< s v="3" >}} This is the source of our fellow-feeling for the misery of others. 
+
+We are affected by what he feels by changing places with the sufferer, in imagination.
 - When we see a stroke aimed on the leg of another person, we naturally draw back our own leg.
   - When it falls, we feel hurt by it.
 - When a crowd gazes at a dancer on the slack rope, they naturally writhe and twist their own bodies, as they see him do.
   - They feel that they themselves must do if they were in his situation.
 
-Sensitive people complain that they feel an uneasy sensation when looking at the beggars' sores.
-- They conceive a horror at the misery of those which then affects their own bodies.
-  - That horror arises from conceiving what they themselves would suffer if= 
-    - they really were the beggars they are looking at, and
-    - that part in themselves was actually affected in the same way
+Sensitive people feel uneasy when looking at the beggars' sores.
+- They feel their misery which then affects their own bodies.
+- That feeling comes from conceiving what they themselves would suffer if: 
+  - they really were those beggars, and
+  - their body parts actually had those sores
 
-The force of this conception is enough to produce that itching or uneasy sensation in their feeble frames.
+The force of this conception produces that itching or uneasy sensation in their feeble frames.
 
-Strong men feel soreness in their own eyes in looking on the sore eyes of others. It comes from the same reason -- the eyes are more delicate in the strongest man.
-
-
-## Fellow-feeling, as sympathy, drives this conception into Compassion
-
-{{< s v="4" >}} Circumstances that create pain or sorrow are not the only ones that call forth our fellow-feeling. A feeling springs up in us that is analogous to whatever feeling arises in the observed person.
-- Our joy for the deliverance of heroes is as sincere as our grief for their distress.
-- Our fellow-feeling with their misery is as real as our fellow-feeling with their happiness.
-        We enter into their gratitude towards their faithful friends.
-        We heartily resent those traitors who injured, abandoned, or deceived them.
-    In every emotion, the bystander's feelings always correspond to what he imagines would be the sufferer's feelings.
+Strong men feel soreness in their own eyes in looking on the sore eyes of others.
+- It comes from the same reason -- the eyes are more delicate in the strongest man.
 
 
-{{< s v="5" >}} Pity and compassion signify our fellow-feeling with the sorrow of others. The meaning of sympathy was perhaps originally the same with pity. It may now denote our fellow-feeling with any passion.
+## The Correspondence of Feelings: Sympathy
 
-{{< s v="6" >}} Sometimes, sympathy may arise merely from seeing another person's emotions. Sometimes, the feelings seem to be transfused from one man to another, instantaneously and without knowing what excited them. For example, when grief and joy are strongly expressed in anyone, the other people are instantly affected with a similar emotion.
+<!-- Fellow-feeling, as sympathy, drives this conception into Compassion -->
 
-{{< s v="7" >}} However, this is not universal with every feeling. There are some feelings which excite no sympathy. We are disgusted at them even before we know what caused them.
+{{< s v="4" >}} Painful or sad events are not the only ones that call forth our fellow-feeling.
 
-The angry man's fury is more likely to make us angry at him than at his enemies. We do not know his provocation so we cannot= 
+A feeling springs up in us that is analogous to whatever feeling arises in the observed person.*
+
+{{< n n="We cite this as an example of Cartesian Relationality" >}}
+
+We are sincerely:
+- happy for the success of heroes
+- sad for their distress
+
+Our fellow-feeling with their misery is as real as our fellow-feeling with their happiness.
+
+<!--         We enter into their gratitude towards their faithful friends.
+        We heartily resent those traitors who injured, abandoned, or deceived them. -->
+
+In every emotion, the bystander's feelings always correspond to what he imagines would be the sufferer's feelings.
+
+
+{{< s v="5" >}} Pity and compassion signify our fellow-feeling with the sorrow of others.
+
+The meaning of sympathy was perhaps originally the same with pity. It may now denote our fellow-feeling with any passion.
+
+
+{{< s v="6" >}} Sometimes, sympathy may arise merely from seeing another person's emotions.
+
+Sometimes, the feelings seem to be transfused from one man to another, instantaneously and without knowing what excited them.
+
+For example, when grief and joy are strongly expressed in anyone, the other people are instantly affected with a similar emotion.
+
+
+{{< s v="7" >}} However, this is not universal with every feeling.
+
+There are some feelings which excite no sympathy. We are disgusted at them even before we know what caused them.
+
+The angry man's fury is more likely to make us angry at him than at his enemies. We do not know his provocation so we cannot:
 - bring his case home to ourselves, and
 - conceive similar passions
 
-But we see the violence awaiting the people whom he is angry with. We readily= 
+But we see the violence awaiting the people whom he is angry with. We readily:
 - sympathize with their fear, and
 - go against the angry man
 
 
-{{< s v="8" >}} Seeing grief and joy in others gives us grief and joy because they suggest that person's good or bad fortune. The effects of grief and joy terminate in the person who feels them. Unlike resentment, they do not give us emotions that target another person. The general idea of good or bad fortune, therefore, creates some concern for the person with that good or bad fortune.
+{{< s v="8" >}} Seeing grief and joy in others gives us grief and joy because they suggest that person's good or bad fortune.
+
+The effects of grief and joy terminate in the person who feels them.
+
+Unlike resentment, they do not give us emotions that target another person. 
+
+The general idea of good or bad fortune, therefore, creates some concern for the person with that good or bad fortune.
 
 But the general idea of provocation creates no sympathy with the receiver of that anger. Nature teaches us= 
 - to be more averse to anger and resentment until we know its cause
 - to fight anger.
 
 
-{{< s v="9" >}} Even our sympathy with another person's grief or joy is always extremely imperfect before we know its cause. General lamentations, which express only the sufferer's anguish, make us curious about his situation. It makes us sympathize with him slightly.
+{{< s v="9" >}} Even our sympathy with another person's grief or joy is always extremely imperfect before we know its cause.
 
-Our first is: What happened?
+General lamentations express only the sufferer's anguish. These make us curious about his situation. It makes us sympathize with him slightly.
+
+Our first question is: What happened?
 
 Until this is answered, our fellow-feeling is not very considerable, although we are uneasy from his misfortune.
 
@@ -112,11 +151,17 @@ We sometimes feel something for another person which he himself does not feel, b
 We blush for the rudeness of another because we feel ashamed if we had behaved in the same way, even if he did not even know the impropriety of his own behaviour.
 
 
-{{< s v="11" >}} The loss of reason is the most dreadful of all conditions. People have deeper sorrow for a person's loss of reason than any other. But the poor wretch who has no sense of reason, laughs and sings, insensible of his own misery. Our anguish for him, therefore, cannot be the same anguish that he feels.
+{{< s v="11" >}} The loss of reason is the most dreadful of all conditions.
+
+People have deeper sorrow for a person's loss of reason than any other. 
+
+But the poor wretch who has no sense of reason, laughs and sings, insensible of his own misery. 
+
+Our anguish for him, therefore, cannot be the same anguish that he feels.
 
 The observer's compassion must all arise from his consideration of what he himself would feel if he had the same situation.
 
-{{< s v="12" >}} A mother feels pangs when she hears her baby crying. In her own mind, she joins= 
+{{< s v="12" >}} A mother feels pangs when she hears her baby crying. In her own mind, she joins:
 - the idea of her baby's helplessness to the baby's actual helplessness
 - that helplessness with her own experience of helplessness
 

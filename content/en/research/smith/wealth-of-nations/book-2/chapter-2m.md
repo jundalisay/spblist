@@ -67,6 +67,7 @@ It would even be a very great calamity to many poor people who received those no
 
 Paper money would probably then confine itself to the circulation between the different dealers, as what is happening in London.
 In London, no bank notes under £10 are issued.
+
 In most parts of the United Kingdom, £5 will seldom be spent all at once, just as £10 will seldom be spent all at once in London.
 
 

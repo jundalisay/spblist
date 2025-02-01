@@ -68,19 +68,21 @@ For instance, assume that the force of the fire-aether coming from pole `A` towa
 This will make the A-based-fire-aether advance further towards `B` than the B-based-fire-aether advances towards `A`.
 - But by advancing further, the force of the A-based-fire-aether will diminish.
 
-According to the laws of nature, both will eventually repel each other where their forces are completely equal. This location of equality is where the sun's body will be.
+According to the laws of nature, both will eventually repel each other where their forces are completely equal.
+- This location of equality is where the sun's body will be.
+- Therefore, this will move the sun to be farther from pole A.
 
-Therefore, this will move the sun to be farther from pole A.
+But this inequality will not make the sun less round.
+- This is because the air-aether globules will not be repelled with greater force in part `d` of its circumference than in part `f`.
 
-But this inequality will not make the sun less round. This is because the air-aether globules will not be repelled with greater force in part `d` of its circumference than in part `f`.
-
- 
-Likewise, if the fire-aether exits more easily from `S` towards `O` than towards `C` (finding more free space there), the body `S` will move somewhat towards `O`. 
+ Likewise, if the fire-aether exits more easily from `S` towards `O` than towards `C` (finding more free space there), the body `S` will move somewhat towards `O`. 
 - By reducing the space in between, they will finally be positioned where the force is equal on both sides. 
 
-Therefore, even if we consider only the 4 vortices `L, C, K, O`, as long as we suppose them to be unequal, it follows that the Sun `S` should neither be in the middle space between `O` and `C` nor in the middle between `L` and `K`. 
+Assume there are only 4 vortices `L, C, K, O`, all unequal. then the Sun `S` should neither be:
+- in the middle space between `O` and `C` nor
+- in the middle between `L` and `K`. 
 
-Even a greater inequality in its position is caused by the other vortices that surround it.
+Having more vortices around it will cause an even greater inequality.
 
 
 #### 74. Various irregularities in the motion of its fire-aether.
