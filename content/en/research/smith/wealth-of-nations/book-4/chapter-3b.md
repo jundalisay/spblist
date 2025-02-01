@@ -25,6 +25,7 @@ If foreign bills of exchange are paid in this currency with an uncertain value, 
 {{< s v="13" >}} To remedy this inconvenience, small states frequently required certain foreign bills of exchange to be paid by the credit of a bank protected by the state.
 
 Such bills were not paid by in common currency.
+
 This bank was always obliged to pay in true money to the state's standard.
     The banks of Venice, Genoa, Amsterdam, Hamburgh, and Nuremberg, were all originally established with this view.
         Some of them later served other purposes.
@@ -141,3 +142,9 @@ Louis d'ors, new    310
 Ditto old   300
 New ducats  4 19 8 per ducat
 
+
+
+{{< s v="19" >}} Bar or ingot gold is received in proportion to its fineness relative to the foreign gold coins listed in the previous table.
+
+The bank gives 340 per mark for fine bars.
+- In general, something more is given for coin than bars. This is because the fineness of bars can only be ascertained through melting and assaying.

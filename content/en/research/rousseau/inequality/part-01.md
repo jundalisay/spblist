@@ -3,7 +3,7 @@ heading: Part 1
 title: "The Natural State of Man"
 description: ""
 image: "/covers/rousseau.jpg"
-weight: 4
+weight: 6
 date: 2025-01-11
 ---
 

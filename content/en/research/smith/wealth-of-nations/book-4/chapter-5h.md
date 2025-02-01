@@ -1,6 +1,6 @@
 ---
 title: "Digression on the wheat trade and wheat laws: Domestic wheat market"
-heading: "Chapter 5d"
+heading: "Chapter 5h"
 description: "The wheat merchant's trade is composed of 4 separate branches which can be done by the same person"
 image: /covers/wn.jpg
 weight: 46

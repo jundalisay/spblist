@@ -1,7 +1,7 @@
 ---
-title: "The Unreasonableness of those extraordinary Restraints on other Principles"
-heading: "Chapter 3c"
-description: "Nothing, however, can be more absurd than this whole doctrine of the balance of trade, on which these restraints and almost all the other regulations of commerce are founded"
+title: "The Fallacy of Equilibrium in the Balance of Trade"
+heading: "Chapter 3e"
+description: "Nothing, however, can be more absurd than this whole doctrine of the balance of trade"
 image: /covers/wn.jpg
 weight: 32
 writer:
@@ -121,5 +121,3 @@ A country which has no mines is not more likely to run out of gold and silver by
 - A country which has means to buy tobacco or gold and silver will never be long in want of it.
 
 {{< n n="An example is Singapore which produces no agriculture" >}}
-
-

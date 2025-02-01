@@ -1,7 +1,7 @@
 ---
 title: Supereconomics in a Nutshell
 description: This is a pamphlet to introduce Supereconomics
-# heading: Based on the four laws of value
+linkTitle: Nutshell
 image: /covers/superecon.jpg
 featured: true
 weight: 4

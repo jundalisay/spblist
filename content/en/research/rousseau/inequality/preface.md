@@ -3,7 +3,7 @@ heading: Preface
 title: "We Must Always Go Back To A First Convention"
 description: ""
 image: "/covers/rousseau.jpg"
-weight: 4
+weight: 14
 date: 2025-01-11
 ---
 

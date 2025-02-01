@@ -11,11 +11,12 @@ date: 2025-01-27
 ---
 
 
-The science of Economics was established as a consequence of the mercantile period.
-
+The science of Economics was established as a consequence of the Mercantilism.
+ 
 The Mongols had connected Europe with China, allowing merchants like Marco Polo to establish trade and become very wealthy.
 
-But the Fall of Constantinople to the Muslims in 1453 ended the silk road and allowed Arab expansion to the East through the Strait of Malacca. 
+But the Fall of Constantinople to the Muslims in 1453 ended the silk road and allowed Arab expansion to the East through the Straits of Malacca. 
+
 
 ### The Political Economy
 

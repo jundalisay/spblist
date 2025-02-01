@@ -3,7 +3,7 @@ heading: Chapter 5
 title: The Third Law -- Natural Price
 description: This is a pamphlet to introduce Supereconomics
 image: /covers/superecon.jpg
-weight: 7
+weight: 17
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

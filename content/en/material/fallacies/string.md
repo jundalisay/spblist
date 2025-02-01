@@ -23,9 +23,12 @@ It assumes that the line joining 2 points of a solid body does not conserve its 
 {{< /q >}}
 
 
+
+### The Simultaneity of Time Fallacy
+
 The big problem began in 1905 when Einstein applied the same constant speed of light to time, as the idea of "simultaneity of time".
 
-Practically, this prevented teleportation and only allowed time travel upon reaching very fast speeds.  
+Practically, this prevented teleportation and only allowed time-travel upon reaching very fast speeds.  
 
 Theoreticaly, this led to problems with particle physics when the possible interactions between particles were analyzed through Feynman loops. 
 - These loops applied the simultaneity of time to particles and naturally came up with impossible infinities.  
@@ -63,18 +66,16 @@ The creator of the imaginary object is the simultaneity of time.
 
 
 String theory and Supersymmetry are a waste of time because Relativity is false.
-
-Relativity is false because time is mental, not electromagnetic.
+- Relativity is false because time is mental, not electromagnetic.
 
 All tests of Relativity are merely electromagnetic measurements **of how things already are**.
 
-For example, measuring the sun to rise in the east very accurately does not explain why the sun rises to the east. 
-
-And so humans theorize false concentric spheres to account for why the sun rises to the east.
+For example, measuring the sun to rise in the east very accurately does not explain *why* the sun rises to the east. 
+- And so Aristotle and Ptolemy theorized false concentric spheres to account for why the sun rises in the east.
 
 Similarly, humans created false string theory to account for why light is limited to 300,000 kilometers per second.
 
-Therefore, both Einstein and Ptolemy are fallacies peddled as truth, covering up the real ignorance of humans.
+Therefore, both Einstein and Ptolemy are fallacies peddled as truth, covering up the real ignorance of how Nature works.
 
 
 ### The Solution: Time is Mental and Subjective
@@ -95,7 +96,7 @@ This is timespace based on the Radiant layer (1st Element to Cartesian Physics).
 
 This is timespace based on the Material layer (3rd Element to Cartesian Physics). This is known as absolute time in  Classical mechanics 
 
-{{< i s="/photos/physics/clock.jpg" a="String Theory and Supersymmetry are wrong" >}}
+{{< i s="/photos/objects/clock.jpg" a="String Theory and Supersymmetry are wrong" >}}
 
 In this way:
 - the infinities of particles are removed by sourcing the energy of particles from the external spacetime. 
@@ -107,10 +108,12 @@ In Cartesian Physics, the simultaneity of time becomes a mere **convention** ins
 - in experiments comparing twins, one in a space station and another on Earth. 
 
 This is similar to using chopsticks when eating at a Chinese restarurant.
+- There is no rule that a diner must use chopsticks. It is only done if a diner wants to perfectly match the utensil to the dining experience. 
 
-There is no rule that a diner must use chopsticks. It is only done if a diner wants to perfectly match the utensil to the dining experience. 
+Likewise, the simultaneity of time is only used for such passive time measurements.
 
-Likewise, the simultaneity of time is only used for such passive time measurements. This will allow space and time to be arbitrary, allowing the possibility of levitation and teleportation.    
+Active, arbitrary, and imprecise time measurements will be allowed again. 
+- This will free up space and time from the shackles of electromagnetism, allowing the possibility of levitation and teleportation through the aether.    
 
 The aether will naturally be discovered when **atom-smashing** fades in popularity because of its high cost and uselessness, and is replaced by **atom-shaking** which can be done with ordinary electronics. 
 

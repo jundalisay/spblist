@@ -1,9 +1,9 @@
 ---
-heading: Chapter 5b
-title: The Usufruct Economy
+heading: Chapter 6
+title: Fourth Law -- Market Price
 description: This is a pamphlet to introduce Supereconomics
 image: /covers/superecon.jpg
-weight: 8
+weight: 80
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -11,17 +11,28 @@ date: 2025-01-27
 ---
 
 
-### The Usufruct Circular Economy as Alternative to Linear Economy
+The Fourth Law of Value states: **Value is transferred through fair exchange whether it be through money, barter, points, promises, etc.** 
 
-The profit maximization doctrine has caused environmental destruction as it urges humans to make money without feeling for the consequences on the environment. To reduce the damage to the environement, many academics, institutions, and government agencies have embraced the circular economy. This aims to share, lease, reuse, repair, refurbish and recycle existing materials and products as long as possible. 
+This law is derived from the Second Law of Thermodynamics which relates to heat transfer and entropy. This leads to the concept of Market Price which is the actual price nominal price that a thing is sold for in the market.
 
-We upgrade this into a usufruct economy from the Latin "usus et fructus" which means use and enjoyment of fruits. Usufruct is a legal right given to a person or party to temporarily use and derive benefit from someone else's property.
 
-All real property will be leasedhold, whether agricultural, commercial, residential, or industrial. This will make the ownerhship of land dependent on certain conditions such as taking care of it, making it productive yet environmentally sustainable, and using it in line with state policy. 
+## Subjective Market Prices
 
-An analogy is the Earth as a ship, and each plot of land is cabin space or crew compartment. The passengers are free to upgrade or change their cabins depending on their changing needs. This allows all cabin space to be utilized efficiently while giving each passenger the space that he needs to live properly. This is most useful for right-of-way issues and ancestral domain wherein private or tribal ownership of land goes against the projects of the state that is meant for the majority benefit.  
+Unlike Economics which only has 1 market price for a product or service, Supereconomics allows variable market prices for the same thing. This is the effect of Real Price Relativity or the relation between different kinds of people, since value is subjective.
 
-The imposition of conditions means that this is a non-liberal policy. Since those policies are voted on then it is still democratic, but non-liberal. This is consistent with the regulated democracy that Socrates was advocating in The Republic.
+In the real world, this is most commonly seen in Thailand where there is a higher “farang” price for foreigners and a lower natural price for locals. The mechanism there is the lack of fellow feeling with foreigners or those of a different mentality. 
 
-The Usufruct Economy applies to goods and services as after sale support and responsibility. The manufacturers and service providers would pay into a state or NGO-run usufruct system (US). 
-11
+In the beginning, an economy might have gross inequalities (such as employers not caring about their employees and vice versa) and so have very different market prices (here the price is in wages). 
+
+But as it is converted into a supereconomic system, the inequalities and disparities get balanced out through time, and market prices can be of a single form. At that point, the economy is deemed unified.  
+
+
+## Pool Clearing
+
+This can be scaled globally by spreading the usufruct system overseas in a system called Pool Clearing, originally proposed by economist EF Schumacher as an alternative to Bretton Woods.
+
+This creates a pool of countries that trade with each other using barter-credits, ending trade wars, and consequently real wars, forever. 
+
+In Pool Clearing, nations trade with each other to help poor nations industrialize and to keep wealthy nations productive. This is the opposite of imbalanced globalization where China has overstrength in production, Vietnam in agriculture, and the Philippines in services.
+
+

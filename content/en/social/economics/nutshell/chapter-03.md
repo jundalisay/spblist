@@ -3,7 +3,7 @@ heading: Chapter 3
 title: The First Law -- Nominal Price
 description: This is a pamphlet to introduce Supereconomics
 image: /covers/superecon.jpg
-weight: 5
+weight: 6
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

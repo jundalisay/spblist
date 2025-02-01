@@ -3,7 +3,7 @@ heading: Chapter 3b
 title: Gross National Happiness as Alternative to GDP
 description: This is a pamphlet to introduce Supereconomics
 image: /covers/superecon.jpg
-weight: 6
+weight: 7
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -42,4 +42,4 @@ The previous chapter mentioned the Value of Rarity which says that rare items ha
 
 This can be plotted as the Downward Sloping Demand Curve that is used by both Economics and Supereconomics. As this is already well-known in Economics, we do not need to explain it here.  
 
-{{< i s='/graphics/econ/law1st.jpg' a="" >}}
+{{< i s="/graphics/econ/law1st.jpg" a="" >}}
