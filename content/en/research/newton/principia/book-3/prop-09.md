@@ -1,4 +1,5 @@
----
+
+<!-- <!-- ---
 title: "Propositions 9-12"
 image: "/covers/principia.jpg"
 description: "Gravity, as a downward pull of a planet, decreases nearly in the proportion of the distances from their centres"
@@ -154,7 +155,7 @@ may from
 hence follow.
  -->
 
-### Proposition 11 Theorem 11
+<!-- ### Proposition 11 Theorem 11
 
 The common centre of gravity of the earth, the sun, and all the planets are immovable.
 
@@ -177,7 +178,9 @@ The quantity of matter in the sun is to the quantity of matter in Saturn as 3021
 
 Based on the distance of Saturn from the sun, the common center of Saturn and the sun is at a point a little within the sun's surface.
 
-We extend this to all the planets to find that their common centre of gravity would be within 1 diameter of the sun. 
+We extend this to all the planets to find that their common centre of gravity would be within 1 diameter of the sun.  -->
+
+
 
 <!--  of Saturn and the sun will fall
 upon a point
@@ -207,3 +210,4 @@ Hence the common centre of gravity of the earth, the sun, and all the planets, i
 
 If that body were to be placed in the centre, towards which other bodies gravitate most, that privilege ought to be allowed to the sun; but since the sun itself is moved, a fixed point is to be chosen from which the be placed centre and from which it would recede yet least, and greater, and therefore less apt denser of the were sun body sun recedes
 of the less if the to be in moved.
+ --> -->
