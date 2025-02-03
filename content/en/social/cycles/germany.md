@@ -37,7 +37,7 @@ The fight between East and West Germany can be seen in their current lack of gov
 - Putin cuts off Russian gas
 
 In contrast:
-- China was never liberalized, and so its industry and energy can stay strong
+- China was never liberalized, and so its industry and energy can stay strong. It opened up to market forces under Deng, but Deng was still in control
 - Japan was liberalized, but not socialized, and so its stock market is still up, in sync with that of the US
 - French energy, as EDF, is mostly owned by the French government and is stronger than that of Germany
 
@@ -118,6 +118,12 @@ The Jews blamed the loss of the world war on Ludendorff -- the only adversary li
 {{< /q >}}
 
 
+In an alternate universe where Germany was unified without liberalism nor technocacy, energy and some key industries would be partly state owned. 
+
+This would raise industrial production to be at par with China per capita, even more than Japan which used the liberal 3 Arrows Abenomics. 
+
+There would be no need to peddle the 4th industrial revolution since China was able to grow without it or even AI. They just focused on common sense heavy industry which is not appealing to investors who prefer shiny things.
+
 
 
 ## The Solution
@@ -162,5 +168,6 @@ Germany will hold elections in February for a new government. Of the candidates 
 The worst would be the CDU which created the problem in the first place. 
 
 The SPD and the AfD, via Alice Weidel, will neither be effective as Elon Musk claims, since they also do not strike at the root cause.
+
 
 

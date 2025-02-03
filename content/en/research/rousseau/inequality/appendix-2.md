@@ -8,25 +8,61 @@ date: 2025-01-11
 ---
 
 
-What shameful methods are sometimes practised to prevent the birth of men, and cheat nature; either by brutal and depraved appetites which insult her most beautiful work—appetites unknown to savages or mere animals, which can spring only from the corrupt imagination of mankind in civilised countries; or by secret abortions, the fitting effects of debauchery and vitiated notions of honour; or by the exposure or murder of multitudes of infants, who fall victims to the poverty of their parents, or the cruel shame of their mothers; or, finally, by the mutilation of unhappy wretches, part of whose life, with their hope of posterity, is given up to vain singing, or, still worse, the brutal jealousy of other men: a mutilation which, in the last case, becomes a double outrage against nature from the treatment of those who suffer it, and from the use to which they are destined. But is it not a thousand times more common and more dangerous for paternal rights openly to offend against humanity?
+Shameful methods are sometimes practised to prevent the birth of men, and cheat nature such as by:
 
-How many talents have not been thrown away, and inclinations forced, by the unwise constraint of fathers? How many men, who would have distinguished themselves in a fitting estate, have died dishonoured and wretched in another for which they had no taste!
+- secret abortions
+- the exposure or murder of infants, who fall victims to the poverty of their parents
+- the mutilation of unhappy wretches, part of whose life, with their hope of posterity, is given up to vain singing
+
+<!-- , or, still worse, the brutal jealousy of other men: a mutilation which, in the last case, becomes a double outrage against nature from the treatment of those who suffer it, and from the use to which they are destined.  -->
+
+<!-- But is it not a thousand times more common and more dangerous for paternal rights openly to offend against humanity? -->
+
+How many talents have not been thrown away, and inclinations forced, by the unwise constraint of fathers?
+
+<!-- How many men, who would have distinguished themselves in a fitting estate, have died dishonoured and wretched in another for which they had no taste!
 
 How many happy, but unequal, marriages have been broken or disturbed, and how many chaste wives have been dishonoured, by an order of things continually in contradiction with that of nature!
 
 How many good and virtuous husbands and wives are reciprocally punished for having been ill-assorted! How many young and unhappy victims of their parents' avarice plunge into vice, or pass their melancholy days in tears, groaning in the indissoluble bonds which their hearts repudiate and gold alone has formed! 
+ -->
+Fortunate sometimes are those whose courage and virtue remove them from life before inhuman violence makes them spend it in crime or in despair.
 
-Fortunate sometimes are those whose courage and virtue remove them from life before inhuman violence makes them spend it in crime or in despair. Forgive me, father and mother, whom I shall ever regret: my complaint embitters your griefs; but would they might be an eternal and terrible example to every one who dares, in the name of nature, to violate her most sacred right.
+Forgive me, father and mother, whom I shall ever regret: my complaint embitters your griefs; but would they might be an eternal and terrible example to every one who dares, in the name of nature, to violate her most sacred right.
 
-If I have spoken only of those ill-starred unions which are the result of our system, is it to be thought that those over which love and sympathy preside are free from disadvantages? What if I should undertake to show humanity attacked in its very source, and even in the most sacred of all ties, in which fortune is consulted before nature, and, the disorders of society confounding all virtue and vice, continence becomes a criminal precaution, and a refusal to give life to a fellow-creature, an act of humanity? But, without drawing aside the veil which hides all these horrors, let us content ourselves with pointing out the evil which others will have to remedy.
+If I have spoken only of those ill-starred unions which are the result of our system, is it to be thought that those over which love and sympathy preside are free from disadvantages?
 
-To all this add the multiplicity of unhealthy trades, which shorten men's lives or destroy their bodies, such as working in the mines, and the preparing of metals and minerals, particularly lead, copper, mercury, cobalt, and arsenic: add those other dangerous trades which are daily fatal to many tilers, carpenters, masons and miners: put all these together and we can see, in the establishment and perfection of societies, the reasons for that diminution of our species, which has been noticed by many philosophers.
 
-Luxury cannot be prevented among men who are tenacious of their own convenience and of the respect paid them by others, soon completes the evil society had begun, and, under the pretence of giving bread to the poor, whom it should never have made such, impoverishes all the rest, and sooner or later depopulates the State. 
+What if I should undertake to show humanity attacked in its very source, and even in the most sacred of all ties, in which fortune is consulted before nature, and, the disorders of society confounding all virtue and vice, continence becomes a criminal precaution, and a refusal to give life to a fellow-creature, an act of humanity? But, without drawing aside the veil which hides all these horrors, let us content ourselves with pointing out the evil which others will have to remedy.
 
-Luxury is a remedy much worse than the disease it sets up to cure; or rather it is in itself the greatest of all evils, for every State, great or small: for, in order to maintain all the servants and vagabonds it creates, it brings oppression and ruin on the citizen and the labourer; it is like those scorching winds, which, covering the trees and plants with devouring insects, deprive useful animals of their subsistence and spread famine and death wherever they blow.
 
-From society and the luxury to which it gives birth arise the liberal and mechanical arts, commerce, letters, and all those superfluities which make industry flourish, and enrich and ruin nations. The reason for such destruction is plain. It is easy to see, from the very nature of agriculture, that it must be the least lucrative of all the arts; for, its produce being the most universally necessary, the price must be proportionate to the abilities of the very poorest of mankind.
+The multiplicity of unhealthy trades shorten men's lives or destroy their bodies, such as:
+- working in the mines
+- the preparing of metals and minerals
+
+<!-- , particularly lead, copper, mercury, cobalt, and arsenic: add those other dangerous trades which are daily fatal to many tilers, carpenters, masons and miners: put all these together and we can see, in the establishment and perfection of societies, the reasons for that diminution of -->
+
+These reduce our species.
+
+<!-- , which has been noticed by many philosophers. -->
+
+Luxury cannot be prevented among men who want:
+- their own convenience and
+- respect by others
+
+They give an excuse that luxury gives bread to the poor.
+- But it really impoverishes all the rest, and sooner or later depopulates the State. 
+
+Luxury is a remedy much worse than the disease it sets up to cure.
+
+It is in itself the greatest of all evils, for every State, great or small.
+
+In order to maintain all the servants and vagabonds it creates, it brings oppression and ruin on the citizen and the labourer; it is like those scorching winds, which, covering the trees and plants with devouring insects, deprive useful animals of their subsistence and spread famine and death wherever they blow.
+
+
+From society and the luxury to which it gives birth arise the liberal and mechanical arts, commerce, letters, and all those superfluities which make industry flourish, and enrich and ruin nations. The reason for such destruction is plain. 
+
+It is easy to see, from the very nature of agriculture, that it must be the least lucrative of all the arts; for, its produce being the most universally necessary, the price must be proportionate to the abilities of the very poorest of mankind.
 
 From the same principle may be deduced this rule, that the arts in general are more lucrative in proportion as they are less useful; and that, in the end, the most useful becomes the most neglected. From this we may learn what to think of the real advantages of industry and the actual effects of its progress.
 

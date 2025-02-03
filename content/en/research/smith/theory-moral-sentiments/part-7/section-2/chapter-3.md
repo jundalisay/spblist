@@ -142,11 +142,12 @@ Some of the other systems I have mentioned do not explain where the excellency o
 - suitableness and unsuitableness to the cause which excites them.
  
 
-87 Regard to our own private happiness and interest often appear as very laudable motives. The praise-worthy habits of oeconomy, industry, discretion, attention, and application of thought are supposed to come from self-interested motives.
+<sup>87</sup> Regard to our own private happiness and interest often appear as very laudable motives. The praise-worthy habits of oeconomy, industry, discretion, attention, and application of thought are supposed to come from self-interested motives.
 
-It is true that the mixture of ego often sullies the beauty of benevolent actions. However, this is not because ego can never be the motive of a virtuous action. It is because benevolence in this case appears weak and unsuitable to its object. This makes the person deserve blame for lacking ego, rather than praise for loving others.
+It is true that the mixture of ego often sullies the beauty of benevolent actions. However, this is not because self-love can never be the motive of a virtuous action. It is because benevolence in this case appears weak and unsuitable to its object. This makes the person deserve blame for lacking self-love, rather than praise for loving others.
 
-Ego is very common. The motive of self-preservation prompts anyone to take care of one's health, life, or wealth. If a person only takes care of his health from a benevolent regard to his family and friends, then we will see him as an amiable failure. We would pity him instead of hating him. His lack of ego would reduce his dignity. Carelessness and poverty are universally disapproved of because it shows a lack of attention to the ego, and not because it shows a lack of benevolence
+Self-love is very common. The motive of self-preservation prompts anyone to take care of one's health, life, or wealth. If a person only takes care of his health from a benevolent regard to his family and friends, then we will see him as an amiable failure. We would pity him instead of hating him. His lack of ego would reduce his dignity. Carelessness and poverty are universally disapproved of because it shows a lack of attention to the ego, and not because it shows a lack of benevolence
+
 
 
 88 Casuists frequently used an action's tendency towards a society's welfare as the standard to determine right or wrong. It does not follow that a regard to the society's welfare should be the sole virtuous motive of action. It should only cast the balance against all other motives, in any competition.

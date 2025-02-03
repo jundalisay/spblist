@@ -13,6 +13,9 @@ icon: /icons/pantry.png
 
 In the Food Security Summit of the Asian Development Bank, the minister of Palau bashed the financial community for having a mentality to simply throw money at problems and expecting them to be solved. 
 
+{{< i s="/photos/econ/adb.jpg" a="Food Security Summit" >}}
+
+
 We agree with this perspective and will explain why. 
 
 Money merely represents the command of the work of other people. If you want the baker to bake you bread, you give him money. 

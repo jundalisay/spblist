@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8b"
+heading: "Chapter 8"
 title: "Particle Spin: Rotation Orientation"
 date: 2024-12-28
 image: /photos/physics/whitehole.jpg
@@ -15,15 +15,20 @@ aliases:
 ---
 
 
-The **rotation direction** of non-media particles lead to male and female charges. 
 
-Particle spin, as **rotation orientation**, is one of the effects of rotation direction.
+Male and Female charges represent the rotation direction of a spinning particle. 
 
-It is only revealed by running the particle through a magnetic field.
+Its **rotation orientation**, on the other hand, debited by up or down spin. 
 
-This is because a magentic field, as explained in Chapter 3, is really a flow of virtual photons `mor2`.
+This is revealed by running the particle through a magnetic field.
+- This is because a magnetic field, as explained in Chapter 3, is really a flow of virtual photons `mor2`.
+- These virtual photons are columnar in nature and so they corkscrew through other particles.
 
-These virtual photons are columnar in nature and so they corkscrew through other particles. This columnar nature is the reason why Physics calls photons as `spin 1` particles. 
+
+This columnar nature is the reason why Physics calls photons or force particles as being `spin 1`. 
+- Matter particles on the other hand are flatter and non-columnar. 
+- This makes them have a 'half-integer' spin.
+
 
 When a `mor2` corkscrews through a particle, it causes that particle to spin.
 
@@ -102,4 +107,30 @@ However, there are particles that can be linear and flat. Examples are:
 
 <!-- For example, heat has a force that can make things expand. This is when heat switches from linear, going with photons, to flat, going with spacetime.
 
-Likewise, spacetime particles can go from linear, as the force of gravity and dark matter, to being flat, as energetic vortices (barycenters) or empty space which have less energy.  -->
+Likewise, spacetime particles can go from linear, as the force of gravity and dark matter, to being flat, as energetic vortices (barycenters) or empty space which have less energy.
+
+Cartesian Physics is all about vortices whether it be spiral galaxies, spinning black holes, vortex hurricanes, or DNA helixes. 
+
+Subatomic vortices are known as particle spin in Modern Physics which have the characeristics of charge and helicity. 
+
+A particle is either positive, negative, or neutral based on Benjamin Franklin's naming convention. 
+
+We replace this with female, male, and bisexual charge to stand for clockwise, anticlockwise, and cancelling rotations.  
+
+This will make isotopes more intuitive, as an atom being more unstable or unsure of itself the more bisexual neutrons it has.
+
+For example, Deuterium has less neutrons than Tritium and is more stable.
+
+Uranium-235 has less neutrons than Uranium-238 and is more focused and fissile. 
+
+Spin number is the ratio of force-particles that are needed to spin the matter-particle. For example, an electron is spin 1/2 and so needs 2 virtual photons to make a complete turn. 
+
+Spin 3/2 and 5/2 particles therefore spin faster than the physical speed limit. This is why they are split up into "Cooper pairs" by spacetime. 
+
+However, negating this effect by spacetime will lead to teleportation of matter. 
+
+All particles move forward in space. Heliity is whether they move forward anticlockwise (right-handed) or clockwise (left-handed).
+
+Helicity is relevant mostly for the weak force and particle decay. There are only left-handed neutrinos because W boson are huge relative to it, forcing it to move bottom-first. 
+                                                   
+  -->

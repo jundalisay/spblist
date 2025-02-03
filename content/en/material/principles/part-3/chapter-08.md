@@ -16,29 +16,41 @@ aliases:
 
 
 
-The duality or polarization of the Radiant Layer, as the expression of the Positive and Negative Forces, is seen in 2 phenomena:
+Chapter 3 explained that Radiant force particles have 2 motions:
+
+1. A rotation motion "sideways"
+
+This shows their qualitative nature.
+
+2. A straight-line motion forward
+
+This shows their quantitative nature.
+
+
+This represents the duality or polarization of the Radiant Layer, as the expression of the Positive and Negative Forces:
 
 Vortex | Polarity
 --- | ---
-Vortex Polarity | Male and female charge
-Vortexless Polarity | Integer Spin and Half-Integer Spin 
+Vortex or Spin Direction | Negative (Male) and Positive (Female) Charge
+Vortex or Spin Orientation | Up and Down
 
 
-## Vortex Polarity: Male and Female charge
+<!-- Integer Spin and Half-Integer Spin  -->
 
-In Modern Physics, this is called negative and positive charge respectively* 
-- The male charge represents a particle having an inherent positive (anticlockwise) rotation   
-- The female charge represents a particle having an inherent negative (clockwise) rotation
 
+## Spin Direction: Male and Female charge
+
+
+In Material Superphysics, particles actually spin. A 'charge' is therefore the rotation direction of a particle.
+
+Technically, this would mean that an electron of a negative charge would be rotating positively. This would be confusing*. 
 
 {{< n n="The setting of electrons are negatively charged came from [Benjamin Franklin](https://whyy.org/articles/does-our-confusing-electrical-nomenclature-start-with-ben-franklins-theory)" >}}
 
 
-
-A 'charge' is therefore the rotation* direction of a particle.
-
-{{< n n="Technically, this would mean that an electron of a negative charge would be rotating positively. This would be confusing and so we use 'male' and 'female' for 'negative' and 'positive' charges of Physics instead" >}}
-
+This is why we use 'male' and 'female' for 'negative' and 'positive' charges of Physics instead.
+- The male charge represents a particle having an inherent positive (anticlockwise) rotation   
+- The female charge represents a particle having an inherent negative (clockwise) rotation
 
 {{< i s="/graphics/physics/neutralcharge.gif" a="Neutral Charge" c="The green particle on the left has a postive rotation, and is male, while the red particle on the right has a negative rotation, and is female" >}}
 
@@ -153,3 +165,30 @@ Such combinations then have different properties which might be useful in the re
 
 As you can see, we call electron a (female) qoe [pronouncued "khoe"], and the tau a heavy qoe. We can replace all arbitrary names with this more natural system.
  -->
+
+<!-- Gendered charges are a logical effect of flipping the materialist belief that energy and force comes from matter or the moving body. 
+
+The gender system instead believes that the force comes from outside the body. This is proven by the Poynting vector which shows that the energy for a light bulb does not come from the battery but from the field aruond the bulb. 
+
+So the virtual photons are males that go inside to screw female matter to give its force. 
+
+We are not just pushing for genered charges because it gives the particle interactions a more natural context, instead of being soulless and numerical (since numbers are just quantity and have no other quality). 
+
+It is because the discovery of the aether will lead to better control of chemical reactions leading to new compounds.
+
+So gendered charges help classify the new compounds just as the periodic table made the classification of elements easier via proton number. 
+
+So gendered charges are more for Chemistry, not Physics.
+
+In Cartesian Physics, particle spin is actual spinning. This is not accepted in Physics because Heisenberg did not know about the aether which is the "backstage" of physical phenomena. 
+
+And so his mind rejected physical particle spin because increased energy will allow violations of physical constants.  
+
+But Cartesian Physics knows the aether. And so there is a backstage where particles that violate the constants can go to, and tunnel to other stages as other spacetimes. 
+
+The 3/2 spin of electrons is split by Nature into cooper pairs of quasi-particles. If you didn't know how spacetime limits c, then you will not know how it creates Cooper pairs.  
+
+
+ -->
+
+

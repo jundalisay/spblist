@@ -167,10 +167,13 @@ A greater surplus was obtained for the proprietor:
 - by exacting from the farmer the full value of the farm as rent.
 
 The merchants and manufacturers soon furnished the great proprietor with a way of spending this greater surplus on himself.
+
 He desired to raise his rents above what his lands could afford.
+
 His tenants could agree to this on the condition that they should possess the land until they can recover their cost in improving it, with a profit.
 
 The landlord's expensive vanity made him willing to accept this condition.
+
 Hence the origin of long leases.
 
 {{< s v="14" >}} Even a tenant-at-will, who pays the full rent, is not dependent on the landlord.
