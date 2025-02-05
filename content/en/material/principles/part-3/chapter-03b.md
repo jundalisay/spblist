@@ -17,15 +17,27 @@ toc: false
 
 White light has many wavelengths of ranging from  -->
 
-A vortex-less light-wave is called 'white'.
-- A lightwave that is absorbed instead of being reflected is called black.
+Colors are from the anticlockwise spin of photons. 
+- A vortex-less or spin-less light-wave or group of photons is called 'white'.
+- A lightwave or bunch that is absorbed instead of being reflected is called black.
+
+A lightwave or photon group becomes colored by adding an anticlockwise vortex or spin to it. 
+- A fast photon spin is called red. It travels at 700 nanometers per time unit. We say it is fast going to matter
+- A slow photon spin is called blue. It travels at 450 nanometers per time unit. We say it is slow going to matter
 
 
-A lightwave becomes colored by adding a vortex or spin to it. 
-- A fast photon spin is called red. It travels at 700 nanometers per time unit. 
-- A slow photon spin is called blue. It travels at 450 nanometers per time unit. 
+This spin can be imparted in 2 ways, based on origin:
 
-This can be done in:
+1. Colors from matter activity
+
+This is from stars and flames where the sources are protons. 
+
+<!-- This is known as spectral lines.   -->
+
+2. Colors from spatial activity 
+
+This is from LEDs, prisms, and rainbows. These are from refraction of light through:
+
 - angled surfaces such as prisms and LEDs
 - curved surfaces such as droplets which show colors as rainbows
 
@@ -72,3 +84,25 @@ So in theory, Superphysics can lead to real-definition LEDs that exactly match r
 
 That 90 degree sudden shift is like a car switching lanes instantly. That can only be done by application of the aether, as in all cases that require violations of spacetime.
 
+
+
+### Star Colors
+
+Coors are caused 
+
+
+
+The colors are are combination of rotational and linear speed. 
+
+Passing through dense space makes the light corpuscles move forward at different linear speeds. These differences make them rotate relative to each other. 
+
+The rotation is seen as wavelengths. 
+
+Energy is related to brightness, not color. Energy is 1st Element. Color is 2nd Element (space). 
+
+The space around Earth has variations. But space around stars has no variations.
+
+This is why there is green and UV LED but no green or violet star. And why there is no white LED but there are white stars. 
+
+
+Since red stars are fast going to matter, then it has less energy and less heat. Blue stars are slow going to matter and so have more energy and heat. 

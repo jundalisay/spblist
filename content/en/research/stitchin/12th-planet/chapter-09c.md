@@ -7,21 +7,23 @@ weight: 62
 ---
 
 
-During solemn ceremonies like those that accompanied the rare visits to Earth by Anu and his consort, the deities representing the Seven Planets were assigned certain positions and ceremonial robes, while the Four were treated as a separate group. For example, ancient rules of protocol stated: "The deities Adad, Sin, Shamash, and Ishtar shall be seated in the court until daybreak."
+The rare visits to Earth by Anu and his consort were accompanied by solemn ceremonies.
 
-In the skies, each group was supposed to stay in its own celestial zone, and the
-Sumerians assumed that there was a "celestial bar" keeping the two groups apart.
+During these ceremonies:
+- the deities representing the Seven Planets were assigned certain positions and ceremonial robes
+- the Four were treated as a separate group.
+
+For example, ancient rules of protocol stated: "The deities Adad, Sin, Shamash, and Ishtar shall be seated in the court until daybreak."
+
+In the skies, each group was supposed to stay in its own celestial zone, and the Sumerians assumed that there was a "celestial bar" keeping the two groups apart.
 
 "An important astral-mythological text," according to A. Jeremias (The Old Testament in the Light of the Ancient Near East), deals with some remarkable celestial event, when the Seven "stormed in upon the Celestial Bar." 
 
 In this upheaval, which apparently was an unusual alignment of the Seven Planets, "they made allies of the hero Shamash [the Sun] and of the valiant Adad [Mercury]"— meaning, perhaps, that all exerted a gravitational pull in a single direction. 
 
-"At the same time, Ishtar, seeking a glorious dwelling place with Anu, strove to become
-Queen of Heaven"—Venus was somehow shifting its location to a more "glorious
-dwelling place." The greatest effect was on Sin (the Moon). "The seven who fear not
-the laws … the Light-giver Sin had violently besieged." According to this text, the
-appearance of the 12th Planet saved the darkened Moon and made it "shine
-forth in the heavens" once again.
+"At the same time, Ishtar, seeking a glorious dwelling place with Anu, strove to become Queen of Heaven"—Venus was somehow shifting its location to a more "glorious dwelling place." The greatest effect was on Sin (the Moon). 
+
+"The seven who fear not the laws … the Light-giver Sin had violently besieged." According to this text, the appearance of the 12th Planet saved the darkened Moon and made it "shine forth in the heavens" once again.
 
 The Four were located in a celestial zone the Sumerians termed GIR.HE.A ("celestial waters where rockets are confused"), MU.HE ("confusion of spacecraft"), or UL.HE ("band of confusion"). 
 
@@ -41,7 +43,9 @@ First to be encountered by the Nefilim approaching the solar system was Pluto.
 
 The Mesopotamian lists name this planet SHU.PA ("supervisor of the SHU"), the planet that guards the approach to the Supreme Part of the solar system. 
 
-The Nefilim could land on Earth only if their spaceship were launched from the 12th Planet well before reaching Earth's vicinity. They could thus have crossed the orbit of Pluto not only as inhabitants of the 12th Planet but also as astronauts in a moving spaceship. An astronomical text said that the planet Shupa was the one where "the deity Enlil fixed the destiny for the Land"— where the god, in charge of a spacecraft, set the right course for the planet Earth and the Land of Sumer.
+The Nefilim could land on Earth only if their spaceship were launched from the 12th Planet well before reaching Earth's vicinity. They could thus have crossed the orbit of Pluto not only as inhabitants of the 12th Planet but also as astronauts in a moving spaceship.
+
+An astronomical text said that the planet Shupa was the one where "the deity Enlil fixed the destiny for the Land"— where the god, in charge of a spacecraft, set the right course for the planet Earth and the Land of Sumer.
 
 Next to Shupa was IRU ("loop"). At Neptune, the spacecraft of the Nefilim probably commenced its wide curve or "loop" toward its final target. Another list named the planet HUM.BA, which connotes "swampland vegetation." 
 

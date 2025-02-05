@@ -4,7 +4,7 @@ title: "Applications and Technologies"
 linkTitle: "Tech"
 description: "We list the Applications and Technologies from Material Superphysics"
 image: "/photos/tech/mac.jpg"
-weight: 100
+weight: 50
 # # date: 2020-10-31
 # writer:
 #   name: Juan

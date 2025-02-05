@@ -35,6 +35,7 @@ The money price of labour, however, fluctuates according to the price of ordinar
 The ordinary price of this subsistence is regulated by the value of silver, which is then regulated by the price of wheat.
 
 The real value of silver is more stable year to year, than from century to century.
+
 The ordinary price of subsistence can be the same from century to century if the society remains in the same condition.
 
 When the ordinary price of subsistence naturally doubles in a year, then its real value must double with it, and therefore, wages must also double.

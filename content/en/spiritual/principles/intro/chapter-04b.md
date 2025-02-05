@@ -18,10 +18,9 @@ A New Year's resolution that we can all do is to have a healthier diet. Here I w
 
 https://www.linkedin.com/pulse/vegetarian-diets-lam-nguyen-q2ozc -->
 
+<!-- The start of the new year is usually the time for creating resolutions or things that we resolve to do or achieve.  
 
-The start of the new year is usually the time for creating resolutions or things that we resolve to do or achieve.  
-
-A New Year's resolution that we can all do is to have a healthier diet. 
+A New Year's resolution that we can all do is to have a healthier diet.  -->
 
 A proper and healthy diet is not only essential for good health and avoiding painful diseases like cancer, migraines, arthritis, digestion, and urinary problems. 
 

@@ -64,14 +64,37 @@ There are generations in the world, there are country people, whose faces we do 
 
 So it is said scornfully of the people of the wood. So they said there, where they saw the rising of the sun.
 
-The speech of all was the same. They did not invoke wood nor stone, and they remembered the word of the Creator and the Maker, the Heart of Heaven, the Heart of Earth.
+The speech of all was the same. They did not invoke wood nor stone. They remembered the word of the Creator and the Maker, the Heart of Heaven, the Heart of Earth.
 
 In this manner they spoke, while they thought about the coming of the dawn.
 
-They raised their prayers, those worshipers of the word [of God], loving, obedient, and fearful, raising their faces to the sky when they asked for daughters and sons.
+They raised their prayers:
 
-"Oh thou, Tzacol, Bitol! Look at us, hear us! Do not leave us, do not forsake us, oh, God, who art in heaven and on earth, Heart of Heaven, Heart of Earth! Give us our descendants, our succession, as long as the sun shall move and there shall be light. Let it dawn; let the day come! Give us many good roads, flat roads! May the people have peace, much peace, and may they be happy; and give us good life and useful existence! Oh, thou Huracán, Chipi-Caculhá, Raxa-Caculhá, Chipi-Nanauac, Raxa-Nanauac, Voc, Hunahpú, Tepeu, Gucumatz, Alom, Qaholom, Xpiyacoc, Xmucané, grandmother of the sun, grandmother of the light, let there be dawn, and let the light come!"
+<!-- , those worshipers of the word [of God], loving, obedient, and fearful, raising their faces to the sky when they asked for daughters and sons. -->
 
-Thus they spoke while they saw and invoked the coming of the sun, the arrival of day.
 
-At the same time that they saw the rising of the sun, they contemplated the Morning Star, the Great Star, which comes ahead of the sun, that lights up the arch of the sky and the surface of the earth, and illuminates the steps of the men who had been created and made.
+{{< q a="People" >}}
+Oh Tzacol, Bitol! Look at us, hear us! 
+
+Do not leave us, do not forsake us, oh, God, who in heaven and on earth, Heart of Heaven, Heart of Earth!
+
+Give us our descendants, our succession, as long as the sun shall move and there shall be light. 
+
+Let it dawn; let the day come! Give us many good roads, flat roads! May the people have peace, much peace, and may they be happy. 
+
+Give us good life and useful existence! Oh, thou Huracán, Chipi-Caculhá, Raxa-Caculhá, Chipi-Nanauac, Raxa-Nanauac, Voc, Hunahpú, Tepeu, Gucumatz, Alom, Qaholom, Xpiyacoc, Xmucané, grandmother of the sun, grandmother of the light. 
+
+Let there be dawn, and let the light come!"
+{{< /q >}}
+
+
+They prayed this while the sun rose.
+
+ <!-- saw and invoked the coming of the sun, the arrival of day -->
+
+At the same time, they contemplated the Morning Star which comes ahead of the sun.*
+
+{{< n n="The Morning Star is likely the Anunnaki ship which is orbiting at L1 (Lagrange point) position" >}}
+
+
+ <!-- that lights up the arch of the sky and the surface of the earth, and illuminates the steps of the men who had been created and made. -->

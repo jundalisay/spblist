@@ -140,6 +140,7 @@ Gravitational Signature | | the unique code or idea that is the basis for the di
 Magnetic Moment | A hole in particles for virtual photons to pass through
 Magnetism | The tendency for materials to attract and repel independent of gravitation
 [Monad](/material/principles/part-1/chapter-05/) | A 1-dimensional Substance
+Particle Dialectics | The use of critical feeling and critical thinking, with reference to the Dharma thorugh the aether, to arrive at the nature of a particle
 Quantum | the smallest unit of Substance
 Quantum of Aether | Qoa | Substance of idea, feeling, or the abstract mind or soul that has those ideas and feelings
 Quantum of Space-time | Qost | Invisible spacetime particles in the Spatial Layer

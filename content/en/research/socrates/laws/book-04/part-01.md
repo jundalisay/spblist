@@ -8,22 +8,28 @@ image: "/covers/laws.jpg"
 description: "Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zeno, Parmenides, Aristoteles"
 ---
 
+{{< l a="Athenian" >}}
+What will this city be? Is it on the sea or on land?
+{{< /l >}}
 
-ATHENIAN: And now, what will this city be? I do not mean to ask what is or will hereafter be the name of the place; that may be determined by the accident of locality or of the original settlement—a river or fountain, or some local deity may give the sanction of a name to the newly-founded city; but I do want to know what the situation is, whether maritime or inland.
+
 
 CLEINIAS: I should imagine, Stranger, that the city of which we are speaking is about eighty stadia distant from the sea.
 
-ATHENIAN: And are there harbours on the seaboard?
+{{< l a="Athenian" >}}
+Are there harbours on the seaboard?
+{{< /l >}}
 
 CLEINIAS: Excellent harbours, Stranger; there could not be better.
 
-ATHENIAN: Alas! what a prospect! And is the surrounding country productive, or in need of importations?
+{{< l a="Athenian" >}}
+What a prospect! Is the surrounding country productive, or in need of importations? Is there any neighbouring State?
+{{< /l >}}
 
-CLEINIAS: Hardly in need of anything.
 
-ATHENIAN: And is there any neighbouring State?
 
-CLEINIAS: None whatever, and that is the reason for selecting the place; in days of old, there was a migration of the inhabitants, and the region has been deserted from time immemorial.
+CLEINIAS: It is self-sufficient and has no neighbors. That is why that place was selected. In days of old, there was a migration and the region has been deserted from time immemorial.
+
 
 ATHENIAN: And has the place a fair proportion of hill, and plain, and wood?
 
