@@ -1,7 +1,7 @@
 ---
 title: "The Cabinet"
 heading: "Chapter 5"
-weight: 1
+weight: 10
 image: "/flags/jp.png"
 description: "The Cabinet shall consist of the Prime Minister, who shall be its head, and other Ministers of State"
 icon: "/flags/jp.png"

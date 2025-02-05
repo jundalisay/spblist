@@ -1,7 +1,7 @@
 ---
-title: Why Evolution is Hard to Accept
+title: The Belief in Creation
 heading: Chapter 14e
-weight: 101
+weight: 115
 description: "Species have changed, and are still slowly changing by the preservation and accumulation variations"
 author: "Charles Darwin"
 image: "/covers/origin.jpg"
@@ -19,7 +19,9 @@ it cannot be proved that the amount of variation in the course of long ages is a
 
 no clear distinction has been, or can be, drawn between species and well-marked varieties. It cannot be maintained that species when intercrossed are invariably sterile, and varieties invariably fertile; or that sterility is a special endowment and sign of creation.
 
-The belief that species were immutable productions was almost unavoidable as long as the history of the world was thought to be of short duration; and now that we have acquired some idea of the lapse of time, we are too apt to assume, without proof, that the geological record is so perfect that it would have afforded us plain evidence of the mutation of species, if they had undergone mutation. 
+The belief that species were immutable productions was almost unavoidable as long as the history of the world was thought to be of short duration; 
+
+Now that we have acquired some idea of the lapse of time, we are too apt to assume, without proof, that the geological record is so perfect that it would have afforded us plain evidence of the mutation of species, if they had undergone mutation. 
 
 But the chief cause of our natural unwillingness to admit that one species has given birth to other and distinct species, is that we are always slow in admitting any great change of which we do not see the intermediate steps.
 
@@ -44,11 +46,15 @@ Those who believe that species are mutable should express their belief so that t
 
 <!-- will do good service by conscientiously expressing his conviction. for only thus can the load of prejudice by which this subject is overwhelmed . -->
 
-Several eminent naturalists have of late published their belief that a multitude of reputed species in each genus are not real species; but that other species are real, that is, have been independently created. 
+Several eminent naturalists believe that:
+- many reputed species in each genus have evolved [are not real species]
+- other species are real [independently created]. 
 
 This seems to me a strange conclusion to arrive at. 
 
-They admit that a multitude of forms, which till lately they themselves thought were special creations, and which are still thus looked at by the majority of naturalists, and which consequently have every external characteristic feature of true species,--they admit that these have been produced by variation, but they refuse to extend the same view to other and very slightly different forms.
+They admit that a multitude of forms, which till lately they themselves thought were special creations, and which are still thus looked at by the majority of naturalists, and which consequently have every external characteristic feature of true species.
+
+They admit that these have been produced by variation, but they refuse to extend the same view to other and very slightly different forms.
 
 Nevertheless they do not pretend that they can define, or even conjecture, which are the created forms of life, and which are those produced by secondary laws.
 
@@ -74,7 +80,9 @@ The more distinct the forms we consider, the more our arguments fall away in for
 
 But some arguments of the greatest weight extend very far. All the members of whole classes can be connected together by chains of affinities, and all can be classified on the same principle, in groups subordinate to groups. 
 
-Fossil remains sometimes tend to fill up very wide intervals between existing orders. Organs in a rudimentary condition plainly show that an early progenitor had the organ in a fully developed state; and this in some instances necessarily implies an enormous amount of modification in the descendants. 
+Fossil remains sometimes tend to fill up very wide intervals between existing orders.
+
+Organs in a rudimentary condition plainly show that an early progenitor had the organ in a fully developed state; and this in some instances necessarily implies an enormous amount of modification in the descendants. 
 
 Throughout whole classes various structures are formed on the same pattern, and at an embryonic age the species closely resemble each other.
 

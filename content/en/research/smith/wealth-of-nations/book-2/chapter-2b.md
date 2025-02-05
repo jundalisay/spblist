@@ -40,7 +40,9 @@ We mean to estimate his way of living. His way of living is the quantity and qua
 
 But the wealth or revenue is equal only to the purchasing power of money. It is equal to the money's worth, not the money*.
 
-> * [Translator's Note=  The amount is money is objective, the money's worth is subjective]
+
+{{< n n="The amount is money is objective, the money's worth is subjective" >}}
+
 
 {{< s v="18" >}} Thus, if a person’s weekly pension is 1 guinea, he can buy goods and services worth 1 guinea with his pension.
 - His real weekly revenue is determined by the things that he can buy with 1 guinea.

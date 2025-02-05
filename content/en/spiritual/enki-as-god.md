@@ -5,6 +5,9 @@ date: 2024-10-18
 image: "/graphics/history/moses.jpg"
 description: "After Enki led the Jews out of Egypt, he gave Moses a lot of laws up on Mount Sina"
 weight: 4
+authors:
+  name: Juan
+  link: https://www.linkedin.com/in/jundalisay/
 ---
 
 

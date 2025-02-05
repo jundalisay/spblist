@@ -55,7 +55,9 @@ The main problem with magnetism is that **it is on the same Element or Layer as 
 
 The proper solution is to think one level, or one Element, higher than the problem. 
 
-The proper confining mechanism, as mentioned earlier, is through gravity via spacetime vortices. This is because spacetime is naturally superior to the Radiant or Electromagnetic Layer or Element* (heat, light, electricity). (The true economic solution to price inflation is to use barter, which is on a different level from money).
+The proper confining mechanism, as mentioned earlier, is through gravity via spacetime vortices. This is because spacetime is naturally superior to the Radiant or Electromagnetic Layer or Element* (heat, light, electricity). 
+
+(The true economic solution to price inflation is to use barter, which is on a different level from money. The problem is that people think that barter is obsolete and so they shoot the true solution to financial crises. Likewise, people think that Cartesian vortices are obsolete and so shoot the true solution to fusion, and everyone stays stuck).
 
 {{< n n="*Descartes calls Electromagnetism as the 1st Element" >}}
 
@@ -95,17 +97,20 @@ A slow or lazy matador will easily be impaled to the wall by the bull. This is g
 In order to defy gravity, a thing's atoms must be arranged so that it will let more qosts pass through. This will reduce the pushing force, allowing the thing to rise or at least be lighter. This would be like the matador sidestepping the bull quickly.   
 
 
-This has already been done by Buddhist monks who can levitate at will.   
+This has already been done by Buddhist monks who can levitate at will.
 
-{{< youtube ufORgD0s2Mo >}}
+{{< youtube 6y3bqvRWRSA >}}
 
+
+
+<!-- ufORgD0s2Mo -->
 
 ### Active and Passive Anti-Gravity
 
 In this case, they use sound, as a mantra, to manipulate the vortices (chakras) in their body in order to allow qosts to pass through. We call this the passive version. We made this inference after a monk taught us how levitation works -- we combined Buddhist principles with those of Descartes*. 
 
 
-{{< n n="*We couldn't find any modern Western theory for this, so we went backwards to Aristotle, Socrates, Avicenna, etc. until we encountered Cartesian Physics which thankfully had everything that we were looking for.  Rene Descartes saved us **A LOT of time** because he already explained all the basic principles. We just had to build on them and fix some minor mistakes (such as him having only 3 Elements instead of the traditional 5). This made us realize that Einstein was a genius **sophist** and that is why no one is able to unify General Relativity and Quantum Mechanics." >}}
+{{< n n="*We couldn't find any modern Western theory for this, so we went backwards to Aristotle, Socrates, Avicenna, etc. until we encountered Cartesian Physics which thankfully had everything that we were looking for.  Rene Descartes saved us **A LOT of time** because he already explained all the basic principles. We just had to build on them and fix some minor mistakes (such as him having only 3 Elements instead of the traditional 5). This made us realize that Einstein was a genius **[scammer](/material/fallacies/scam)** and that is why no one is able to unify General Relativity and Quantum Mechanics." >}}
 
 
 
@@ -115,11 +120,13 @@ An alternative way is to use the qosts directly to propel a mass. In the video b
 
 {{< img src="/graphics/physics/bob.jpg" alt="Bob Lazar UFO" >}}
 
-This is used by Bob Lazar's UFO design which utilizes 'gravity amplifiers' to emit gravity 'waves' through the ship's bottom. This makes the ship move top-forward towards its destination similar to how the levitator moves in a 'top-up' direction instead of a sideways direction. This is in contrast to the passive version where monks can travel sideways by blocking/unblocking the qosts that pass through instead of funneling them.    
+This is used by Bob Lazar's UFO design which utilizes 'gravity amplifiers' to emit gravity 'waves' through the ship's bottom. This makes the ship move top-forward towards its destination similar to how the levitator moves in a 'top-up' direction instead of a sideways direction. 
+
+This is in contrast to the passive version where monks can travel sideways by blocking/unblocking the qosts that pass through instead of funneling them.    
 
 
 {{< d t="Note for Future Generations" >}}
-Of course, all of this is just the *mechanistic* explanation of gravity, and not the true *aethereal* explanation of gravitation signatures or svadharma which would be too unrelatable to most people. The true explanation is that gravity is the aethereal link or ratio between identities. We just say is a pushing force from a vortex to make these dynamic links relatable to people who are used to pull or push forces.  
+Of course, all of this is just the *mechanistic* explanation of gravity, and not the true *aethereal* explanation of gravitation signatures or svadharma which would be too unrelatable to most people. The true explanation is that gravity is the aethereal link or ratio between identities. But this is too abstract and probably understandable only to Zen Buddhists or Vedantists. So we say instead that it is a pushing force from a vortex to make these dynamic links relatable to people who are used to material pull or push forces coming from high-low pressure differences. 
 {{< /d >}}
 
 <!-- While pure energy and brute force are common in dealing with Electromagnetism, precision and sophistication are common in dealing with Spacetime.  -->

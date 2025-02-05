@@ -1,7 +1,7 @@
 ---
 title: "Elections"
 heading: "Part 15"
-weight: 1
+weight: 84
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

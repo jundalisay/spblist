@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2b"
+linkTitle: Sublayers
 title: "The Sublayers and the Internal Boundary"
-# Theoretical Organization of the 5 Layers
 # date: 2023-11-02
 image: /graphics/super/layers.jpg
 description: "The Sublayers are due to the 3 influences"
@@ -43,9 +43,9 @@ For example, the Material layer will have 3 sublayers with each with its own for
 
 Layer | Sublayer | Medium | Quantum
 --- | --- | --- | ---
-Aethereal | Upper | 1st generation quarks | qom1 (Up-Down Quarks)
-. | Middle | 2nd generation quarks |  qom2 (Strange-Down Quark)
-. | Lower | 3rd generation quarks | qom3 (Top-Bottom Quark)
+Aethereal | Upper | mom1 (gas, bose condensate) | qom1 (Up-Down Quarks)
+. | Middle | mom2 (liquid) |  qom2 (Strange-Down Quark)
+. | Lower | mom3 (solid) | qom3 (Top-Bottom Quark)
 
 
 {{< img src="/graphics/physics/msq.jpg" alt="Layers and sublayers in the MSQ table" cap="Each Layer is subdivided into 3 sublayers" >}}

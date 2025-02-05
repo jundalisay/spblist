@@ -1,4 +1,5 @@
 ---
+linkTitle: Material Things
 title: "The Principles Of Material Things"
 heading: "Part 2"
 # date: 2022-01-29

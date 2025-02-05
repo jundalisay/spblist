@@ -1,13 +1,15 @@
 ---
+## ALREADY IN 3e
 heading: "Chapter 9c"
-title: "Spatial Relationality: Matter-to-Matter"
-linkTitle: "Newtonian Gravity"
+title: "Matter-to-Matter Vortex Relationality"
+linkTitle: "Orbital Gravity"
 # # date: 2020-01-31
 # date: 2023-02-10
 weight: 48
 image: /graphics/physics/bands.jpg
 description: "The Elastic Theory is from Descartes and kepler, with important maxim-contributions from Socrates, Taoism, Buddhism, and Hinduism."
 icon: /icons/spmat.png
+draft: true
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

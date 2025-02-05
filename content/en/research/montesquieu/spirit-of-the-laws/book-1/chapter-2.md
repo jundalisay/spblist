@@ -26,9 +26,16 @@ Hobbes attributes a natural impulse or desire in mankind to subdue one another. 
 
 The idea of empire and dominion is so complex. It depends on so many other notions, that it could never be the first which occurred to humans.
 
-Hobbes asks= Why do men go armed, and have locks and keys to fasten their doors, if they are not naturally in a state of war?
+Hobbes asks:
 
-But is it not obvious, that he attributes to mankind, before the establishment of society, what can happen but in consequence of this establishment, which furnishes them with motives for hostile attacks and self-defence?
+{{< q a="Hobbes" >}}
+Why do men go armed, and have locks and keys to fasten their doors, if they are not naturally in a state of war?
+{{< /q >}}
+
+
+But Hobbes' reasoning already supposes the existence of a society that gives them motives for hostile attacks and self-defence.
+
+ <!-- attributes to mankind, before the establishment of society, what can happen but in consequence of this establishment, which furnishes them with ? -->
 
 Next to a sense of his weakness, man would soon find that of his wants. Hence, another law of nature would prompt him to seek for nourishment.
 

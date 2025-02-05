@@ -26,9 +26,16 @@ But perhaps it may be thought that since public tribunals have been erected, pri
 
 An objection which is very just. 
 
-Yet although public trials and courts of justice are not institutions of nature, but erected by the invention of men, yet as it is much more conducive to the peace of society for a matter in dispute to be decided by a disinterested person, than by the partiality and prejudice of the party aggrieved, natural justice and reason will dictate the necessity and advantage of every one's submitting to the equitable decisions of public judges. 
+Public trials and courts of justice are artificial, not natural institutions.
 
-Paulus, the Lawyer, observes that "what can be done by a magistrate with the authority of the state,56 should never be intrusted to individuals; as private redress would give rise to greater disturbance. And "the reason, says King Theodoric, why laws were invented, was to prevent any one from using personal violence, for wherein would peace differ from all the confusion of war, if private disputes were terminated by force?" And the law calls it force for any man to seize what he thinks his due, without seeking a legal remedy.
+But it is much more conducive to peace for a disputed matter to be decided by a disinterested person, than by the partiality and prejudice of the aggrieved party.
+
+This is why natural justice and reason will dictate the necessity and advantage of every one's submitting to the equitable decisions of public judges.
+
+Paulus, the Lawyer, observes that "what can be done by a magistrate with the authority of the state,56 should never be intrusted to individuals; as private redress would give rise to greater disturbance.
+
+And "the reason, says King Theodoric, why laws were invented, was to prevent any one from using personal violence, for wherein would peace differ from all the confusion of war, if private disputes were terminated by force?" And the law calls it force for any man to seize what he thinks his due, without seeking a legal remedy.
+
 
 II. 
 

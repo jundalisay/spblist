@@ -1,5 +1,5 @@
 ---
-title: "Alcibiades, Callias, Critias, Hippias, Prodicus,"
+title: "The Resolution of Alcibiades, Hippias, Prodicus"
 heading: "Part 9"
 weight: 20
 writer:
@@ -11,33 +11,39 @@ icon: "/icons/socrates.png"
 ---
 
 
-As I was rising from my seat, Callias seized me by the right hand. In his left hand caught hold of this old cloak of mine.
+As I was rising from my seat, Callias seized me by the right hand. His left hand held my cloak.
 
 
 {{< r a="Callias" >}}
-We cannot let you go, Socrates. 
+We cannot let you go, Socrates.  If you leave us, our discussions will end. 
 
-If you leave us, our discussions will end. 
-
-I therefore beg you to remain, as there is nothing in the world that I should like better than to hear you and Protagoras discourse. 
+Please stay because we want hear you and Protagoras discourse. 
 {{< /r >}}
 
 
 
-{{< l a="Socrates" >}}
-I have always admired you. 
+<!-- I have always admired you. 
 
 I now heartily applaud and love your philosophical spirit, and I would gladly comply with your request, if I could.
 
 But the truth is that I cannot.
 
-And what you ask is as great an impossibility to me, as if you bade me run a race with Crison of Himera, when in his prime, or with some one of the long or day course runners. To such a request I should reply that I would fain ask the same of my own legs; but they refuse to comply.
+And what you ask is as great an impossibility to me, as if you bade me -->
+{{< l a="Socrates" >}}
+You are asking me to run a race with Crison of Himera in his prime. I want to, but my legs refuse. 
 
-Therefore, if you want to see Crison and me in the same stadium, you must bid him slacken his speed to mine, for I cannot run quickly, and he can run slowly.
+<!-- , or with some one of the long or day course runners. To such a request I should reply that I would fain ask the same of my own legs; but they refuse to comply. -->
 
-And in like manner if you want to hear me and Protagoras discoursing, you must ask him to shorten his answers, and keep to the point, as he did at first; if not, how can there be any discussion? For discussion is one thing, and making an oration is quite another, in my humble opinion.
+Therefore, if you want to see Crison and me in the same stadium, you must tell him to slow down to my speed because:
+- I cannot run quickly
+- he can run slowly.
+
+If you want to hear me and Protagoras discoursing, you must ask him to shorten his answers, and stick to the point, as he did at first.
+
+This is because he is merely orating and not discussing. 
 {{< /l >}}
 
+<!-- If not, how can there be any discussion? For discussion is one thing, and making an oration is quite another, in my humble opinion. -->
 
 {{< r a="Callias" >}}
 But Protagoras may fairly claim to speak in his own way, just as you claim to speak in yours.

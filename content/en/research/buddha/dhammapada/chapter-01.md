@@ -8,17 +8,27 @@ image: "/photos/meta/buddhism.jpg"
 
 
 
-1. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox.
+1. Mind precedes all mental states.
 
-2. Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts happiness follows him like his never-departing shadow.
+Mind is their chief. They are all mind-wrought.
 
-3. "He abused me, he struck me, he overpowered me, he robbed me." Those who harbor such thoughts do not still their hatred.
+If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox.
 
-4. "He abused me, he struck me, he overpowered me, he robbed me." Those who do not harbor such thoughts still their hatred.
+2. If with a pure mind a person speaks or acts happiness follows him like his never-departing shadow.
 
-5. Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is a law eternal.
+3. "He abused me, he struck me, he overpowered me, he robbed me." 
 
-6. There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels.
+Those who harbor such thoughts do not still their hatred.
+
+4. Those who do not harbor such thoughts still their hatred.
+
+5. Hatred is never appeased by hatred in this world.
+
+By non-hatred alone is hatred appeased. This is a law eternal.
+
+6. There are those who do not realize that one day we all must die.
+
+But those who do realize this settle their quarrels.
 
 7. Just as a storm throws down a weak tree, so does Mara overpower the man who lives for the pursuit of pleasures, who is uncontrolled in his senses, immoderate in eating, indolent, and dissipated. [1]
 

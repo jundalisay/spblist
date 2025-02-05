@@ -1,60 +1,32 @@
 ---
-heading: "Chapter 5"
-linkTitle: Chapter 5
-title: "Business and Industry"
-# date: 2022-01-22
-weight: 22
-image: /covers/econsp.jpg
+heading: "Chapter 6"
+linkTitle: Chapter 6
+title: "The Supply Model"
+# date: 2022-03-27
+# date: 2022-08-10
+weight: 24
+image: /graphics/econ/law2nd.jpg
 description: ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-draft: true
+toc: false
 ---
 
 
-## Goods
+The Supereconomic supply model also slopes downward like the demand model. 
 
-There are four 
+This is because supply is subordinate to demand. This is the opposite of Economics where supply fights demand.
 
-1. In procuring the rude produce required for society's use and consumption
-- Examples are the capitals used in improving or cultivating lands, mines, or fisheries
-
-2. In manufacturing and preparing that rude produce for immediate use and consumption
-- Examples are the capitals of all master manufacturers
-
-3. In transporting the rude or manufactured produce from where they abound to where they are wanted
-- Examples are the capitals of all wholesale merchants
-
-4. In dividing portions of rude or manufactured produce into small parcels for those who want them.
-- Examples are the capitals of all retailers
+In this way, supply and demand work together to remove lack by addressing all demand as much as possible in real time. 
 
 
-## Services 
+{{< i s="/graphics/econ/law2nd.jpg" a="Downward Supply Curve" >}}
 
 
+### Economies of Scale
 
+The proof of the downward-sloping supply curve is the phenomenon of economies of scale.
 
-
-
-
-
-
-## Common Business Processes
-
-Enterprise Resource Planning
-
-
-
-### Human Resources
-
-### Sales and CRM
-
-### Inventory
-
-### Logistics
-
-## Business Cycles
-
-
+This happens when capital is pooled or accumulated in order to create supply efficiency and reduce the real value as the cost of production. 
 

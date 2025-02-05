@@ -1,7 +1,7 @@
 ---
 title: "Directive Principles Of State Policy"
 heading: "Articles 36-"
-weight: 1
+weight: 12
 image: "/flags/in.png"
 description: "The Indian citizen is every person who has his domicile in the territory of India"
 icon: /flags/in.png
@@ -31,33 +31,38 @@ The State shall secure:
 
 a. The citizens, men and women equally, have the right to an adequate means of livelihood
 b. The ownership and control of the material resources of the community are so distributed as best to subserve the common good;
-(c) that the operation of the economic system does not result in the concentration of wealth and
+c. that the operation of the economic system does not result in the concentration of wealth and
 means of production to the common detriment;
-(d) that there is equal pay for equal work for both men and women;
-(e) that the health and strength of workers, men and women, and the tender age of children are not
+d. that there is equal pay for equal work for both men and women;
+e. that the health and strength of workers, men and women, and the tender age of children are not
 abused and that citizens are not forced by economic necessity to enter avocations unsuited to their age or strength;
-[(f) that children are given opportunities and facilities to develop in a healthy manner and in
+f. that children are given opportunities and facilities to develop in a healthy manner and in
 conditions of freedom and dignity and that childhood and youth are protected against exploitation and
-against moral and material abandonment.]
+against moral and material abandonment.
 
-[39A. Equal justice and free legal aid.—The State shall secure that the operation of the legal system
+
+39A. Equal justice and free legal aid.—The State shall secure that the operation of the legal system
 promotes justice, on a basis of equal opportunity, and shall, in particular, provide free legal aid, by suitable
 legislation or schemes or in any other way, to ensure that opportunities for securing justice are not denied
-to any citizen by reason of economic or other disabilities.]
+to any citizen by reason of economic or other disabilities.
 
 40. Organisation of village panchayats.—The State shall take steps to organise village panchayats
+
 1. Art. 38 renumbered as cl. (1) thereof by the Constitution (Forty-fourth Amendment) Act, 1978, s. 9 (w.e.f. 20-6-1979).
 2. Ins. by ibid.
 3. Subs. by the Constitution (Forty-second Amendment) Act, 1976, s. 7, for cl. (f) (w.e.f. 3-1-1977).
 4. Ins. by s. 8 ibid.
 34and endow them with such powers and authority as may be necessary to enable them to function as units of
 self-government.
+
 41. Right to work, to education and to public assistance in certain cases.—The State shall, within
 the limits of its economic capacity and development, make effective provision for securing the right to
 work, to education and to public assistance in cases of unemployment, old age, sickness and disablement,
 and in other cases of undeserved want.
+
 42. Provision for just and humane conditions of work and maternity relief.—The State shall make
 provision for securing just and humane conditions of work and for maternity relief.
+
 43. Living wage, etc., for workers.—The State shall endeavour to secure, by suitable legislation or
 economic organisation or in any other way, to all workers, agricultural, industrial or otherwise, work, a living wage, conditions of work ensuring a decent standard of life and full enjoyment of leisure and social and cultural opportunities and, in particular, the State shall endeavour to promote cottage industries on an individual or co-operative basis in rural areas.
 

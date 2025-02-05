@@ -35,7 +35,12 @@ This coma or tail is sometimes:
 
 These depend on the lateral rays converging towards the eye.
 
-For all these things follow from the irregularity of the spheroid DEFGH: for towards the poles, where its shape is flatter, the tails of Comets must appear more straight and wide; in the bend between the poles and the ecliptic, more curved, and deviating from the opposite Sun; and according to the length of this bend, brighter, and narrower. 
+These show the irregularity of the spheroid `DEFGH`.
+- Towards the poles, its shape is flatter
+  
+This makes the tails of Comets appear straighter and wider.
+- In the bend between the poles and the ecliptic, this makes it appear more curved
+- Deviating from the opposite Sun and according to the length of this bend, it appears brighter and narrower. 
 
 All the causes explained here have been observed so far about Comets in reality.
 
@@ -49,16 +54,33 @@ This is because:
 
 This is because their apparent diameter is not greater than that of fixed stars, because then these secondary rays do not have enough strength to move the eyes.
 
-2. As for the fixed stars, because since they do not borrow light from the Sun, but emit it from themselves, their coma, if there is any, must be scattered here and there, and must be very brief.
+2. The fixed stars emit light from themselves.
 
-Indeed it seems to be such around them: for they do not appear circumscribed by a uniform line, but surrounded by wandering rays from all sides; and perhaps not incorrectly we will also refer their twinkling (of which, however, there may be several other causes) to this. 
+This would cause their coma, if there is any, to scattered and be very brief.
 
-But as for Jupiter and Saturn, where the air is very clear, sometimes even short comae, extending towards the part away from the Sun may be seen around them.
+<!-- Indeed it seems to be such around them: for they -->
+
+Stars do not appear circumscribed by a uniform line. Instead, they are surrounded by wandering rays from all sides.
+
+This also causes their twinkling.
+
+<!-- and perhaps not incorrectly we will also refer their twinkling (of which, however, there may be several other causes) to this.  -->
+
+Jupiter and Saturn have very clear atmospheres. 
+- This causes short comae sometimes to appear from around their dark sides. 
+
+<!--  part opposing the sun. 
+
+ even , extending towards the part away from the Sun may be seen around them. -->
 
 I have read something like this somewhere, though I do not recall the author.
 
-Aristotle says in his Meteorology, book 1, chapter 6 on the fixed stars, that they have also been seen as comets by the Egyptians sometimes.
+Aristotle says in his Meteorology, book 1, chapter 6 on the fixed stars, that they have been seen as comets by the Egyptians sometimes.
 
 <!-- , I think it should be understood about these planets;  -->
 
-But what he reports about a comet, which was seen by him from one of the stars which are in the thigh of the Dog, either by a very oblique refraction in the air, or rather by a defect of his eyes, for he adds that it was less conspicuous when he was focusing his eyes on it than when he was looking away.
+He says he saw a comet from one of the stars which are in the thigh of the Dog. This would have been:
+- a very oblique refraction in the air, or
+- a defect of his eyes
+
+This is because he says that it was less conspicuous when he was focusing his eyes on it than when he was looking away.

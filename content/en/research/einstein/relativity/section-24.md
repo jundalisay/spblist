@@ -76,7 +76,7 @@ Then our best plan would be to assign the distance one to two points on the slab
 
 We can only define the distance very arbitrarily.*
 
-{{< n n="This is the whole problem with Einstein's sophistry, rooted in his definition of time as simultaniety measured by c: it creates arbitrary spacetime which is really imaginative and not real. This leads to imaginative theories like String Theory and Loop Quantum Gravity which have no reality" >}}
+{{< n n="This is the whole problem with Einstein's sophistry, rooted in his definition of time as simultaneity measured by c: it creates arbitrary spacetime which is really imaginative and not real. This leads to imaginative theories like String Theory and Loop Quantum Gravity which have no reality" >}}
 
 
 Cartesian coordinates must then be discarded and replaced by another system which does not assume the validity of Euclidean geometry for rigid bodies*.

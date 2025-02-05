@@ -1,5 +1,6 @@
 ---
 heading: "Chapter 2"
+linkTitle: Sublayers
 title: "The Upper, Middle, and Lower Convertible"
 # date: 2023-12-10
 image: /photos/physics/galaxy.jpg
@@ -24,10 +25,3 @@ Mid | Chemical reactivity and Radioactivity | Z- Boson
 Lower | Chemical changes | W Boson
 
 
-<!-- The Upper Radiant is  the realm of mental space and time and is not physical. 
-
-The Middle Spacetime allows acces to different universes, each one with different Physics. It is quasi-physical since it is the bridge between physical spacetime and the aether which is not bound by space nor time.
-
-The Lower Spacetime is the realm that we can see. It manifests as the distance between objects on our table and that between two galaxies. It is physical since our 5 senses can clearly detect space and time. 
-
- -->

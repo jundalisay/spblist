@@ -12,17 +12,20 @@ icon: "/icons/descartes.png"
 
 
 
-#### 56. The particles of fluids are moved with equal force towards all particles
+### 56. The particles of fluids are moved with equal force towards all particles
 
 A hard body existing in a fluid can be determined to move by the smallest force.
 
-We do not perceive the particles of fluids moving because they are too small. But their movement is easily inferred from their effects, especially in air and water, due to the fact that many other bodies disturb them.
+We do not perceive the particles of fluids moving because they are too small. 
+- But their movement is easily inferred from their effects, especially in air and water, due to the fact that many other bodies disturb them.
 
-This is because no bodily action, such as this corruption, can occur without local motion.
+**This is because no bodily action, such as this corruption, can occur without local [relational] motion.**
 
-The causes of their motion will be discussed below. 
+The causes of their motion will be discussed below.
 
-The difficulty with fluids is in their particles not being able to all be moved to any one part at the same time.
+Fluid particles do not move in one direction all at the same time. 
+
+<!-- The difficulty with fluids is in their particles not being able to all be moved to any one part at the same time. -->
 
 This uniform movement would be necessary to allow the motion of bodies coming from any direction, as we see that they do not hinder it.
 
@@ -36,22 +39,24 @@ For example, the solid body `B` moves towards `C`.
 To resolve this difficulty, it must be remembered that:
 - rest is contrary to motion, not motion
 - the direction of motion towards one part is contrary to the direction of motion towards the opposite part
+- everything that moves always tends to continue in a straight line
 
-Likewise, everything that moves always tends to continue in a straight line.
-
-So while the solid body `B` is at rest, the opposition of the particles of the fluid body `D` is greater against it than it were if it were moving. 
+So while the solid body `B` is at rest, the opposition of the particles of the fluid body `D` is greater against it than it were if it were moving.
 
 <!-- its opposition to its own rest, taking into account the motions , is greater than if it were opposed by its own motion if it were moving. -->
 
 There are as many particles of `D` moving from `C` towards `B` as there are moving from `B` towards `C`.
 - They are the same particles that, coming from `C`, impinge on the surface of body `B`, and then are turned back towards `C`.
 
-Each of these, considered separately, when it strikes `B`, pushes it towards `F`.
-- Thus, it impedes it from moving towards `C` than if they were at rest. 
+Each of these, considered separately, pushes `B` towards `F` upon striking it.
+- Thus, the water impedes `B` from moving towards `C` as if the water was at rest. 
 
-However, since just as many tend from `F` towards `B` and push it towards `C`, `B` is not pushed more towards one side than the other.
+<!-- than if they were at rest.  -->
 
-Therefore, unless something else intervenes, remains immobile. 
+However, just as many water particles tend from `F` towards `B` and push it towards `C`.
+- This is why `B` is not pushed more towards one side than the other.
+
+Therefore, unless something else intervenes, `B` remains immobile. 
 
 Whatever shape `B` has, it will always be accurately pushed towards one side by as many particles of the fluid, but not towards the others.
 
@@ -61,7 +66,10 @@ If the quantity of this fluid is not as great in `F` as in `D`, it does not matt
 
 So far, we have considered `B` as immobile.
 
-Now we assume that it is pushed towards `C` by some force to combine with the particles of the fluid `DF`, and to direct them to push towards `C`, and to communicate to it a part of their motion.
+Now we assume that it is pushed towards `C` by some force:
+- to combine it with the particles of the fluid `DF`
+- to direct them to push towards `C`
+- to communicate to it a part of their motion
 
 
 
@@ -107,6 +115,8 @@ Therefore, it will suffice to change their determination and make them move acco
 
 What I say here about the `AEIOUY` particles also applies to all the other particles of the fluid `FD` that collide with `B`.
 
-Each of them, among those pushing it towards `C`, is opposed by an equal number of others pushing it in the opposite direction, and that the very small force added to them is sufficient to change their determination.
+Each of them, among those pushing it towards `C`, is opposed by an equal number of others pushing it in the opposite direction.
+- The very small force added to them is enough to change their determination.
 
-Although they may not perhaps describe such circles as represented here by `AEIO` and `OUY`, undoubtedly they all move circularly and in some ways equivalent to this.
+They might not draw such circles as represented here by `AEIO` and `OUY`.
+- But they all move circularly and in some ways equivalent to this.

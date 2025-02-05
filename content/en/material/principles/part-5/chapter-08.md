@@ -7,7 +7,7 @@ description: "Two new technologies can replace fossil fuels as a reliable energy
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 30
+weight: 50
 icon: /icons/spmat.png
 toc: false
 draft: true

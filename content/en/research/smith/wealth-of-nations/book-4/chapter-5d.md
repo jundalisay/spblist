@@ -1,6 +1,6 @@
 ---
 title: "Production Bounties -- Herring Bounty"
-heading: "Chapter 5c"
+heading: "Chapter 5d"
 description: "The tonnage bounties given to the white-herring and whale-fisheries are examples of production bounties. They render those goods cheaper at home than normal"
 image: /covers/wn.jpg
 weight: 44

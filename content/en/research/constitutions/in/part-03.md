@@ -1,7 +1,7 @@
 ---
 title: "Fundamental Rights"
 heading: "Articles 12-"
-weight: 1
+weight: 8
 image: "/flags/in.png"
 description: "The Indian citizen is every person who has his domicile in the territory of India"
 icon: /flags/in.png
@@ -9,14 +9,15 @@ icon: /flags/in.png
 
 
 
-**Article 12. Definition**
+### Article 12. Definitions
 
 “The State” includes:
 - the Government and Parliament of India
 - the Government and the Legislature of each of the States 
 - all local or other authorities within the territory of India or under the control of the Government of India.
 
-**Article 13. Laws inconsistent with or in derogation of the fundamental rights**
+
+### Article 13. Laws inconsistent with or in derogation of the fundamental rights
 
 1. All laws in force in the territory of India immediately before the commencement of this Constitution, in so far as they are inconsistent with the provisions of this Part, shall, to the extent of such inconsistency, be void.
 
@@ -72,7 +73,8 @@ Explanation.— For the purposes of this article and article 16, "economically w
 such as may be notified by the State from time to time on the basis of family income and other indicators
 of economic disadvantage.]
 
-**Article 16. Equality of opportunity in matters of public employment**
+
+### Article 16. Equality of opportunity in matters of public employment
 
 (1) There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.
 (2) No citizen shall, on grounds only of religion, race, caste, sex, descent, place of birth, residence or any
@@ -109,9 +111,8 @@ denomination.
 
 (6) Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any economically weaker sections of citizens other than the classes mentioned in clause (4), in addition to the existing reservation and subject to a maximum of 10% of the posts in each category.
 
-**Article 17. Abolition of Untouchability**
 
-“Untouchability” is abolished and its practice in any form is
-forbidden. The enforcement of any disability arising out of “Untouchability” shall be an offence punishable
-in accordance with law.
+### Article 17. Abolition of Untouchability
+
+“Untouchability” is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of “Untouchability” shall be an offence punishable in accordance with law.
 

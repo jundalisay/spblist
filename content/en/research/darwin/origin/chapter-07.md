@@ -76,31 +76,9 @@ It is now commonly admitted that the more immediate and final cause of the cucko
 
 Nevertheless, I could give several instances of various birds which have been known occasionally to lay their eggs in other birds' nests. Now let us suppose that the ancient progenitor of our European cuckoo had the habits of the American cuckoo; but that occasionally she laid an egg in another bird's nest. If the old bird profited by this occasional habit, or if the young were made more vigorous by advantage having been taken of the mistaken maternal instinct of another bird, than by their own mother's care, encumbered as she can hardly fail to be by having eggs and young of different ages at the same time; then the old birds or the fostered young would gain an advantage.
 
-Analogy would lead me to believe, that the young thus reared would
-be apt to follow by inheritance the occasional and aberrant habit of their mother, and in their turn
-would be apt to lay their eggs in other birds' nests, and thus be successful in rearing their young.
-By a continued process of this nature, I believe that the strange instinct of our cuckoo could be, and
-has been, generated. I may add that, according to Dr. Gray and to some other observers, the
-European cuckoo has not utterly lost all maternal love and care for her own offspring.
-The occasional habit of birds laying their eggs in other birds' nests, either of the same or of a
-distinct species, is not very uncommon with the Gallinaceae; and this perhaps explains the origin ofa singular instinct in the allied group of ostriches. For several hen ostriches, at least in the case of
-the American species, unite and lay first a few eggs in one nest and then in another; and these are
-hatched by the males. This instinct may probably be accounted for by the fact of the hens laying a
-large number of eggs; but, as in the case of the cuckoo, at intervals of two or three days. This
-instinct, however, of the American ostrich has not as yet been perfected; for a surprising number of
-eggs lie strewed over the plains, so that in one day's hunting I picked up no less than twenty lost
-and wasted eggs.
+Analogy would lead me to believe, that the young thus reared would be apt to follow by inheritance the occasional and aberrant habit of their mother, and in their turn would be apt to lay their eggs in other birds' nests, and thus be successful in rearing their young. By a continued process of this nature, I believe that the strange instinct of our cuckoo could be, and has been, generated. I may add that, according to Dr. Gray and to some other observers, the European cuckoo has not utterly lost all maternal love and care for her own offspring. The occasional habit of birds laying their eggs in other birds' nests, either of the same or of a distinct species, is not very uncommon with the Gallinaceae; and this perhaps explains the origin ofa singular instinct in the allied group of ostriches. For several hen ostriches, at least in the case of the American species, unite and lay first a few eggs in one nest and then in another; and these are hatched by the males. This instinct may probably be accounted for by the fact of the hens laying a large number of eggs; but, as in the case of the cuckoo, at intervals of two or three days. This instinct, however, of the American ostrich has not as yet been perfected; for a surprising number of eggs lie strewed over the plains, so that in one day's hunting I picked up no less than twenty lost and wasted eggs.
 
-Many bees are parasitic, and always lay their eggs in the nests of bees of other kinds. This case is
-more remarkable than that of the cuckoo; for these bees have not only their instincts but their
-structure modified in accordance with their parasitic habits; for they do not possess the pollen-
-collecting apparatus which would be necessary if they had to store food for their own young. Some
-species, likewise, of Sphegidae (wasp-like insects) are parasitic on other species; and M. Fabre has
-lately shown good reason for believing that although the Tachytes nigra generally makes its own
-burrow and stores it with paralysed prey for its own larvae to feed on, yet that when this insect
-finds a burrow already made and stored by another sphex, it takes advantage of the prize, and
-becomes for the occasion parasitic. In this case, as with the supposed case of the cuckoo, I can see
-no difficulty in natural selection making an occasional habit permanent, if of advantage to the
-species, and if the insect whose nest and stored food are thus feloniously appropriated, be not thus
-exterminated.
+Many bees are parasitic, and always lay their eggs in the nests of bees of other kinds.
+
+This case is more remarkable than that of the cuckoo; for these bees have not only their instincts but their structure modified in accordance with their parasitic habits; for they do not possess the pollen- collecting apparatus which would be necessary if they had to store food for their own young. Some species, likewise, of Sphegidae (wasp-like insects) are parasitic on other species; and M. Fabre has lately shown good reason for believing that although the Tachytes nigra generally makes its own burrow and stores it with paralysed prey for its own larvae to feed on, yet that when this insect finds a burrow already made and stored by another sphex, it takes advantage of the prize, and becomes for the occasion parasitic. In this case, as with the supposed case of the cuckoo, I can see no difficulty in natural selection making an occasional habit permanent, if of advantage to the species, and if the insect whose nest and stored food are thus feloniously appropriated, be not thus exterminated.
 

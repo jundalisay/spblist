@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 7"
 linkTitle: Chapter 7
-title: ""
+title: "Problem: Budget Deficit"
 # date: 2022-01-20
 # date: 2022-03-27
-weight: 24
+weight: 26
 image: /covers/econsp.jpg
 description: ""
 writer:
@@ -13,3 +13,4 @@ writer:
 draft: true
 ---
 
+Budget deficits

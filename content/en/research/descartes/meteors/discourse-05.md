@@ -2,7 +2,7 @@
 heading: Discourse 5
 title: Clouds
 weight: 24
-description: Descartes gives 4 Precepts on Math and Logic
+description: Vapors join and gather into various small clusters, which are water droplets or ice particles
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

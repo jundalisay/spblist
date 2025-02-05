@@ -1,21 +1,19 @@
 ---
 title: "A massive interacting galaxy 510 million years after the Big Bang"
-# date: 2015-09-09
 date: 2024-02-27
-weight: 44
+# weight: 44
 image: /graphics/physics/geocentric.jpg
 description: "The Europeaans Stuck to the Geocentric Model because of the wrong 5 Elements of the Greeks"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
+draft: true
 ---
 
 
-Springer Nature 2021 LATEX template
-2 A massive interacting galaxy 510 million years after the Big Bang
-A massive interacting galaxy 510 million
-years after the Big Bang
+A massive interacting galaxy 510 million years after the Big Bang
+
 Kristan Boyett1,2*, Michele Trenti1,2*, Nicha
 Leethochawalit3
 , Antonello Calabr´o4
@@ -42,59 +40,18 @@ Marchesini18, Sara Mascia4
 , Karl Glazebrook13, Laura
 Pentericci4
 , Eros Vanzella19 and Benedetta Vulcani20
-1*School of Physics, University of Melbourne, Parkville 3010,
-VIC, Australia.
-2ARC Centre of Excellence for All Sky Astrophysics in 3
-Dimensions (ASTRO 3D), Australia.
-3National Astronomical Research Institute of Thailand (NARIT),
-Mae Rim, Chiang Mai, 50180, Thailand.
-4
-INAF Osservatorio Astronomico di Roma, Via Frascati 33,
-00078 Monteporzio Catone, Rome, Italy.
-5Department of Physics and Astronomy, University of California,
-Los Angeles, 430 Portola Plaza, Los Angeles, CA 90095, USA.
-6Kavli Institute for the Physics and Mathematics of the Universe,
-The University of Tokyo, Kashiwa, Japan 277-8583.
-7Department of Physics and Astronomy, University of California
-Davis, 1 Shields Avenue, Davis, CA 95616, USA.
-8Space Telescope Science Institute, 3700 San Martin Drive,
-Baltimore MD, 21218.
-9Center for Astrophysical Sciences, Department of Physics and
-Astronomy, Johns Hopkins University, Baltimore, MD, 21218.
-10Cosmic Dawn Center (DAWN), Denmark.
-Springer Nature 2021 LATEX template
-A massive interacting galaxy 510 million years after the Big Bang 3
-11Niels Bohr Institute, University of Copenhagen, Jagtvej 128,
-DK-2200 Copenhagen N, Denmark.
-12IPAC, California Institute of Technology, MC 314-6, 1200 E.
-California Boulevard, Pasadena, CA 91125, USA.
-13Centre for Astrophysics and Supercomputing, Swinburne
-University of Technology, PO Box 218, Hawthorn, VIC 3122,
-Australia.
-14School of Astronomy and Space Science, University of Chinese
-Academy of Sciences (UCAS), Beijing 100049, China.
-15National Astronomical Observatories, Chinese Academy of
-Sciences, Beijing 100101, China.
-16Institute for Frontiers in Astronomy and Astrophysics, Beijing
-Normal University, Beijing 102206, China.
-17University of Ljubljana, Department of Mathematics and
-Physics, Jadranska ulica 19, SI-1000 Ljubljana, Slovenia.
-18Physics and Astronomy Department, Tufts University, 574
-Boston Avenue, Medford, MA 02155, USA.
-19INAF – OAS, Osservatorio di Astrofisica e Scienza dello Spazio
-di Bologna, via Gobetti 93/3, I-40129 Bologna, Italy.
-20INAF Osservatorio Astronomico di Padova, vicolo
-dell’Osservatorio 5, 35122 Padova, Italy.
-*Corresponding author(s). E-mail(s): kit.boyett@unimelb.edu.au;
-michele.trenti@unimelb.edu.au;
-Abstract
+
+<!-- *Corresponding author(s). E-mail(s): kit.boyett@unimelb.edu.au;
+michele.trenti@unimelb.edu.au; -->
+
+
+## Abstract
+
 JWST observations spectroscopically confirmed the existence of galaxies
-as early as 300 million years after the Big Bang and with a higher number density than what was expected based on galaxy formation models
-and Hubble Space Telescope observations. Yet, the majority of sources
+as early as 300 million years after the Big Bang and with a higher number density than what was expected based on galaxy formation models and Hubble Space Telescope observations. Yet, the majority of sources
 confirmed spectroscopically so far in the first 500 million years have
 rest-frame UV-luminosities below the characteristic luminosity (M∗
-UV ),
-limiting the signal to noise ratio for investigating substructure. Here,
+UV ), limiting the signal to noise ratio for investigating substructure. Here,
 we present a high-resolution spectroscopic and spatially resolved study
 of a bright (MUV = −21.66 ± 0.03, ∼ 2M∗
 UV ) galaxy at a redshift z = 9.3127 ± 0.0002 (510 million years after the Big Bang)
@@ -106,7 +63,7 @@ with an estimated stellar mass of (1.6
 Solar masses per year and with a metallicity of about one tenth of
 Solar. The system has a morphology typically associated to two interacting galaxies, with a two-component main clump of very young stars
 (age less than 10 million years) surrounded by an extended stellar population (120 ± 20 million years old, identified from modeling of the
-Springer Nature 2021 LATEX template
+
 4 A massive interacting galaxy 510 million years after the Big Bang
 NIRSpec spectrum) and an elongated clumpy tidal tail. The observations
 acquired at high spectral resolution identify oxygen, neon and hydrogen emission lines, as well as the Lyman break, where there is evidence
@@ -117,9 +74,11 @@ absorption lines (silicon, carbon and iron), with low confidence individual dete
 These absorption features suggest that Lyα is damped by the interstellar and circumgalactic medium. Our observations provide evidence
 of rapid and efficient build up of mass and metals in the immediate aftermath of the Big Bang through mergers, demonstrating that
 massive galaxies with several billion stars are in place at early times.
-Keywords: galaxies: high-redshift, galaxies: formation, galaxies: interactions,
-galaxies: ISM
+
+
+
 1 Main
+
 The first generations of stars and galaxies in the Universe formed in physical
 conditions different to those of the modern Universe. In fact, gas is expected
 to have nearly primordial composition, with low levels of chemical enrichment
@@ -142,7 +101,7 @@ number density of (spectroscopically confirmed) high-redshift galaxies has been
 higher than expected by most models, in particular at the bright end of the
 luminosity function, possibly suggesting that we are missing key physical processes connected to the formation of first galaxies [28, 29], though observations
 do not suggest inconsistency with ΛCDM [27, 30, 31]. The superior spectral
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 5
 and spatial resolution of JWST in the near-infrared offers a path to investigate these initial findings through detailed stellar population studies in early
 galaxies. An initial spectroscopic census of JWST galaxies above z > 7 paints
@@ -180,7 +139,7 @@ in 2.2.1). We present the full 2D spectrum in Extended Data Figure 1. The
 NIRSpec Multi-shutter Assembly (MSA) was configured based on HST imaging and as such the shutter covers the main body of the galaxy as shown in
 the bottom left panel of the figure. The spectrum shows a clear continuum
 detection and four emission lines are detected at [3.8 : 4.1] µm, which we identify as ([O ii], [Ne iii] λ3870, and [Ne iii] λ3969 blended with Hϵ) for a source
-Springer Nature 2021 LATEX template
+
 6 A massive interacting galaxy 510 million years after the Big Bang
 [OII] [NeIII]�3870 [NeIII]�3969 + H�
 Fig. 1 JWST NIRCam and NIRSpec observations of Galaxy GLASS ID:Gz9p3.
@@ -214,7 +173,7 @@ and MUV = −21.66 ± 0.03. (These are statistical
 uncertainties from photometric errors only). This makes Gz9p3 one of the most
 massive and intrinsically brightest galaxies confirmed in the epoch of reionization, and the brightest and most massive at z > 9 (see Figure 2 for a census
 for high-redshift spectroscopically confirmed galaxies). Even when compared
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 7
 6 7 8 9 10 11 12 13
 Spectroscopic redshift
@@ -308,7 +267,7 @@ indicating that star formation started as early as z ≳ 15 to produce the avera
 younger ages, with integrated-light fits giving an age of 25+15
 −12 Myr and spatially resolved analysis identifying regions with ages < 10 Myr (see 2.9.1 and
 Extended Data Table 2).
-Springer Nature 2021 LATEX template
+
 8 A massive interacting galaxy 510 million years after the Big Bang
 The detection of rest-optical emission lines provides a window into the
 interstellar medium conditions in the galaxy by resolving the [O ii] doublet
@@ -350,7 +309,7 @@ turbulence within the absorbing gas, as expected from models of star formation
 [61, 62], and/or from bulk gaseous flows that are associated to a merging or
 interacting system. However, higher signal to noise observations are required
 to quantify the robustness and confidence of these interpretations.
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 9
 7.0 7.5 8.0 8.5 9.0 9.5 10.0 10.5
 Stellar Mass log10(M * /M )
@@ -405,7 +364,7 @@ continuum and ∼ 0.8× continuum at 1000 km s−1
 (∼ 4˚A) and 6000 km s−1
 (∼ 24˚A) respectively. However, it is difficult to reconcile the lack of a large
 ionizing bubble with the high stellar mass and presence of relatively old (> 100
-Springer Nature 2021 LATEX template
+
 10 A massive interacting galaxy 510 million years after the Big Bang
 Myr) stars, especially because Lyα emission is detected in galaxies at higher
 redshift with lower star formation rates and stellar masses such as GN-z11
@@ -447,7 +406,7 @@ in Figure 5. The data clearly show two distinct cores in the main region of the
 galaxy, and several components in the tail identified thorough a clump-finding
 algorithm (see 2.10). The morphology of Gz9p3 is described by morphological parameters that indicate the galaxy is a merger (Gini=0.61, M20=-1.29,
 A=0.35; see [72]).
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 11
 SFRD
 0.0 2.5 5.0
@@ -491,7 +450,7 @@ surface density, stellar age, and stellar mass surface density. The third and bo
 present the color, visual extinction and UV β slope. (Upper panels: Median value, Lower
 panels: Uncertainty based on 16th and 84th percentiles). The F150W 10σ contour is presented in orange in the F150W-F444W panel and the FWHM and pixel-scale are shown in
 the F356W-F444W panel.
-Springer Nature 2021 LATEX template
+
 12 A massive interacting galaxy 510 million years after the Big Bang
 F150W+F200W ClumpMap
 Fig. 5 Morphology of Gz9p3. F150W+F200W direct image at a 20mas/px resolution
@@ -524,7 +483,7 @@ that would shed further light on the kinematics of the system and on the
 complex interplay between assembly of dark matter halos, star formation and
 physical conditions in the interstellar, circumgalactic and intergalactic media
 at very early times.
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 13
 Property Observed Value
 RA [Deg] 3.617193
@@ -609,7 +568,7 @@ Where applicable, we use a standard ΛCDM cosmology with parameters H 0 =
 , Ωm =0.3, and Ω∧ =0.7. All magnitudes are in the AB system
 [74]. Throughout this paper we refer to quantities as “observed” or “intrinsic”
 depending on whether the best available estimate of any gravitational lensing
-Springer Nature 2021 LATEX template
+
 14 A massive interacting galaxy 510 million years after the Big Bang
 magnification correction has been applied. All wavelengths for emission lines
 are quoted as vacuum wavelengths.
@@ -654,7 +613,7 @@ populations across the galaxy, we do not correct the slit-losses to match the
 total photometry of the galaxy. Instead we adopt a slit-loss correction based
 only on the photometry of the main component (where the slit is placed),
 as part of our SED spectrum+photometry analysis of this region (see 2.7).
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 15
 -1.5
 -1.0
@@ -702,7 +661,7 @@ inverse-variance weighted kernel. This kernel is derived by summing the 2D
 spectrum along the dispersion axis and fitting the resulting signal along the
 spatial axis with a Gaussian profile (σ ∼ 0.4”). This is then used to extract
 the 1D spectrum along the dispersion axis.
-Springer Nature 2021 LATEX template
+
 16 A massive interacting galaxy 510 million years after the Big Bang
 We present the full 2D spectrum in Extended Data Figure 1 and the
 extracted 1D spectrum in Figure 1. Within the 2D image there is clear emission from an additional source below the trace associated to our target; this has
@@ -742,7 +701,7 @@ on the analysis by [50]. In Figure 1, we present the direct imaging of the targe
 exhibits a morphology comprised of a main body plus an extended tail.
 We examine the SED of the full broadband photometry in 2.8 and for
 specific regions within the galaxy using aperture photometry in 2.9.1.
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 17
 Filter Fν (µJy)
 F606W 0.01 ± 0.02
@@ -785,7 +744,7 @@ same k-correction as above.
 These values place this object as one of the intrinsically brightest galaxies
 spectroscopically confirmed in the early Universe. We plot this object onto the
 growing sample of known galaxies at high redshift in MUV - redshift space in
-Springer Nature 2021 LATEX template
+
 18 A massive interacting galaxy 510 million years after the Big Bang
 Figure 2. At the other luminosity extreme among z > 9 sources is a highly magnified z = 9.76 galaxy also from the GLASS-JWST survey [16] with an intrinsic
 MUV = −17.35 (µ ∼ 13), demonstrating the dynamical range capabilities of
@@ -827,7 +786,7 @@ We can also measure the redshift from the location of the Lyman break. In
 the f100lp/g140h spectrum, we attribute the observed spectral break feature
 (range λ ∈ [1.2, 1.3]µm) to be the Lyman break at λ = 1215.67˚A. To determine
 the best fit to the spectral break, we use the narrow 1D extracted spectrum
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 19
 1.10 1.15 1.20 1.25 1.30 1.35 1.40 1.45
 Wavelength ( m)
@@ -885,7 +844,7 @@ coverage). For each of these we place 1σ upper limits of [2.64, 1.45, 1.07, 0.5
 cm−2˚A−1
 . We note that many of these are intrinsically faint
 lines relatively to rest-optical [O ii].
-Springer Nature 2021 LATEX template
+
 20 A massive interacting galaxy 510 million years after the Big Bang
 1.5 2.0 2.5 3.0 3.5 4.0 4.5
 Wavelength ( m)
@@ -927,7 +886,7 @@ E(B − V ) = 0.57 ± 0.20 for a Rv = 4.05 [84]. The mass-weighted stellar age o
 120 ± 20Myr reflects the presence of an older stellar population and indicates
 that star formation started as early as z ≳ 15 to produce the average age
 observed.
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 21
 2.7.2 Metallicity
 The detection of both [O ii] and [Ne iii] λ3870 allows us to study both the number density with the galaxy’s ISM, via the ratio of the [O ii] doublet line fluxes,
@@ -972,7 +931,7 @@ indicating a higher electron density.
 The Ne3O2 ratio in this object is significantly higher than has been found
 in lower redshift samples. The stacked ratio from 66 MOSDEF galaxies of
 similar mass (log10(M∗/M⊙):8.23 − 9.51) at redshift z ∼ 2 is Ne3O2 = 0.19
-Springer Nature 2021 LATEX template
+
 22 A massive interacting galaxy 510 million years after the Big Bang
 [88], significantly lower than our value. This trend for a high Ne3O2 ratio
 has also been found in the recent JWST spectra of three z ∼ 8 galaxies
@@ -1011,7 +970,7 @@ a bolometric luminosity of the source far exceeding the Eddington luminosity
 of the central BH [103]. The inference that an AGN is not the dominant source
 of light is also fully supported by the extended, spatially resolved nature of
 Gz9p3.
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 23
 2.7.6 Lya absorption
 The shape of the Lyman break can be softened in the presence of a high neutral fraction in the Intergalactic medium (IGM) due to the strength of the Lyα
@@ -1061,7 +1020,7 @@ significance of any absorption within this central region against the continuum 
 FeIIλ2344, with EWrest = (−3.6 ± 0.7)˚A, (−3.7 ± 0.8)˚A and (−6.2 ± 1.6)˚A,
 respectively. The remaining lines show < 2σ significance. To examine potential
 UV-absorption further we stack the ±5000km s−1 window for these 7 lines,
-Springer Nature 2021 LATEX template
+
 24 A massive interacting galaxy 510 million years after the Big Bang
 3000 2000 1000 0 1000 2000 3000
 0
@@ -1151,7 +1110,7 @@ In both the stack and the individual lines the overall shape of the deficit
 shows hints of a multi-component structure. The absorption is centered at a
 100km s−1 offset to the expected location, either to one side or both. Such
 multi-component absorption may indicate the presence of turbulent gas within
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 25
 the system, but the signal to noise of our data is not sufficient to draw robust
 conclusions on this potential interpretation.
@@ -1201,7 +1160,7 @@ We correct our measurements for the lensing magnification (µ =
 −0.1
 ) and SFR = 19+5
 −6M⊙/yr (or
-Springer Nature 2021 LATEX template
+
 26 A massive interacting galaxy 510 million years after the Big Bang
 34+5
 −13M⊙/yr) for BAGPIPES (or ZPHOT). These measurements are consistent with those obtained by [47] using ZPHOT, with [114] templates and a
@@ -1240,7 +1199,7 @@ the Bayesian evidence for all pixels > 2.
 From BAGPIPES we obtain estimates for the star formation rate and
 stellar mass, which we convert to surface density properties using the 0.27
 kpc/pixel scale, as well as an estimate for the mass-weighted stellar age. We
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 27
 additionally measure the UV slope β (where fλ ∝ λ
 β
@@ -1289,7 +1248,7 @@ modeling of the aperture photometry from each region following the method
 in 2.8, obtaining tighter constraints on the physical parameters than in the
 pixel-by-pixel fitting. The photometry and best-fitting SED models are shown
 in the right panel of Extended Data Figure 5.
-Springer Nature 2021 LATEX template
+
 28 A massive interacting galaxy 510 million years after the Big Bang
 Property Main (phot-only) Inner Tail Annulus
 Stellar Mass [log10(M∗/M⊙)] 8.3
@@ -1380,7 +1339,7 @@ We also note that the very young stellar population ages (< 10Myr) preferred in 
 ratios, with the fit outcome dominated by the rest-frame UV light. The discrepancy in the star formation rates and stellar masses between SED fitting
 from broadband photometry and SED fitting from the spectrum highlights the
 importance of spectroscopy to study galaxies during the epoch of reionization.
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 29
 Extended Data Figure. 5 Spectral energy distribution for Gz9p3 from integrated light in key regions. Left Panel: Overlaid onto the F277W direct imaging for the
 galaxy, white dashed lines show the 5σ and 20σ F277W contours. Three apertures are placed
@@ -1409,7 +1368,7 @@ to cosmic web stripping [121].
 Lacking such spectroscopic data, to examine further whether this system is a merger, we utilize a tailored data reduction of the NIRCam direct
 imaging at short wavelengths, PSF matching to F200W (the longest wavelength filter with the coarsest resolution we consider in this Section, instead of
 F444W). This allows greater spatial resolution in the short wavelength F150W
-Springer Nature 2021 LATEX template
+
 30 A massive interacting galaxy 510 million years after the Big Bang
 and F200W filters, which are drizzled to a 20mas/px resolution. We weightcombine the F150W and F200W direct images to improve the signal to noise
 ratio before investigating the morphology. The combined image is presented
@@ -1423,7 +1382,9 @@ which traces the rest-UV and hence active star forming regions, shows a smaller
 size and shallower gradient than the F444W best-fit profile to the central
 region (Remajor = 0.26”, nsersic = 3.54, axis ratio= 0.26) which traces the
 rest-optical and the older stellar population.
+
 2.10.1 Morphological indexes
+
 Several quantifiable indicators exist for describing the morphology of a galaxy,
 with thresholds to indicate whether a system is likely to have gone, or be
 going through, a merger: Gini - M20 and asymmetry (A). These morphological parameters are defined in [72, 122] and [123], respectively. [72] define
@@ -1433,7 +1394,9 @@ observations [125]. We thus follow the same measurement procedure on the
 combined F150W+F200W galaxy cutout shown in Figure 5. We determine
 each morphological parameter following the literature definitions with our inhouse JWSTmorph package. We obtain Gini = 0.61, M20 = −1.29, and A = 0.35,
 which robustly classify our system as a merger.
+
 2.10.2 Clumpiness
+
 The system appears also very clumpy in Figure 5, with two bright and distinct
 clumps clearly detected in the central region. These might represent the two
 merger components. To be more quantitative, we calculate the clumpiness
@@ -1447,11 +1410,12 @@ similar approach to [126]. In brief, we smooth the original image (F150W +
 F200W combined) using a gaussian filter with a size of 0.2
 ′′, corresponding to
 ∼ 1 kpc at the target redshift.
+
 We then subtract the smoothed image from the original image, and select
 the pixels with a flux at least 2σ above the background, in order to reduce the
 noise contamination. We also impose 0 for all the pixels with a negative value
 in the residual [124]. Finally, the clumpiness is calculated as the ratio between
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 31
 the flux in those pixels and the total flux of the galaxy. We obtain a final value
 of c = 0.56, and the clump-map is shown in the right panel of Figure 5.
@@ -1465,7 +1429,9 @@ increase the asymmetry of the system. All this evidence suggests that a merger
 is ongoing and that the elongated, clumpy structure might be the result of
 the tidal forces generated during the interaction, as observed in lower redshift
 mergers.
+
 2.11 Comparison to theoretical modeling
+
 The properties of Gz9p3 can be compared to basic theoretical modeling of
 galaxy formation in ΛCDM as a first step to assess the ability of current
 model to reproduce the observations. To estimate the number density and
@@ -1490,14 +1456,16 @@ within a factor of two is possible. The lower limit is to consider the NIRSpec
 FoV of ∼ 3 × 3 arcmin2 and ∆z ∼ 1, while the upper limit is the area of the
 HST photometry that includes WFC3/IR data (needed given the redshift of
 the source), which is approximately 13 arcmin2
-[125]. This gives a selection
+[125]. 
+
+This gives a selection
 a volume of ∼ (2 − 3) × 104 M pc−3
 (comoving) (see e.g. the cosmic variance
 calculator from [128]), and it implies only a few percent probability of having
 such a massive and bright galaxy in our observations. Given that the relationships between stellar mass, UV luminosity, and dust are in agreement with
 theory, the natural degree of freedom to change is an increased star formation
 efficiency relative to the halo mass as the redshift increases. This has been
-Springer Nature 2021 LATEX template
+
 32 A massive interacting galaxy 510 million years after the Big Bang
 proposed in similar modeling, e.g. by [129], and an increased star formation
 efficiency could also explain the higher than expected density of photometric
@@ -1518,15 +1486,17 @@ tdyn ∼ 5 Myr considering a characteristic velocity dispersion of ∼ 200 km/s
 (from virial equilibrium) and a characteristic radius of 3 kpc (from imaging).
 Therefore, we conclude that catching galaxies in the act of merging at this
 epoch is relatively likely (at the level of ∼ 10 − 20% probability).
-2.12 Comparison to cosmological hydrodynamical
-simulations
+
+2.12 Comparison to cosmological hydrodynamical simulations
+
 To further assess whether this galaxy is in tension with predictions from
 the ΛCDM model, we searched for analogous galaxies with masses 109 ≤
 M∗/M⊙ ≤ 1010 in the IllustrisTNG simulation suite [130–134]. We found 13
 analogous galaxies in Snapshot 5 of TNG300-1 at a redshift of z = 9.39, with
 a box length of 302.6 cMpc, and an average mass resolution of 1.1 × 107M⊙
-for baryonic particles. No analogous galaxies were found in TNG100, the second largest simulation of the suite with a box length of 110.7 cMpc, indicating
-that such massive galaxies are rare objects in the early Universe.
+for baryonic particles. 
+
+No analogous galaxies were found in TNG100, the second largest simulation of the suite with a box length of 110.7 cMpc, indicating that such massive galaxies are rare objects in the early Universe.
 While 13 simulated galaxies does not provide a statistical sample, we do
 find that these simulated sources do share similarities to Gz9p3. Each of the
 13 galaxies shares a similar SFR, with the mean SFR = 30 ± 9M⊙yr−1
@@ -1540,7 +1510,7 @@ line with our prediction from theoretical modeling. Unfortunately, the spatial
 and mass resolution of the simulation is not sufficient to obtain a detailed
 morphology for a quantitative comparison. However, qualitatively, two simulated systems show a double-core structure (two distinct mass peaks) which
 reflects the structure of Gz9p3. Therefore, while current state of the art modeling and simulations suggest that the probability of finding an object such
-Springer Nature 2021 LATEX template
+
 A massive interacting galaxy 510 million years after the Big Bang 33
 as Gz9p3 in the cosmological volume probed by this survey is low (approximately 6% considering 13 objects in the TNG300 and assuming a survey
 area of GLASS-ERS+DDT+UNCOVER of ∼ 60 arcmin2
@@ -1548,7 +1518,9 @@ area of GLASS-ERS+DDT+UNCOVER of ∼ 60 arcmin2
 in the early Universe. This may suggest that star formation efficiency during the epoch of reionization may need to be revised upwards to improve the
 data-model comparison.
 
-Declarations
+
+## Declarations
+
 • Data availability: All data used in this paper are publicly available through
 the Mikulski Archive for Space Telescopes (MAST) server with the relevant
 program IDs (ERS-1324 for the NIRSpec spectroscopy and DDT-2756 for
@@ -1579,7 +1551,7 @@ grant JWST-ERS-1324. KB, MT, BM, ND acknowledge support from the
 Australian Research Council Centre of Excellence for All Sky Astrophysics
 in 3 Dimensions (ASTRO 3D), through project number CE170100013. KG
 and TN acknowledge support from Australian Research Council Laureate
-Springer Nature 2021 LATEX template
+
 34 A massive interacting galaxy 510 million years after the Big Bang
 Fellowship FL180100060. BM acknowledges support from Australian Government Research Training Program (RTP) Scholarships and the Jean E
 Laby Foundation. We acknowledge financial support through grants PRINMIUR 2017WSCC32 and 2020SKSTHZ. MB acknowledges support from

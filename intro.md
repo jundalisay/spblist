@@ -1,14 +1,21 @@
 art 133-187 for magnetism
 
 
-master links:
+# master links:
 /material/motion Descartes rules of motion
+/material/charges male female
 
+<<<<<<< HEAD
 
 sabine german
 https://www.youtube.com/watch?v=W1ZZ-Yni8Fg
 
 
+=======
+  {{ with .Keywords }} 
+  {{ . }}
+{{ end }}
+>>>>>>> 6c19a67f0e31c1f8c1ed610c5602b495c811364a
 
 {{ with .Params.date }}
 

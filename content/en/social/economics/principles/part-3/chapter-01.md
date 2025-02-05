@@ -18,8 +18,9 @@ aliases:
 
 ## The Natural Price
 
-The **natural price** is the lowest common real price from all sellers over time, from the seller's perspective. 
+ <!-- the lowest common real price from all sellers over time, from the seller's perspective.  -->
 
+The **natural price** is the average value that the producer can actually sell his goods or services with ordinary profits
 
 This assumes that:
 - the three prior laws were observed 

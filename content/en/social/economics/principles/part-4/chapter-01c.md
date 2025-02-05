@@ -2,7 +2,7 @@
 heading: Chapter 1c
 title: "Free Competition"
 description: "Free Competition is an essential part of our third and third law of value. Competition is the third law. Freedom is the third law"
-image: /photos/psych/freedom.jpg
+image: /photos/countries/vn/fan.jpg
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -28,7 +28,7 @@ In time, the invisible hand, which also works on the demand side as the customer
 
 For example, the competitors in a beauty contest might not be equal in height, weight, skin color, or hair length, etc. Nevertheless, their freedom to be in the competition, to wear their costumes, show their skills, answer questions, should be guaranteed by the organizers. 
 
-![beauty contest](/photos/social/pageant.jpg)
+![beauty contest](/photos/countries/vn/fan.jpg)
 
 This guarantee of freedom in commercial competition was removed by French economist JB Say through the concept of laissez faire from the Physiocrats which he corrupted to mean total deregulation. Because of this deregulation, some competitors were able to acquire its competitors, corner the supply, and become too-big-to-fail. 
 

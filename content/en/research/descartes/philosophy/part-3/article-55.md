@@ -77,12 +77,10 @@ Let us compare the motion of:
 The fire-aether moves instantly and explosively like the rock on the sling. This leads to **one** explosive motion:
 - This explosive motion is the release of the rock from the sling on straight lines from the edge of the vortex which is the surface of a star. 
 
-The air-aether moves slowly like the ant on the rod. This leads to 2 motions:
-- This slow motion as the walking of the ant is the pre-force of gravity 
+<!-- The air-aether moves slowly like the ant on the rod. This leads to 2 motions:
 
-from the sling on straight lines from the edge of the vortex which is the surface of a star. 
-
-
+1. This slow motion as the walking of the ant is the pre-force of gravity 
+from the sling on straight lines from the edge of the vortex which is the surface of a star.  -->
 {{< /box >}}
 
 {{< img src="/graphics/physics/fig_15.jpg" alt="Ant" cap="This is the motion of the air-aether" >}}

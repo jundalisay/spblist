@@ -1,7 +1,7 @@
 ---
 title: "How Does Energy Become Ego-Consciousness?"
 weight: 50
-image: "/photos/objects/physics/whitehole.jpg"
+image: "/photos/physics/whitehole.jpg"
 description: "The Triple 'A' Formula is based on the Triple 'A' Automative Association which you call when your car is in trouble"
 ---
 
@@ -38,6 +38,16 @@ You should go into the belief that makes you choose what you chose.
 
 Your higher mind knew you had to experience certain themes. But it never imposed that you should experience them in a negative way. 
 {{< /l >}}
+
+
+### Bigger Eyes Mean More access to Higher Mind
+
+The eyes are the window to another dimension. 
+
+Some ETs have bigger eyes because they have more access to the higher mind.  
+
+You can know another person by starting into his/her eyes. 
+
 
 
 

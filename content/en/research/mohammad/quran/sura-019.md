@@ -86,8 +86,10 @@ I am only the messenger of your Lord, to give you the gift of a pure son.”
 I wish I had died before this, and been completely forgotten.
 {{< /l >}}
 
-{{< r a="Man" >}}
-24-26. He called her from beneath her: “Do not worry; your Lord has placed a stream beneath you. Shake the trunk of the palm-tree towards you, and it will drop ripe dates by you. So eat, and drink, and be consoled. And if you see any human, say, ‘I have vowed a fast so I will not speak to any human today.'
+{{< r a="Jesus" >}}
+24-26. [from inside her]: “Do not worry. Your Lord has placed a stream beneath you. Shake the trunk of the palm-tree towards you, and it will drop ripe dates by you. So eat, and drink, and be consoled.
+
+If you see any human, say, ‘I have vowed a fast so I will not speak to any human today.'
 {{< /r >}}
 
 
@@ -106,16 +108,20 @@ How can we speak to a baby?
 {{< /r >}}
 
 {{< l a="Jesus" >}}
-30. I am the servant of Enki. He has:
+30-32. I am the servant of Enki. He has:
 - given me the Scripture, and made me a prophet.
 - made me blessed wherever I may be
 - enjoined on me prayer and charity, so long as I live.
 
 Be kind to my mother. Enki did not make me a disobedient rebel.
-33. So Peace is upon me the day I was born, and the day I die, and the Day I get resurrected alive.”
+
+33. So Peace is upon me the day I was born, the day I die, and the Day I get resurrected alive.
 {{< /l >}}
 
 <!-- 34. That is Jesus son of Mary—the Word of truth about which they doubt. -->
+
+
+### Enki has no sons
 
 35. It is not for Enki to have a son because to have anything done, He says “Be” and it becomes.
 

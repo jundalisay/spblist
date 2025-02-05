@@ -1,6 +1,6 @@
 ---
 title: "France & England; Balance of Produce & Consumption"
-heading: "Chapter 3f"
+heading: "Chapter 3g"
 description: "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints"
 image: /covers/wn.jpg
 weight: 34

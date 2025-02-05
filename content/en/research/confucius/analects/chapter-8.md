@@ -4,7 +4,7 @@ title: "Sayings of Tsang"
 description: "The Scholar Tsang was once unwell. He called his pupils to him he said to them, 'Disclose to view my feet and my hands"
 weight: 16
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

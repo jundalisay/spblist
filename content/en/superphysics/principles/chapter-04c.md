@@ -3,7 +3,7 @@ title: "The Connection of Ideas"
 heading: "Chapter 4c"
 date: 2024-02-24
 weight: 18
-image: /photos/objects/pen.jpg
+image: /graphics/meta/ideas.jpg
 description: "We explain the rules of Bullet-Style Writing"
 icon: /icons/sp.png
 toc: false
@@ -41,9 +41,16 @@ While the 5 Layers show the vertical hierarchy of reality, the connection of ide
 
 {{< img src="/graphics/meta/compound.jpg" alt="Compound Ideas" cap="" >}}
 
+
+
+
+
 The concept of the dharma of ideas, combined with their inherent ability to be connected to, and fused with, each other (as to create ideas within ideas), is the foundation of our concept of the oversoul wherein:
 - a soul, as an idea of the Supreme, has many selves as its sub-ideas. This is essential in Bio-Superphysics.
 - individual souls taken together make up the soul of society, which we call the metapyhsical society-organism. This is essential in Social Superphysics
+
+{{< i s="/graphics/meta/ideas.jpg" a="Main Ideas" c="Ideas can be thought of as clouds that connect to each other, split up, or combine" >}}
+
 
 
 {{< q a="David Hume" c="A Treatise of Human Nature, Book 1, Part 4, Section 6" >}}

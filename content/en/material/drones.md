@@ -40,17 +40,21 @@ But Descartes refutes both and instead sources the mechanism to the external liq
 
 This is why it can be invisible to both sight and EM detection.
 
-Descartes explains that electromagnetism is caused by straight channels in matter, and not in positive or negative charges. Therefore, it is possible for a metal to be undetectable electromangetically if it has channels to let those EM waves pass through. 
+Descartes explains that electromagnetism is caused by straight channels in matter, and not in positive or negative charges. 
+
+Therefore, it is possible for a metal to be undetectable electromangetically if it has channels to let those EM waves pass through. 
 
 3. Antimatter power at 100% efficiency, allowing it to not give away heat.
 
-Descartes explains that matter is not held by gluons but by the same empty space that causes gravity. This is why Lazar calls gravity as Gravity-B and the strong force as Gravity-A. Manipulating this space can convert matter into antimatter more cheaply than the current brute force approach
+Descartes explains that matter is not held by gluons but by the same empty space that causes gravity. This is why Lazar calls gravity as Gravity-B and the strong force as Gravity-A.
+
+Manipulating this space can convert matter into antimatter more cheaply than the current brute force approach
 
 
 ### The UFO/UAP Drones Cannot be Hypersonic
 
 The smallness of the UAP drones means that it is likely unmanned. 
 
-Cartesian Physics predicts that it would have fewer features than a manned model. It won't be able to zip around like the tic tac model because hypersonic and faster-than-light travel requires the aether, which needs a living detector.
+Cartesian Physics predicts that it would have fewer features than a manned model. It won't be able to zip around like the tic tac model because hypersonic and faster-than-light travel requires the aether, which needs a living detector, i.e. the living pilot is the one instructing the UFO to go hypersonic. 
 
 What likely happens is that the drones disappear and then fly back to a bigger ship which is capable of hypersonic travel

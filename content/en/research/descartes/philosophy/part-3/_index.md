@@ -1,4 +1,5 @@
 ---
+linkTitle: Visible
 title: "The Principles of the Visible World"
 heading: "Part 3"
 # date: 2022-01-29

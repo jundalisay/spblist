@@ -40,46 +40,102 @@ This is why there is so much satisfaction in explanation. This is because consci
 
 
 
-{{< s v="164" >}}  The opposite law is the inversion of the first law. In internal distinction, infinitude doubtless becomes itself object of understanding. 
+{{< s v="164" >}}  The opposite law is the inversion of the first law.
 
-But once more, understanding fails to do justice to infinity as such. This is because understanding assigns again to two worlds, or to two substantial elements, that which is distinction per se – the self-repulsion of the selfsame, and the self-attraction of unlike factors.
+In internal distinction, infinitude doubtless becomes itself object of understanding. 
 
-To understanding the process, as it is found in experience, is here an event that happens, and the selfsame and the unlike are predicates, whose reality is an underlying substratum. What is for understanding an object in a covering veil of sense, now comes before us in its essential form as a pure notion. 
+But once more, understanding fails to do justice to infinity as such.
 
-This apprehension of distinction as it truly is, the apprehension of infinitude as such, is something for us [observing the course of the process], or is implicit, immanent. The exposition of its notion belongs to science. 
+This is because understanding assigns again to 2 worlds:
+- the self-repulsion of the selfsame
+- the self-attraction of unlike factors
 
-Consciousness, however, in the way it immediately has this notion, again appears as a peculiar form or new attitude of consciousness, which does not recognize its own essential nature in what has gone before, but looks upon it as something quite different.
+ <!-- or to two substantial elements, that which is distinction per se –  -->
 
-In that this notion of infinitude is its object, it is thus a consciousness of the distinction as one which at the same time is at once cancelled. Consciousness is for itself and on its own account, it is a distinguishing of what is undistinguished, it is Self-consciousness. 
+To understanding the process, as it is found in experience, is here 
+
+An event that happens. Its predicates are:
+- the selfsame and 
+- the unlike
+
+Their reality is an underlying substratum. 
+
+To the understanding, the event is an object covered by sense.
+
+It now comes to us in its essential form as a pure notion. 
+
+
+For us observing the event, our apprehension of infinity is implicit, immanent.
+
+<!-- This apprehension of distinction as it truly is, the  as such, is something for us [observing the course of the process], or is   -->
+
+The exposition of its notion belongs to science. 
+
+<!-- , however, in the way it immediately has this -->
+Consciousness gets this notion and turns into a new form of consciousness. 
+- This new form does not recognize its own essential nature before.
+- It looks to its old form as something quite different.
+
+<!-- appears as a peculiar form or new attitude of , which 
+
+, but looks upon it as  -->
+
+In that this notion of infinitude is its object, it is thus a consciousness of the distinction as one which at the same time is at once cancelled. 
+
+Consciousness is Self-consciousness if it is:
+- for itself for itself 
+- a distinguishing of what is undistinguished
+
 
 I distinguish myself from myself.
 
-Therein I am immediately aware that this factor distinguished from me is not distinguished. 
+I am immediately aware that this factor distinguished from me is not distinguished. 
 
-I, the selfsame being, thrust myself away from myself; but this which is distinguished, which is set up as unlike me, is immediately on its being distinguished no distinction for me. 
+I, the selfsame being, thrust myself away from myself.
 
-Consciousness of an other, of an object in general, is indeed itself necessarily self-consciousness, reflectedness into self, consciousness of self in its otherness.
+But this which is distinguished, which is set up as unlike me, is immediately on its being distinguished no distinction for me.
+
+Consciousness of an other, of an object in general, is itself necessarily self-consciousness, reflectedness into self, consciousness of self in its otherness.
 
 The necessary advance from the previous attitudes of consciousness, which found their true content to be a thing, something other than themselves, brings to light this very fact that not merely is consciousness of a thing only possible for a self-consciousness, but that this self-consciousness alone is the truth of those attitudes. 
 
 But it is only for us (who trace this process] that this truth is actually present; it is not yet so for the consciousness immersed in the experience. 
 
-Self-consciousness has in the first instance become a specific reality on its own account (für sich), has come into being for itself; it is not yet in the form of unity with consciousness in general.
+Self-consciousness has in the first instance become a specific reality on its own account. 
+
+It has come into being for itself.
+
+It is not yet in the form of unity with consciousness in general.
 
 
-{{< s v="165" >}} 
+{{< s v="165" >}} In the inner being of the sphere of appearance, understanding gets to know only appearance itself.
 
-In the inner being of the sphere of appearance, understanding gets to know in truth nothing else but appearance itself, not, however, appearance in the shape of a play of forces, but that play of forces in its absolutely universal moments and in the process of those moments.
+This appearance is not in the shape of a play of forces, but that play of forces:
+- in its absolutely universal moments and 
+- in the process of those moments.
 
 In fact, understanding merely experiences itself. 
 
-Raised above perception, consciousness reveals itself united and bound up with the supersensible world through the mediating agency of the realm of appearance, through which it gazes into this background that lies behind appearance. 
+Understanding raises consciousness above perception. Consciousness reveals itself united and bound up with the supersensible world through the mediating agency of the realm of appearance, through which it gazes into this background that lies behind appearance. 
 
-The two extremes, the one that of the pure inner region, the other that of the inner being gazing into this pure inner region, are now merged together; and as they have disappeared qua extremes, the middle term, the mediating agency, qua something other than these extremes, has also vanished. 
+The two extremes, the one that of the pure inner region, the other that of the inner being gazing into this pure inner region, are now merged together.
 
-This curtain [of appearance], therefore, hanging before the inner world is withdrawn, and we have here the inner being [the ego] gazing into the inner realm – the vision of the undistinguished selfsame reality, which repels itself from itself, affirms itself as a divided and distinguished inner reality, but as one for which at the same time the two factors have immediately no distinction; what we have here is Self-consciousness. 
+As they have disappeared qua extremes, the middle term, the mediating agency, qua something other than these extremes, has also vanished. 
 
-The so-called curtain hides the inner world. Behind that curtain, there is nothing to be seen unless we ourselves go behind there.
+This curtain of appearance that hangs before the inner world is withdrawn.
+
+We have the inner being [the ego] gazing into the inner realm.
+
+This is the vision of the undistinguished selfsame reality, as Self-consciousness.
+
+This:
+- repels itself from itself
+- affirms itself as a divided and distinguished inner reality
+
+But at the same time, the two selves have no distinction
+ 
+
+The curtain hides the inner world. Behind that curtain, there is nothing to be seen unless we ourselves go behind there.
 
 But we cannot go straightway behind there. 
 
@@ -88,4 +144,3 @@ For this knowledge of what is the truth of the idea of the realm of appearance a
 It happens in the course of which the modes of consciousness, “meaning”, “perception”, and “understanding” disappear. 
 
 To get acquainted with what consciousness knows when it is knowing itself, requires us to fetch a still wider compass, What follows will set this forth at length.
-

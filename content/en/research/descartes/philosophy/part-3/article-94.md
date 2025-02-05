@@ -15,7 +15,11 @@ icon: "/icons/descartes.png"
 
 #### 94. How spots are generated on the surface of the sun or stars
 
-When this fire-aether reaches the body of the Sun or star, all its most agitated minute parts are not obstructed by the air-aether's globules. And so, they strive to move similarly.
+When this fire-aether reaches the body of the Sun or star, all its most agitated minute parts [electrons] are not obstructed by the air-aether's globules.
+- And so, they strive to move similarly*.
+
+{{< n n="This 'similar' or unified movement or flow is the basis for electricity" >}}
+
 
 The virtual photons, as well as many others slightly smaller, avoid such agitation because they have:
 - too much mass, or
@@ -61,9 +65,10 @@ Similarly, sunspots emerge easily from the sun's body and accumulate on its surf
 - partly reintegrated into its substance
 - partly dispersed through the nearby sky. 
 
-This is because these spots are not formed from the whole body of the Sun, but only from the matter recently entered into it.
+**This is because these spots are not formed from the whole body of the Sun, but only from the matter recently entered into it.**
 
-The rest of the matter, which has remained in it longer and is, cooked and refined, always rotates with the greatest force. It partly scrapes off those already formed while new ones are generated in other parts from new matter entering the Sun.
+The rest of the matter, which has remained in it longer and is, cooked and refined, always rotates with the greatest force. 
+- It partly scrapes off those already formed while new ones are generated in other parts from new matter entering the Sun.
 
 Hence, they do not all appear in the same places.
 

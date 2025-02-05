@@ -1,6 +1,6 @@
 ---
 heading: Chapter 1
-linkTitle: Chapter 1
+linkTitle: Convertible
 title: "The Convertible Layer of Superphysics"
 # heading: Transforming Matter as Modern Alchemy
 # date: 2020-01-28
@@ -36,8 +36,22 @@ Quality | Rare
 
 It manifests as radioactivity, chemical change, flavor changing, and is governed by the 'Weak Force' and graphically through Feynman diagrams.
 
-![A Feynman diagram](/graphics/physics/feynman.jpg)
+{{< i s="/graphics/physics/feynman.jpg" a="A Feynman diagram" c="A Feynman diagram converted to Material Superphysics" >}}
 
 
 In terms of creation, this is the fourth layer that processes energies and matter into other kinds.
+
+
+### Definition of the Convertible Layer
+
+This layer creates the diversity in the material universe. This has both dynamic and static parts. 
+
+Its particles are made up of 2 aether particles. This makes it very unstable. This inherent instability lets it convert other particles, both radiant and material. 
+
+This layer was traditionally associated with water and liquids because they are always moving and can switch between gas, liquid, and solid. 
+
+The importance of liquids in Conversion is seen in convertible quanta, as neutrinos, being detectable in liquid argon and chlorine. 
+
+This layer is also the least known by Physics because, like spacetime, it is dynamic and hard to detect. 
+
 

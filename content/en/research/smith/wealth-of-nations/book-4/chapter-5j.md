@@ -1,6 +1,6 @@
 ---
 title: "Digression on the wheat trade and wheat laws: Foreign wheat market"
-heading: "Chapter 5e"
+heading: "Chapter 5j"
 description: "The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply"
 image: /covers/wn.jpg
 weight: 50

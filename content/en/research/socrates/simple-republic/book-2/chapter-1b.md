@@ -1,5 +1,5 @@
 ---
-title: "Dharma Versus Adhdarma"
+title: "What the Adharmic People Do"
 heading: Chapter 1b
 weight: 7
 image: "/covers/republic.jpg"
@@ -9,6 +9,10 @@ writer:
   url: https://en.wikipedia.org/wiki/Plato
 icon: "/icons/socrates.png"
 ---
+
+
+
+{{< n n="We translate as δίκαιος as dharma (instead of justice) and άδικος as adharma (instead of injustice)">}}
 
 
 

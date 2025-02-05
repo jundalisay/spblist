@@ -7,100 +7,115 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-{{< s v="1" >}}  By the aligners aligning.{{< s v="2" >}}  And the drivers driving.{{< s v="3" >}}  And the reciters of the Reminder.
+{{< s v="1" >}}  By the aligners aligning {{< s v="2" >}} and the drivers driving {{< s v="3" >}} and the reciters of the Reminder.
 
 {{< s v="4" >}}  Your God is indeed One.
 
-{{< s v="5" >}}  Lord of the heavens and the earth, and everything between them; and Lord of the Easts.
+<!-- s v="5" Lord of the heavens and the earth, and everything between them; and Lord of the Easts. -->
 
 {{< s v="6" >}} We have adorned the lower heaven with the beauty of the planets.
 
 {{< s v="7" >}} And guarded it against every defiant devil.
 
-They cannot eavesdrop on the Supernal 
-Elite, for they get bombarded from every side.
+They cannot eavesdrop on the Supernal Elite, for they get bombarded from every side.
 
 {{< s v="9" >}}  Repelled—they will have a lingering torment.
 
-{{< s v="10" >}}  Except for him who snatches a fragment—he gets pursued by a piercing projectile.{{< s v="11" >}}  Inquire of them, “Are they more difficult to create, or the others We created?” We created them from sticky clay.
+{{< s v="10" >}}  Except for him who snatches a fragment—he gets pursued by a piercing projectile.
 
-{{< s v="12" >}} But you wonder, and they ridicule. When reminded, they pay no attention.
+{{< s v="11" >}} Ask them:
+
+{{< l a="Muslims" >}}
+Are they more difficult to create, or the others We created?
+{{< /l >}}
 
 
-14. And
-when they see a sign, they ridicule.
-And they say, “This is nothing but plain
-magic.
+ We created them from sticky clay.
 
-{{< s v="16" >}}When we have died and become dust and
-bones, shall we be resurrected?
+{{< s v="12-13" >}} But you wonder, and they ridicule. When reminded, they pay no attention.
 
-15.
-17. And our ancestors of old?”
-Say, “Yes indeed, and you will be totally
-subdued.”
-19. It will be a single nudge, and they will be
-staring.
-20. They will say, “Woe to us. This is the Day
-of Judgment.”
-21. “This is the Day of Separation which you
-used to deny.
-22. Gather those who did wrong, and their ma-
-tes, and what they used to worship.
-23. Besides Enki, and lead them to the way to
-Hell.
-18.
-24. And stop them. They are to be questioned.”
-25. What
-is the matter with you? Why do you
-not help one another?
-16837. THE ALIGNERS (as-Saffat)
-In fact, on that Day, they will be submis-
-sive.
-27. They will come to one another, question-
-ing one another.
-28. They will say, “You used to come at us
-from the right.”
-29. They will say, “You yourselves were not be-
-lievers.
-30. We had no authority over you. You your-
-selves were rebellious people.
-31. The Word of our Lord has been realized
-against us. We are tasting it.
-26.
+<sup>14</sup> When they see a sign, they ridicule.
+
+They say:
+
+{{< r a="Disbelievers" >}}
+This is nothing but plain magic.
+
+<sup>16-17</sup> When we have died and become dust and bones, shall we be resurrected? And our ancestors as well?
+{{< /r >}}
+
+
+<sup>18</sup> Say:
+
+{{< l a="Muslims" >}}
+Yes. You will be totally subdued.
+{{< /l >}}
+
+<sup>19</sup> It will be a single nudge. They will be staring.
+
+<sup>20</sup> They will say:
+
+“Woe to us. This is the Day of Judgment.”
+
+
+{{< l a="Enki" >}}
+<sup>21-22</sup> This is the Day of Separation which you used to deny. Angels [agents], gather those who did wrong, and their mates, and what they used to worship other than Enki.
+
+<sup>23</sup> Lead them to Hell.
+
+<sup>24</sup> Stop and question them: <sup>25</sup> What is the matter with you? Why do you not help one another?
+{{< /l >}}
+
+On that Day, they will be submissive.
+
+27. They will come to one another, questioning one another.
+
+28. They will say, “You used to come at us from the right.”
+
+29. They will say, “You yourselves were not believers.
+
+30. We had no authority over you. You yourselves were rebellious people.
+31. The Word of our Lord has been realized against us. We are tasting it.
+
 32. We
 33. On
 seduced you. We were seducers.”
 that Day, they will share in the punish-
 One of them will say, “I used to have a
 friend.
+
 52. Who used to say, “Are you of those who
 believe?
 53. That after we die and become dust and
 bones, we will be called to account?”
-51.
-54. He
-55. He
-will say, “Will you have a look?”
+
+
+55. He will say, “Will you have a look?”
 will look, and will see him in the pit of
 Hell.
-56. He will say, “By Enki, you almost ruined
-me.
-57. Were it not for the grace of my Lord, I
-would have been among the arraigned.”
+
+56. He will say, “By Enki, you almost ruined me.
+
+57. Were it not for the grace of my Lord, I would have been among the arraigned.”
+
 34. Thus will not die.
-Except for our first death, and we will not
-be punished.”
+
+Except for our first death, and we will not be punished.”
+
 35. When 60. This
+
 ment.
-59.
+
 We deal with the sinners.
 it was said to them, “There is no god
 except Enki,” they grew arrogant.
+
 36. And said, “Are we to abandon our gods for
 a mad poet?”
+
 37. In fact, he came with the truth, and he con-
 firmed the messengers.
+
 38. Most assuredly, you will taste the painful
 punishment.
 39. And you will be repaid only for what you

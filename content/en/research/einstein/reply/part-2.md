@@ -104,22 +104,34 @@ This formulation is insofar entirely unprecise as “testability” is a quality
 
 
 
-Margenau's essay says that my position contains features of rationalism and extreme empiricism. It's correct. 
+Margenau's essay says that my position contains features of rationalism and extreme empiricism. 
 
+This remark is entirely correct. From whence comes this fluctuation?
 
-This remark is entirely correct. From whence comes this fluctuation? A logical conceptual system is physics insofar as its concepts and assertions are necessarily brought into relationship with the world of experiences. 
+A logical conceptual system is physics as long as its concepts and assertions are necessarily brought into relationship with the world of experiences. 
 
-Whoever desires to set up such a system will find a dangerous obstacle in arbitrary choice (embarras de richesse). This is why he seeks to connect his concepts as directly and necessarily as possible with the world of experience. 
+Whoever desires to set up such a system will find a dangerous obstacle in arbitrary choice.
+ <!-- (embarras de richesse).  -->
+- This is why he seeks to connect his concepts as directly with the world of experience. 
+- In this case, his attitude is empirical. 
 
-In this case, his attitude is empirical. 
+This path is often fruitful.
 
-This path is often fruitful, but it is always open to doubt, because the specific concept and the individual assertion can, after all, assert something confronted by the empirically given only in connection with the entire system. 
+But it is always open to doubt because the specific concept and the individual assertion can assert something confronted by the empirically-given only in connection with the entire system. 
 
-He then recognises that there exists no logical path from the empirically given to that conceptual world. His attitude becomes then more nearly rationalistic, because he recognises the logical independence of the system. The danger in this attitude lies in the fact that in the search for the system one can lose every contact with the world of experience. A wavering between these extremes appears to me unavoidable.
+He then recognises that there exists no logical path from the empirically given to that conceptual world. 
+
+His attitude becomes then more nearly rationalistic, because he recognises the logical independence of the system.
+
+The danger in this attitude lies in the fact that in the search for the system one can lose every contact with the world of experience.
+
+A wavering between these extremes is unavoidable.
 
 I did not grow up in the Kantian tradition, but I found what is truly valuable in Kant's doctrine: "The real is not given to us, but put to us (aufgegeben) (by way of a riddle)."
 
-It means that we have a conceptual construction for grasping the inter-personal. The authority of this construction is purely in its validation.  This conceptual construction refers precisely to the “real” (by definition). **Every further question on the “nature of the real” appears empty.**
+It means that we have a conceptual construction for grasping the inter-personal.
+
+The authority of this construction is purely in its validation.  This conceptual construction refers precisely to the “real” (by definition). **Every further question on the “nature of the real” appears empty.**
 
 
 I am not convinced by Margenau's Section 4. 

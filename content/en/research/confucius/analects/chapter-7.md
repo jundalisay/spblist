@@ -4,7 +4,7 @@ title: "Characteristics of Confucius--An Incident"
 description: "Confucius is a transmitter and not an originator. He believes in and loves the ancients."
 weight: 14
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

@@ -42,7 +42,7 @@ The system will use anti-gravity from the aether instead of magnetic confinement
 This is ideal for small vehicles, leading to a saucer shape*. The same anti-gravity that the fusion reactor uses to move its hydrogen can be used to float the reactor itself, leading to a flying saucer-shaped reactor. This is one of the requirements of Tesla's power plant design that was never realized.   
 
 
-> *The most popular UFO design is from Bob Lazar which uses an antimatter energy source. However, this would not be sustainable just as a nuclear submarine would have a finite nuclear fuel source. This is why antimatter UFOs have a compact design and is used for exploration, since they are lightweight. Fusion designs on the other hand are for self-sustaining craft. The fuel can be sourced from planets. 
+{{< n n="*The most popular UFO design is from Bob Lazar which uses an antimatter energy source. However, this would not be sustainable just as a nuclear submarine would have a finite nuclear fuel source. This is why antimatter UFOs have a compact design and is used for exploration, since they are lightweight. Fusion designs on the other hand are for self-sustaining craft. The fuel can be sourced from planets." >}}
 
 
 
@@ -59,7 +59,3 @@ More energy can be harnessed by increasing the friction between particles.
 
 
 This is why UFOs prefer to stay within the gravitational field of planets where they can get hydrogen. In the vacuum of space, they can only get spacetime energy. The fact that we never see UFOs coated in black solar panels means that the spacetime energy is far more reliable and more energetic than solar energy. -->
-
-
-
-

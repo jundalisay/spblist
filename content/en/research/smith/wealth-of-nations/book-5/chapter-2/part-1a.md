@@ -1,6 +1,6 @@
 ---
 title: "The Funds Which Belong To The Sovereign Or Commonwealth"
-heading: "Chapter 2a-01"
+heading: "Chapter 2-1a"
 weight: 6
 image: "/covers/wn.jpg"
 description: "The revenue which pays for national defense and the government may be drawn from some fund for from the revenue of the people"

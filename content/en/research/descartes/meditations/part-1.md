@@ -120,7 +120,9 @@ It isn’t enough merely to have noticed this, though. I must make an effort to 
 
 My old familiar opinions keep coming back. Against my will, they capture my belief. 
 
-It is as though they had a right to a place in my belief-system as a result of long occupation and the law of custom. It is true that these habitual opinions of mine are highly probable; although they are in a sense doubtful, as I have shown, it is more reasonable to believe than to deny them. But if I go on viewing them in that light I shall never get out of the habit of confidently assenting to them. To conquer that habit, therefore, I had better switch right around and pretend (for a while) that these former opinions of mine are utterly false and imaginary. 
+It is as though they had a right to a place in my belief-system as a result of long occupation and the law of custom. It is true that these habitual opinions of mine are highly probable; although they are in a sense doubtful, as I have shown, it is more reasonable to believe than to deny them. But if I go on viewing them in that light I shall never get out of the habit of confidently assenting to them.
+
+To conquer that habit, therefore, I had better switch right around and pretend (for a while) that these former opinions of mine are utterly false and imaginary. 
 
 I shall do this until I have something to counter-balance the old opinion. <!-- , and the distorting influence of habit no longer prevents me from judging correctly. --> This will affect only how I acquire knowledge and not <!-- However far I go in my distrustful attitude, no actual harm will come of it, because my project won’t --> how I act.
 

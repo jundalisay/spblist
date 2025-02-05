@@ -133,9 +133,11 @@ It naturally always aims to bring only the precise quantity to supply that deman
 {{< s v="17" >}} In some employments, the same amount of industry will always produce the same amounts of commodities per year.
 
 While in other employments, it will produce very different amounts per year.
+
 The same number of agricultural workers will produce very different amounts of corn, wine, oil, hops, etc. every year.
 
 The same number of spinners and weavers will produce the same amount of linen and cloth every year.
+
 Because of this, prices of agricultural products fluctuate more than the prices of manufactured goods, even if the demand for food and manufactures may be the same.
 
 The price of manufactured goods varies only with the variations in the demand.

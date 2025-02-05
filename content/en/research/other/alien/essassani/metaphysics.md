@@ -7,6 +7,22 @@ author: Consolidated from Bashar
 ---
 
 
+<!-- personality:
+
+belief
+emotion
+thought pricess
+
+
+Yahyel
+Tall Whites Hyper Sapiens
+Sirians
+Plaedians
+Good Grays
+ -->
+
+
+
 ## "Receiving" the Reality you Desire
 
 A radio does not have to create the program it wishes to hear.

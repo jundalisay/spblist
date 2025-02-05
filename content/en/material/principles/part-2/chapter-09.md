@@ -2,8 +2,8 @@
 heading: "Chapter 9"
 title: "Spatial Relationality"
 date: 2024-12-19
-weight: 40
-image: /graphics/physics/constant.jpg
+weight: 42
+image: /graphics/physics/traf.png
 description: "Spatial Relationality deals with the movement of quanta of spacetime (qosts)"
 icon: /icons/spmat.png
 writer:
@@ -14,10 +14,12 @@ writer:
 
 Spatial Relationality via `G1 : G2` and the 3 layers leads to the following phenomena:
 
+
+ <!-- (This was already explained in Chapter 3e) -->
 Identity 1 | Identity 2 | Phenomena
 --- | --- | --- 
-Matter | Matter  | Material or Planetary Gravity 
-Matter | Radiance | Spectral lines
+Matter | Matter (vortex)  | Planetary Gravity
+Matter | Radiance | Spectral lines and Lensing
 Radiance | Radiance | Lensing
 Galaxy | Radiance  | Dark Matter, Gravitational Waves
 Galaxy | Galaxy  | Dark Energy
@@ -53,6 +55,10 @@ The main mechanism of:
 - General Relativity is the stress-energy tensor
   - The mechanism for the stress-energy tensor is mass-energy equivalence which is really the match between electromagnetic potential and electromagnetic energy.  
 
+
+Both Special and General Relativity live in a 4D Minkowski spacetime. 
+
+
 Einstein Idea | Meaning
 --- | --- 
 Metric Tensor | Using a speed constant as a ruler
@@ -64,9 +70,9 @@ Equivalence Principle | Match of movement from inherent speed and relation to so
 As you can see, the whole edifice and sophistry of Relativity is based on the use of the constant speed of light in the metric tensor.
 
 
-### The Metric Tensor: The Quirk of Constants
+### 4D Minkowski Spacetime: The Quirk of Constants
 
-<!-- Mapping the Space-time Continuum -->
+<!-- Mapping the Space-time Continuum The Metric Tensor -->
 
 Mathematicians love constants because they prevent answers from being wild and patternless. This then puts very broad and abstract ideas distillable into something more rigid and predictable.  
 
@@ -77,7 +83,11 @@ So the discovery of light as a constant `c` in the late 19th century led to the 
 
 Since `c` is a measure of speed, and since speed involves 3-dimensional space per time, then this makes the mathematician-turned-physicist, named Einstein, imagine a geometrical space in 3 dimensions that re-renders itself per unit of time, now called a continuum.
 
-{{< img src="/graphics/physics/traf.png" alt="Einstein's Trafalgar Square" cap="Einstein applies geometries onto space itself" >}}
+
+{{< q a="Einstein" c="Relativity, Appendix" >}}
+A four-dimensional continuum described by the co-ordinates x1 , x2 , x3 , x4 , was called 'world' by Minkowski, who also termed a point-event a 'orld-point'.
+{{< /q >}}
+
 
 {{< n n="In Superphysics, we use the constant speed of light as guide to theorize particle shapes such as corkscrew-rods for virtual photons liquid blobs for mosts, flexing rods for neutrinos, and flipping circles for photons. These dynamics fit with modern observations as magnetic field limes, gravity waves, neutrino oscillations, and polaritzation for light respectively" >}}
  
@@ -92,10 +102,9 @@ In fact, another mathematician-turned-physicist Hawking has a whole book on thes
 {{< img src="/graphics/physics/constant.jpg" alt="Physics Constant" cap="Einstein has trapped humans away from advanced technology" >}}
 
 
-### The Simultaniety of Time Fallacy
+### Metric Tensor: The Simultaneity of Time Fallacy
 
-The flaw of using constants to create the shape of space is understandable error. 
-
+The flaw of using constants to create the shape of space, locking spatial reality in, is understandable error. 
 
 <!-- In his book Relativity, Einstein proposes a strange way to find the space between an observer on Trafalgar square and a cloud above it. He takes a pole, connects it to both the cloud and Trafalgar square PERPENDICULARLY. This then, he claims, would remove the need to have a rigid Trafalgar square as basis. 
 
@@ -103,18 +112,27 @@ Few people seemed to notice that this method is very wasteful because it has to 
 
  <!-- . It creates a kind of space (and time) that can bend or be perpendicular to anything the imagination thinks of.  -->
 
-But in order to make the arbitrary spacetimes real, Einstein uses the speed of light -- the same c that created space -- to create time, as the simultaniety of time
+But in order to make the arbitrary spacetimes real, Einstein uses the speed of light -- the same c that created space -- to create time, as the simultaneity of time.
 
 <!-- To confine this arbitrariness, Einstein uses c or light (which everyone perceives in the same way) to make measurements, as .  -->
 
  <!-- empirical observations (that are common to all humans) possible. This c is then balanced by a cosmological constant as the medium or arena for the c. -->
 
 {{< q a="Einstein-sophist" c="Relativity, Chapter 8" >}}
-We test simultaniety by putting an observer in the middle `M` between `A` and `B`. He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time. **If he sees the two flashes of lightning at the same time, then they are simultaneous [happen at the same time]** You object by saying that "time" would only be "simultaniety" if light travels at a constant speed but the speed of light is measured by time. **You would say this is reasoning in a circle and therefore, simultaniety has absolutely nothing to do with light.**
+We test simultaneity by putting an observer in the middle `M` between `A` and `B`. He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time. **If he sees the two flashes of lightning at the same time, then they are simultaneous [happen at the same time]** You object by saying that "time" would only be "simultaneity" if light travels at a constant speed but the speed of light is measured by time. **You would say this is reasoning in a circle and therefore, simultaneity has absolutely nothing to do with light.**
 {{< /q >}}
 
 
+This limits temporal movement to the speed of light. While the continuum makes arbitrary space-shapes, the simultaneity of time limits the changing of spacetime.
+
+- The continuum prevents levitation
+- The simultaneity prevents easier teleportation and time travel
+
+
 This then creates a universe locked-in by the radiant layer just as the Ptolemy's concentric spheres locked in the geocentric universe around the Earth. 
+
+{{< img src="/graphics/physics/traf.png" alt="Einstein's Trafalgar Square" cap="Einstein applies geometries onto space itself" >}}
+
 
 <!-- These are used to plug the holes and differences between the imagination and the actual universe. This is similar to Aristotle and  around the Earth. -->
 

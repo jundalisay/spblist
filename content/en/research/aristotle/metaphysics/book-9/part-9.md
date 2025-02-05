@@ -33,6 +33,8 @@ If the figures had been already divided, the constructions would have been obvio
 
 If, then, the line parallel to the side had been already drawn upwards, the reason would have been evident to any one as soon as he saw the figure. Why is the angle in a semicircle in all cases a right angle? 
 
-If three lines are equal the two which form the base, and the perpendicular from the centre-the conclusion is evident at a glance to one who knows the former proposition. Obviously, therefore, the potentially existing constructions are discovered by being brought to actuality; the reason is that the geometer's thinking is an actuality; so that the potency proceeds from an actuality.
+If three lines are equal the two which form the base, and the perpendicular from the centre-the conclusion is evident at a glance to one who knows the former proposition. 
+
+Obviously, therefore, the potentially existing constructions are discovered by being brought to actuality; the reason is that the geometer's thinking is an actuality; so that the potency proceeds from an actuality.
 
 Therefore it is by making constructions that people come to know them (though the single actuality is later in generation than the corresponding potency). (See diagram.)

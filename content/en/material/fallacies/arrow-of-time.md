@@ -25,6 +25,21 @@ The physical changes in the physical universe are caused by physical energy.
 
 The metaphysical changes in the mental universe are caused by mental energy.
 
+
+The gap between those changes is called time. This leads to 3 kinds of time based on our 5 Layer model:
+
+
+1. Material Time as changes viewed from Matter
+
+This is called absolute time in Classical Mechanics. 
+
+2. Electromagnetic Time as changes viewed from Radiance
+
+This is called relativistic time in Einstein's Physics. 
+
+3. Mental Time as changes viewed from the Aether
+
+
 {{< img src="/photos/objects/clock.jpg" alt="Clock" >}}
 
 
@@ -34,6 +49,9 @@ Einstein used this formal speed as his `c`. This then became the measure of phys
 This necessarily formalized physical time as an 'arrow'.
 
 It's an arrow because we **see** that energy always naturally spreads as entropy and never converges i.e. by design the universe spreads energy because that is how existence itself is maintained.
+
+This corrupted the definition of time by making the 2 other times as electromagnetic. 
+
 
 
 ### The Start of the Non-Problem: The Quantum Eraser Experiment 
@@ -65,9 +83,9 @@ This policy would save a lot of wasted mental effort and funding which should go
 
 ### Light is not Superior
 
-The blame for this falls squarely on Einstein because he decreed light to be superior. 
+The blame for this falls squarely on Einstein because he decreed light, and therefore electromagnetic time, to be superior. 
 
-Poincare, the original author of Relativity, did not assign supremacy to light. And so his Relativity never mixed up physical time and mental time -- he never bothers about the arrow of physical time. 
+Poincare, the original author of Relativity, did not assign supremacy to light. And so his Relativity never mixed up physical time and mental time -- he never bothers about the arrow of physical time.
 
 This is proven in his Chapter ['The Measure of Time'](https://en.wikisource.org/wiki/The_Measure_of_Time)
 

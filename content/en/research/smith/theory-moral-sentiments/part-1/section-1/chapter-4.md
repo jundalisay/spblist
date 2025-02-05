@@ -112,9 +112,13 @@ What they feel will always be different from what he feels. Compassion can never
 - quite different.
 
 The imagination of observer and the voluntary reduction of observee's passion, may correspond with one another.
-This correspondence is enough for the harmony of society. Though they will never be unisons, they may be concords. This is all that is required.
+This correspondence is enough for the harmony of society. 
 
-37 To produce this concord, nature teaches the observers to assume the circumstances of the observee just as she teaches him to assume the circumstances of the observers.
+Though they will never be unisons, they may be concords. This is all that is required.
+
+
+<sup>37</sup> To produce this concord, nature teaches the observers to assume the circumstances of the observee just as she teaches him to assume the circumstances of the observers.
+
 - The observers are continually placing themselves in the situation of the observee to conceive similar emotions.
   - They are constantly considering what they themselves would feel if they were the sufferers. 
   - The sympathy of the observers makes them look at the sufferer's misfortune through his eyes.

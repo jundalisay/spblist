@@ -16,19 +16,18 @@ icon: /icons/marx.png
 
 ### A. Feudal Socialism
 
-The French and English aristocracies wrote pamphlets against modern capitalist society. 
-- They fell to capitalism in the:
-  - French Revolution of July 1830, and
-  - the English reform agitation[A]
-- This ended any hope of serious political struggle
-  - Only a literary battle remained possible. 
+The French and English aristocracies wrote pamphlets against modern capitalist society. They fell to capitalism in the:
+- French Revolution of July 1830, and
+- the English reform agitation[A]
+
+This ended any hope of serious political struggle. Only a literary battle remained possible. 
 
 <!-- But even in the domain of literature the old cries of the restoration period had become impossible.(1) -->
 
 In order to arouse sympathy, the aristocracy sided with the people. 
-- This led to feudal Socialism: half lamentation, half lampoon
+
+This led to feudal Socialism: half lamentation, half lampoon. It struck ineffectively against capitalists.
 <!--  was obliged to lose sight, apparently, of its own interests, and to formulate their indictment against the capitalists in the interest of the exploited working class alone. Thus, the aristocracy took their revenge by singing lampoons on their new masters and whispering in his ears sinister prophesies of coming catastrophe. -->
-  - It struck ineffectively against capitalists 
 
 <!-- In this way arose ; half an echo of the past, half menace of the future; at times, by its bitter, witty and incisive criticism, striking the capitalists to the very heart’s core; but always ludicrous in its effect, through total incapacity to comprehend the march of modern history. -->
 
@@ -38,29 +37,49 @@ This was done by:
 - one section of the French Legitimists
 - “Young England” 
 
-In pointing out that their mode of exploitation was different to that of the capitalists, the feudalists forget that they exploited under circumstances and conditions that were quite different and that are now antiquated. 
+They pointed out that their mode of exploitation was different from that of the capitalists. 
 
-In showing that, under their rule, the modern proletariat never existed, they forget that the modern capitalists is the necessary offspring of their own form of society.
+The feudalists forgot that they exploited people under circumstances that were quite different and that are now antiquated. 
 
-For the rest, so little do they conceal the reactionary character of their criticism that their chief accusation against the capitalist amounts to this, that under the capitalist régime a class is being developed which is destined to cut up root and branch the old order of society.
+They showed that the modern proletariat never existed under their rule. 
+- They forgot that the modern capitalist is the necessary offspring of their own form of society.
 
-What they upbraid the capitalists with is not so much that it creates a proletariat as that it creates a revolutionary proletariat.
+<!-- For the rest, so little do they conceal the reactionary character of their criticism that  -->
 
-In political practice, therefore, they join in all coercive measures against the working class; and in ordinary life, despite their high-falutin phrases, they stoop to pick up the golden apples dropped from the tree of industry, and to barter truth, love, and honour, for traffic in wool, beetroot-sugar, and potato spirits.(2)
+Their chief accusation against the capitalist is that the capitalist régime creates a revolutionary proletariat class which will cut up root and branch of the old order of society.
+- They upbraid the capitalists for creating such a class. 
+
+ <!-- with is not so much that it creates a proletariat as that it creates a revolutionary proletariat. -->
+
+In political practice, therefore, they join all coercive measures against the working class.
+
+<!-- despite their high-falutin phrases,  -->
+In ordinary life, they:
+- stoop to pick up the golden apples dropped from the tree of industry
+- barter truth, love, and honour, for traffic in wool, beetroot-sugar, and potato spirits.(2)
 
 As the parson has ever gone hand in hand with the landlord, so has Clerical Socialism with Feudal Socialism.
 
-Nothing is easier than to give Christian asceticism a Socialist tinge. Has not Christianity declaimed against private property, against marriage, against the State? Has it not preached in the place of these, charity and poverty, celibacy and mortification of the flesh, monastic life and Mother Church? Christian Socialism is but the holy water with which the priest consecrates the heart-burnings of the aristocrat.
+It is easy to give Christian asceticism a Socialist tinge.
+
+Has not Christianity declaimed against private property, against marriage, against the State? 
+
+Has it not preached in the place of these, charity and poverty, celibacy and mortification of the flesh, monastic life and Mother Church?
+
+Christian Socialism is but the holy water with which the priest consecrates the heart-burnings of the aristocrat.
 
 
 ### B. Sismondi's Petty-Capitalist Socialism
 
 <!-- The feudal aristocracy was not the only class ruined by the capitalists, not the only class whose conditions of existence pined and perished in the atmosphere of modern capitalist society.  -->
 
-The medieval burgesses and the small peasant proprietors were the precursors of the modern capitalists. 
-- In undeveloped countries, these two classes still vegetate side by side with the rising capitalists.
-- In developed countries, these led to the Petty-Capitalist, a supplementary part of capitalist society
-  - These fluctuate between proletariat and capitalists, and are ruined by the real capitalists. 
+The medieval burgesses and the small peasant proprietors were the precursors of the modern capitalists.
+
+In undeveloped countries, these 2 classes still vegetate side by side with the rising capitalists.
+
+In developed countries, these led to the Petty-Capitalist, a supplementary part of capitalist society
+- These fluctuate between proletariat and capitalists, and are ruined by the real capitalists. 
+
 <!--  which are but little developed, industrially and commercially,  -->
 
 <!-- In countries where modern civilisation has become fully developed, a new class of petty capitalist has been formed, , and ever renewing itself .  -->
@@ -73,7 +92,8 @@ In countries like France, peasants make up far more than half of the population.
 <!-- , and from the standpoint of these intermediate classes, should take up the cudgels for the working class.  -->
 
 This led to petty-capitalist Socialism. 
-- Sismondi was the head of this school in France and in England.
+
+Sismondi was the head of this school in France and in England.
 - It dissected with great acuteness the contradictions in the conditions of modern production. 
 - It laid bare the hypocritical apologies of economists. 
 
@@ -101,5 +121,3 @@ In either case, it is both reactionary and Utopian.
 Its last words are: "corporate guilds for manufacture; patriarchal relations in agriculture".
 
 Ultimately, when stubborn historical facts were removed of self-deception, this form of Socialism ended in a miserable fit of the blues.
-
-

@@ -1,6 +1,6 @@
 ---
 title: Extinction
-heading: Chapter 10
+heading: Chapter 10b
 weight: 66
 description: "On the theory of natural selection, the extinction of old forms and the production of new and improved forms are intimately connected"
 image: "/covers/origin.jpg"
@@ -9,19 +9,15 @@ image: "/covers/origin.jpg"
 
 On the theory of natural selection, the extinction of old forms and the production of new and improved forms are intimately connected.
 
-The old notion of all the inhabitants of the earth having been swept away at successive periods by catastrophes, is very generally given up, even by those geologists, as Elie de Beaumont, Murchison, Barrande, &c., whose general views
-would naturally lead them to this conclusion. On the contrary, we have every reason to believe,from the study of the tertiary formations, that species and groups of species gradually disappear, one after another, first from one spot, then from another, and finally from the world. 
+People have given up the idea that all the inhabitants of the earth were swept away at successive periods by catastrophes.
 
-Both single species and whole groups of species last for very unequal periods; some groups, as we have seen,
-having endured from the earliest known dawn of life to the present day; some having disappeared
-before the close of the palaeozoic period. No fixed law seems to determine the length of time
-during which any single species or any single genus endures. There is reason to believe that the
-complete extinction of the species of a group is generally a slower process than their production: if
-the appearance and disappearance of a group of species be represented, as before, by a vertical line
-of varying thickness, the line is found to taper more gradually at its upper end, which marks the
-progress of extermination, than at its lower end, which marks the first appearance and increase in
-numbers of the species. In some cases, however, the extermination of whole groups of beings, as
-of ammonites towards the close of the secondary period, has been wonderfully sudden.
+
+<!-- even by those geologists, as Elie de Beaumont, Murchison, Barrande, &c., whose general views
+would naturally lead them to this conclusion.  -->
+
+The study of the tertiary formations show that species and groups of species gradually disappear, one after another, first from one spot, then from another, and finally from the world. 
+
+Both single species and whole groups of species last for very unequal periods; some groups, as we have seen, having endured from the earliest known dawn of life to the present day; some having disappeared before the close of the palaeozoic period. No fixed law seems to determine the length of time during which any single species or any single genus endures. There is reason to believe that the complete extinction of the species of a group is generally a slower process than their production: if the appearance and disappearance of a group of species be represented, as before, by a vertical line of varying thickness, the line is found to taper more gradually at its upper end, which marks the progress of extermination, than at its lower end, which marks the first appearance and increase in numbers of the species. In some cases, however, the extermination of whole groups of beings, as of ammonites towards the close of the secondary period, has been wonderfully sudden.
 
 The whole subject of the extinction of species has been involved in the most gratuitous mystery.
 Some authors have even supposed that as the individual has a definite length of life, so have species
@@ -74,34 +70,9 @@ indefinitely increasing, at least during the later geological periods, so that l
 may believe that the production of new forms has caused the extinction of about the same number
 of old forms.
 
-The competition will generally be most severe, as formerly explained and illustrated by examples,
-between the forms which are most like each other in all respects. Hence the improved and
-modified descendants of a species will generally cause the extermination of the parent-species; and
-if many new forms have been developed from any one species, the nearest allies of that species, i.e.
-the species of the same genus, will be the most liable to extermination. Thus, as I believe, a
-number of new species descended from one species, that is a new genus, comes to supplant an old
-genus, belonging to the same family. But it must often have happened that a new species belonging
-to some one group will have seized on the place occupied by a species belonging to a distinct
-group, and thus caused its extermination; and if many allied forms be developed from the
-successful intruder, many will have to yield their places; and it will generally be allied forms,
-which will suffer from some inherited inferiority in common. But whether it be species belonging
-to the same or to a distinct class, which yield their places to other species which have been
-modified and improved, a few of the sufferers may often long be preserved, from being fitted to
-some peculiar line of life, or from inhabiting some distant and isolated station, where they have
-escaped severe competition. For instance, a single species of Trigonia, a great genus of shells in
-the secondary formations, survives in the Australian seas; and a few members of the great and
-almost extinct group of Ganoid fishes still inhabit our fresh waters.
+The competition will generally be most severe, as formerly explained and illustrated by examples, between the forms which are most like each other in all respects. Hence the improved and modified descendants of a species will generally cause the extermination of the parent-species; and if many new forms have been developed from any one species, the nearest allies of that species, i.e. the species of the same genus, will be the most liable to extermination. Thus, as I believe, a number of new species descended from one species, that is a new genus, comes to supplant an old genus, belonging to the same family. But it must often have happened that a new species belonging to some one group will have seized on the place occupied by a species belonging to a distinct group, and thus caused its extermination; and if many allied forms be developed from the successful intruder, many will have to yield their places; and it will generally be allied forms, which will suffer from some inherited inferiority in common. But whether it be species belonging to the same or to a distinct class, which yield their places to other species which have been modified and improved, a few of the sufferers may often long be preserved, from being fitted to some peculiar line of life, or from inhabiting some distant and isolated station, where they have escaped severe competition. For instance, a single species of Trigonia, a great genus of shells in the secondary formations, survives in the Australian seas; and a few members of the great and almost extinct group of Ganoid fishes still inhabit our fresh waters.
 
-Therefore the utter extinction
-of a group is generally, as we have seen, a slower process than its production.
-With respect to the apparently sudden extermination of whole families or orders, as of Trilobites at
-the close of the palaeozoic period and of Ammonites at the close of the secondary period, we must
-remember what has been already said on the probable wide intervals of time between our
-consecutive formations; and in these intervals there may have been much slow extermination.
-Moreover, when by sudden immigration or by unusually rapid development, many species of a new
-group have taken possession of a new area, they will have exterminated in a correspondingly rapid
-manner many of the old inhabitants; and the forms which thus yield their places will commonly be
-allied, for they will partake of some inferiority in common.
+Therefore the utter extinction of a group is generally, as we have seen, a slower process than its production. With respect to the apparently sudden extermination of whole families or orders, as of Trilobites at the close of the palaeozoic period and of Ammonites at the close of the secondary period, we must remember what has been already said on the probable wide intervals of time between our consecutive formations; and in these intervals there may have been much slow extermination. Moreover, when by sudden immigration or by unusually rapid development, many species of a new group have taken possession of a new area, they will have exterminated in a correspondingly rapid manner many of the old inhabitants; and the forms which thus yield their places will commonly be allied, for they will partake of some inferiority in common.
 
 Thus, as it seems to me, the manner in which single species and whole groups of species become
 extinct, accords well with the theory of natural selection. We need not marvel at extinction; if wemust marvel, let it be at our presumption in imagining for a moment that we understand the many complex contingencies, on which the existence of each species depends. 

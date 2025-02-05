@@ -1,7 +1,7 @@
 ---
 title: "The Emperor"
 heading: "Article 1"
-weight: 1
+weight: 4
 image: "/flags/jp.png"
 description: "The Emperor shall be the symbol of the State and of the unity of the People"
 icon: "/flags/jp.png"

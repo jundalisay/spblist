@@ -12,12 +12,13 @@ writer:
 ---
 
 
-
 In our example in Chapter 3, Adam needed to buy a cake for his wife's birthday. He himself did not want to eat cakes, and so it has no use-value to him. 
 
 Therefore, his mind assigned value to that cake because of the nature of:
 - Adam's love for his wife
 - his wife's birthday and the culture of giving cakes during birthdays
+
+{{< img src="/photos/objects/cake.jpg" alt="Cake slice">}}
 
 
 All these factors go into the value of the cake which Adam thinks of as the cake's worth:

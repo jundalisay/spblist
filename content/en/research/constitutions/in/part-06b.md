@@ -1,9 +1,9 @@
 ---
 title: "The State Legislature"
 heading: "Articles 168-"
-weight: 1
+weight: 24
 image: "/flags/in.png"
-description: ""
+description: "For every State there shall be a Legislature which shall consist of the Governor"
 icon: /flags/in.png
 ---
 

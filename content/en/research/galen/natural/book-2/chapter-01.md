@@ -37,11 +37,21 @@ This is because when reeds and tubes aresubmerged in water, and are emptied of t
 
 In the case of veins this no longer holds, since their coats can collapse and so fall in upon the interior cavity. It may be seen, then, how false this hypothesis—by Zeus, I cannot call it a demonstration!—of Erasistratus is.
 
-From another point of view, even if it were true, it is superfluous, if the stomach171 has the power of compressing the veins, as he himself supposed, and the veins again of contracting upon their contents and propelling them forwards.172 For, apart from other considerations, no plethora173 would ever take place in the body, if delivery of nutriment resulted merely from the tendency of a vacuum to become refilled. 
 
-Now, if the compression of the stomach becomes weaker the further it goes, and cannot reach to an indefinite distance, and if, therefore, there is need of some other mechanism to explain why the blood is conveyed in all directions, then the principle of the refilling of a vacuum may be looked on as a necessary addition;174 
+Erasistratus supposed that:
+- the stomach can compress the veins
+- the veins can contract the contents of the stomach and propel them forwards.172 
 
-there will not, however, be a plethora in any of the parts coming after the liver,175 or, if there be, it will be in the region of the heart and lungs; for the heart alone of the parts which come after the liver draws the nutriment into its right ventricle, thereafter sending it through the arterioid vein176 to the lungs (for Erasistratus himself will have it that, owing to the membranous excrescences,177 no other parts save the lungs receive nourishment from the heart).
+No plethora173 would ever take place in the body, if delivery of nutriment resulted merely from the tendency of a vacuum to become refilled. 
+
+The principle of the refilling of a vacuum is a necessary addition if:
+- the compression of the stomach becomes weaker the further it goes, and cannot reach to an indefinite distance
+- some other mechanism makes the blood go in all directions
+
+
+there will not, however, be a plethora in any of the parts coming after the liver,175 or, if there be, it will be in the region of the heart and lungs; 
+
+for the heart alone of the parts which come after the liver draws the nutriment into its right ventricle, thereafter sending it through the arterioid vein176 to the lungs (for Erasistratus himself will have it that, owing to the membranous excrescences,177 no other parts save the lungs receive nourishment from the heart).
 
 If, however, in order to explain how plethora comes about, we suppose the force of compression by the stomach to persist indefinitely, we have no further need of the principle of the refilling of a vacuum, especially if we assume contraction of the veins in addition—as is, again, agreeable to Erasistratus himself.
 
@@ -71,5 +81,3 @@ How is it, then, that it does not run out? “Because,” it may be said, “uri
 For, if it be that we are to look on bile as thinner than blood because it runs more, then, since the serous residue181 passes through fine linen or lint or a sieve more easily even than does bile, by these tokens bile must also be thicker than the watery fluid. For here, again, there is no argument which will demonstrate that bile is thinner than the serous superfluities.
 
 But when a man shamelessly goes on using circumlocutions, and never acknowledges when he has had a fall, he is like the amateur wrestlers, who, when they have been overthrown by the experts and are lying on their backs on the ground, so far from recognizing their fall, actually seize their victorious adversaries by the necks and prevent them from getting away, thus supposing themselves to be the winners!
-
-

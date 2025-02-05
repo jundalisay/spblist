@@ -1,5 +1,6 @@
 ---
 heading: Chapter 5b
+linkTitle: QCD
 title: "Quantum Chromo Dynamics: Color Charges and Mesons"
 # date: 2024-07-14
 image: /graphics/physics/gravitya.jpg

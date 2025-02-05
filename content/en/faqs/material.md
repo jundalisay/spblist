@@ -70,7 +70,7 @@ So Superphysics puts back the 5 Elements in their natural order?
 
 
 {{< l a="Material-Superphysics" >}}
-Yes, crucially, we bring back the aether as the 5th Element to explain all the mysteries that Physics is stuck with. All great Western physicists Newton, Maxwell, Kelvin, Bohr believed in an aether substance as fundamental to their theories. Only Einstein discarded the aether and made it useless by turning it into a philosophical boundary between spacetime and electromagnetism.   
+Yes, crucially, we bring back the aether as the 5th Element to explain all the mysteries that Physics is stuck with. All great Western physicists Newton, Maxwell, Kelvin, Bohr believed in an aether substance as fundamental to their theories. Only Einstein discarded the aether and made it useless by turning it into a philosophical boundary for absolute space.   
 {{< /l >}}
 
 
@@ -92,7 +92,7 @@ It's the substance of reality. We define it as the substance of ideas, feelings,
 
 Descartes got it from Aristotle who got it from Timaeus which is the mechanics of the Plato's theory of forms. It says that reality is an idea of the One (Parmenides) which has different modifications or modes. This was later explained in full by Spinoza. This is why we call it Cartesian-Spinozan Physics just as we call the Asian version as Vedic-Buddhist-Taoist Physics. 
 
-Since ideas as the aether then were those ideas are deployed is called the aetherspace. 
+Minds and ideas are deployed in the aetherspace because they are all of the same substance.
 {{< /l >}}
 
 {{< youtube 6D9LNAgWbRE >}}
@@ -113,7 +113,7 @@ Minkowski spacetime, on the other hand, has a time factor that absurdly can move
 
 
 {{< r a="Asker" >}}
-So by decreeing a science that allows only evidence observable by all, then physicists painted themselves into a corner?
+So by decreeing that science should only allow evidence that is observable by all, then physicists painted themselves into a corner?
 {{< /r >}}
 
 

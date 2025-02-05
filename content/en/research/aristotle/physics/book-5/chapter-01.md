@@ -15,12 +15,13 @@ EVERYTHING changes in 3 senses:
 
 1. Accidentally
 
-<!--  as for instance when we say that something musical walks, that which
-walks being something in which aptitude for music is an accident.  -->
+When we say that something musical walks, that which walks is something in which aptitude for music is an accident.
+
 
 2. Without qualification to change
 
 This is because something belonging to it changes, i.e. in statements which refer to part of the thing in question: thus the body is restored to health because the eye or the chest, that is to say a part of the whole body, is restored to health. 
+
 
 3. Above all, through direct motion
 
@@ -61,27 +62,53 @@ process of change. Thus ‘perishing’ is change to not-being, though it is als
 that which perishes changes from being: and ‘becoming’ is change to being, though it is
 also change from not-being.
 
-Now a definition of motion has been given above, from which it will be seen that every
-goal of motion, whether it be a form, an affection, or a place, is immovable, as, for
-instance, knowledge and heat. Here, however, a difficulty may be raised. Affections, it
-may be said, are motions, and whiteness is an affection: thus there may be change to a
-motion. To this we may reply that it is not whiteness but whitening that is a motion.
-Here also the same distinctions are to be observed: a goal of motion may be so
-accidentally, or partially and with reference to something other than itself, or directly
-and with no reference to anything else: for instance, a thing which is becoming white
-changes accidentally to an object of thought, the colour being only accidentally the
-object of thought; it changes to colour, because white is a part of colour, or to Europe,
-because Athens is a part of Europe; but it changes essentially to white colour. It is now
-clear in what sense a thing is in motion essentially, accidentally, or in respect of
-something other than itself, and in what sense the phrase ‘itself directly’ is used in the
-case both of the mover and of the moved: and it is also clear that the motion is not in the
-form but in that which is in motion, that is to say ‘the movable in activity’. 
+Now a definition of motion has been given above, from which it will be seen that
 
-Accidental change we may leave out of account: for it is to be found in everything, at any
-time, and in any respect. Change which is not accidental on the other hand is not to be found in everything, but only in contraries, in things intermediate contraries, and in
-contradictories, as may be proved by induction. An intermediate may be a starting-point
-of change, since for the purposes of the change it serves as contrary to either of two
-contraries: for the intermediate is in a sense the extremes. Hence we speak of the
+Every goal of motion is immovable whether it be a form, an affection, or a place.
+
+For instance, knowledge and heat. 
+
+Here, however, a difficulty may be raised. 
+
+Affections are motions. Whiteness is an affection.
+
+Thus there may be change to a motion.
+
+To this we may reply that it is not whiteness but whitening that is a motion.
+
+This also has the same distinctions.
+
+A goal of motion may be so:
+- accidentally, or
+- partially and with reference to something other than itself, or
+- directly and with no reference to anything else.
+
+For instance, a thing which is becoming white changes accidentally to an object of thought.
+- The colour is only accidentally the object of thought.
+
+The object of thought changes to colour because white is a part of colour.
+- It can change to Europe, because Athens is a part of Europe [and the thing is in Athens].
+
+But it changes essentially to white colour. 
+
+So a thing is in motion essentially, accidentally, or in respect of something other than itself.*
+
+{{< n n="This is metaphysical motion. It implies that accidents have some metaphysical cause" >}}
+
+
+in what sense the phrase ‘itself directly’ is used in the case both of the mover and of the moved.
+
+The motion is not in the form, but in the actual thing which is in motion, that is to say ‘the movable in activity’.
+
+Accidental change we may leave out of account.
+
+This is because it is found in everything, at any time, and in any respect.
+
+Change which is not accidental on the other hand is not to be found in everything, but only in contraries, in things intermediate contraries, and in contradictories, as may be proved by induction.
+
+An intermediate may be a starting-point of change, since for the purposes of the change it serves as contrary to either of 2 contraries: for the intermediate is in a sense the extremes.
+
+Hence we speak of the
 intermediate as in a sense a contrary relatively to the extremes and of either extreme as a
 contrary relatively to the intermediate: for instance, the central note is low relatively-to
 the highest and high relatively to the lowest, and grey is light relatively to black and

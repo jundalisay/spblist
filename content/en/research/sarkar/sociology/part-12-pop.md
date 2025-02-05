@@ -52,17 +52,31 @@ When one suffers from mental agonies continually, the mind naturally indulges in
 With intellectual advancement human beings will develop their all-round psychic potentiality and can easily evolve their psycho-spiritual potentiality. Through continuous effort human beings will be able to attain the supreme stance, merging their individual unit existence into Cosmic existence.
 
 Thus, the population problem is not just an economic problem – it includes economic, biological, psychological and intellectual aspects.
+
 Today people give more importance to the political than to the bio-psychological and economic aspects of population growth.
+
 The theory that population increases at a geometric rate while food production increases at an arithmetic rate is completely defective. Such a situation can only occur in an imbalanced economic system. In a progressive and balanced economic system no such problem will exist.
+
 
 ## Collective Economy
 
-It is completely wrong to propagate the idea that a rapidly increasing population will affect the collective economic structure. Today capitalists are trying to check population growth by propagating birth control because an increasing population is detrimental to capitalism. In a collective economic structure there will be no need to support birth control. Rather, an increasing population will help in the production of the essential commodities.
+It is completely wrong to propagate the idea that a rapidly increasing population will affect the collective economic structure.
+
+Today capitalists are trying to check population growth by propagating birth control because an increasing population is detrimental to capitalism. 
+
+In a collective economic structure there will be no need to support birth control. Rather, an increasing population will help in the production of the essential commodities.
 
 Good varieties of seed, fertile land, adequate nourishment, light, air and water are all essential for good reproduction in both the plant and animal kingdoms. In this respect human beings are no different from other creatures. In human society the selection of suitable males and females is desirable for reproduction of a high order. Until human beings are produced in scientific laboratories, it will be detrimental to society if this matter is neglected.
 
-If people of sublime intelligence and brilliance reproduce more offspring, it will be very beneficial for society. The responsibility for nurturing and bringing up these children will have to be taken by the society or the government. Similarly, it will be harmful for society if mentally deficient, naturally delinquent or insane persons produce many children. In fact, society will be benefited by the permanent destruction of their reproductive capacity, providing this does not cause any harmful reaction.
-Science has reached such a stage that it can usher in a new era. It can produce synthetic food in the form of tablets to help solve the food problems of the world. A single food tablet can be sufficient to provide sustenance for a whole day, so we need not fear population increases. Future generations will spend more of their time and energy on subtle psychic and spiritual activities, so their demand for physical food will decrease.
+If people of sublime intelligence and brilliance reproduce more offspring, it will be very beneficial for society. The responsibility for nurturing and bringing up these children will have to be taken by the society or the government. 
+
+Similarly, it will be harmful for society if mentally deficient, naturally delinquent or insane persons produce many children. 
+
+In fact, society will be benefited by the permanent destruction of their reproductive capacity, providing this does not cause any harmful reaction.
+
+Science has reached such a stage that it can usher in a new era. It can produce synthetic food in the form of tablets to help solve the food problems of the world. 
+
+ single food tablet can be sufficient to provide sustenance for a whole day, so we need not fear population increases. Future generations will spend more of their time and energy on subtle psychic and spiritual activities, so their demand for physical food will decrease.
 
 Through oceanographic research abundant food resources have been discovered within the ocean and on the sea bed. With the application of science and technology we can harness these resources to meet the challenge of the food problem. 
 

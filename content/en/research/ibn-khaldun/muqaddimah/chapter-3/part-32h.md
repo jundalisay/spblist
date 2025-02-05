@@ -11,48 +11,97 @@ writer:
 ---
 
 
-In Ifriqiyah, the chief of police is now called the "magistrate" (hakim).
+The chief of police is subordinate to the person in charge of "the sword" in the dynasty, who at times uses the chief of police to execute his orders.
 
-In Spain, he is called the "town chief" (sahib al-madinah).
+- In Ifriqiyah, the chief of police is now called the "magistrate" (hakim).
+- In Spain, he is called the "town chief" (sahib al-madinah).
+- In the Turkish dynasty in Egypt, he is called the "governor" (wali). 
 
-In the Turkish dynasty in Egypt, he is called the "governor" (wali). 
+This was originally created by the 'Abbasid dynasty. He it had a twofold duty:
 
-It subordinate to the person in charge of "the sword" in the dynasty, who at
-times uses the chief of police to execute his orders.
+1. Criminal investigation 
+2. Executing the legal punishments
 
-This was originally created by the 'Abbasid dynasty. The person who held it had a twofold duty:
-- criminal investigation 
-- executing the legal punishments
+The religious law cannot concern itself with suspicions of possible criminal acts.
 
-The religious law cannot concern itself with suspicions of possible criminal acts. It can concern itself only with executing the legal punishments.
+It can concern itself only with executing the legal punishments.
 
-Political leadership, on the other hand, has to concern itself with the investigating stage, in which is (ascertained the commission of crimes) necessitating (legal punishments). It does this through the magistrate, who, being in the possession of all the circumstantial evidence, forces (the criminal) to confess, as is required by the general (public) interest. 
+Political leadership, on the other hand, has to concern itself with investigation.
 
-The person in charge of the investigating stage and of executing afterwards the legal punishments due, when the judge has no (longer) anything to do with (the case), was called "chief of police." Occasionally, he was given sole jurisdiction over capital crimes and legal punishments, and those matters were taken away from the judge's jurisdiction. 
+  <!-- stage, in which is (ascertained the commission of crimes) necessitating (legal punishments). -->
 
-This rank was considered one of great reputation, and was entrusted to high military leaders and important clients of the court entourage. It implied no general executive power over all classes, itsjurisdiction extending only over low and suspect elements and (involving) the
-restraining of turbulent and criminal people.
+It does this through the magistrate, as the chief of police, who has all the circumstantial evidence.
+- He forces the criminal to confess as required by the public interest. 
 
-Among the Spanish Umayyads, the (office of chief of police) acquired great celebrity. It was divided into a "great police" and a "small police." The jurisdiction of the "great police" was made to extend over both the upper and the lower classes. 
+<!-- The "chief of police" was in charge of the investigating stage and of executing afterwards the legal punishments due, when the judge has no (longer) anything to do with (the case), was called \ -->
 
-It had jurisdiction over government dignitaries, and, in cases of wrongdoing, could restrain them, their relatives, and other persons of rank who were connected with them as clients. The chief of the "small police" was concerned only with the common people. The chief of the "great police" had his seat at the gate of the palace of the ruler. He had footmen (raji) who occupied places near him,513 which they did not leave except to go about his business. 
+Occasionally, he was given sole jurisdiction over capital crimes and legal punishments, and those matters were taken away from the judge's jurisdiction. 
 
-The office was entrusted only to great personalities of the dynasty. It even became a stepping stone to the wazirate and to the office of doorkeeper (hajib).
+This rank was:
+- considered one of great reputation
+- entrusted to high military leaders and important clients of the court entourage.
 
-In the Almohad dynasty in the Maghrib, (the office) enjoyed a certain reputation, even though it did not have general (jurisdiction). It was entrusted only to important Almohad personalities. It did not have authority over government dignitaries. Nowadays, its importance has greatly decreased. It no longer is the preserve of Almohad personalities, and may be entrusted to any follower (of the dynasty) who (is able to) take charge of it.
+It implied no general executive power over all classes, itsjurisdiction extending only over low and suspect elements and (involving) the restraining of turbulent and criminal people.
 
-In the Merinid dynasty at this time in the West, (the office) is vested in the houses of Merinid clients and followers.
+Among the Spanish Umayyads, the office of chief of police acquired great celebrity. 
 
-In the Turkish dynasty in the East, (the office is entrusted) to Turkish personalities or to descendants of the people of the preceding Kurdish dynasty. Incumbents are chosen for (the office) in both regions 514 according to the energy and resolution they show in enforcing the law. 
+It was divided into:
+- a "great police"
+- a "small police"
 
-The purpose is to cut down corruption, to stamp out criminality, to destroy and dissolve the homes and centers of criminal activity, and to enforce the punishments imposed by the religious law and by the political authorities, as concern for the general (public) interests in a town requires.
+The jurisdiction of the "great police" was made to extend over both the upper and the lower classes. 
+
+It had jurisdiction over government dignitaries, and, in cases of wrongdoing, could restrain them, their relatives, and other persons of rank who were connected with them as clients. 
+
+The chief of the "small police" was concerned only with the common people. 
+
+The chief of the "great police" had his seat at the gate of the palace of the ruler.
+
+He had footmen (raji) who occupied places near him,513 which they did not leave except to go about his business. 
+
+The office was entrusted only to great personalities of the dynasty. 
+
+It even became a stepping stone to the wazirate and to the office of doorkeeper (hajib).
+
+In the Almohad dynasty in the Maghrib, the office enjoyed a certain reputation, even though it did not have general jurisdiction.
+
+It was entrusted only to important Almohad personalities. 
+
+It did not have authority over government dignitaries. Nowadays, its importance has greatly decreased. 
+
+It no longer is the preserve of Almohad personalities, and may be entrusted to any follower (of the dynasty) who (is able to) take charge of it.
+
+In the Merinid dynasty at this time in the West, the office is vested in the houses of Merinid clients and followers.
+
+In the Turkish dynasty in the East, the office is entrusted to Turkish personalities or to descendants of the people of the preceding Kurdish dynasty.
+
+Incumbents are chosen for (the office) in both regions 514 according to the energy and resolution they show in enforcing the law. 
+
+The purpose is to:
+- cut down corruption
+- stamp out criminality
+- destroy and dissolve the homes and centers of criminal activity
+- enforce the punishments imposed by the religious law and by the political authorities as needed by the public interests in a town
 
 
-The admiralty is one of the ranks and functions of the dynasty in the realm of the Maghrib and Ifriqiyah. It is subordinate to the person in charge of "the sword" and comes under his authority in many respects. In customary usage, the person in charge of the admiralty is called Almiland, 516 with an emphatic l. (The word) is derived from the language of the European Christians. It is the technical term for the office in their language.
+The admiralty is one of the ranks and functions of the dynasty in the realm of the Maghrib and Ifriqiyah. 
 
-The rank (of admiral) is restricted to the realm of Ifriqiyah and the Maghrib, because both Ifriqiyah and the Maghrib are on the southern shore of the Mediterranean. Along its southern shore the lands of the Berbers extend from Ceuta to Alexandria and on to Syria. Along its northern shore are the countries of Spain and of the European Christians (Franks), the Slavs, and the Byzantines, also extending to Syria. 
+It is subordinate to the person in charge of "the sword" and comes under his authority in many respects.
 
-It is called the Byzantine Sea or the Syrian Sea 517 by the people who inhabit its shores. Those who live along the coast and on the shores of both sides of the Mediterranean are more concerned with (maritime) conditions than any other maritime nation.
+The person in charge of the admiralty is called Almiland, 516 with an emphatic l. 
+
+The word is derived from the language of the European Christians.
+- It is the technical term for the office in their language.
+
+The rank of admiral is restricted to the realm of Ifriqiyah and the Maghrib, because both Ifriqiyah and the Maghrib are on the southern shore of the Mediterranean. 
+
+Along its southern shore the lands of the Berbers extend from Ceuta to Alexandria and on to Syria. 
+
+Along its northern shore are the countries of Spain and of the European Christians (Franks), the Slavs, and the Byzantines, also extending to Syria. 
+
+It is called the Byzantine Sea or the Syrian Sea 517 by the people who inhabit its shores.
+
+Those who live along the coast and on the shores of both sides of the Mediterranean are more concerned with (maritime) conditions than any other maritime nation.
 
 The Byzantines, the European Christians, and the Goths lived on the northern shore of the Mediterranean. 
 
@@ -159,4 +208,6 @@ The Muslims came to be strangers to the Mediterranean. The only exceptions are a
 
 The rank (of admiral) has been preserved to this day in the dynasties of the Maghrib. There, the identity (of the admiralty is still preserved), and how to take care of a fleet, how to build ships and navigate them, is known. Perhaps some political opportunity will arise in the coastal countries, and the Muslims will (once again) ask the wind to blow against unbelief and unbelievers. 
 
-The inhabitants of the Maghrib have it on the authority of the books of predictions that the Muslims will yet have to make a successful attack against the Christians and conquer the lands of the European Christians beyond the sea. This, it is said, will take place by sea.
+The inhabitants of the Maghrib have it on the authority of the books of predictions that the Muslims will yet have to make a successful attack against the Christians and conquer the lands of the European Christians beyond the sea.
+
+This, it is said, will take place by sea.

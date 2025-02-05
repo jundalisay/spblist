@@ -13,7 +13,9 @@ THE UNIVERSE IS COMPREHENSIBLE because it is governed by scientific laws. Its be
 
 But what are these laws or models? 
 
-The first force to be described in mathematical language was gravity. Newton’s law of gravity, published in 1687, said that every
+The first force to be described in mathematical language was gravity. 
+
+Newton’s law of gravity, published in 1687, said that every
 object in the universe attracts every other object with a force proportional to its mass. 
 
 It made a great impression on the intellectual life of its era because it showed for the first time that at least one aspect of the universe could be accurately modeled, and it established the mathematical machinery to do so. 

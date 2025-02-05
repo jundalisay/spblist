@@ -1,7 +1,7 @@
 ---
-title: "Pamphilus To Hermippus"
+title: "Scientific Discoveries"
 heading: "Part 5"
-description: "The ancient philosophers conveyed most of their instruction in the form of dialogue. But dialogues have been little practised in later ages and have seldom succeeded when attempted"
+description: "All the new discoveries in astronomy are so many additional arguments for a Deity"
 image: /covers/religion.jpg
 weight: 22
 writer:
@@ -11,26 +11,67 @@ icons: /avatars/hume.png
 --- 
 
 
-But to show you still more inconveniences, continued PHILO, in your Anthropomorphism, please to take a new survey of your principles. Like effects prove like causes. This is the experimental argument; and this, you say too, is the sole theological argument. Now, it is certain, that the liker the effects are which are seen, and the liker the causes which are inferred, the stronger is the argument. Every departure on either side diminishes the probability, and renders the experiment less conclusive. You cannot doubt of the principle; neither ought you to reject its consequences.
+{{< l a="Philo" >}}
+But to show you still more inconveniences in your Anthropomorphism, please review your principles.
 
-All the new discoveries in astronomy, which prove the immense grandeur and magnificence of the works of Nature, are so many additional arguments for a Deity, according to the true system of Theism; but, according to your hypothesis of experimental Theism, they become so many objections, by removing the effect still further from all resemblance to the effects of human art and contrivance. For, if LUCRETIUS[Lib. II. 1094], even following the old system of the world, could exclaim,
+Like effects prove like causes. This is the experimental argument which you say too is the sole theological argument. 
+
+The liker the effects are which are seen, and the liker the causes which are inferred, the stronger is the argument. 
+
+Every departure on either side diminishes the probability, and renders the experiment less conclusive. You cannot doubt of the principle; neither ought you to reject its consequences.
+{{< /l >}}
+
+
+{{< l a="Philo" >}}
+All the new discoveries in astronomy, which prove the immense grandeur and magnificence of the works of Nature, are so many additional arguments for a Deity, according to the true system of Theism.
+
+But, according to your hypothesis of experimental Theism, they become so many objections, by removing the effect still further from all resemblance to the effects of human art and contrivance. For, if LUCRETIUS[Lib. II. 1094], even following the old system of the world, could exclaim,
+{{< /l >}}
+
 
 Quis regere immensi summam, quis habere profundi
 Indu manu validas potis est moderanter habenas?
 Quis pariter coelos omnes convertere? et omnes
 Ignibus aetheriis terras suffire feraces?
 Omnibus inque locis esse omni tempore praesto?
+
+
+{{< l a="Philo" >}}
 If TULLY [De. nat. Deor. Lib. I] esteemed this reasoning so natural, as to put it into the mouth of his EPICUREAN:
+{{< /l >}}
+
 
 "Quibus enim oculis animi intueri potuit vester Plato fabricam illam tanti operis, qua construi a Deo atque aedificari mundum facit? quae molitio? quae ferramenta? qui vectes? quae machinae? qui ministri tanti muneris fuerunt? quemadmodum autem obedire et parere voluntati architecti aer, ignis, aqua, terra potuerunt?"
 
+{{< l a="Philo" >}}
 If this argument, I say, had any force in former ages, how much greater must it have at present, when the bounds of Nature are so infinitely enlarged, and such a magnificent scene is opened to us? It is still more unreasonable to form our idea of so unlimited a cause from our experience of the narrow productions of human design and invention.
 
 The discoveries by microscopes, as they open a new universe in miniature, are still objections, according to you, arguments, according to me. The further we push our researches of this kind, we are still led to infer the universal cause of all to be vastly different from mankind, or from any object of human experience and observation.
 
-And what say you to the discoveries in anatomy, chemistry, botany?... These surely are no objections, replied CLEANTHES; they only discover new instances of art and contrivance. It is still the image of mind reflected on us from innumerable objects. Add, a mind like the human, said PHILO. I know of no other, replied CLEANTHES. And the liker the better, insisted PHILO. To be sure, said CLEANTHES.
+And what say you to the discoveries in anatomy, chemistry, botany?... 
+{{< /l >}}
 
-Now, CLEANTHES, said PHILO, with an air of alacrity and triumph, mark the consequences. First, By this method of reasoning, you renounce all claim to infinity in any of the attributes of the Deity. For, as the cause ought only to be proportioned to the effect, and the effect, so far as it falls under our cognisance, is not infinite; what pretensions have we, upon your suppositions, to ascribe that attribute to the Divine Being? You will still insist, that, by removing him so much from all similarity to human creatures, we give in to the most arbitrary hypothesis, and at the same time weaken all proofs of his existence.
+
+{{< r a="Cleanthes" >}}
+These surely are no objections. They only discover new instances of art and contrivance.
+
+It is still the image of mind reflected on us from innumerable objects.
+{{< /r >}}
+
+Add, a mind like the human, said PHILO. 
+
+
+{{< r a="Cleanthes" >}}
+I know of no other.
+{{< /r >}}
+
+And the liker the better, insisted PHILO. 
+
+To be sure, said CLEANTHES.
+
+Now, CLEANTHES, said PHILO, with an air of alacrity and triumph, mark the consequences. 
+
+First, By this method of reasoning, you renounce all claim to infinity in any of the attributes of the Deity. For, as the cause ought only to be proportioned to the effect, and the effect, so far as it falls under our cognisance, is not infinite; what pretensions have we, upon your suppositions, to ascribe that attribute to the Divine Being? You will still insist, that, by removing him so much from all similarity to human creatures, we give in to the most arbitrary hypothesis, and at the same time weaken all proofs of his existence.
 
 Secondly, You have no reason, on your theory, for ascribing perfection to the Deity, even in his finite capacity, or for supposing him free from every error, mistake, or incoherence, in his undertakings. There are many inexplicable difficulties in the works of Nature, which, if we allow a perfect author to be proved a priori, are easily solved, and become only seeming difficulties, from the narrow capacity of man, who cannot trace infinite relations. But according to your method of reasoning, these difficulties become all real; and perhaps will be insisted on, as new instances of likeness to human art and contrivance. At least, you must acknowledge, that it is impossible for us to tell, from our limited views, whether this system contains any great faults, or deserves any considerable praise, if compared to other possible, and even real systems. Could a peasant, if the Aeneid were read to him, pronounce that poem to be absolutely faultless, or even assign to it its proper rank among the productions of human wit, he, who had never seen any other production?
 
@@ -46,9 +87,8 @@ And why not become a perfect Anthropomorphite? Why not assert the deity or deiti
 
 In a word, CLEANTHES, a man who follows your hypothesis is able perhaps to assert, or conjecture, that the universe, sometime, arose from something like design: but beyond that position he cannot ascertain one single circumstance; and is left afterwards to fix every point of his theology by the utmost license of fancy and hypothesis. This world, for aught he knows, is very faulty and imperfect, compared to a superior standard; and was only the first rude essay of some infant deity, who afterwards abandoned it, ashamed of his lame performance: it is the work only of some dependent, inferior deity; and is the object of derision to his superiors: it is the production of old age and dotage in some superannuated deity; and ever since his death, has run on at adventures, from the first impulse and active force which it received from him. You justly give signs of horror, DEMEA, at these strange suppositions; but these, and a thousand more of the same kind, are CLEANTHES's suppositions, not mine. From the moment the attributes of the Deity are supposed finite, all these have place. And I cannot, for my part, think that so wild and unsettled a system of theology is, in any respect, preferable to none at all.
 
-These suppositions I absolutely disown, cried CLEANTHES: they strike me, however, with no horror, especially when proposed in that rambling way in which they drop from you. On the contrary, they give me pleasure, when I see, that, by the utmost indulgence of your imagination, you never get rid of the hypothesis of design in the universe, but are obliged at every turn to have recourse to it. To this concession I adhere steadily; and this I regard as a sufficient foundation for religion.
+{{< r a="Cleanthes" >}}
+These suppositions I absolutely disown. They strike me with no horror.
 
-
-
-
-
+On the contrary, I am pleased when I see, that, by the utmost indulgence of your imagination, you never get rid of the hypothesis of design in the universe. You are obliged at every turn to have recourse to it. To this concession I adhere steadily; and this I regard as a sufficient foundation for religion.
+{{< /r >}}

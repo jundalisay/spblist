@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 7"
+heading: "Chapter 7b"
 title: "Maxwell's Equations"
 # date: 2024-07-22
-weight: 32
+weight: 27
 image: /covers/maxwell.jpg
 description: "Radiant Territories are the electromagentic fields of Physics."
 icon: /icons/spmat.pn
@@ -11,6 +11,12 @@ writer:
   url: https://www.linkedin.com/in/jundalisay/
 ---
 
+
+Physics uses the concept of Quantum Electrodynamics (QED) to explain the dynamics of the Radiant Layer.
+
+Our medium-substance-quantum classification is a simpler version of the QED system which is based on sublayers and vortices.
+
+We can use Maxwell's Equations to notate these vortices as fluxes. 
 
 
 ### Equation 1

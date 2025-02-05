@@ -79,9 +79,17 @@ Supereconomics Law | Physics Thermodynamics Law
 4 - Market | 2 - Entropy will always increase over time
 
 
-{{< i s="/graphics/econ/laws.jpg" a="Laws of Value" >}}
+{{< i s="/graphics/econ/laws.png" a="Laws of Value" >}}
 
-We see that the organization of Physics laws are just as messy as those of Economics. This is because they were created withoutt knowing the metaphysics of how things work. 
+
+- The 2nd and 1st law of thermodynamics refer to the external aspects of waves just as the Market and Real Price are objective 
+- The 3rd and 0th laws refer to the internal aspects just as the Nominal and Market Price are subjective
+
+{{< i s="/graphics/econ/law4th.jpg" a="Prices" >}}
+
+
+
+<!-- We see that the organization of Physics laws are just as messy as those of Economics. This is because they were created without knowing the metaphysics of how things work.  -->
 
 
 <!--  we can see how the four laws of value are the reverse of the laws of thermodynamics. For example:
@@ -89,7 +97,7 @@ We see that the organization of Physics laws are just as messy as those of Econo
 - the Third law, as absolute zero, is the last in Physics, but is the first in Supereconomics as its First law, as everything having a value. -->
 
 
-For example, Physics believes that the universe began as an energetic Big Bang where energy began first, whereas humans start from birth or low-energy sleep where lack begins first.
+<!-- For example, Physics believes that the universe began as an energetic Big Bang where energy began first, whereas humans start from birth or low-energy sleep where lack begins first. -->
 
 <!-- Superphysics law | Thermodynamics law counterpart
 --- | ---
@@ -127,6 +135,10 @@ We find that these four laws match the four factors of our [DCIT model](/posts-p
  -->
 
 
+
+
+
+
 {{< dc t="Updates" >}}
 4/2017 | added Economics value matrix
 --- | ---
@@ -136,5 +148,4 @@ We find that these four laws match the four factors of our [DCIT model](/posts-p
 3/2024 | Put the 4th Law as the 2nd to explain the priorness of politics over economics, or Supersociology over Supereconomics
 8/2024 | Put the 4th Law as the 3rd Law after connecting it again with Thermodynamics
 {{< /dc >}}  
-
 

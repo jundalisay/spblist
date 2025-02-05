@@ -55,20 +55,26 @@ The sign has been so chosen that T44 is positive for the case of the special rel
 
 This weakness was formally avoided in the original theory of relativity by the introduction of the energy tensor into the ﬁeld equations. It was clear, however, from the very beginning that this was'only a provisory completion of the theory in the sense of a phenomenological interpretation.                                 
 
-```elixir
+...
+
+<!-- ```elixir
                 ¢1=¢2=e3=0,            <pI=c—/r,                        
                     1                                                 
  ds'z = —»——s—<—                (er                                
            1—2’I’VL/T—62/27’2                               (8)    
                      ‘                    2m       6‘2             
        ~r2(d02+sm20d<p2) —l— (1 —— ——~—> (W.                       1'    Zr2                
-```
+``` -->
 
 Here `m` has obviously the signiﬁcance of a gravitating mass, 6 that of an electrical charge.
       
 It turns out that also in this case there is no difﬁculty in forming a solution without singularity corresponding to the solution just given.4
                                                                    
-We ﬁnd that the mass m is not determined by the electrical charge 6, but that e and m are independent constants of integration. It also turns out that for the removal of the singularity it is not necessary to take the ponderable mass m positive. In fact, as we shall show immediately, there exists a solution free from singularities for which the mass constant 1% vanishes. Because we believe that these massless solutions are the physically important ones we will consider here the case m=0.
+We ﬁnd that the mass m is not determined by the electrical charge 6, but that e and m are independent constants of integration. It also turns out that for the removal of the singularity it is not necessary to take the ponderable mass m positive.
+
+There exists a solution free from singularities for which the mass constant 1% vanishes.
+
+We believe that these massless solutions are the physically important ones, so we will consider here the case m=0.
       
 The ﬁeld equations without denominators are:
 
@@ -100,6 +106,7 @@ This solution is free from singularities for all ﬁnite points in the space of 
 4 If we had taken the usual sign for `Tm`, the solution would involve `+e"` instead of `——e‘2`. It would then not be possible, by making a coordinate transformation, to obtain a solution free from singularities.
 
 It so happens that we are forced to put the negative of the above into the gravitational equations if it is to be possible to obtain static spherically symmetric solutions of the equations, free from singularities, which could represent electrical particles. Making this change of sign one ﬁnds as the required solution
+
 
 
 ### Part 4 Summary

@@ -1,23 +1,23 @@
 ---
 title: "The States"
 heading: "Part 6"
-weight: 1
+weight: 22
 image: "/flags/in.png"
-description: ""
+description: "State does not include the State of Jammu and Kashmir"
 icon: /flags/in.png
 ---
 
 
-CHAPTER 1: GENERAL
+## CHAPTER 1: GENERAL
 
-**Article 152. Definition**
+### Article 152. Definition
 
 Here, “State” does not include the State of Jammu and Kashmir
 
-CHAPTER 2: The Executive
 
+## CHAPTER 2: The Executive
 
-**Article 153. Governors of States**
+### Article 153. Governors of States
 
 Each State shall have a Governor:
 

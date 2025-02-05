@@ -14,7 +14,9 @@ weight: 10
 
 My previous post explained the Yamas which are the 1st half of the moral precepts required for sense-withdrawal. 
 
-Regular sense-withdrawal is essential in reducing the impact of the constant hammering of sensory perceptions that build the ego, as the feeling of the self. This will lead to a reduction in ego which will necessarily reduce selfishness. 
+Regular sense-withdrawal is essential in reducing the impact of the constant hammering of sensory perceptions that build the ego, as the feeling of the self. 
+
+This will lead to a reduction in ego which will necessarily reduce selfishness. 
 
 This reduction in selfishness will then reduce the incidence of war & conflict, environmental destruction, global warming, crime, corruption, and other problems in the world.  
 
@@ -28,11 +30,15 @@ The Yoga Sutras give 5 Niyamas:
 
 #### 1. Shaoca (Purity)
 
-This imposes on us to clean ourselves, both body and mind. This prevents bodily diseases and also mental diseases such as materialism, lust for power, tendency to belittle others (or conversely, to have inferiority complex), etc. 
+This imposes on us to clean ourselves, both body and mind. 
+
+This prevents bodily diseases and also mental diseases such as materialism, lust for power, tendency to belittle others (or conversely, to have inferiority complex), etc. 
 
 #### 2. Santosa (Contentment)
 
-This imposes on the mind to love what one already has. While asteya and aparigraha rein in the mind to prevent it from developing desires, santosa imposes one to find happiness in the ordinary things in life. 
+This imposes on the mind to love what one already has. 
+
+While asteya and aparigraha rein in the mind to prevent it from developing desires, santosa imposes one to find happiness in the ordinary things in life. 
 
 
 #### 3. Tapah (Austerity)

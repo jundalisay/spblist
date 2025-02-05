@@ -6,7 +6,7 @@ description: "Homeopathy is the most subtle medical system"
 # date: "2020-01-01"
 date: 2024-09-05
 weight: 10
-image: "/photos/med/cancer.jpg"
+image: "/photos/med/homeo.jpg"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -18,6 +18,8 @@ icon: "/icons/spmed.png"
 <!-- Your article is totally misleading. 
 
 You do not merely take the herb that causes Bill's nosebleeds and give it to Betty. You must know the personality of Bill then compare that with Betty. The herb will only work if it meets a certain personality range or mentality.  -->
+
+{{< i s="/photos/med/homeo.jpg" a="Homeopathy" >}}
 
 The mechanism of homeopathy is vibration and not contact forces. 
 

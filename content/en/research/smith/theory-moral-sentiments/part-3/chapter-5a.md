@@ -12,27 +12,31 @@ icons: /avatars/smith.png
 
 
 
-{{< s v="100" >}} The sense of duty is the regard to the general rules of conduct.
+{{< s v="100" >}} The general rules of conduct create the sense of duty.
 
 It is a principle of the greatest consequence in human life.
-It is the only principle by which most of mankind can direct their actions.
-Many men behave very decently.
+- It is the only principle by which most of mankind can direct their actions.
 
-They perhaps never felt the sentiment on propriety.
-They might have acted merely from a regard to the established rules of behaviour.
-The man who has received great benefits from another person may feel just a small gratitude.
+Many men behave very decently because of the established general rules of behaviour.
 
-However, if he has been virtuously educated, he will often have been made to observe: 
+<!-- They perhaps never felt the sentiment on propriety.
+They might have acted merely from a regard to the established rules. -->
+
+Assume that a man has received great benefits from another person, but feels only a small gratitude for that person.
+
+Virtuous education will teach him: 
 - how odious ungrateful actions are, and
 - how amiable grateful actions are
 
-Though his heart is not warmed with any grateful affection, he will strive to act as if it were.
+<!-- Though his heart is not warmed with any grateful affection, he -->
 
-He will try to pay all those regards and attentions to his patron with the liveliest gratitude.
+And so he will strive to act more grateful.
 
-He will visit him regularly.
+ <!-- as if it were. -->
 
-He will behave to him respectfully.
+- He will try to pay all those regards and attentions to his patron with the liveliest gratitude.
+- He will visit him regularly.
+- He will behave to him respectfully.
 
 He will only talk of him:
 - with the highest esteem, and

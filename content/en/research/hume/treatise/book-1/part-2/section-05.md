@@ -385,9 +385,10 @@ No difficulties can ever arise, but from the obscurity of the terms we use.
 
 If we carry our inquiry beyond the appearances of objects to the senses, most of our conclusions will be full of skepticism and uncertainty.
 
-There are no very decisive arguments on either side, if asked whether the invisible and intangible distance is always full of:
-- body, or
-- something that might become visible or tangible by an improvement of our organs.
+There are no very decisive arguments on either side, if asked whether
+
+
+Is the invisible and intangible distance full of body or something that might become visible or tangible by an improvement of our organs?
 
 I am inclined to the contrary opinion as being more suitable to vulgar and popular notions.
 

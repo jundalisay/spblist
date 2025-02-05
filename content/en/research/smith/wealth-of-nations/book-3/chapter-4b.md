@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 4b"
-title: "The Origin of Feudalism"
+title: "The Origin of Feudalism: Property Rights"
 weight: 22
 image: "/covers/wn.jpg"
 description: "Feudalism came from the strength of the king over the feudal lords"
@@ -11,6 +11,7 @@ icon: /avatars/smith.png
 ---
 
 
+### The Feudal-like Systems are caused by land ownership, not feudal law. The Feudal law merely Formalizes land ownership 
 
 {{< s v="7" >}} The power of the ancient barons was founded on the great proprietors' authority over their tenants and retainers.
 - They became the judges in peace and the leaders in war of all who dwelt on their estates.
@@ -23,97 +24,121 @@ No other persons had sufficient authority to do this.
 
 In those ancient times, the king was the greatest proprietor in his dominions.
 
-Other great proprietors paid certain respects to him for the sake of common defence against their common enemies.
+Other great proprietors paid certain respects to him for the sake of common defence.
 
-It would have cost the king the same effort to extinguish a civil war and to enforce payment of a small debt within his lands by his own authority, because all its people were:
+ <!-- against their common enemies. -->
+
+It would have cost the king the same effort to:
+- extinguish a civil war
+- enforce payment of a small debt within his lands
+
+This is because all its people were:
 - armed, and
 - accustomed to stand by one another.
 
 He abandoned the administration of justice to those who were capable of administering it, in the same way that the command of the militia is left to those whom that militia would obey.
 
 
-
 {{< s v="8" >}} **It is a mistake to imagine that those territorial jurisdictions originated from the feudal law.**
 
 Several centuries before the feudal law was known in Europe, the great proprietors possessed all rights, such as the following, absolutely: 
-- the highest civil and criminal jurisdictions,
-- the power of levying troops,
-- coining money, and
+- the highest civil and criminal jurisdictions
+- the power of levying troops
+- coining money
 - making by-laws for the government of their own people.
 
 The authority and jurisdiction of the Saxon lords in England were as great before the Conquest as that of the Norman lords after it.
 
 But the feudal law was not the common law of England until after the conquest.
+
 The most extensive authority and jurisdictions were possessed by the great French lords absolutely long before the feudal law was introduced there.
 
 That authority and those jurisdictions all flowed from the state of property and manners described above.
-Without remounting to the remote antiquities of the French or English monarchies, we may find in much later times many proofs that such effects must always flow from such causes.
 
-Around 30 years ago, Mr. Cameron of Lochiel exercised the highest criminal jurisdiction over his own people.
-donald
+<!-- Without remounting to the remote antiquities of the French or English monarchies, we may find in much later times many proofs that  -->
 
-He was a gentleman of Lochabar in Scotland who did not have any legal warrant.
-He was not a lord of regality, nor a tenant in chief.
-His rent never exceeded £500 a year
+Such effects must always flow from such causes.
 
-He was a vassal of the Duke of Argyle and not much a justice of peace.
-He is said to have done so with great equity, though without any of the formalities of justice.
+Around 30 years ago, Donald Cameron of Lochiel exercised the highest criminal jurisdiction over his own people.
+- He was a gentleman of Lochabar in Scotland who did not have any legal warrant.
+- He was not a lord of regality, nor a tenant in chief.
+- His rent never exceeded £500 a year
+- He was a vassal of the Duke of Argyle and not much a justice of peace.
+- He did so with great equity, though without any of the formalities of justice.
 
 That state of the part of Scotland back then probably required him to assume this authority to maintain the public peace.
+
 In 1745, he led 800 of his own people into the rebellion.
 
 
 {{< s v="9" >}} The introduction of the feudal law was an attempt to moderate the authority of the great lords.
 
 It established a regular subordination with a long train of services and duties, from the king down to the smallest proprietor.
-During the proprietor's youth, the rent and the management of his lands fell into the hands of his immediate superior.
 
-The rent and management of the lands of all great proprietors fell into the king's hands.
+During the proprietor's youth, the rent and the management of his lands fell into the hands of his immediate superior.
+- The rent and management of the lands of all great proprietors fell into the king's hands.
+
 The king was charged with the maintenance and education of the young proprietor.
+
 The king, as guardian, could dispose of him in marriage.
 
 This institution strengthened the king's authority.
 - It weakened the authority of the great proprietors.
 
-However, it could not do either sufficiently to establish order and good government, because it could not sufficiently alter that state of property and manners from which the disorders arose.
+However, it could not do either sufficiently to establish order and good government.
+- This is because it could not change that state of property and manners from which the disorders arose.
 
-The authority of government still continued to be too weak in the head and too strong in the inferior members.
-The excessive strength of the inferior members was the cause of the weakness of the head.
+The authority of government still continued to be:
+- too weak in the head
+- too strong in the inferior members.
+  - The excessive strength of the inferior members was the cause of the weakness of the head.
+
 After the institution of feudal subordination, the king was as incapable of restraining the violence of the great lords as before.
 
 They still continued to make war at their own discretion, on one another and on the king.
+
 The open country still continued to be a scene of violence, rapine, and disorder.
 
 
+
+### Commerce Weakens Feudalism by Transferring Wealth to Product Ownership (Materialism) instead of Land Ownership
+
 {{< s v="10" >}} But what all the feudal institutions could never have effected, the silent and insensible operation of foreign commerce and manufactures gradually brought about.
 
-These gradually furnished the great proprietors with something which they could buy with their surplus produce.
+These gradually furnished the great proprietors with something that they could buy with their surplus produce.
+
 They gained something which they themselves could consume without having to share it with tenants or retainers.
 
-“All for ourselves and nothing for other people” seems in every age, to be the vile maxim of the masters of mankind.
+“All for ourselves and nothing for other people” seems in every age, to be the vile maxim of the masters of mankind.*
+
+{{< n n="Smith ignores the fact that external commerce in Europe was made possible by Genghis Khan who secured the Silk Road between China and Europe, as well as the feudal system creating basic subordination as to allow trade rules. He there been no fedual system, the caravans would have never entered Europe and instead only enrich Arabia" >}}
+
+
 As soon as they could find a method of consuming the whole value of their rents themselves, they had no need to share them with others.
 
 They exchanged the authority granted by the maintenance of 1,000 men for a pair of diamond buckles.
+
 The buckles, however, were to be all their own.
-No other human could have any share of them.
+- No other human could have any share of them.
 
 Whereas in the ancient method of expence, they must have shared that value with at least 1,000 people.
-This difference was perfectly decisive with the judges.
+- This difference was perfectly decisive with the judges.
+
 Thus, the great proprietors gradually bartered their power for the gratification of the meanest and most childish of vanities.
 
 
 {{< s v="11" >}} In a country with no foreign commerce nor finer manufactures, a man of £10,000 a year can only employ his revenue in maintaining, perhaps 1,000 families who are all at his command.
 
 Presently in Europe, a man of £10,000 a year can spend his whole revenue without directly maintaining 20 people.
-He can spend it without being able to command more than 10 footmen.
+- He can spend it without being able to command more than 10 footmen.
 
 Indirectly, he perhaps maintains more people than he could have done through direct hospitality.
 
 Though he buys fewer products, the number of workers employed in making them must have been very great.
-The great price of those products arise from their wages and their employer's profits.
+- The great price of those products arise from their wages and their employer's profits.
 
 By paying that price, he indirectly pays all those wages and profits.
-He thus indirectly maintains all those workers and employers.
+- He thus indirectly maintains all those workers and employers.
 
 He generally contributes a very small proportion to each, perhaps:
 - 10% to a very few,

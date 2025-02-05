@@ -45,11 +45,15 @@ This is a question about the shape of three-dimensional spaces. Grigori Perelman
 
 ## Using Qualimath to Solve Them
 
-The most obvious cause of the problem is the nature of the mathematics that was established from the time of Isaac Newton. Unlike the math of the ancient Greeks which are based on Nature, as explained by Euclid, the math of the modern Europeans are based on their own limited minds that can only describe quantities. They then compare the resulting quantities with real observed quantities.
+The most obvious cause of the problem is the nature of the mathematics that was established from the time of Isaac Newton.
 
-We fix this limited paradigm by creating a math, called Qualimath, that focses on qualities. The resulting qualities are then compared to real observed qualities. This requires a definition of the qualities in question. This then requires the minds using the qualimath to **mutually agree** to the defintions. 
+Unlike the math of the ancient Greeks which are based on Nature, as explained by Euclid, the math of the modern Europeans are based on their own limited minds that can only describe quantities. They then compare the resulting quantities with real observed quantities.
 
-Those who do not agree will then be left out of the qualimath and therefore the qualitative solution, from which the quantitative solution can be derived. 
+We fix this limited paradigm by creating a math, called Qualimath, that focses on qualities.
+
+The resulting qualities are then compared to real observed qualities. This requires a definition of the qualities in question. This then requires the minds using the qualimath to **mutually agree** to the defintions. 
+
+Those who do not agree will then be left out of the qualimath and therefore the qualitative solution, from which the quantitative solution can be derived.
 
 As such, qualimath works only for a certain kind of mentality that is able to lower its ego or feeling of the self, to accommodate those of others. 
 
@@ -57,7 +61,4 @@ We say that qualimath is fundamentally expansive and synthetic (prefers synthesi
 
 To attain precision, the qualimath can be crudified into normal math. 
 
-We will begin by using Qualimath to solve the Yang Mills Theory. This will be given in future posts.  
-
-
-
+We will begin by using Qualimath to solve the Yang Mills Theory by imposing the 5 Elements. This will be given in future posts.  

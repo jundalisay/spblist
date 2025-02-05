@@ -105,7 +105,7 @@ The 3D spherical space is analogous to the 2D spherical surface. It is finite (i
 ## Elliptical Space
 
 
-“Elliptical space” is another kind of curved space. It has the two “counter-points” are identical (indistinguishable from each other).
+“Elliptical space” is another kind of curved space. It has the 2 “counter-points” are identical (indistinguishable from each other).
 
 An elliptical universe can thus be considered to some extent as a curved universe possessing central symmetry.
 

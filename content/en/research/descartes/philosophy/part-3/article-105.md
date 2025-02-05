@@ -1,4 +1,5 @@
 ---
+linkTitle: Articles 105-108
 title: "The Channels for the Sun's Magnetic Field"
 heading: Articles 105-108
 weight: 51

@@ -36,6 +36,7 @@ But is not this difficulty removed by the principle already laid down that if th
 
 Motion is one in an unqualified sense when it is one essentially or numerically: and the following distinctions will make clear what this kind of motion is.
 
+
 There are 3 classes of things connected with motion:
 
 1. The ‘that which’
@@ -50,7 +51,7 @@ It must be in motion:
 
 This is because all motion takes place during a time.
 
-Of these 3, it is the thing in which the motion takes place that makes it one generically or specifically.
+Of these 3, it is the **thing in which** the motion takes place that makes it one generically or specifically.
 
 It is the thing moved that makes the motion one in subject.
 
@@ -58,9 +59,17 @@ It is the time that makes it consecutive.
 
 But it is the 3 together that make it one without qualification.
 
-To effect this, that in which the motion takes place (the species) must be one and incapable of subdivision, that during which it takes place (the time) must be one and unintermittent, and that which is in motion must be one-not in an accidental sense (i.e. it must be one as the white that blackens is one or Coriscus who walks is one, not in the accidental sense in which Coriscus and white may be one), nor merely in virtue of community of nature.
+To effect this:
+- that in which the motion takes place (the species) must be one and incapable of subdivision
+- that during which it takes place (the time) must be one and unintermittent
+- that which is in motion must be one-not in an accidental sense
 
-There might be a case of 2 men being restored to health at the same time in the same way such as from inflammation of the eye. Yet this motion is not really one, but only specifically one.
+(i.e. it must be one as the white that blackens is one or Coriscus who walks is one, not in the accidental sense in which Coriscus and white may be one), nor merely in virtue of community of nature.
+
+There might be a case of 2 men being restored to health at the same time in the same way.
+- Yet this motion is not really one, but only specifically one.
+
+ <!-- such as from inflammation of the eye.  -->
 
 Suppose that Socrates undergoes an alteration specifically the same but at one time and again at another: in this case if it is possible for that which ceased to be again to come into being and remain numerically the same, then this motion too will be one: 
 

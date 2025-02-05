@@ -3,7 +3,7 @@ heading: Chapter 1
 linkTitle: Chapter 1
 title: "Proposed Applications and Technologies from Material Superphysics"
 # date: 2020-01-27
-image: /graphics/physics/bob.jpg
+image: /graphics/physics/drone.jpg
 description: "Material Superphysics will lead to so many new applications and technologies"
 weight: 2
 writer:
@@ -40,7 +40,7 @@ This requires a master of the aetherspace of an atom.
 
 This is inspired by the anti-matter reactor of the Bob Lazar UFO which was said to use Element 115. 
 
-{{< img src="/graphics/physics/bob.jpg" alt="UFO Design" >}}
+{{< img src="/graphics/physics/drone.jpg" alt="UFO Design" >}}
 
 In the beginning, we hypothesized that such an Element could be created in a nuclear fusion reactor. However, upon learning of the properties of the aetherspace, we realized it needed to be made with far more sophisticated control of the lower aether, instead of through brute force with energy.  
 
@@ -79,7 +79,7 @@ While modern science seems to be going for quantum computers, our idea is to go 
 Crystals allow light which travel faster than electrons. This can solve the problem with Moore's Law which is estimated to end by 2036.  
 
 
-{{< img src="/graphics/physics/eye.jpg" alt="Crystal Computers" >}}
+{{< img src="/graphics/physics/solareye.jpg" alt="Crystal Computers" >}}
 
 
 

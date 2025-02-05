@@ -1,8 +1,9 @@
 ---
 heading: "Chapter 4"
+linkTitle: Substance
 title: "The Substance of Matter: Protons"
-# date: 2023-12-10
-image: /photos/physics/neutrino.jpg
+date: 2024-12-31
+image: /graphics/physics/klm.jpg
 description: "According to Physics, gravity comes from mass which then comes from the Higgs Field"
 writer:
   name: Juan
@@ -12,40 +13,43 @@ icon: /icons/spmat.png
 ---
 
 
-### Changing Names
 
-Atomic Number --> Proton Number
-
-Mass Number --> Nucleon Number 
-
-Atomic Mass (AMU) --> Atomic Electromagnetic Potential 
+Protons are the substance of matter. They are:
+- responsible for the persistence and solidity of objects
+- made up of 3 quarks (qom)
 
 
+{{< i s="/graphics/physics/klm.jpg" a="Proton" >}}
+
+We change some names used in Physics in order to match Nature:
+
+Physics Name | Material Superphysics Name
+--- | ---
+Atomic Number | Proton Number
+Mass Number | Nucleon Number 
+Atomic Mass (AMU) | Atomic Electromagnetic Potential 
 
 
-### Atom-Smashing Doesn't Expose Nature
+## Solidity and Persistence
 
-According to Physics, gravity comes from mass which then comes from the Higgs Field. This leads to a matter-based singularity that exploded as a Big Bang that created the universe. 
+Physics believes that the solidity of matter is from the electromagnetic force simply because the electrons are the ones repeling each other. 
 
-Because of this, physicists imagine that the insides of matter, as protons, hold the secrets to the universe. This is why they keep on smashing subatomic particles, like a treasure-hunter digging the ground uselessly looking for hidden gold. 
+However, in Material Superphysics, the mechanism is the shells of the electron which are part of the proton's aetherspace. 
 
-But Nature says otherwise, that the matter is the effect and not the cause of Creation. Digging into effects will lead to more effects and not the cause. 
+These shells are dictated by the proton just as the sun's orbits are dictated by the sun's vortex.
 
-The reason for the physicists' confusion is that energy and mass are so tied together, like two sides of a coin. It makes them think that the effect is the cause. 
+A denser object has more aetherspace and less space particles. 
 
-This traps them in the effect, making the cause impossible to discover. This trap then prevents a whole new class of technologies that could have solved so many problems.
-
-For example, physicists fail at fusion because they confine plasma with magnetism. This is despite the fact that the stars themselves show that their fusion is caused by gravity and not magnetism. 
-
-<!-- So the solution is artificial gravity. The ancient Egyptians and Hindus already knew how artificial gravity works. But for some reason the East doesn't develop it and nor does the West don't tap into such knowledge.  -->
+{{< q a="Descartes" c="Principia Philosophia, Part 2 Article 54" >}}
+Fluids are bodies that are divided into many small particles, agitated by mutually different motions. Solids are bodies whose individual particles all remain at rest relative to each other.
+{{< /q >}}
 
 
-### Atom-Shaking is the Proper Way
+## Quarks
 
-The real cause of gravity is the aether which creates aethreal relationships on the fly. 
+Both protons and neutrons are made up of quarks which are the perceivable quanta of matter. 
 
-One of of these relationships is gravity. Another is particle decay. Another is Superposition (i.e. teleportation). 
 
-The key to reveal these relationships is to shake the atom, not to smash them. In this way, the identity of the atom is sustained. This identity is obviously destroyed when it is smashed and it reverts to its aethereal form. 
+### Avogadro's Number
 
-  
+Avogadro's Number is the number of molecules in a mole. This is then used to determine the mass of a molecule. 

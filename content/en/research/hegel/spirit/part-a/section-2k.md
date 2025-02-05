@@ -20,8 +20,13 @@ This implicit simple universal, however, is essentially absolute universal diffe
 
 But change, when planted in the inner reality as change truly is, forthwith is taken up into that reality as equally absolute universal difference at peace with itself, and remaining at one with itself. 
 
-In other words, negation is an essential moment of the universal; and negation or mediation in what is universal is universal difference. This difference is expressed in the law, which is the stable presentment or picture of unstable appearance. The supersensible world is in this way a quiescent “kingdom of laws”, no doubt beyond the world of perception-for this exhibits the law only through incessant change – but likewise present in it, and its direct immovable copy or image.
+In other words, negation is an essential moment of the universal.
 
+Negation or mediation in what is universal is universal difference. 
+
+This difference is expressed in the law, which is the stable presentment or picture of unstable appearance.
+
+The supersensible world is in this way a quiescent “kingdom of laws”, no doubt beyond the world of perception-for this exhibits the law only through incessant change – but likewise present in it, and its direct immovable copy or image.
 
 
 ### b. Law as Distinction and Sameness

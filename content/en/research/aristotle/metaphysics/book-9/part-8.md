@@ -13,26 +13,34 @@ icon: "/icons/aris.png"
 
 Actuality, or actual existence, is prior to potentiality.
 
-Potentiality, or possibility of change, is that definite kind which is a principle of change in a thing. 
- <!-- another thing or in the thing itself regarded as other.  -->
+Potentiality, or possibility of change, is a principle of change in a thing. 
+ <!-- another thing or in the thing itself regarded as other. that definite kind which is -->
 - It is every principle of movement or rest. 
 
 Nature also is in the same genus as potency or the possibility of change. 
 - It is a principle of movement of the thing itself.
 <!-- -not, however, in something else but in the thing itself qua itself.  -->
 
-To all such possibility of change, <!-- potency --> then, actuality is prior both in cause-and-effect formula and in substantiality. In terms of time or temporal perception, actual existence is prior in one sense, but not in another.
+To all such possibility of change, <!-- potency --> then, actuality is prior both:
+- in cause-and-effect formula
+- in substantiality.
 
-1. Actual Existence is prior in cause-and-effect formula.
+
+In terms of time or temporal perception, actual existence is prior in one sense, but not in another sense.
+
+1. Actual Existence is prior in cause-and-effect [rational] formula.
 
 That which has the possibility of change [is potential] in the primary sense is potential because it is possible for it to become active.
 
 For example:
-- 'capable of building' is something that can build.
-- 'capable of seeing' is something that can see.
-- 'visible' is something that can be seen. 
+- 'capable of building' is something that can build
+- 'capable of seeing' is something that can see
+- 'visible' is something that can be seen
 
-The same account applies to all other cases, so that the cause-and-effect formula and the knowledge of its existence  precedes the knowledge of its possible changes.
+The same account applies to all other cases, so that the cause-and-effect formula and the knowledge of its existence precedes the knowledge of its possible changes.*
+
+{{< n n="Actual perception is needed for the thoughts of possibilities to begin" >}}
+
 
  <!-- one must precede the knowledge of the other. -->
 
@@ -42,12 +50,12 @@ The same account applies to all other cases, so that the cause-and-effect formul
 The future actual thing is identical in species, but not in number with a current thing that has the possibility of change.
   <!-- potentially existing thing is to it -->
 
-A man now exists here actually, along with a corn seed. 
+A man now exists here actually, along with a corn seed.
 - But that actuality is not yet real until the man has seen the corn.
 - Until then, the man and corn are potentialities.
 - This is how potency is prior to actuality. 
 
-  <!-- and to the corn and to the seeing subject the matter and the seed and that which is capable of seeing, which are potentially a man and corn and seeing, but not yet actually so, are prior in time. -->
+<!-- and to the corn and to the seeing subject the matter and the seed and that which is capable of seeing, which are potentially a man and corn and seeing, but not yet actually so, are prior in time. -->
 
 <!-- but prior in time to these, are other actually existing things, from which they were produced.  -->
 
@@ -55,31 +63,43 @@ From the potentially existing, the actual existence is always produced by an act
 
 There is always a first mover. The mover already actually exists.
 
-We have said in our account of substance that everything that is produced is something produced:
+I have said in my account of substance* that everything that is produced is something produced:
 - from something and
 - by something
 
 That something is the same in species as it.
 
+{{< n n="Substance and substantiality is citta or mind-stuff in Hinduism and Budhism. It is the substance that produces thoughts from itself. This is why thoughts are of the same kind as the citta" >}}
+
+
 This is why it is thought impossible:
 - to be a builder if one has built nothing
 - to be a harper if one has never played the harp
 
-He who learns to play the harp learns to play it by playing it. All other learners do similarly.
+He who learns to play the harp learns to play it by playing it. All other learners do similarly.*
 
-A sophistical quibble arises from this. 
+{{< n n="Here, the potentiality of learning something is comes before actually knowing that something" >}}
 
-One who does not know a science will be learning the object of the science. This is because a learner still has no knowledge of what he is learning. 
+
+A sophistical quibble arises from this: One who does not know a science will be learning the object of the science. 
+
+This is because a learner still has no knowledge of what he is learning. 
+- But that which is coming to be must have some part existing.
+- That which is changing, in general, mwust have some part changed (this is shown in the treatise on movement).
+- Then it follows that he who is learning must know some part of the science.
  <!-- For he who is learning it does not possess it. -->
-
-But that which is coming to be must have some part existing. That which is changing, in general, must have some part changed (this is shown in the treatise on movement). Then it follows that he who is learning must know some part of the science.
 
 <!-- , and, of that which, in general, is changing, some part must have changed , -->
 
-But here too, it is clear that actuality is in this sense also -- it is prior to potency in terms of the order of generation and of time.
+I answer that, here too, actuality is in this sense also -- actuality is prior to potentiality in terms of:
+- the order of generation and
+- time
 
 
-3. Potentiality, or possibility of change, is also prior in substantiality
+3. Potentiality, or possibility of change, is also prior in substantiality*
+
+{{< n n="Here, the essence or abstract form of something precedes its existence in citta or mind-stuff substantiality" >}}
+
 
 (a) This is because the things that are posterior in becoming are prior:
 - in form and
@@ -109,7 +129,9 @@ Similarly, men have:
 But men do not theorize so that they may have theoretical science, except those who are learning by practice.
 - Those learners-by-practice do not theorize except in a limited sense, or because they have no need to theorize. 
 
-Matter exists in a potential state just because it can exist in its form. When it exists actually, then it is in its form. This holds good in all cases, even those in which the end is a movement.
+Matter exists in a potential state just because it can exist in its form. 
+
+When it exists actually, then it is in its form. This holds good in all cases, even those in which the end is a movement.
 
 Teachers have achieved their end when they have exhibited to the pupil.
 
@@ -147,33 +169,51 @@ In general, the movement is in the thing that is being moved.
 
 But where there is no product apart from the actuality, the actuality is present in the agents. 
 
-For example, the act of seeing is in the seeing subject. The act of theorizing is in the theorizing subject. The life and well-being are in the soul (well-being is a certain kind of life).
+For example:
+- the act of seeing is in the seer
+- the act of theorizing is in the theorizer
+- life and well-being are in the soul (well-being is a kind of life).
 
   <!-- (and therefore well-being also; for it is a certain kind of life). -->
 
-Obviously, the substance or form is actuality. 
+Obviously, the substance or form is actuality.
+- Actuality is prior in substantial being to potency. 
+- One actuality always precedes another in time right back to the actuality of the eternal prime mover.
 
-Actuality is prior in substantial being to potency. 
-
-One actuality always precedes another in time right back to the actuality of the eternal prime mover.
 
 But (b) actuality is prior in a stricter sense also.
 
 Eternal things are prior in substance to perishable things. 
 
-No eternal thing exists potentially because every potentiality is at one and the same time a potentiality of the opposite. While that which is not capable of being present in a subject cannot be present, everything that is capable of being may possibly not be actual. 
+No eternal thing exists potentially because every potentiality is at one and the same time a potentiality of the opposite. 
+
+While that which is not capable of being present in a subject cannot be present, everything that is capable of being may possibly not be actual. 
 
 That which is capable of existing may either exist or not exist. 
 
-The same thing is capable both of being and of not being. 
+The same thing is capable both of being and of not being.
 
-That which is capable of not being may possibly not be; and that which may possibly not be is perishable, either in the full sense, or in the precise sense in which it is said that it possibly may not be, i.e. in respect either of place or of quantity or quality; 'in the full sense' means 'in respect of substance'. 
+A thing which can stop existing has the possibility of not existing.
 
-Nothing which is in the full sense imperishable is in the full sense potentially existent (though there is nothing to prevent its being so in some respect, e.g. potentially of a certain quality or in a certain place); all imperishable things, then, exist actually. 
+<!-- That which is capable of not being may possibly not be;  -->
 
-Nor can anything which is of necessity exist potentially; yet these things are primary; for if these did not exist, nothing would exist. 
+A thing which can stop existing is perishable either in terms of its:
+- metaphysical substance as in its essence
+- physical quantity or quality
 
-Nor does eternal movement, if there be such, exist potentially; and, if there is an eternal mobile, it is not in motion in virtue of a potentiality, except in respect of 'whence' and 'whither' (there is nothing to prevent its having matter which makes it capable of movement in various directions). 
+ <!-- either in the full sense, or in the precise sense in which it is said that it possibly may not be, i.e. in respect either of place or of quantity or quality; 'in the full sense' means 'in respect of substance'. -->
+
+A thing that is imperishable in its full sense or metaphysical essence is potentially existent in its full metaphysical sense. 
+
+<!-- Nothing which is in the full sense imperishable is in the full sense potentially existent (though there is nothing to prevent its being so in some respect, e.g. potentially of a certain quality or in a certain place);  -->
+
+Thus, all imperishable things exist actually. 
+
+Nor can anything which is of necessity exist potentially. Yet these things are primary; for if these did not exist, nothing would exist. 
+
+Nor does eternal movement, if there be such, exist potentially. 
+
+If there is an eternal mobile, it is not in motion in virtue of a potentiality, except in respect of 'whence' and 'whither' (there is nothing to prevent its having matter which makes it capable of movement in various directions). 
 
 And so the sun and the stars and the whole heaven are ever active. There is no fear that they may sometime stand still, as the natural philosophers fear they may. 
 

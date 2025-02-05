@@ -1,12 +1,10 @@
 ---
 title: Geographical Distribution
 heading: Chapter 11
-# First Meditation
-weight: 56
+weight: 76
 description: "Neither the similarity nor the dissimilarity of the inhabitants of various regions can be accounted for by their climatal and other physical conditions."
 image: "/covers/origin.jpg"
 ---
-
 
 
 <!-- Present distribution cannot be accounted for by differences in physical conditions -- Importance of
@@ -21,22 +19,27 @@ Neither the similarity nor the dissimilarity of the inhabitants of various regio
 
 Of late, almost every author who has studied the subject has come to this conclusion. 
 
-The case of America alone would almost suffice to prove its truth: for if we exclude the northern parts where the circumpolar land is almost continuous, all authors agree that one of the most fundamental divisions in geographical distribution is that between the New and Old Worlds.
+This is proven by America. 
+- One of the most fundamental divisions in geographical distribution is that between the New and Old Worlds.
 
-Yet if we travel over the vast American continent, from the central parts of the United States to its extreme southern point, we meet with the most diversified conditions; the most humid districts, arid deserts, lofty mountains, grassy plains, forests, marshes, lakes, and great rivers, under almost every temperature. 
+The vast American continent has the most diversified conditions:
+- the most humid districts
+- arid deserts
+- lofty mountains
+- grassy plains, forests, marshes, lakes, and great rivers, under almost every temperature. 
 
-There is hardly a climate or condition in the Old World which cannot be paralleled in the New--at least as closely as the same species generally require; 
+<!-- There is hardly a climate or condition in the Old World which cannot be paralleled in the New--at least as closely as the same species generally require;  -->
 
-for it is a most rare case to find a group of organisms confined to any small spot, having conditions peculiar in only a slight degree; for instance, small areas in the Old World could be pointed out hotter than any in the New World, yet these are not inhabited by apeculiar fauna or flora. 
+<!-- for it is a most rare case to find a group of organisms confined to any small spot, having conditions peculiar in only a slight degree; for instance, small areas in the Old World could be pointed out hotter than any in the New World, yet these are not inhabited by apeculiar fauna or flora.  -->
 
-Notwithstanding this parallelism in the conditions of the Old and New Worlds, how widely different are their living productions!
+Despite this parallelism in the conditions of the Old and New Worlds, their living productions are widely different!
 
 The southern hemisphere has extremely similar conditions, yet their faunas and floras are utterly dissimilar.
 
 <!-- , if we compare large tracts of land in Australia, South Africa, and
 western South America, between latitudes 25 deg and 35 deg, we shall find parts  -->
 
-Or again we may compare the productions of South America south of lat. 35 deg with those north of 25 deg, which consequently inhabit a considerably different climate, and they will be found incomparably more closely related to each other, than they are to the productions of Australia or Africa under nearly the same climate. 
+The productions of South America south of lat. 35 deg and those north of 25 deg of a different climate are more closely related  than they are to the productions of Australia or Africa under nearly the same climate. 
 
 Analogous facts could be given with respect to the inhabitants of the sea.
 
@@ -72,13 +75,17 @@ Innumerable other instances could be given. If we look to the islands off the Am
 
 We may look back to past ages, as shown in the last chapter, and we find American types then prevalent on the American continent and in the American seas. We see in these facts some deep organic bond, prevailing throughout space and time, over the same areas of land and water, and independent of their physical conditions. The naturalist must feel little curiosity, who is not led to inquire what this bond is.
 
-This bond, on my theory, is simply inheritance, that cause which alone, as far as we positively
-know, produces organisms quite like, or, as we see in the case of varieties nearly like each other.
-The dissimilarity of the inhabitants of different regions may be attributed to modification through
-natural selection, and in a quite subordinate degree to the direct influence of different physical
-conditions. 
+This bond, on my theory, is simply inheritance.
+- It alone produces organisms quite like each other.
 
-The degree of dissimilarity will depend on the migration of the more dominant forms of life from one region into another having been effected with more or less ease, at periods more or less remote;--on the nature and number of the former immigrants;--and on their action and reaction, in their mutual struggles for life;--the relation of organism to organism being, as I have already often remarked, the most important of all relations. 
+The dissimilarity of the inhabitants of different regions is from:
+- modification through natural selection.
+- the direct influence of different physical conditions.
+
+The degree of dissimilarity will depend on:
+- the migration of the more dominant forms of life from one region into another having been effected with more or less ease, at periods more or less remote
+- the nature and number of the former immigrants
+- their action and reaction, in their mutual struggles for life;--the relation of organism to organism being, as I have already often remarked, the most important of all relations. 
 
 Thus the high importance of barriers comes into play by checking migration; as does time for the slow process of modification through natural selection.
 
@@ -99,8 +106,8 @@ Likewise, the degree of modification in different species will be no uniform qua
 
 If, for instance, a number of species, which stand in direct competition with each other, migrate in a body into a new and afterwards isolated country, they will be little liable to modification; for neither migration nor isolation in themselves can do anything.
 
-These principles come into play only by bringing organisms into new
-relations with each other, and in a lesser degree with the surrounding physical conditions. As we
-have seen in the last chapter that some forms have retained nearly the same character from anenormously remote geological period, so certain species have migrated over vast spaces, and have
+These principles come into play only by bringing organisms into new relations with each other, and in a lesser degree with the surrounding physical conditions. 
+
+As we have seen in the last chapter that some forms have retained nearly the same character from anenormously remote geological period, so certain species have migrated over vast spaces, and have
 not become greatly modified.
 

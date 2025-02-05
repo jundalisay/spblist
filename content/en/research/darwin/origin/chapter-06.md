@@ -1,9 +1,8 @@
 ---
 title: Difficulties on Theory
 heading: Chapter 6
-# First Meditation
 weight: 42
-description: ""
+description: "People have given objections to my theory"
 image: "/covers/origin.jpg"
 ---
 

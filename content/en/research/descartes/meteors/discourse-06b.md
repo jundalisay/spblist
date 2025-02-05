@@ -2,7 +2,7 @@
 heading: Discourse 6b
 title: The Grains of Hail
 weight: 30
-description: Descartes gives 4 Precepts on Math and Logic
+description: On February 4, 1635, after an extremely cold spell, it rained a bit in the evening in Amsterdam, where I was
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes
@@ -16,7 +16,7 @@ I do not determine how many such grains each one can be divided into.
 
 But it seems that for the ordinary, it must be at least 8. They can also perhaps be divided into 12, 20, 24, 32, or even a much larger number, according to their size, and of a more subtle snow, and that the cold, which converts them into hail, is harsher and comes more suddenly. 
 
-And I have observed more than once such hail, the grains of which had roughly the shape of the segments of a ball divided into 8 equal parts by three intersecting sections at right angles at the center. 
+I have observed more than once such hail, the grains of which had roughly the shape of the segments of a ball divided into 8 equal parts by three intersecting sections at right angles at the center. 
 
 Then I also observed others, which being longer and smaller, seemed to be about a quarter of those there, although their corners, having become blunt and rounded by tightening, they almost had the shape of a sugar loaf.
 

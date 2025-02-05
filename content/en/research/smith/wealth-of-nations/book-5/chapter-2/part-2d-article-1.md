@@ -1,6 +1,6 @@
 ---
 title: "Taxes on the Produce of Land"
-heading: "Chapter 2b-04 Article 1"
+heading: "Chapter 2-2d Article 1"
 weight: 16
 image: "/covers/wn.jpg"
 description: "Taxes on the produce of land are really taxes on rent. They are finally paid by the landlord even if they are originally paid by the farmer"

@@ -2,11 +2,12 @@
 heading: "Chapter 3"
 title: "Consciousness and Samadhi"
 date: 2024-07-15
-image: "/photos/meta/isaiah.jpg"
+image: "/photos/meta/god.jpg"
 description: "The 10 virtues are based on Yama and Niyama"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
+weight: 8
 icon: /icons/spi.png
 ---
 

@@ -17,41 +17,51 @@ For it is in virtue of the concept of substance that the others also are said to
 
 'Being' is used in 2 senses:
 
-1. It used to refer to an individual thing, quality, and quantity
-2. It used to refer to potency and complete reality, and of function
+1. As an individual thing, quality, and quantity
+2. As potency and complete reality, and of function
 
 But what is potency and complete reality?
 
-Potentiality and actuality extend beyond the cases that involve a reference to motion. 
-
-There other kinds of potency. 
+Potentiality and actuality extend beyond motion. 
+ <!-- the cases that involve a reference to motion.  -->
+- There other kinds of potency. 
 
 <!-- But when we have spoken of this first kind, we shall in our discussions of actuality' explain the other kinds of potency as well. -->
 
 'Potentiality' and the word 'can' have several senses. 
 
-Of these, I neglect all the potencies that are so called by an equivocation. 
 
-These are based on analogy. For example in geometry, we say one thing is or is not a 'power' of another because of the presence or absence of some relation between them.
+There are potentialities that are based on an equivocation or analogy.
+- For example in geometry, we say one thing is or is not a 'power' of another because of the presence or absence of some relation between them.
 <!-- For some are called so by analogy, as in   the same type are -->
+- I avoid such potentialities.
 
-I accept all the potentialies that conform to originative sources of some kind. These are called "potencies in reference to one primary kind of potency".
+
+I accept all the potentialies that conform to originative sources of some kind.
+
+These are called "potencies in reference to one primary kind of potency".
 - This primary potency is an originative source of change in another thing or in the thing itself qua other. 
 
 Such potencies are of different kinds:
 
-1. A potency of being acted on
+1. A potentiality of being acted on
 
-This is when the originative source, in the very thing acted on, is passively changed by another thing or by itself qua other. 
+This is when the source passively changes when it is acted on. 
 
-2. A potency of being not susceptibile to change for the worse 
+ <!-- originative source, in the very thing acted on, is passively changed by another thing or by itself. -->
 
-This is when the originative source resists destruction by another thing or by the thing itself qua other
+ <!-- qua other.  -->
+
+2. A potentiality of being not susceptibile to change for the worse 
+
+This is when the source resists destruction by another thing or by itself.
+
+ <!-- qua other -->
  <!-- by virtue of an originative source of change.  -->
 
-These imply the formula if potency in the primary sense.
+These imply the formula of potentialities in the primary sense.
 
-These so-called potencies are potencies either of:
+These so-called potentialities are potentialities either of:
 - passively acting or
 - passively being acted on, or
 - actively acting or
@@ -67,17 +77,28 @@ And so, the potentiality of acting and of being acted on is the same but differe
 
 <!-- one but in a sense the potencies are different. -->
 
-For the one is in the thing acted on; it is because it contains a certain originative source, and because even the matter is an originative source, that the thing acted on is acted on, and one thing by one, another by another.
+
+The potentiality of being acted on is in the thing acted on.
+- This thing has a certain originative source
+
+The matter is an originative source. This is why:
+- the thing acted on is acted on
+- one thing is acted on by one thing
+- another thing is acted on by another
 
 An oily thing can be burnt. A yielding thing can be crushed.
 
-But the other potentiality is in the agent, e.g. heat and the art of building are present, one in that which can produce heat and the other in the man who can build. 
+But the other potentiality is in the agent. For example:
+- heat is present in a thing which can produce heat
+- the art of building is present in the man who can build
 
-And so, in so far as a thing is an organic unity, it cannot be acted on by itself.
+In terms of a thing being an organic unity, it cannot be acted on by itself.
+- This is because it is one and not 2 different things. 
 
-For it is one and not two different things. 
 
-And 'impotence' and 'impotent' stand for the privation which is contrary to potency of this sort, so that every potency belongs to the same subject and refers to the same process as a corresponding impotence. 
+### Privation
+
+'Impotence' and 'impotent' are the privation which is contrary to potency of this sort, so that every potency belongs to the same subject and refers to the same process as a corresponding impotence. 
 
 Privation has several senses. It means:
 

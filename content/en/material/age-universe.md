@@ -65,6 +65,9 @@ Descartes explained that light has 3 properties:
 2. Wave
 3. Particle
 
+
+{{< img src="/graphics/physics/lightprops.jpg" alt="Properties of Light" >}}
+
 An analogy is a courier that delivers a TV (particle) to you. The delivery might take 8 minutes, but the TV show (info) is up to date.
 
 The lag in electromagnetic communication is caused by the blockages caused by matter. Outer space has not much matter and so the information from stars is more or less current and up to date.
@@ -73,6 +76,9 @@ So those farther galaxies detected by the James Webb Space Telescope are not old
 
 The red shift is a property of spacetime, and not of light. It happens only at the edges of galaxies and stars where their territories clash with those of others. This clash creates the visible stretching. 
 
+> Red shift is a property of spacetime, and not of light
+
+
 There are no gravitational waves in the CMB because such waves are a product of black holes which are allied with light, and not microwaves. The latter is allied with time, and so the CMB is a better basis of the age of the universe than redshift. 
 
 
@@ -80,11 +86,11 @@ There are no gravitational waves in the CMB because such waves are a product of 
 
 Why did physicists confuse light and time? 
 
-This is because Einstein used the speed of light as the measuring rod for space. Since spacetime is one being, then light also measures time. 
+This is because Einstein used the speed of light as the measuring rod for space. Since spacetime is one being, then light also measures time. Therefore, the age of something is determined by its light. 
 
-Therefore, the age of something is determined by its light. However, this is totally wrong because  Spacetime (called the '2nd Element' in Cartesian Physics and 'Spatial Layer' in our Superphysics) is superior to Electromagnetism (called the 1st Element in Cartesian Physics and the Radiant Layer in Superphysics). 
+However, this is totally wrong because Spacetime (called the '2nd Element' in Cartesian Physics and 'Spatial Layer' in our Superphysics) is superior to Electromagnetism (called the 1st Element in Cartesian Physics and the Radiant Layer in Superphysics). 
 
-It would be like using a janitor as the benchmark to judge the merits of a CEO or executive -- a good CEO is one who cleans toilets spotlessly and wipes all the windows clearly. 
+It would be like using a janitor as the benchmark to judge the merits of a CEO or executive -- a good CEO is one who cleans toilets spotlessly and wipes all the windows clearly!
 
 In Physics, this manifests as the Strong Force (called the 3rd Element by Descartes and the Material Layer in Superphysics) as being the highest principle. This leads to the Big Bang Theory which states that the universe came from a material singularity. From that singularity emerged spacetime and light. 
 
@@ -179,6 +185,9 @@ The emergence of the Cosmic Microwave Background (CMB) is the birth of the Radia
 - From a species in the spacetime layer, the universe is a few 'days' old. 
 
 - From a species in the aethereal layer, the universe is a few 'seconds' old and even instantaneous. This is because the aethereal layer is closest to the non-layer which we call 'probabilty'. Moreover, it is also above spacetime, making time irrelevant. This then makes questions of age or timespan irrelevant.  
+
+
+> The age of a universe depends on the star, galaxy, or layer where the perceiving mind is
 
 The layer that the mind occupies then depends on the strength of [the Negative Force](/superphysics/principles/chapter-03e/) on it.
 

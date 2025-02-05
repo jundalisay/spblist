@@ -1,5 +1,5 @@
 ---
-heading: Part 4
+heading: Part 5
 title: "Newton and God"
 description: "The principle of Universal Gravitation is that every particle of matter is attracted by, or gravitates to, every other particle of matter"
 image: "/covers/newton.jpg"

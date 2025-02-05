@@ -24,8 +24,7 @@ But by Special Relativity, the same equations <!-- without any change of meaning
 
 I think that such an asymmetry in the theoretical structure, with no corresponding asymmetry in the system of experience, is intolerable*. 
 
-{{< n n="To Einstein, it is intolerable to have a dimension which is unknown" >}}
-
+{{< n n="To Einstein, it is intolerable to have a dimension which is unknown. This asymmetry is the backstage of reality which facilitates faster-than-light travel" >}}
 
 
 If the ether were at rest relatively to non-moving `K`, but in motion relatively to moving `K'`, the physical equivalence of non-moving `K` and moving `K'` is <!-- seems to me from the logical standpoint, not indeed  downright incorrect, but nevertheless-->  unacceptable.
@@ -42,8 +41,11 @@ Initially, the solution is that the ether does not exist at all.
 The electromagnetic fields: 
 - are not states of a medium
 - are not bound down to any bearer
-- are independent realities which are not reducible to anything else, exactly like the atoms of ponderable matter. 
-- are electromagnetic radiation, according to Lorentz's theory. This is like ponderable matter bringing impulse and energy with it
+- are independent realities* which are not reducible to anything else, exactly like the atoms of ponderable matter. 
+- are electromagnetic radiation, according to Lorentz's theory. This is like ponderable matter bringing impulse and energy with it.
+
+{{< n n="*Here, Einstein makes electromagnetism the supreme principle" >}}
+
 
 **According to Special Relativity, both matter and radiation are but special forms of distributed energy, ponderable mass losing its isolation and appearing as a special form of energy.**
 
@@ -69,15 +71,16 @@ If such buoys were impossible, then we cannot say that water was made up of movi
 
 <!-- But all the same we could characterise it as a medium. -->
 
-The electromagnetic field is like water, consisting of lines of force. Each separate line of force is tracked through time. But this way of regarding the electromagnetic field leads to contradictions.
+The electromagnetic field is like water, consisting of lines of force. 
 
+Each separate line of force is tracked through time. But this way of regarding the electromagnetic field leads to contradictions.
 
 <!-- If we wish to interpret these lines of force to ourselves as something material in the ordinary sense, we are tempted to interpret the dynamic processes as motions of these lines of force, such that  -->
 
 
 There might be extended physical objects to which the idea of motion cannot be applied. They might not be made up of trackable particles*. 
 
-{{< n n="The buoys would not be there. " >}}
+{{< n n="The buoys would not be there." >}}
 
 <!-- They may not be thought of as consisting of particles which allow themselves to be separately tracked through time.  -->
 
@@ -95,26 +98,10 @@ The equations of the electromagnetic field only have:
 - the densities of the electric charge
 - the intensities of the field. 
 
-Electromagnetic processes in vacua are completely determined by these equations, uninfluenced by other physical quantities. 
+Electromagnetic processes in vacua are completely determined by these equations, uninfluenced by other physical quantities.
 
-**The electromagnetic fields appear as ultimate, irreducible realities.** 
+**The electromagnetic fields are ultimate, irreducible realities.** *
 
-At first, it seems superfluous to: 
-- postulate a homogeneous, isotropic ether-medium
-- envisage electromagnetic fields as states of this medium.
+{{< n n="*Here, Einstein really makes electromagnetism the supreme principle" >}}
 
-But on the other hand, the ether hypothesis is useful in harmonizing the fundamental facts of mechanics.
 
-<!-- . To deny the ether is ultimately to assume that empty space has no physical qualities whatever.  -->
-
-The mechanical behaviour of body hovering freely in empty space depends on:
-- relative positions (distances)
-- relative velocities
-- its state of rotation
-  - This might not appertaining to the body in itself. 
-
-In order to look at the rotation of the body as something real, Newton objectivises space. He classes his absolute space together with real things. For him, rotation relative to an absolute space is also something real. 
-
-Newton could have called his absolute space as "Ether". 
-
-Besides observable objects, another thing, which is not perceptible, must be looked upon as real in order to enable acceleration or rotation to be looked upon as something real.

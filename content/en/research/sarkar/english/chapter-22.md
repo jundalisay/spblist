@@ -13,9 +13,14 @@ icon: "/icons/sarkar.png"
 
 Maqbul1
 
-Maqbul is a very well-behaved boy. His qualities have not got any comparison. He prepares his lessons attentively. No student stands on a par with him in studies. His father cultivates paddy and jute. He assists his father in farming. Once he came to Calcutta from Chandpur with his maternal uncle. Coming to Calcutta he ate jackfruit pickle and rasamálái [a sweet]. He was very happy to see Calcutta Zoo. There he drew pictures of many birds and animals. All admired his behaviour. All the people of the town felt proud of him. Everyone expects that he will render service to the world when he grows up.
+Maqbul is a very well-behaved boy. His qualities have not got any comparison. He prepares his lessons attentively. No student stands on a par with him in studies.
 
-The Perils of Intoxication
+His father cultivates paddy and jute. He assists his father in farming. Once he came to Calcutta from Chandpur with his maternal uncle. Coming to Calcutta he ate jackfruit pickle and rasamálái [a sweet]. He was very happy to see Calcutta Zoo.
+
+There he drew pictures of many birds and animals. All admired his behaviour. All the people of the town felt proud of him. Everyone expects that he will render service to the world when he grows up.
+
+
+### The Perils of Intoxication
 
 A person who loses his or her senses due to excessive drink and starts shouting, or talking incoherently; or starts imagining that his or her cot is flying in the air; or starts thinking that, seated on a throne, he or she is eating pát́isápt́á,3 [meanwhile] wallowing in the filth of a drain; is called koshátakin [or "drunkard"]. There are many popular tales about this type of drunkard.
 

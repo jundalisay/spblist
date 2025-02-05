@@ -1,6 +1,6 @@
 ---
 title: "The Four Taxation Maxims"
-heading: "Chapter 2b-01"
+heading: "Chapter 2-2"
 weight: 10
 image: "/covers/wn.jpg"
 description: "Every tax must ultimately be paid from any or all of those three kinds of revenue"

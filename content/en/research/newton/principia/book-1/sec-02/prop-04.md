@@ -1,8 +1,9 @@
 ---
-title: "Proposition 4"
-heading: Section 2 
-description: "Every body that moves in any curve line described in a plane, and by a radius, drawn to a point either immovable, or moving forward with an uniform rectilinear motion, describes about that point areas proportional to the times, is urged by a centripetal force directed"
+heading: Section 2d
+linkTitle: Prop 4
+title: "Proposition 4 Theorem 4"
 image: "/covers/principia.jpg"
+description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
 weight: 10
 ---

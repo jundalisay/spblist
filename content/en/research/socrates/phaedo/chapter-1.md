@@ -78,22 +78,47 @@ Crito, let someone take her home.'
 {{< /l >}}
 
 
-Some of Crito's people accordingly led her away, crying out and beating herself. And when she was gone, Socrates, sitting up on the couch, bent and rubbed his leg, saying, as he was rubbing= How singular is the thing called pleasure, and how curiously related to pain, which might be thought to be the opposite of it; for they are never present to a man at the same instant, and yet he who pursues either is generally compelled to take the other; their bodies are two, but they are joined by a single head. 
+Some of Crito's people accordingly led her away, crying out and beating herself. 
 
-I cannot help thinking that if Aesop had remembered them, he would have made a fable about God trying to reconcile their strife, and how, when he could not, he fastened their heads together; and this is the reason why when one comes the other follows, as I know by my own experience now, when after the pain in my leg which was caused by the chain pleasure appears to succeed.
-
-{{< r a="Cebes" >}}
-I am glad, Socrates, that you have mentioned Aesop because it reminds me of the question by Evenus the poet= Why are you composing that hymn in honour of Apollo when you have never before written poetry, now that you are in prison are turning Aesop's fables into verse.
-{{< /r >}}
+When she was gone, Socrates rubbed his leg, saying:
 
 {{< l a="Socrates" >}}
-Tell him that I had no idea of rivalling him or his poems as it is no easy task. I wanted to settle the meaning of certain dreams. I have often dreamt that I should compose music. I thought this was only for encouraging me into philosophy, which has been the pursuit of my life, and is the noblest and best of music. 
+How singular is the thing called pleasure. How curiously it is related to pain, which might be thought to be the opposite of it. 
 
-The dream was bidding me do what I was already doing, in the same way that a runner in a race is bidden by the spectators to keep on running. 
+They are never present to a man at the same instant. Yet he who pursues either is generally compelled to take the other. Their bodies are 2, but they are joined by a single head. 
 
-But I was not sure. The dream might have meant music in the popular sense. Being under sentence of death, and the festival giving me a respite, I thought that it would be safer to satisfy the dream and compose a few verses before I departed. 
+If Aesop had remembered them, he would have made a fable about God trying to reconcile their strife. If God could not, he would have fastened their heads together.
 
-First I made a hymn in honour of the god of the festival. Then I took some fables of Aesop, which I knew and turned them into verse. Tell this to Evenus, Cebes, and bid him be of good cheer; say that I would have him come after me if he be a wise man, and not tarry; and that to-day I am likely to be going, for the Athenians say that I must.
+This is why when one comes the other follows. For example, I feel pain in my leg disappear after I rub it. 
+
+ <!-- which was caused by the chain pleasure appears to succeed. -->
+{{< /l >}}
+
+
+{{< r a="Cebes" >}}
+<!-- I am glad, Socrates, that you have mentioned  -->
+Aesop reminds me of the question by Evenus the poet: 'Why are you composing that hymn in honour of Apollo when you have never before written poetry, now that you are in prison are turning Aesop's fables into verse.
+{{< /r >}}
+
+
+{{< l a="Socrates" >}}
+Tell him that I have no intention of rivalling his poems as it is no easy task. 
+
+I wanted to settle the meaning of certain dreams. I have often dreamt that I should compose music.
+
+<!-- I thought this was only for encouraging me into philosophy, which has been the pursuit of my life, and is the noblest and best of music.  -->
+
+The dream was bidding me do what I was already doing.
+
+ <!-- in the same way that a runner in a race is bidden by the spectators to keep on running.  -->
+
+<!-- But I was not sure. The dream might have meant music in the popular sense.  -->
+
+Being under sentence of death, and the festival giving me a respite, I thought I could satisfy the dream and compose a few verses before I departed. 
+
+First I made a hymn in honour of the god of the festival. Then I took some fables of Aesop, which I knew and turned them into verse.
+
+Tell this to Evenus, Cebes, and bid him be of good cheer. I would have him come after me if he be a wise man, and not tarry; and that to-day I am likely to be going, for the Athenians say that I must.
 {{< /l >}}
 
 {{< r a="Simmias" >}}
@@ -126,13 +151,20 @@ I admit the appearance of inconsistency in what I am saying; but there may not b
 {{< l a="Socrates" >}}
 There is a doctrine whispered in secret that man is a prisoner who has no right to open the door and run away. I too believe that the gods are our guardians, and that we are a possession of theirs. 
 
-If one of your own possessions, such as an ox killed itself without your permission then you would be angry with him. You would punish him if you could. And so a man should wait, and not take his own life until God summons him, as he is now summoning me.
+If one of your own possessions, such as an ox killed itself without your permission then you would be angry with him. You would punish him if you could. 
+
+And so a man should wait, and not take his own life until God summons him, as he is now summoning me.
 {{< /l >}}
 
 
 {{< r a="Cebes" >}}
-Yes, but how can you reconcile this seemingly true belief that God is our guardian and we his possessions, with the willingness to die which we were just now attributing to the philosopher? That the wisest of men should be willing to leave a service in which they are ruled by the gods who are the best of rulers, is not reasonable; for surely no wise man thinks that when set at liberty he can take better care of himself than the gods take of him. 
+Yes, but how can you reconcile this seemingly true belief that God is our guardian and we his possessions, with the willingness to die which we were just now attributing to the philosopher?
 
+That the wisest of men should be willing to leave a service in which they are ruled by the gods who are the best of rulers, is not reasonable; for surely no wise man thinks that when set at liberty he can take better care of himself than the gods take of him. 
+{{< /r >}}
+
+
+{{< r a="Cebes" >}}
 A fool may perhaps think so—he may argue that he had better run away from his master, not considering that his duty is to remain to the end, and not to run away from the good, and that there would be no sense in his running away. 
 
 The wise man will want to be ever with him who is better than himself. Now this, Socrates, is the reverse of what was just now said; for upon this view the wise man should sorrow and the fool rejoice at passing out of life.
@@ -147,7 +179,9 @@ Cebes thinks that you are too ready to leave us and the gods.
 
 
 {{< l a="Socrates" >}}
-I will try to defend myself better to you than to the judges. I say that the gods are good and that I am not better than the ones whom I will leave behind. I do not grieve as much because I have hope that there is yet something remaining for the dead who are good.
+I will try to defend myself better to you than to the judges. I say that the gods are good and that I am not better than the ones whom I will leave behind. 
+
+I do not grieve as much because I have hope that there is yet something remaining for the dead who are good.
 {{< /l >}}
 
 <!-- {{< r a="Thrasymachus" >}}

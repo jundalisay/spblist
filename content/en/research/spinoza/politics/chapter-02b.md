@@ -12,7 +12,7 @@ weight: 9
 
 {{< s v="8" >}} We therefore conclude that it is not in every man's power1 3 always to use reason and to be at the highest pitch of human freedom, but yet he always endeavours as far as in him lies to preserve his own being and (since every man has right to the extent that he has power), whether he be wise or ignorant, whatever he endeavours and does, he endeavours and does by the sovereign right of Nature.
 
-From this it follows that Nature's rightand established order, under which all men are born and for the most part live, forbids only those th ings that no one desires and no one can do; it does not frown on strife, or hatred, or anger, or deceit, or on anything at all urged by appetite. 
+From this it follows that Nature's right and established order, under which all men are born and for the most part live, forbids only those th ings that no one desires and no one can do; it does not frown on strife, or hatred, or anger, or deceit, or on anything at all urged by appetite. 
 
 This is not surprising, for Nature's bounds are set not by the laws of human reason whose aim is only man's true interest and preservation, but by infinite other laws which have regard to the eternal order of
 the whole of Nature, of which man is but a tiny part. 

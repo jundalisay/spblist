@@ -74,12 +74,15 @@ Our unique expression is our highest need. This validates our identity and justi
 
 We apply these needs whenever we create policies whether for our family, employment, or national labor. 
 
+{{< i s="/graphics/econ/needs.jpg" a="Hierarchy of Needs" >}}
+
+
 For example, it could be made that every family or government prioritize the security of food, water, air, and shelter over spending for luxuries or economic growth. 
 
 Likewise, a religious policy such as praying 5 times a day (Aethereal Level) could take a back seat to the Lower Four Needs. Instead, it could be harmonized with the reast by changing it to prayer twice a day, upon waking up and before going to sleep. 
 
 The importance of the Convertible Layer means that work from home or flexible work arrangement should be made possible by employers. 
 
-This integrates well with our [5-Layer-goal-setting model](/superphysics/principles/chapter-02/) for the realization of the goals or needs of the soul. 
+<!-- This integrates well with our [5-Layer-goal-setting model](/superphysics/principles/chapter-02/) for the realization of the goals or needs of the soul. 
 
-![Goal-Setting](/graphics/meta/ngu.jpg)
+![Goal-Setting](/graphics/meta/ngu.jpg) -->

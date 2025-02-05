@@ -9,35 +9,32 @@ image: /covers/science.png
 ---
 
 
-
-§ 860
-
-Reflection is determinate reflection; hence essence is determinate essence, or it is an essentiality.
+<sup>868</sup> Reflection is determinate reflection; hence essence is determinate essence, or it is an essentiality.
 
 Reflection is the showing of the illusory being of essence within essence itself. Essence, as infinite return-into-self, is not immediate but negative simplicity; it is a movement through distinct moments, absolute self-mediation. But it reflects itself into these its moments which consequently are themselves determinations reflected into themselves.
 
-§ 861
 
-Essence is at first, simple self-relation, pure identity. This is its determination, but as such it is rather the absence of any determination.
+<sup>861</sup> Essence is at first, simple self-relation, pure identity. This is its determination, but as such it is rather the absence of any determination.
 
 Secondly, the proper determination is difference, a difference that is, on the one hand, external or indifferent, diversity in general, and on the other hand, is opposed diversity or opposition.
 
 Thirdly, as contradiction, the opposition is reflected into itself and withdrawn into its ground.
 
+```
 Remark: A = A
-
-Hegel’s Science of Logic
+```
 
 Laws of Identity and Diversity
+
+```
 Remark: A = A
+```
 
-§ 862
+<sup>862</sup> The categories of reflection used to be taken up in the form of propositions, in which they were asserted to be valid for everything.
 
-The categories of reflection used to be taken up in the form of propositions, in which they were asserted to be valid for everything. These propositions ranked as the universal laws of thought that lie at the base of all thinking, that are absolute in themselves and incapable of proof, but are immediately and incontestably recognised and accepted as true by all thinking that grasps their meaning.
+These propositions ranked as the universal laws of thought that lie at the base of all thinking, that are absolute in themselves and incapable of proof, but are immediately and incontestably recognised and accepted as true by all thinking that grasps their meaning.
 
-§ 863
-
-Thus the essential category of identity is enunciated in the proposition: everything is identical with itself, A = A. Or negatively: A cannot at the same time be A and not A.
+<sup>863</sup> Thus the essential category of identity is enunciated in the proposition: everything is identical with itself, A = A. Or negatively: A cannot at the same time be A and not A.
 
 § 864
 

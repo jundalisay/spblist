@@ -38,7 +38,7 @@ But that after death the soul will continue to exist is not yet proven even to m
 For admitting that she may have been born elsewhere, and framed out of other elements, and was in existence before entering the human body, why after having entered in and gone out again may she not herself be destroyed and come to an end?
 {{< /r >}}
 
-{{< right ava="Cebes" >}}
+{{< r a="Cebes" >}}
 Very true, Simmias. 
 
 About half of what was required has been proven; to wit, that our souls existed before we were born:—that the soul will exist after death as well as before birth is the other half of which the proof is still wanting, and has to be supplied; when that is given the demonstration will be complete.
@@ -103,7 +103,10 @@ One of us is part body, another is part soul.  The body is the seen and the soul
 The soul uses the body as an instrument of perception. It uses sight or hearing. 
 
 Perceiving through the body is perceiving through the senses. The soul too is then dragged by the body into the region of the changeable. It wanders and is confused. The world spins round her, and she is like a drunkard, when she touches change. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 But when returning into herself she reflects, then she passes into the other world, the region of purity, and eternity, and immortality, and unchangeableness, which are her kindred, and with them she ever lives, when she is by herself and is not let or hindered. 
 
 Then she ceases from her erring ways, and being in communion with the unchanging is unchanging. 
@@ -121,7 +124,9 @@ I think, Socrates, that, in the opinion of every one who follows the argument, t
 {{< l a="Socrates" >}}
 The body is more like the changing. 
 
-Yet once more consider the matter in another light: When the soul and the body are united, then nature orders the soul to rule and govern, and the body to obey and serve. Now which of these two functions is akin to the divine? and which to the mortal? Does not the divine appear to you to be that which naturally orders and rules, and the mortal to be that which is subject and servant?
+Yet once more consider the matter in another light: When the soul and the body are united, then nature orders the soul to rule and govern, and the body to obey and serve.
+
+Which of these two functions is akin to the divine? and which to the mortal? Does not the divine appear to you to be that which naturally orders and rules, and the mortal to be that which is subject and servant?
 {{< /l >}}
 
 
@@ -144,7 +149,10 @@ The pure and noble soul goes to the good and wise God. If God wills it my soul i
 The soul, I repeat, if this be her nature and origin, will be blown away and destroyed immediately on quitting the body, as the many say? 
 
 That can never be, my dear Simmias and Cebes. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 The truth rather is, that the soul which is pure at departing and draws after her no bodily taint, having never voluntarily during life had connection with the body, which she is ever avoiding, herself gathered into herself. 
 
 Making such abstraction her perpetual study—which means that she has been a true disciple of philosophy; and therefore has in fact been always engaged in the practice of dying? 

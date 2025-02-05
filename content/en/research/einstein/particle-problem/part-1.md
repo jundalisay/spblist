@@ -59,12 +59,13 @@ Our rivals will say that this is impossible because:
 - the last of the Maxwell equations*, excludes the existence of charge densities and electrical particles
 
 
-> *This expresses the vanishing of the divergence of the (contravariant) electrical ﬁeld density
+{{< n n="*This expresses the vanishing of the divergence of the (contravariant) electrical ﬁeld density" >}}
 
 
-This is why writers have occasionally noted the possibility that material particles might be considered as singularities of the ﬁeld. 
 
-We reject these because a singularity brings so much arbitrariness into General Relativity that it actually nulliﬁes its laws.
+This is why writers have said that material particles might be considered as singularities of the ﬁeld.
+
+We reject these because a singularity brings so much arbitrariness into General Relativity that it actually nullifies its laws.
 
 (L. Silberstein wrote to Albert about this)
 
@@ -72,9 +73,9 @@ Levi—Civita and Weyl gave a way to find axially symmetric static solutions of 
 
 This gives us a solution which, except for 2 point singularities lying on the axis of symmetry, is everywhere regular and is Euclidean at inﬁnity.
 
-Hence if Newtonian singularities are particles, then in this case, we would have 2 particles not accelerated by their gravitational interaction, which would certainly be excluded physically. 
+Hence if Newtonian singularities are particles, then we would have 2 particles not accelerated by their gravitational interaction, which would certainly be excluded physically. 
 
-We think that every ﬁeld theory must therefore adhere to the fundamental principle that Newtonian singularities of the ﬁeld are to be excluded. 
+We think that every ﬁeld theory must therefore adhere to the fundamental principle that Newtonian singularities of the ﬁeld are to be excluded.
 
 We explain how.
 
@@ -96,10 +97,12 @@ The latter is exactly described by the metric ﬁeld*
 d32= ~dx12—dx22~—dx32+a2x12dx42.                 (1)
 ```
 
+{{< n n="*Einstein Note: This metric ﬁeld does not represent the whole Minkowski space but only part of it. Thus, the transformation that converts d3? = —— dsi2—d522—d532+d542 into (1) is  51= 36] cosh ax4,    53= 963, £2=x2s              £4=x1 smh am. It follows that only those points for which 5123= 5154? corre spond to points for which (1) is the metric." >}}
+                   
 
-> *Einstein Note: This metric ﬁeld does not represent the whole Minkowski space but only part of it. Thus, the transformation that converts d3? = —— dsi2—d522—d532+d542 into (1) is  51= 36] cosh ax4,    53= 963, £2=x2s              £4=x1 smh am. It follows that only those points for which 5123= 5154? corre spond to points for which (1) is the metric.                    
 
 The g“, of this ﬁeld satisfy in general the equations           
+
 
 ```elixir
 Rim" = O,                     (2)   

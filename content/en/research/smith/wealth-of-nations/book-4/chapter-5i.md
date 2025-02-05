@@ -1,6 +1,6 @@
 ---
 title: "Loss of Competitve Advantage From the Division of Capital"
-heading: "Chapter 5f"
+heading: "Chapter 5i"
 description: "Europe's ancient policy tried to regulate agriculture by maxims different from those which regulated manufactures"
 image: /covers/wn.jpg
 weight: 48
@@ -14,11 +14,13 @@ icons: /avatars/smith.png
 {{< s v="51" >}} In this way, Europe's ancient policy tried to regulate agriculture by maxims different from those which regulated manufactures.
 
 In agriculture, this policy forced the farmer to be both the wheat farmer and merchant or retailer.
-    It made the end consumers and their wheat carriers as his only customers.
-    In manufactures on the contrary, this policy banned the manufacturer from selling his own goods by retail or by being his own shopkeeper.
-In agriculture, this policy aimed to render wheat cheap without understanding how this was to be done.
-    In manufactures, this policy protected the shopkeeper's interest by preventing manufacturers from doing retail and underselling them.
+- It made the end consumers and their wheat carriers as his only customers.
 
+In manufactures on the contrary, this policy banned the manufacturer from selling his own goods by retail or by being his own shopkeeper.
+
+In agriculture, this policy aimed to render wheat cheap without understanding how this was to be done.
+
+In manufactures, this policy protected the shopkeeper's interest by preventing manufacturers from doing retail and underselling them.
 
 
 {{< s v="52" >}} The manufacturer was allowed to keep a shop and sell his own goods by retail, but he could not have undersold the common shopkeeper.
@@ -30,14 +32,15 @@ To carry on his business on a level with other manufacturers and shopkeepers, he
 - retail capital.
 
 Let us suppose that 10% was the ordinary profit of manufacturing and shopkeeping in his town.
-    In this case, he must have added a profit of 20% on each of his goods in his shop.
-    When he carried them from his workhouse to his shop, he must have priced them at a wholesale price.
-        The wholesale price is the price he sells them to shopkeepers.
-    If he valued them lower than the wholesale price, he would lose some of his manufacturing capital's profit.
-    When he sold them from his shop, he would lose some of the profit of his shopkeeping capital if he sold them cheaper than the retail price of other shopkeepers.
-    He might appear to make a double profit on the same goods.
-    But as these goods came from two distinct capitals, he made only a single profit on the whole capital employed.
-        If he made less than his usual profit, he was a loser.
+
+In this case, he must have added a profit of 20% on each of his goods in his shop.
+When he carried them from his workhouse to his shop, he must have priced them at a wholesale price.
+    The wholesale price is the price he sells them to shopkeepers.
+If he valued them lower than the wholesale price, he would lose some of his manufacturing capital's profit.
+When he sold them from his shop, he would lose some of the profit of his shopkeeping capital if he sold them cheaper than the retail price of other shopkeepers.
+He might appear to make a double profit on the same goods.
+But as these goods came from two distinct capitals, he made only a single profit on the whole capital employed.
+    If he made less than his usual profit, he was a loser.
 
 
 {{< s v="53" >}} The manufacturer was banned from dividing his capital into two employments.

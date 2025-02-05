@@ -1,17 +1,33 @@
 ---
 heading: "Chapter 5"
-title: "The Quantum of Radiance: Electrons"
-# date: 2024-02-13
+title: "Quanta of Radiance"
+# title: "Electric Potential"
+# date: 2023-11-10
+weight: 24
 image: /photos/physics/elec.jpg
-description: "Electrons are the quantum of radiance, as the smallest perceivable substance of radiance which we call electricity"
+description: "Electrons are the main quantum of radiance"
+icon: /icons/spmat.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 22
-icon: /icons/spmat.png
 ---
 
 
-Electrons are the quantum of radiance, as the smallest perceivable substance of radiance which we call electricity. 
+The quanta of radiance are electrons, muons, and taus. 
 
+
+Quantum | Mass
+--- | --- | ---
+Electron | 0.5 MeV
+Muon | 105.66 MeV
+Tau | 1.777 MeV 
+
+
+### The Radiant Internal Boundary: Higgs Field
+
+The Higgs Field gives electromagnetic potential to radiant particles. 
+
+Physics says that this gives mass to particles. However, in Material Superphysics, this cannot be because mass is the amount of matter in a body and is from the aetherspace around quarks.
+
+Rather, the Higgs Field condenses radiant waves into non-media particles such as into electrons. 
 

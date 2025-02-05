@@ -1,82 +1,192 @@
 ---
 heading: "Section 4b"
-title: "The Truth which Conscious Certainty of Self Realises"
-description: The subject of philosophy is the actual knowledge of what truly is.
+title: "The Process of Life"
+description: For us or implicitly, the object, which is the negative element for self-consciousness, has on its side returned into itself
 image: /covers/phenom.png
 author: Hegel
-weight: 8
+weight: 6
 ---
 
+{{< n n="We replace sense-certainty with metaphysical perception and perception with physical perception" >}}
 
 
-{{< s v="172" >}} Since we started from the first immediate unity, and returned through the moments of form-determination, and of process, to the unity of both these moments, and thus again back to the first simple substance, we see that this reflected unity is other than the first. 
+## 2. Life
 
-As opposed to that immediate unity, the unity expressed as a mode of being, this second is the universal unity, which holds all these moments sublated within itself. It is the simple genus, which in the movement of life itself does not exist in this simplicity for itself; but in this result points life towards what is other than itself, namely, towards Consciousness for which life exists as this unity or as genus.
+{{< s v="168" >}} For us or implicitly, the object, which is the negative element for self-consciousness, has on its side returned into itself, just as on the other side-consciousness has done. 
 
+This reflexion of consciousness into self, the object has become Life. 
 
+What self-consciousness distinguishes as having a being distinct from itself, has in it too, so far as it is affirmed to be, not merely the aspect of metaphysical and physical perception.
 
-## 3. The Ego and Desire
+It is a being reflected into itself, and the object of immediate desire is something living. 
 
-{{< s v="173" >}} This other life, however, for which the genus as such exists and which is genus for itself, namely, self-consciousness, exists in the first instance only in the form of this simple, essential reality, and has for object itself qua pure Ego. 
+The inherent reality is the general result of the relation of the understanding to the inner nature of things.
 
-In the course of its experience, which we are now to consider, this abstract object will grow in richness, and will be unfolded in the way we have seen in the case of life.
+It is:
+- the distinguishing of what cannot be distinguished
+- the unity of what is distinguished. 
 
+This unity recoils from itself.
 
-{{< s v="174" >}} The simple ego is this genus, or the bare universal, for which the differences are insubstantial, only by its being the negative essence of the moments which have assumed a definite and independent form.
+This conception breaks asunder into the opposition of:
+- self-consciousness and
+- life.
 
-Self-consciousness is thus only assured of itself through sublating this other, which is presented to self-consciousness as an independent life; self-consciousness is Desire. 
+Self-consciousness is the unity for which the absolute unity of differences exists.
 
-Convinced of the nothingness of this other, it definitely affirms this nothingness to be for itself the truth of this other, negates the independent object, and thereby acquires the certainty of its own self, as true certainty, a certainty which it has become aware of in objective form.
+Life is only this unity itself, so that the unity is not at the same time for itself. 
 
+consciousness has independence which its object also has.
 
+Self-consciousness is absolutely for self-consciousness.
 
-{{< s v="175" >}} In this state of satisfaction, however, it has experience of the independence of its object. 
+It characterizes its object directly as:
+- negative
+- primarily desire
 
-Desire and the certainty of its self obtained in the gratification of desire, are conditioned by the object; for the certainty exists through cancelling this other; in order that this cancelling may be effected, there must be this other. 
-
-Self-consciousness is thus unable by its negative relation to the object to abolish it; because of that relation it rather produces it again, as well as the desire. 
-
-The object desired is something other than self-consciousness, the essence of desire.
-
-Through this experience, this truth has become realized. 
-
-At the same time, however, self-consciousness is likewise absolutely for itself, exists on its own account. It is so only by sublation of the object; and it must come to feel its satisfaction, for it is the truth. 
-
-On account of the independence of the object, therefore, it can only attain satisfaction when this object itself effectually brings about negation within itself. The object must per se effect this negation of itself, for it is inherently (an sich) something negative, and must be for the other what it is. 
-
-Since the object is in its very self negation, and in being so is at the same time independent, it is Consciousness. In the case of life, which is the object of desire, the negation either lies in an other, namely, in desire, or takes the form of determinateness standing in opposition to an other external individuum indifferent to it, or appears as its inorganic general nature. 
-
-The above general independent nature, however, in the case of which negation takes the form of absolute negation, is the genus as such or as self-consciousness. Self-consciousness attains its satisfaction only in another self-consciousness.
+Self-consciousness will find through experience this object's independence.
 
 
-{{< s v="176" >}} It is in these three moments that the notion of self-consciousness first gets completed: 
+{{< s v="169" >}} The determination of the principle of life as obtained from the conception or general result with which we enter this new sphere, is sufficient to characterize it, without its nature being evolved further out of that notion. 
 
-- (a) pure undifferentiated ego is its first immediate object. 
-- (b) This immediacy is itself, however, thoroughgoing mediation; it has its being only by cancelling the independent object, in other words it is Desire. The satisfaction of desire is indeed the reflexion of self-consciousness into itself, is the certainty which has passed into objective truth. 
-- But (c) the truth of this certainty is really twofold reflexion, the reduplication of self-consciousness. 
+Its circuit is completed in the following moments.
 
-Consciousness has an object which implicates its own otherness or affirms distinction as a void distinction, and therein is independent. 
+The essential element is infinity as:
+- the supersession of all distinctions
+- the pure rotation on its own axis
 
-The individual form distinguished, which is only a living form, certainly cancels its independence also in the process of life itself; but it ceases along with its distinctive difference to be what it is. 
+Life is itself at rest while being absolutely restless infinity.
 
-The object of self-consciousness, however, is still independent in this negativity of itself; and thus it is for itself genus, universal flux or continuity in the very distinctiveness of its own separate existence; it is a living self-consciousness.
+, the very self-dependence in which the differences brought out in the process are all dissolved, the simple reality of time, which in this self-identity has the solid form and shape of space. 
+
+The differences, however, all the same hold as differences in this simple universal medium,
+
+This universal flux exercises its negative activity by sublating them.
+
+But it could not transcend them unless they had a subsistence of their own. 
+
+Precisely this flux is itself self-identical independence.
+
+This is their substance, in which they are distinct parts.
+
+ <!-- which have existence in their own right.  -->
+
+<!-- Being no longer has the significance of mere abstract being, nor has their naked essence the meaning of abstract universality:  -->
+
+Their existence is now just that simple fluent substance of the pure movement within itself.
+
+The difference, however, of these parts is their moments of infinity, as the mere movement itself.
+
+ <!-- inter se consists, in no other characteristic than that of the , or . -->
 
 
-{{< s v="177" >}} Only so and only then is it self-consciousness in actual fact; for here first of all it comes to have the unity of itself in its otherness. 
+{{< s v="170" >}} The independent members exist for themselves.
 
-Ego is the object of its notion.
-- It is in point of fact not "object”. 
+This is done by their reflexion directly into the unity, just as this unity is the breaking into independent forms. 
 
-The object of desire, however, is only independent, for it is the universal, ineradicable substance, the fluent self-identical essential reality. 
+The unity is sundered because:
+- it is absolutely negative or infinite unity
+- it is subsistence, difference likewise has independence only in it. 
 
-When a self-consciousness is the object, the object is just as much ego as object.
+This independence of the form appears as a determinate entity, as what is for another.
 
-With this we already have before us the notion of Mind or Spirit. 
+This is because:
+- the form is something disunited.
+- the cancelling of diremption takes effect to that extent through another.
 
-What consciousness has further to become aware of, is the experience of what mind is — this absolute substance.
+But this sublation lies in the actual form itself becaause that flux is the substance of the independent forms.
 
-This absolute is the unity of the different self-related and self-existent self-consciousnesses in the perfect freedom and independence of their opposition as component elements of that substance.
+This substance, however, is infinite.
 
-Ego is “we”, a plurality of Egos, and “we” that is a single Ego. 
+Hence, the form itself in its very subsistence involves diremption, or sublation of its existence for itself.
 
-Consciousness first finds in self-consciousness — the notion of mind — its turning-point, where it leaves the parti-coloured show of the sensuous immediate, passes from the dark void of the transcendent and remote super-sensuous, and steps into the spiritual daylight of the present.
+
+{{< s v="171" >}} Let us distinguish more exactly the moments contained here.
+
+The first moment is the subsistence of the independent forms. It is the suppression of the forms having no existence. 
+
+<!-- what distinction inherently involves, viz. that the forms have no being per se, and no subsistence. -->
+
+The second moment, however, is the subjection of that subsistence to the infinity of distinction. 
+
+In the first moment there is the persisting mode or form.
+
+ <!-- by its being in its own right, or by its being in its determinate shape an infinite substance,  -->
+
+It then comes forward opposing the universal substance.
+
+It disowns this fluent continuity with that substance.
+
+It insists that it is not dissolved in this universal element.
+
+Rather it preserves itself through:
+- its separation from this its inorganic nature, and
+- its consuming this inorganic nature. 
+
+Life in the universal fluid medium, silently shapes, moulds, and distributes the forms in all their manifold detail.
+
+This leads to a life process. 
+
+ <!-- becomes by that very activity the movement of those forms, or passes into life qua process.  -->
+
+The mere universal flux is here the inherent being.
+
+The outer being, the “other”, is the distinction of the forms assumed.
+
+But this flux becomes itself the other in virtue of this very distinction. 
+
+This is because now it exists “for” or in relation to that distinction, which is self-conditioned and self-contained (an und für sich).
+
+Consequently, it is the endless, infinite movement by which that stable medium is consumed — is life as living.
+
+This inversion of character, however, is on that account again invertedness in itself as such. 
+
+The essential reality is consumed.
+
+The Individuality:
+- preserves itself at the expense of the universal
+- gives itself the feeling of its unity with itself
+
+This unity with itself cancels its contrast with the other.
+
+<!-- , by means of which it exists for itself.  -->
+
+Individuality gives Individuality the unity with self.
+
+This unity is the fluent continuity of differences, or universal dissolution.
+
+But, conversely, the cancelling of individual subsistence at the same time produces the subsistence. 
+
+This is because the essence of the individual form – universal life – and the self-existent entity per se are simple substance.
+
+The essence puts the other within itself. This cancels its own essence. It sunders that simplicity.
+
+This disruption of fluent undifferentiated continuity is the setting up of individuality. 
+
+The simple substance of life, therefore, is:
+- the diremption of itself into shapes and forms
+- the dissolution of these substantial differences
+
+The resolution of this diremption is just as much a process of diremption, of articulating. 
+
+The sides of the movement are:
+1. The setting up of individual forms lying apart and undisturbed in the universal medium of independent existence
+2. the process of life
+
+Both these sides collapse into one another.
+
+The process of life is:
+- a formation of independent individual shapes
+- a way of cancelling an assumed shape 
+
+The setting up of individual forms is either a cancelling or an articulation of them.
+
+The fluent, continuous element is itself only the abstraction of the essential reality, or it is actual only as a definite shape or form;
+
+That it articulates itself is once more a breaking up of the articulated form, or a dissolution of it. 
+
+The entire circuit of this activity constitutes Life. 
+
+It is neither what is expressed to begin with, the immediate continuity and concrete solidity of its essential nature; nor the stable, subsisting form, the discrete individual which exists on its own account; 
+
+Nor the bare process of this form; nor again is it the simple combination of all these moments. It is none of these; it is the whole which develops itself, resolves its own development, and in this movement simply preserves itself.

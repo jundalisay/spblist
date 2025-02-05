@@ -1,12 +1,11 @@
 ---
 heading: "Chapter 8"
-title: "Particle Helicity Determines Covertibility"
+title: "Particle Helicity as Covertibility"
 # # date: 2020-01-29
-# date: 2024-02-17
-image: /graphics/physics/decay.jpg
+date: 2024-12-29
+image: /graphics/physics/spin.jpg
 description: "Particle spin is an effect of the Convertible Layer"
-# . Here, we explain how reality reflects our feelings through the Physics concept of particle-spin
-writer:
+riter:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 weight: 34
@@ -16,24 +15,28 @@ toc: false
 
 
 
-In Part 3, we explained that the gender of a particle (male for negative charge, and female for positive) is a product of the Radiant Layer as a representation of its vortex.
+Part 3 explained that a particle's gender (male for negative charge, female for positive) stands for its rotation direction. This assumes that the particle is staying still while rotating. 
 
-Subordinate to this idea is particle 'spin' which is the dualistic vortex property of the Convertible Layer (Weak Interaction in Physics). This spin is either left or right just as the dualistic vortex property of the Radiant Layer is male or female. 
+Spin is another concept that shows the orientation direction.
 
+Helicity is how the particle moves forward: 
 
-Layer | Positive Vortex | Negative Vortex
----- | --- | ---
-Aethereal | Unifying |  Divisive
-Spatial | Counterclockwise | Clockwise
-Radiant | Male | Female
-Convertible | Left | Right 
-Material | Color Charge | Anti-Color Charge
+- "Right Handed" means it moves forward with a positive (anticlockwise) rotation  
+- "Left Handed" means it moves forward with a negative (clockwise) rotation 
+
+{{< i s="/graphics/physics/spin.jpg" a="Particle Spin and Helicity and Charge" c="Particle Spin, Helicity, and Charge" >}}
 
 
-This spin is revealed when the particle is put through an electromagnetic field. This is because the Radiant Layer is superior to the Convertible Layer. 
+While Charge and Spin are relevant to the Radiant Layer, Helicity is relevant to the Convertible.  
+
+Charge, Spin, and Helicity are all revealed when the particle is put through an electromagnetic field. This is because the Radiant Layer is superior to the Convertible Layer. 
+
+- A particle can either be right-handed or left-handed
+- Particles of the same charge must have opposite-handed spins while those of different charges can have the same-handed spins per energy level
 
 
-But spin does not take into the account of the relational movement between the spin direction of the particle and its forward movement. 
+
+<!-- But spin does not take into the account of the relational movement between the spin direction of the particle and its forward movement. 
 
 {{< i s="/graphics/physics/decay.jpg" a="Helicity" >}}
 
@@ -45,12 +48,8 @@ Helicity does that. And so spin has 2 properties in the Convertible Layer:
 - Quanta and Substances have a spin of 1/2 (via magnetic fields) which means it has 2 spin states
 - Media have a spin magnitude of 1 (via polarization) which means it has 3 spin states
 - Elements have a nuclear spin from 1/2 onwards, depending on the sum of its spins. This means it has more than 3 spin states
+ -->
 
-
-2. Direction or Helicity
-
-- A particle can either be right-handed or left-handed
-- Particles of the same charge must have opposite-handed spins while those of different charges can have the same-handed spins per energy level
 
 
 {{< youtube iWSu6U0Ujs8 >}}

@@ -2,7 +2,7 @@
 heading: Discourse 8
 title: The Rainbow
 weight: 38
-description: Descartes gives 4 Precepts on Math and Logic
+description: These drops are round. They create rainbows whether these droplets are large or small.
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

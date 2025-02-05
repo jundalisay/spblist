@@ -2,7 +2,7 @@
 heading: "Chapter 6"
 title: "The Conservation Laws"
 # date: 2024-01-02
-image: "/photos/physics/elec.jpg"
+image: "/graphics/physics/layers.png"
 description: "Each identity has a gravitational signature which explains its purpose or use in Nature"
 writer:
   name: Juan
@@ -49,7 +49,9 @@ This operates in the spatial layer and is the foundation of the rules of motion 
 
 #### The Law of Conservation of Energy
 
-This operates in the radiant layer and is already well known in Physics. Energy is the crudified version of momentum. 
+This operates in the radiant layer and is already well known in Physics. Energy is the crudified version of momentum.
+
+This actually changes the energy from electromagnetic to material motion. For example, a generator converts electromagnetic force into physical motions. 
 
 
 #### The Law of Conservation of Aether

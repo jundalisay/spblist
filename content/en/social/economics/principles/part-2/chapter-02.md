@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 2"
-title: "What is Capital and Fixed Capital?"
+title: "Grain-based Valuation"
 date: 2023-11-03
-weight: 14
-image: /photos/objects/money.jpg
+weight: 12
+image: /photos/grains.jpg
 description: "In Supereconomics, capital is anything that creates value"
 writer:
   name: Juan
@@ -11,114 +11,113 @@ writer:
 ---
 
 
-In Supereconomics, capital is anything that creates value. This is different from finished product or service which represent the value itself and is called in consumer goods and services in Part 1. 
+The previous chapter explained the Effort Theory of Value as the basis of Real Price. 
 
-Modern Economics which defines capital as property, machines, money, and equipment that produces goods and services.  
+This theory combines 2 concepts:
 
-However, Supereconomics is a bit different that it inclues the skill, personal attributes, relationships, name, reputation, and other non-physical objects as capital. 
-
-<!-- 
-Type | Description
---- | --- | --- 
-Cyclical | Associated with the business cycle
-Structural | Caused by changes in the economy, such as in technological and natural resources 
-Seasonal | Caused by seasons and weather
-Frictional | Temporary unemployment 
- -->
-
-## Two Types of Capital
-
-1. Fixed Capital 
-
-This yields a revenue without changing masters or circulating any further. Examples are:
-- land improvements 
-- useful machines
-- beautiful voice
-- good reputation
+1. Subjective effort 
+2. Alignment of that effort with purpose 
 
 
-2. Circulating Capital 
+The alignment is called dharma and is fully explained in our concept of the gravitational signature.  
 
-<!-- The returns of the fixed capital employed by land improvers are much slower than the returns of the circulating capital. -->
-
-This is employed in raising, manufacturing, or buying goods and selling them again. A Circulating Capital yields no revenue to its employer while it remains with him.
-
-A merchant's goods provide no revenue until he sells them for money.
-- The money yields him little until it is exchanged for goods.
-- His capital is continually going from him in one shape and returning to him in another.
-- Only such successive exchanges can yield him any profit.
+This means that effort, as applied energy, needs to be quantified. 
 
 
-## The Force of Capital 
+## So how do we measure effort?
 
-Our definition of capital as anything that creates value. Therefore, capital has 'economic potential energy'.
+Real valuation is based on effort which is inherently subjective. It only becomes objective after buyers actually buy them. 
 
-This energy has to be used, otherwise it will be useless. For example, owning a huge tract of land will give a lot of economic potential energy to its owner. This will drive him to use his land in order to utilize that energy. 
+This buying signifies an agreement or alignment between the buyer's nominal price and the seller's market price which includes the real price.
 
-We call that drive as the force of capital. The bigger the capital, the more energy it has, and therefore more force.
+Our measure for effort should then be a physical thing that all buyers and sellers need and have experience with.
 
-The misuse or non-use of this force leads to imbalances that manifests as inflation, unemployment, scarcity (or overproduction), etc.  
+**This can only be food since everyone needs to eat.**
 
+- Without food, no one can do any effort.
+- Food also signifies life or dynamism
 
-<!-- ---
-title: "Graber's 5 Bullshit Jobs"
-heading: "Flunkies, Goons, Duct Tapers, Box Tickers, Task Masters"
-description : "Graber Defined 5 Types of Bullshit Jobs"
--
+Economics bases value on money which is a dead, static thing. This is why economic systems need artificial stimulation.
 
-Graber Defined 5 Types of Bullshit Jobs:
-
-1. Flunkies
-
-2. Goons
-
-3. Duct Tapers
-
-4. Box Tickers
-
-5. Task Masters
-  a. Type 1 contains those whose role consists entirely of assigning work to others.
-  b. Type 2 creates bullshit tasks for others to do, to supervise bullshit, or even to create entirely new bullshit jobs.
-   -->
-   
-## Four Employments of Capital
-<!-- 3/22/2017 -->
-
-1. Extraction 
-
-This is the extraction of raw materials for use and consumption.
-
-This includes agriculture wherein the inorganic nutrients from the soil are extracted into organic elements that are useful for industry and human consumption.    
-
-2. Manufacturing 
-
-This is the processing of the raw materials for immediate use and consumption.
-
-3. Wholesale
-
-This is bringing those finished or processed goods from where they abound to where they are lacking.
-
-This includes Logistics and Storage.
-
-4. Retail
-
-This is the dividing the portions of raw materials or finished goods into small parcels for those who want them.
-
-This includes Distribution such as last mile deliveries.
+Supereconomics bases value on life, as grains, which is a living, dyanamic thing. This is why supereconomic systems are ever-dynamic.
 
 
-Each of these four methods is needed by the other three.
+ <!-- then our initial measure for effort will be the thing that is needed by everyone to start the effort. With the human species, this thing is called food.  -->
+
+This is why Adam Smith explicitly mentions wheat as the measure of value. 
+
+  <!-- had in mind when he mentioned corn, which is shorthand for grains which represents food.  -->
+
+You might not be able to print your own money or mine your own gold. But you can certainly grow your own food:
+
+{{< q a="Smith" >}}
+At distant times, equal amounts of labour will be bought more nearly with equal amounts of corn, the worker’s subsistence, than with perhaps any other commodity. 
+
+At distant times, equal amounts of corn will enable its possessor to buy or command nearly the same amount of the labour of other people. Although equal amounts of corn will not do it exactly.
+{{< /q >}}
 
 
-### Which capitals replace which capital?
+An Egyptian man in 3,000 BC would need a similar amount of food that a modern man needs, even if the food yield of a hectare of wheat in both times might be very different.
 
-The retailer’s capital replaces, with profits, the wholesaler’s capital.
-
-The wholesaler's capital replaces, with profits, the capitals of the farmers and manufacturers he buys from.
-
-Part of the capital of the master manufacturer is employed as a fixed capital in the instruments of his trade.
-
-The farmer’s capital mobilizes the most amount of productive labour.
+{{< img src="/graphics/econ/econ.jpg" alt="Effort Theory of Value" cap="Economics and the Commercial system measures everything in currency which is controlled by government which could be authoritarian like Zimbabwe and Venezuela, or could be bought by vested interests like in the US and most countries. Our system measures everything both in gold and grains. The gold standard is used for fast transactions while grain valuation is based on slow trasactions and as a backup or safety in case of financial crisis when the value of money-gold disappears." >}}
 
 
-<!-- Residence of the Four Capitals Source: Book 2, Chapter 5 -->
+<!-- From a Superphysics perspective (the paradigm that sees everything as waves instead of particles or objects), the effort theory of value bases value on [natural waves of interests and desires](/social/economics/principles/intro/chapter-01). This is different from modern economic systems which base value on physical particles such as money. -->
+
+
+### The Grain Index
+
+The first step is to build a grain index, which is a table of the relative values of goods and services to grains, as ratios.
+
+The index acts like a guide. For example, the ratio of the quantity of rice in kilos, relative to money in units in 3 towns is given below:
+
+Town | Basic Rice 1 kilo | Money in Dollar units | Index
+--- | --- | --- | ---
+A | 1 | 1 | 1:1
+B | 1 | 0.95 | 1:0.95
+C | 1 | 0.90 | 1:0.90
+
+We assign 1 point as the real value of everything in an economy. This point represents the real, subjective, metaphysical value of 1 kilogram of rice which really means the value of life. 
+
+
+### How it Works
+
+Assume that in Town A, Arun has a vegetable garden and Bhaskar has a small bakery. 
+
+Arun wants to buy 1 small cake worth $1. He has the following which he can offer:
+
+{{< i s="/photos/objects/cake.jpg" a="Cake" >}}
+
+
+Item | Nominal Money Price | Real Value per unit or kilo
+--- | --- | ---
+Dollars | $1 | 1 point
+Tomatoes | $2 per kilo | 2 points 
+String Beans | $1.5 per kilo | 1.5 points
+Cake | $1 | 1 point
+
+
+Since the cake is 1 point, then he can make the following offers to Bhaskar:
+
+- $1
+- 0.5 kilos of Tomatoes
+- 0.6 kilos of String Beans
+
+These all have the same real price of 1 point relative to both Arun and Bhaskar. 
+
+Of course, Bhaskar would readily choose the $1 since it is legal tender and can purchase other things that are for sale. We can regard this flexibility of money as a premium that adds to its real exchangeable value.  
+
+However, he might choose to get tomatoes since that includes free delivery which can also be seen as a premuim. 
+
+The determining factor is the effective demand of Bhaskar, which is totally subjective.
+
+Assume that Bhaskar opts for 0.5 kilos of tomatoes as payment for 1 cake. At that point, the tomatoes become the market value while 1 point is the market price. 
+
+Trader | Nominal Price or Value | Real Price (Value) | Natural Price (Value) | Market Price (Value)
+--- | --- | --- | --- | ---
+Arun's Tomato | $1 | 1 point (1 cake) | 1 point (1 cake) | $1 (1 point) 
+Bhaskar's Cake | $1 | 1 point (0.5 kg tomato) | 1 point (0.5 kg tomato) | $1 (1 point)
+
+
+Natural and Market Prices will be explained in Parts 3 and 4.
+

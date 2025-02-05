@@ -19,19 +19,15 @@ The goldfish’s picture of reality is different from ours, but can we be sure i
 
 The goldfish view is not the same as our own, but goldfish could still formulate scientific laws governing the motion of the objects they observe outside their bowl. 
 
-For example, due to the distortion, a freely moving object that we would observe to move in a straight line would be observed by the goldfish to move along a curved path. Nevertheless, the goldfish could formulate scientific laws from their distorted frame of reference that would always hold true and that would enable them to make predictions about the future motion of objects outside the bowl. 
+For example, due to the distortion, a freely moving object that we would observe to move in a straight line would be observed by the goldfish to move along a curved path. 
+
+Nevertheless, the goldfish could formulate scientific laws from their distorted frame of reference that would always hold true and that would enable them to make predictions about the future motion of objects outside the bowl. 
 
 Their laws would be more complicated than the laws in our frame, but simplicity is a matter of taste. If a goldfish formulated such a theory, we would have to admit the goldfish’s view as a valid picture of reality.
 
 A famous example of different pictures of reality is the model introduced around AD 150 by Ptolemy (ca. 85—ca. 165) to describe the motion of the celestial bodies. 
 
-Ptolemy published his work in a thirteen-book treatise usually known under its Arabic title, Almagest. The Almagest
-begins by explaining reasons for thinking that the earth is spherical, motionless, positioned at the
-center of the universe, and negligibly small in comparison to the distance of the heavens. Despite
-Aristarchus’s heliocentric model, these beliefs had been held by most educated Greeks at least
-since the time of Aristotle, who believed for mystical reasons that the earth should be at the center
-of the universe. In Ptolemy’s model the earth stood still at the center and the planets and the stars
-moved around it in complicated orbits involving epicycles, like wheels on wheels.
+Ptolemy published his work in a thirteen-book treatise usually known under its Arabic title, Almagest. The Almagest begins by explaining reasons for thinking that the earth is spherical, motionless, positioned at the center of the universe, and negligibly small in comparison to the distance of the heavens. Despite Aristarchus’s heliocentric model, these beliefs had been held by most educated Greeks at least since the time of Aristotle, who believed for mystical reasons that the earth should be at the center of the universe. In Ptolemy’s model the earth stood still at the center and the planets and the stars moved around it in complicated orbits involving epicycles, like wheels on wheels.
 
 This model seemed natural because we don’t feel the earth under our feet moving (except in
 earthquakes or moments of passion). Later European learning was based on the Greek sources that
@@ -123,7 +119,9 @@ Model-dependent realism short-circuits all this argument and discussion between 
 anti-realist schools of thought.
 
 
-According to model-dependent realism, it is pointless to ask whether a model is real, only whether it agrees with observation. If there are two models that both agree with observation, like the goldfish’s picture and ours, then one cannot say that one is more real than another. One can use
+According to model-dependent realism, it is pointless to ask whether a model is real, only whether it agrees with observation. If there are two models that both agree with observation, like the goldfish’s picture and ours, then one cannot say that one is more real than another. 
+
+One can use
 whichever model is more convenient in the situation under consideration. For example, if one were inside the bowl, the goldfish’s picture would be useful, but for those outside, it would be very awkward to describe events from a distant galaxy in the frame of a bowl on earth, especially
 because the bowl would be moving as the earth orbits the sun and spins on its axis.
 

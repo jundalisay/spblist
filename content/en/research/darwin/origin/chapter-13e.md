@@ -1,20 +1,25 @@
 ---
 title: "Mutual Affinities of Organic Beings: Morphology, Embryology, Rudimentary Organs"
 heading: Chapter 13e
-weight: 90
+weight: 102
 description: "Several species of the same genus must originally have come from the same source"
 image: "/covers/origin.jpg"
 ---
 
 
+An indefinite repetition of the same part or organ is the common characteristic of all low or little-modified forms.
+- The vertebrata has a series of internal vertebrae bearing certain processes and appendages
+- The articulata has the body divided into a series of segments, bearing external appendages
+- Flowering plants have successive spiral whorls of leaves. 
 
-In the vertebrata, we see a series of internal vertebrae bearing certain processes and appendages; in the articulata, we
-see the body divided into a series of segments, bearing external appendages; and in flowering
-plants, we see a series of successive spiral whorls of leaves. 
+Therefore:
+- the unknown progenitor of the vertebrata possessed many vertebrae
+- the unknown progenitor of the articulata, many segments
+- the unknown progenitor of flowering plants, many spiral whorls of leaves
 
-An indefinite repetition of the same part or organ is the common characteristic (as Owen has observed) of all low or little-modified forms; therefore we may readily believe that the unknown progenitor of the vertebrata possessed many vertebrae; the unknown progenitor of the articulata, many segments; and the unknown progenitor of flowering plants, many spiral whorls of leaves.
+Parts many times repeated are eminently liable to vary in number and structure; consequently it is quite probable that natural selection, during a long-continued course of modification, should have seized on a certain number of the primordially similar elements, many times repeated, and have adapted them to the most diverse purposes.
 
-Parts many times repeated are eminently liable to vary in number and structure; consequently it is quite probable that natural selection, during a long-continued course of modification, should have seized on a certain number of the primordially similar elements, many times repeated, and have adapted them to the most diverse purposes. And as the whole amount of modification will have been effected by slight successive steps, we need not wonder at discovering in such parts or organs, a certain degree of fundamental resemblance, retained by the strong principle of inheritance.
+And as the whole amount of modification will have been effected by slight successive steps, we need not wonder at discovering in such parts or organs, a certain degree of fundamental resemblance, retained by the strong principle of inheritance.
 
 In the great class of molluscs, though we can homologise the parts of one species with those of another and distinct species, we can indicate but few serial homologies; that is, we are seldom enabled to say that one part or organ is homologous with another in the same individual. 
 

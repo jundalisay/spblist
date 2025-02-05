@@ -3,7 +3,7 @@ title: "Socrates' Economics"
 heading: Chapter 2
 weight: 8
 image: "/covers/republic.jpg"
-description: "To understand justice, we must look at the big picture first, then from there, proceed to the details. People gather in societies to address their basic needs. This leads to division of labour, economic growth, and eventually, wars for resources. Such dangers lead to the need for guardians who are skilled both in philosophy and war [jihad in Islam]"
+description: "To understand justice, we must look at the big picture first, then from there, proceed to the details"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato

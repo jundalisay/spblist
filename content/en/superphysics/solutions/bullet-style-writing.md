@@ -31,7 +31,11 @@ Since brain and mind* cannot change drastically overnight or even in a few years
 {{< n n="*The nature of the brain as a physical entity is different from the nature of the mind as a metaphysical entity" >}}
 
 
-In this way, by reducing the superfluous data or noise, he can still have a piece of the information from his fellow-countrymen and really know all of his country to some extent.
+In this way, by reducing the superfluous data or noise*, he can still have a piece of the information from his fellow-countrymen and really know all of his country to some extent.
+
+
+{{< n n="*This is known as dimensionality reduction, as kind of data reduction" >}}
+
 <!-- or be grouped into 100 or 1,000 units, then at maximum capacity, the person can still accommodate all the info from his countrymen. -->
 
 

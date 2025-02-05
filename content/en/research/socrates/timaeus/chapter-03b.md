@@ -1,130 +1,123 @@
 ---
-title: "The Soul"
-heading: "Chapter 3b"
-weight: 18
-image: "/covers/timaeus.jpg"
-description: "The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything"
+heading: Chapter 3b
+title: "The 4 Eleemnts"
 writer:
   name: Plato
   url: https://en.wikipedia.org/wiki/Plato
-icon: "/icons/socrates.png"
+weight: 18
+image: "/covers/timaeus.jpg"
+description: "Why did the Creator make this world of generation?"
 ---
 
 
+Why did the Creator make this world of generation? 
 
-The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything. 
+He was good.* The good can never have any jealousy of anything. 
 
-He did not think it necessary to give to such a being:
-- hands,  since it did not need to take anything or defend itself. 
-- feet, since the chakras would provide movement.
+Being free from jealousy, He desired that all things should be as like Himself as they could be.
 
-<!-- bestow upon him hands= nor had he any need of feet, nor of the whole apparatus of walking; but the movement suited to his spherical form was assigned to him, being of all the seven that which is most appropriate to mind and intelligence. -->
-
-It was made to move in the same way and on the same spot, within his own limits revolving in a circle. All the other 6 motions were taken away from it. <!-- , and he was made not to partake of their deviations. -->
-
-As this circular movement required no feet, the universe was created without legs and without feet.
-
-Such was the whole plan of the eternal God about the god that was to exist. He gave him a smooth and perfect globular body<!-- , having a surface in every direction equidistant from the centre, a body entire and perfect, and formed out of perfect bodies -->. 
-
-In the centre, he put the soul, which he diffused throughout the body, making it also to be the exterior environment of it. 
-
-He made the universe a circle moving in a circle, one and solitary. It is able to <!-- Yet by reason of its excellence able to --> converse with itself, needing no other friendship or acquaintance. <!-- Having these purposes in view he created the world a blessed god. -->
-
-God did not make the soul after the body, although we are speaking of them in this order. 
-
-This is because He would never let the elder be ruled by the younger. 
-
-But this is a random manner of speaking which we have, because we ourselves are very much ruled by <!-- under the dominion of --> chance.
-
-He made the soul in origin and excellence prior to and older than the body. The soul was the ruler, <!-- and mistress, --> the body was the subject. 
-
-He made the soul out of the following elements. He took:
-
-1. the indivisible and unchangeable Same
-2. the divisible and material Other
-
-He added a third and intermediate Essence which has the nature of the first and second. He placed this in a mean between the indivisible, and the divisible and material.
-
-<!--  same and of the other, and this compound he placed accordingly   -->
-
-He took the 3 elements of the same, the other, and the essence and mingled them into 1 form. He did this by forcefully compressing the reluctant and unsociable nature of the other into the same. 
-
-When he had mingled them with the Essence and out of three made one, he again divided this Whole into many portions. Each portion was a compound of the Same, the Other, and the Essence, divided in this way:
-
-1. He took away one part of the Whole (1)
-2. Then he separated a second part which was double the first (2)
-3. Then he took away a third part which was half as much again as the second and three times as much as the first (3)
-4. Then he took a fourth part which was twice as much as the second (4)
-5. A fifth part which was 3 times the third (9)
-6. A sixth part which was eight times the first (8)
-7. A seventh part was 27 times the first (27). 
-
-After this, he filled up the double intervals (i.e. between 1, 2, 4, 8) and the triple (i.e. between 1, 3, 9, 27) cutting off yet other portions from the mixture and placing them in the intervals, so that in each interval there were 2 kinds of means:
-- the one exceeding and exceeded by equal parts of its extremes (as for example 1, 4/3, 2, in which the mean 4/3 is 1/3 of 1 more than 1, and one-third of 2 less than 2)
-- the other being that kind of mean which exceeds and is exceeded by an equal number (e.g.
-  - over 1, 4/3, 3/2, - over 2, 8/3, 3, - over 4, 16/3, 6,  - over 8 
-  - over 1, 3/2, 2,   - over 3, 9/2, 6, - over 9, 27/2, 18, - over 27.
-
-Where there were intervals of 3/2 and of 4/3 and of 9/8, made by the connecting terms in the former intervals, he filled up all the intervals of 4/3 with the interval of 9/8, leaving a fraction over; and the interval which this fraction expressed was in the ratio of 256 to 243:
-
-```
-243:256::81/64:4/3::243/128:2::81/32:8/3::243/64:4::81/16:16/3::242/32:8.
-```
+{{< n n="Good here means Positive and inclined to create and preserve, as opposed to Negative which wants to destroy. This implies that created being want to exist. However, the pure Positivity of the Creator is a fallacy from actual experience." >}} 
 
 
-Thus, the whole mixture out of which he cut these portions was all exhausted by Him. 
+<!-- This is in the truest sense the origin of creation and of the world, as we shall do well in believing on the testimony of wise men: God wamted that all things should be good and nothing bad, so far as this was attainable.  -->
 
-This entire compound He divided lengthwise into 2 parts, which he joined to one another at the centre like the letter X, and bent them into a circular form, connecting them with themselves and each other at the point opposite to their original meeting-point. 
+He found that the whole visible sphere was moving in an irregular and disorderly way. 
 
-Comprehending them in a uniform revolution upon the same axis, he made the one the outer and the other the inner circle. 
+Out of disorder he brought order, considering that order was better than disorder. 
+ <!-- this was in every way better than the other.  -->
 
-Now, the motion of the outer circle he called the motion of the Same. The motion of the inner circle the motion of the Other or diverse. 
+<!-- Now the deeds of the best could never be or have been other than the fairest; and the Creator,  -->
 
-The motion of the Same he carried round by the side (i.e. of the rectangular figure supposed to be inscribed in the circle of the Same) to the right. 
+<!-- Reflecting on the things which are visible by nature,  -->
 
-The motion of the diverse diagonally (i.e. across the rectangular figure from corner to corner) to the left.
+He found generally that:
+- the intelligent were fairer than the unintelligent creatures
+- intelligence could not be present in anything which was devoid of soul [i.e. rocks and inanimate objects]
+ <!-- taken as a whole was fairer than  taken as a whole;  -->
 
-He gave dominion to the motion of the same and like, for that he left single and undivided. 
+ <!-- which was by nature -->
+This is why, when he was framing the universe, he put intelligence in soul* and soul in body so that his work would be  fairest and best. 
+<!-- - Using the language of probability, we may say that  -->
+The world became a living creature truly endowed with soul and intelligence by God's providence.
 
-But the inner motion he divided in 6 places and made 7 unequal circles [chakras] having their intervals in ratios of two and three, three of each. 
-
-He bade the orbits proceed in a direction opposite to one another, 3 <!-- (Sun, Mercury, Venus) --> he made to move with equal swiftness*.
-
-
-{{< n n="These are the top 3 chakras" >}}
-
-The remaining four <!-- (Moon, Saturn, Mars, Jupiter) -->  move with unequal swiftness to the 3 and to 1 another, but in due proportion.*
-
-
-{{< n n="These are the lower 4 chakras" >}}
-
-When the Creator had framed the soul according to His will, he formed within it the corporeal universe and brought the 2 together and united them centre to centre*.
+{{< n n="Intelligence here is the Positive Force, the soul is the aethereal mind or material" >}}
 
 
-{{< n n="This is the heart chakra" >}}
+In the likeness of what animal did the Creator make the world? 
+
+<!-- It would be an unworthy thing to liken it to any nature which exists as a part only; for nothing can be beautiful which is like any imperfect thing; but let us suppose the world to be the very image of that whole of which all other animals both individually and in their tribes are portions.  -->
+
+The original of the universe contains in itself all intelligible beings, just as this world comprehends us and all other visible creatures. 
+
+The Deity intended to make this world like the fairest and most perfect of intelligible beings. 
+
+He framed one visible animal comprehending within itself all other animals of a kindred nature. 
+
+<!-- Are we right in saying that there  -->
 
 
-The soul, interfused everywhere from the centre to the circumference of heaven, of which also she is the external envelopment, herself turning in herself, began a divine beginning of never-ceasing and rational life enduring throughout all time. 
+### Only One World [One Multiverse]
 
-The body of heaven is visible. But the soul is invisible and partakes of reason and harmony. <!-- It is made by the best of intellectual and everlasting natures, is the best of things created.  -->
+Is there one world? Or are they many and infinite? 
 
-The soul is composed of:
-- the Same
-- the Other
-- the essence.
+If the created copy is to accord with the original, then there must be one only.
 
-These three divided and united in due proportion, and in her revolutions returns upon herself, 
+For that which includes all other intelligible creatures cannot have a second or companion.
+- In that case, there needs to be another Creator which would include both.
+- Those worlds would then be parts.
+- Their likeness would then be based on that Creator.
+
+<!--  and not  more truly said to resemble not them, but that other which included them.  
+ of another living being  -->
+
+Thus, the Creator made only one world.*
+
+{{< n n="We call this Saguna Brahma or Totality of Existence. Each world has many copies within that single Brahma or Totality. " >}}
+
+<!-- In order then that the world might be solitary, like the perfect animal, the creator made not two worlds or an infinite number of them; but there is and ever will be one only-begotten and created heaven. -->
+
+The created is necessarily corporeal, visible, and tangible. 
+
+The visibility is facilitated by fire [electromagnetism]. 
+
+The tangibility is facilitated by solidity [strong force]. 
+
+Nothing is solid without earth [strong force].
+- Wherefore in the beginning of creation, the body of the universe was made of fire [electromagnetism] and earth [strong force]. 
+
+But two things cannot be rightly put together without a third. **There must be some bond of union between them.** 
+
+The fairest bond is that which makes the most complete fusion* of:
+- itself and
+- the things which it combines
+
+{{< n n="In Social Superphysics, this is why the leaders of society must bind themselves with the citizens, instead of commanding from afar. " >}}
 
 
-When the soul touches anything which has Essence (whether dispersed in parts or undivided), it gets stirred to declare:
-- the sameness or difference of that thing and some Other
-- to what individuals are related or affect each other and how and when, both in the world of generation and in the world of immutable being. 
+Proportion is best adapted to effect such a union. 
 
-Reason works with equal truth whether the soul be in the circle of the Diverse or of the Same.
+If a set of any 3 numbers has a mean, the 1st number is 
 
-Sure opinions and beliefs arise in the soul when reason:
-- is in voiceless silence holding her onward course in the sphere of the self-moved
-- is hovering around the sensible world and the circle of the Diverse, also moving, truly imparts the intimations of sense to the soul.
+{{< n n="For example, 1 and 5 has 3 as its 'mean' being away by 2 units from both." >}}
 
-But when reason is concerned with the rational, and the circle of the same moving smoothly declares it, then intelligence and knowledge are necessarily perfected. <!-- And if any one affirms that in which these two are found to be other than the soul, he will say the very opposite of the truth.
- -->
+
+<!-- Whenever there are 3 numbers, the mean is the 
+
+Whenever in any 3 numbers, whether cube or square, there is a mean, which is to the last term what the first term is to it.
+
+When the mean is to the first term as the last term is to the mean—then the mean becoming first and last, and the first and last both becoming means, they will all of them of necessity come to be the same, and having become the same with one another will be all one.  -->
+
+
+If the universal frame had been created a surface only and having no depth, a single mean would have sufficed to bind together itself and the other terms. 
+
+But now, the world must be solid. Solid bodies are always compacted two means, not one.*
+
+{{< n n="In a universe where there is only light or electromagnetism, there would only be one 'mean'. But since we live in a universe with solid material bodies, there are 2. This manifests as wave-particle duality." >}}
+
+
+And so, God placed water [convertible] and air [spacetime] in the mean between fire [electromagnetism] and earth [strong force].
+
+These have the same proportion as far as possible. Thus he bound and put together a visible and tangible heaven.
+
+<!-- (Fire is to air, as air is to water, and as air is to water so is water to earth) -->
+

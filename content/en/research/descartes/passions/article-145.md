@@ -1,7 +1,7 @@
 ---
 heading: Articles 145-148
 title: Fate, Fortune, and the Inner Emotions
-weight: 44
+weight: 52
 description: We must reject the common notion that there exists outside of us a Fortune which causes things to happen according to its pleasure
 image: "/covers/passions.jpg"
 writer:
@@ -162,4 +162,3 @@ And so our soul needs only to follow virtue exactly so that it may thus have eno
 Anyone who has lived in such a way that his conscience cannot reproach him. 
 
  <!-- for ever having failed to do all the things he judged to be the best (which is what I call here following virtue), receives from it a satisfaction so powerful in making him happy that the most violent efforts of the Passions have never enough power to disturb the tranquility of his soul. -->
-

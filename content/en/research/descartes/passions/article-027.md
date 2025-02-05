@@ -1,5 +1,6 @@
 ---
 heading: Articles 27-32
+linkTitle: Articles 27-32
 title: The Definition of the Passions of the Soul
 weight: 10
 description: Explanation of This Definition
@@ -12,43 +13,92 @@ icon: /icons/descartes.png
 
 
 
-#### 27. The Definition of the Passions of the Soul
+### 27. The Definition of the Passions of the Soul
 
 <!-- After having thus considered how the passions of the soul differ from all its other thoughts, it seems to me that they can generally be defined as -->
 
-The Passions of the Soul are perceptions, feelings, or emotions of the soul that refer to the soul, and are caused, sustained, and fortified by some movement of the spirits.
+The Passions of the Soul are:
+- perceptions, feelings, or emotions of the soul that refer to the soul
+- caused, sustained, and fortified by the movement of the animal spirits.
 
 
-#### 28. Explanation of the First Part of This Definition
+### 28. Passions as Soul-Perceptions
 
-They can be called perceptions when one uses this word generally to signify all thoughts that are not actions of the soul or wills; but not when one uses it only to signify evident knowledge. 
+<!-- Explanation of the First Part of This Definition -->
 
-Those who are most agitated by their passions are not those who know them best, and that they are among the perceptions that the close alliance between the soul and the body renders confused and obscure. 
+Perceptions signifies all thoughts that are not actions of the soul or the willpower. 
 
-They can also be called feelings because they are received in the soul in the same way as the objects of the external senses, and are not otherwise known by it. 
+Perceptions are not evident knowledge.
+<!-- but not when one uses it only to signify   -->
 
-But they can be even better called emotions of the soul, not only because this name can be attributed to all the changes that happen in it, that is, to all the various thoughts that come to it, but particularly because of all the kinds of thoughts it can have, there are none others that agitate and shake it as strongly as these passions.
+The people most agitated by their passions are those who do not know the nature of those passions.
+
+<!-- not those who know them best, and -->
+<!-- that they are among the perceptions that  -->
+
+The close alliance between the soul and the body renders the Passions confused and obscure. 
+
+Passions can also be called feelings because they:
+- are received in the soul in the same way as the objects of the external senses, and
+- are not otherwise known by it. 
+
+But they can be even better called emotions of the soul.
+
+This is because:
+- "emotion" can be attributed to all the changes that happen in the soul, such as all the thoughts that come to it.
+- the passions lead to thoughts that can most strongly agitate and shake the soul 
+
+ <!-- but particularly because of all the kinds of thoughts it can have, there are none others that  as  -->
 
 
-#### 29. Explanation of the Other Part of the Definition
+### 29. Passions are from the Movement of the Animal Spirits
 
-I add that they particularly refer to the soul to distinguish them from other feelings that are referred to external objects, such as smells, sounds, colors; and others to our body, such as hunger, thirst, pain. 
+<!-- Explanation of the Other Part of the Definition -->
 
-I also add that they are caused, sustained, and fortified by some movement of the spirits, to distinguish them from our wills, which can be called emotions of the soul that refer to it, but which are caused by the soul itself; and also to explain their latest and most proximate cause, which again distinguishes them from other feelings.
+Passions particularly refer to the soul to distinguish them from other feelings that are referred to:
+- external bodily perceptions such as smells, sounds, colors
+- internal bodily perceptions such as hunger, thirst, pain. 
+
+Passions are caused, sustained, and fortified by some movement of the animal spirits.
+
+This is to distinguish them from our willpower.
+
+Willpower is also an emotion of the soul. 
+- But it is caused by the soul itself.*
+
+{{< n n="In yogic science this is samskara" >}}
+
+<!-- that refer to it, but which are caused by the soul itself; and also to explain their latest and most proximate cause, which again distinguishes them from other feelings. -->
 
 
-#### 30. The Soul is United to All Parts of the Body Conjointly.
+### 30. The Soul is United to All Parts of the Body Conjointly
 
-But to understand these things more perfectly, it is necessary to know that the soul is truly joined to the whole body and cannot be properly said to be in any one of its parts to the exclusion of the others. 
+<!-- But to understand these things more perfectly, it is necessary to know that  -->
 
-This is because the body is one and, in some way, indivisible due to the arrangement of its organs, which are so interrelated that when any one of them is removed, it renders the whole body defective. 
+The soul is truly joined to the whole body.
 
-Additionally, the soul is of a nature that has no relation to extension, dimensions, or other properties of the matter from which the body is composed, but only to the entire assemblage of its organs. 
+ <!-- and cannot be properly said to be in any one of its parts to the exclusion of the others.  -->
 
-As it appears, one cannot conceive of half or a third of a soul, nor what extent it occupies; and the soul does not become smaller when some part of the body is removed, but separates entirely when the assemblage of its organs is dissolved.
+<!-- This is because  -->
+
+The body is one and indivisible due to the arrangement of its organs.
+
+These organs are so interrelated that when any one of them is removed, it renders the whole body defective. 
+
+The soul has no relation to extension, dimensions, or other properties of the matter that makes up the body.
+
+The soul is related only to the entire assemblage of its organs. 
+
+We cannot conceive of 1/2 or 1/3 of a soul, nor the space it occupies.
+
+The soul:
+- does not become smaller when some part of the body is removed
+- separates entirely when the assemblage of its organs is dissolved.
 
 
-#### 31. The Soul Exercises Its Functions in the Pineal Gland More Particularly than in Other Parts.
+### 31. The Soul Exercises Its Functions in the Pineal Gland Most Particularly 
+
+<!-- than in Other Parts -->
 
 <!-- Although the soul is joined to the whole body, there is one part in which it exercises its functions more particularly than in all the others.  -->
 
@@ -56,24 +106,29 @@ As it appears, one cannot conceive of half or a third of a soul, nor what extent
 
 However, upon careful examination, it seems evident that the part of the body in which the soul immediately exercises its functions is not the heart, nor the entire brain, but only the innermost part, which is a very small gland located in .  -->
 
-This gland, in the middle of the brain's substance, is suspended above the channel through which the spirits in its anterior cavities communicate with those in the posterior cavities. The smallest movements in it can greatly change the course of these spirits. 
+The pineal gland is in the middle of the brain's substance.
+- It is suspended above the channel through which the animal spirits in its anterior cavities communicate with those in the posterior cavities.
 
-Conversely, the smallest changes in the course of the spirits can greatly change this gland's movements.
+The smallest movements in it can greatly change the course of these spirits. 
+- Conversely, the smallest changes in the course of the spirits can greatly change this gland's movements.
 
 
-#### 32. How We Know that This Gland is the Principal Seat of the Soul
+### 32. How We Know that This Gland is the Principal Seat of the Soul
 
 <!-- The reason that persuades me that the soul cannot have any other place in the whole body where it immediately exercises its functions than this gland is that I consider -->
 
-This is because the other parts of our brain are all double, just as we have two eyes, two hands, two ears, and finally all the organs of our external senses are double. 
+This is because the other parts of our brain are all double, just as we have:
+- 2 eyes
+- 2 hands
+- 2 ears
+- all our external sense organs being double. 
 
-But we have only a single thought of the same thing at the same time.
+**But we have only a single thought of the same thing at the same time.**
 
 Then, there must be a place where the two images from the two eyes, or the other impressions from our senses, unite into one before they reach the soul, so that they represent one obect instead of two.
 
 <!-- that come from a single object through the double organs of the other senses, can  -->
 
-These images or other impressions unite in this gland through the mediation of the spirits that fill the cavities of the brain.
+These images or other impressions unite in this gland through the mediation of the animal spirits that fill the cavities of the brain.
 
 There is no other place in the body where they can be united in this way except in this gland.
-

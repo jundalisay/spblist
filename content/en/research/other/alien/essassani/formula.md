@@ -1,16 +1,13 @@
 ---
-title: "The Formula"
+title: "The Formula and AAA Formula"
 weight: 9
-image: "/photos/happysuccess.jpg"
+image: "/photos/econ/writer.jpg"
 description: "The Essassani Formula"
 # author: Consolidated from Bashar
 ---
 
 
-This is quite Straightforward:
-
-
-## 1. Act on Your Highest Passion
+### 1. Act on Your Highest Passion
 
 A lot of people mistakenly think that the highest passion is the largest and most difficult life goal, such as something really grand. 
 
@@ -23,7 +20,7 @@ After you finish it, then move on to the next one, so that your whole life becom
 <!-- The Aethereal Layer is the highest layer in Existence.  -->
 
 
-## 2. Take the Action As Long As You Can, As Far As You Can Until You Can Take it No Further
+### 2. Take the Action As Long As You Can, As Far As You Can Until You Can Take it No Further
 
 Many people just want, but never do. And so their reality never matches what they want. 
 
@@ -34,7 +31,7 @@ So it's important to act on your highest passions instead of just thinking or ta
 All Actions happen within spacetime. So taking the action as far and as long as you can maxes out the Spatial Layer. -->
 
 
-## 3. Absolutely Have No Expectations
+### 3. Absolutely Have No Expectations
 
 This is the most common point of failure caused by the negative ego imposing its limited expectations onto the higher mind. 
 
@@ -42,7 +39,7 @@ This is the most common point of failure caused by the negative ego imposing its
 The sun shines on everything equally and always gives energy for free, without expecting compensation. Hav -->
 
 
-## 4. Stay positive no matter what
+### 4. Stay positive no matter what
 
 This keeps the vibration up especially since mentality creates reality and you attract what you are the vibration of. 
 
@@ -51,7 +48,7 @@ This keeps the vibration up especially since mentality creates reality and you a
 Change always happens in the universe. It is important to stay positive whenever those changes happen.  -->
 
 
-## 5. Let go of Negative Beliefs and Definitions
+### 5. Let go of Negative Beliefs and Definitions
 
 
 This still is in line with keeping your vibration up and removing blockages to the manifestation of what the higher mind wants for you. 
@@ -61,3 +58,24 @@ The Material layer is the crudest of the 5 Layers and is Negative just as the Ae
 
 Letting go of Negative Beliefs hits at the Material Layer directly.  -->
 
+
+## Triple A Formula 
+
+The Triple 'A' Formula is based on the Triple 'A' Automative Association which you call when your car is in trouble.
+
+These are steps that you can take when you are in trouble:
+
+
+### 1. Acknowledge What You Have
+
+Don't think about what you don't have. Thinking about the negative puts you in the negative state. 
+
+
+### 2. Appreciate What You Have Fully
+ 
+This will put you in a state of positive appreciation. 
+
+
+### 3. Allow What Will Happen Next
+
+Be open to what the universe will give. 

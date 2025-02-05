@@ -1,16 +1,16 @@
 ---
 title: "Legislative Powers Of The President"
 heading: "Articles 79-"
-weight: 1
+weight: 18
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png
 ---
 
 
-## CHAPTER 3.—Legislative Powers Of The President
+## CHAPTER 3. Legislative Powers Of The President
 
-**Article 123. Power of President to promulgate Ordinances during recess of Parliament**
+### Article 123. Power of President to promulgate Ordinances during recess of Parliament
 
 1. If at any time, except when both Houses of Parliament are in session, the President is satisfied that circumstances exist which render it necessary for him to take immediate action, he may promulgate such Ordinances as the circumstances appear to him to require.
 2. An Ordinance promulgated under this article shall have the same force and effect as an Act of Parliament, but every such Ordinance:
@@ -29,7 +29,7 @@ under this Constitution be competent to enact, it shall be void.
 
 ## CHAPTER 4.—THE UNION JUDICIARY
 
-Article 124. Establishment and constitution of Supreme Court
+### Article 124. Establishment and constitution of Supreme Court
 
 1. There shall be a Supreme Court of India consisting of a Chief Justice of India and, until Parliament by law prescribes a larger number, of not
 more than seven 2 other Judges.

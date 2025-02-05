@@ -40,10 +40,17 @@ However, their difference from Eastern philosophy is that they are based on shal
 This is why the Capitalism of Mill and the Communism of Marx both end up not solving the problems of poverty, inequality, recessions, inflation, debt, etc. 
 
 
-This lack of detail in Asian philosophy is also its disadvantage. 
+### The Problems with Asian Philosophy
 
-This allows anyone to make their own interpretations and shortcuts. 
+This lack of detail in Asian philosophy is an advantage, but also a disadvantage. 
 
-It also gets weak-willed people lost since they are unable to jump from Step 1 to Step 50 by themselves. 
+It presents ideas that are so obscure. 
+
+This allows anyone to make their own interpretations and shortcuts.
+
+For example, Confucius just gives major ideas, but does not explain how he got them or what will they result in or what are its variations.  
+
+This gets weak-willed people lost since they are unable to jump from Step 1 to Step 50 (the end result) by themselves. 
 
 Instead, they need a teacher to painstakingly teach them Step 2, Step 3, Step 4 and so on, instead of them discovering those mini-steps themselves.
+

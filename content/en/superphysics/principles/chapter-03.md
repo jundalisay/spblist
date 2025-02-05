@@ -4,8 +4,8 @@ title: "Pre-Existence and the Formless Absolute Entity"
 # Desire and the Two Forces
 #, Propelled by Feelings
 date: 2020-01-02
-weight: 9
-image: /photos/physics/quasar.jpg
+weight: 10
+image: /graphics/super/existence.jpg
 description: "Everything in existence is created by the two forces"
 icon: /icons/sp.png
 writer:

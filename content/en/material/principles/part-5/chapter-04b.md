@@ -1,5 +1,6 @@
 ---
 heading: "Chapter 4b"
+linkTitle: Pentagonic
 title: "The Pentagonic Versions of Elements"
 # date: 2023-10-14
 image: /graphics/physics/pentagonic.jpg

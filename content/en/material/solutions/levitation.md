@@ -22,6 +22,9 @@ The Relativity of Einstein is totally debunked by the reality of non-magnetic le
 - zipping UFOs that produce no sonic boom because they **insert** themselves into the air mass, instead of crashing through
 
 
+{{< youtube _Puf9huY-NI >}}
+
+
 This is done through "atom-shaking" which aligns atoms, by changing their state, to allow qosts (virtual spacetime particles called 2nd Element in Cartesian Physics) to pass through.  
 
 Since gravity is caused by the qosts/2nd Element, then letting them pass through reduces their gravitational push-force on the body. 
@@ -81,6 +84,7 @@ All animal bodies move at the command of the will through the vibrations of this
 {{< /q >}}
 
 
+Newton could have developed the idea of atom-shaking if only he chased down that dynamics of that Spirit. 
 
 {{< n n="Newton said that gravity comes from the spirit of 'Lord God' which goes through matter. In Cartesian Phyics, this spirit is the same as substance as the aether. This scholium then distributes that spirit, as gravity, into equal time-particles, matching Descartes' distribution of the aether onto a constantly dividing 2nd Element which includes space and time. The main difference with Newton is that he preferred inertial matter instead of spinning vortices" >}}
 

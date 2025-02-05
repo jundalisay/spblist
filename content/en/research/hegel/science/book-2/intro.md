@@ -43,7 +43,18 @@ Essence as the completed return of being into itself is thus at first indetermin
 
 § 814
 
-In the whole of logic, essence occupies the same place as quantity does in the sphere of being; absolute indifference to limit. But quantity is this indifference in an immediate determination, and the limit is present in it as an immediately external determinateness, quantity passes over into quantum; the external limit is necessary to quantity and is affirmatively present in it [ist an ihr seiend]. In essence, — on the other hand, the determinateness is not a simple immediacy but is present only as posited by essence itself; it is not free, but is present only as connected with its unity. The negativity of essence is reflection; and the determinations are reflected, posited by essence itself and remaining in essence as sublated.
+In the whole of logic, essence occupies the same place as quantity does in the sphere of being; absolute indifference to limit. 
+
+But quantity is this indifference in an immediate determination. The limit is present in it as an immediately external determinateness, quantity passes over into quantum.
+
+The external limit is necessary to quantity and is affirmatively present in it [ist an ihr seiend].
+
+In essence, on the other hand, the determinateness is not a simple immediacy but is present only as posited by essence itself.
+
+It is not free, but is present only as connected with its unity.
+
+The negativity of essence is reflection. The determinations are reflected, posited by essence itself and remaining in essence as sublated.
+
 
 § 815
 

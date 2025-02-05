@@ -66,11 +66,9 @@ Then, in 1929, Edwin Hubble published his observations showing that the universe
   - This spectrum changes by a known amount if the galaxy is moving relative to us. 
 - Therefore, by analyzing the spectra of distant galaxies, Hubble was able to determine their velocities. He had expected to find as many galaxies moving away from us as moving toward us. 
 
-Instead he found that nearly all galaxies were moving away from us, and the farther away they were, the faster they were moving. Hubble concluded that the universe is expanding, but others, trying to hold on to the earlier model, attempted to explain his observations
-within the context of the static universe. For example, Caltech physicist Fritz Zwicky suggested
-that for some yet unknown reason light might slowly lose energy as it travels great distances. This
-decrease in energy would correspond to a change in the light’s spectrum, which Zwicky suggested
-could mimic Hubble’s observations. For decades after Hubble, many scientists continued to hold
-on to the steady-state theory. But the most natural model was Hubble’s, that of an expanding
-universe, and it has come to be the accepted one.
+Instead he found that nearly all galaxies were moving away from us, and the farther away they were, the faster they were moving. Hubble concluded that the universe is expanding, but others, trying to hold on to the earlier model, attempted to explain his observations within the context of the static universe.
+
+For example, Caltech physicist Fritz Zwicky suggested that for some yet unknown reason light might slowly lose energy as it travels great distances. This decrease in energy would correspond to a change in the light’s spectrum, which Zwicky suggested could mimic Hubble’s observations.
+
+For decades after Hubble, many scientists continued to hold on to the steady-state theory. But the most natural model was Hubble’s, that of an expanding universe, and it has come to be the accepted one.
 

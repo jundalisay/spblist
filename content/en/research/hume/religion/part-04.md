@@ -35,7 +35,9 @@ What is the soul of man? A composition of various faculties, passions, sentiment
 {{< r a="Demea" >}}
 When it reasons, the ideas, which are the parts of its discourse, arrange themselves in a certain form or order; which is not preserved entire for a moment, but immediately gives place to another arrangement. New opinions, new passions, new affections, new feelings arise, which continually diversify the mental scene, and produce in it the greatest variety and most rapid succession imaginable. How is this compatible with that perfect immutability and simplicity which all true Theists ascribe to the Deity? 
 
-By the same act, say they, he sees past, present, and future: His love and hatred, his mercy and justice, are one individual operation: He is entire in every point of space; and complete in every instant of duration. No succession, no change, no acquisition, no diminution. What he is implies not in it any shadow of distinction or diversity. And what he is this moment he ever has been, and ever will be, without any new judgement, sentiment, or operation. He stands fixed in one simple, perfect state: nor can you ever say, with any propriety, that this act of his is different from that other; or that this judgement or idea has been lately formed, and will give place, by succession, to any different judgement or idea.
+By the same act, say they, he sees past, present, and future: His love and hatred, his mercy and justice, are one individual operation: He is entire in every point of space; and complete in every instant of duration. No succession, no change, no acquisition, no diminution. What he is implies not in it any shadow of distinction or diversity. And what he is this moment he ever has been, and ever will be, without any new judgement, sentiment, or operation.
+
+He stands fixed in one simple, perfect state: nor can you ever say, with any propriety, that this act of his is different from that other; or that this judgement or idea has been lately formed, and will give place, by succession, to any different judgement or idea.
 {{< /r >}}
 
 

@@ -50,7 +50,7 @@ If knowledge is the instrument to attain the absolute Reality, then the applicat
 - Rather, knowledge would have a mere moulding and alteration of the Absolute. 
 
 If knowledge is not an instrument, but is instead a kind of passive medium through which the light of the truth reaches us, then here too we do not receive the Absolute as It is. 
-- Instead, we get the medium-version of the Absolute. 
+- Instead, we get the medium-version of the Absolute.
 
 In either case, we employ a means which immediately brings about the very opposite of its own end. 
 - In other words, it is absurd to use any means at all. 

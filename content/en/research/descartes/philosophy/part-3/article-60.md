@@ -14,18 +14,22 @@ icon: "/icons/descartes.png"
 #### 60. This effort found in the air-aether
  <!-- celestial matter -->
 
-**The stone in a sling or the ball rotating in a tube around the center `E` is how the air-aether globules move.**
+The air-aether globules move like:
+
+1. The stone in a sling [This is the explosive movement]
+2. The ball rotating in a tube around the center `E` [This is the displacement movement]
 
 Each one tries to move away from the center of the vortex that it revolves around. 
 
  <!-- with considerable force:  -->
 
 They are held in place by other surrounding globules, just as the stone is held by the sling.
+- The outer globules are pressed by the inner ones.
 
 <!-- Additionally, this force in them is greatly increased by the fact that  -->
 
 <!-- upper  lower -->
-The outer globules are pressed by the inner ones.
+
 
 All of them together are pressed by fire-aether from the center of each vortex. 
 
@@ -37,8 +41,7 @@ We will only speak of the fire-aether when there are spaces that are devoid of t
 
  <!-- than if all the spaces occupied by it were empty, that is, as if they were filled with matter that neither aids nor hinders the motion of other bodies. -->
 
-Truly empty space cannot exist.
-
+**Truly empty space cannot exist.**
 
 <!-- those in the straight line SA press mutually towards A, and those in the straight line SE press towards E, and so on for the others. Therefore, if there are not enough to occupy the entire space between S and the circumference AEI, all that space which they do not occupy will be left towards S. And because those that press against each other (for example, those in the straight line SE) do not all revolve like a stick simultaneously, but some complete their circuit faster, others slower, as will be explained more fully below, the space they leave towards S cannot help but be round. 
 
@@ -49,28 +52,25 @@ For even if we imagined that initially there were more globules in the straight 
 #### 61. Demonstration on how the Sun and the Fixed Stars are round
 
 All the air-aether globules that revolve around `S` in `Vortex AEI` try to move away from `S`.
+- Those in the straight line `SA` all press towards `A`
+- Those in the straight line `SE` all press towards `E` and so on with the rest.
 
 {{< img src="/graphics/physics/fig_19.jpg" alt="Vortex" >}}
 
-- Those which are in the straight line `SA` all press towards `A`
-- Those which are in the straight line `SE` all press towards `E` and so on with the rest.
+If they are too few to occupy the area between `S` and the circumference `AEI`, all that is not occupied is left towards `S`. 
 
-If they are too few to occupy the whole space between `S` and the circumference `AEI`, all that is not occupied is left towards `S`. 
-
-These globules that press on each other in a straight line do not all turn like a rod together.
-
-Instead, some are quicker than the others in completing their circuit.
+These globules that press on each other in a straight line do not all turn together like a rod.
+- Instead, some are quicker than the others in completing their circuit.
 
 The space which they leave near `S` becomes round. 
 
-For even if we were to imagine that there were more globules at first in the straight line SE, than in SA or SI, so that the lowest of the line SE were nearer the center S than the lowest of the line SI; 
+<!-- For even if we were to imagine that there were more globules at first in the straight line SE, than in SA or SI, so that the lowest of the line SE were nearer the center S than the lowest of the line SI; 
 
 yet, since those lowest ones would have completed their circuit more quickly than the upper ones, some of them would have immediately joined the end of line SI, moving away from S faster.
 
-Therefore now all the lowest of these lines are equally remote from the point `S`.
+In this way, all the lowest of these lines are equally far from `S`. -->
 
-This makes the space BCD, which they leave around it, round.
-
+This makes the space `BCD`, which they leave around it, round.
 
 
  <!-- celestial matter all points of-->
@@ -78,17 +78,19 @@ This makes the space BCD, which they leave around it, round.
 
 
 All the globules in the straight line `SE` press one another towards `E` 
-
-But they are also pressed by those coming from behind them in other angles. 
+- But they are also pressed by those coming from behind them in other angles. 
 
 <!-- ; but also each one of them is pressed by all the others, which are contained between the straight lines drawn from it to the circumference BCD, and touching it.  -->
 
-For example, the globule `F` is pressed by those which are within the lines `BF` and `DF`, or in the triangular space `BFD`, but not by the other surrounding air-aether. 
+For example, the globule `F` is pressed by those which are within:
+- the lines `BF` and `DF`
+- the triangular space `BFD`
+
+But they are not pressed by the other surrounding air-aether. 
 
 If the place `F` were empty, only the globules contained in the space `BFD` would fill it up. 
 
 <!-- For just as we see the same force of gravity, which directly leads a stone falling in the free air to the center of the earth, also carries it obliquely thither, when its straight motion is hindered by the declivity of some plane; so there is no doubt that the same force, by which all the globules contained in the space BFD strive to recede from the center S, according to the straight lines drawn from that center, is sufficient to remove them from there also, by lines deviating from that center. -->
-
 
 <!-- The air-aether globules in the straight line `SE` press each other towards `E`. 
 
@@ -124,15 +126,18 @@ However, the same does not apply to the air-aether globules. **This is because t
 <!-- Even if it happens that they are arranged in the same way as the lead globes depicted here,  -->
 
 **This pause can only last for a minimal moment of time, called an instant.** 
+- This does not interrupt the continuity of their motion.*
 
-This does not interrupt the continuity of their motion. 
+{{< n n="This is the spacetime slices" >}}
 
-**The force of light does not consist in any duration of motion, but solely in pressure or in the initial preparation for motion, even if the motion itself might not follow from it.**
+<!-- **The force of light does not consist in any duration of motion, but solely in pressure or in the initial preparation for motion, even if the motion itself might not follow from it.** -->
+
+**The force of light does not consist in continuous motion. It is solely from the initial pressure that causes the motion.**
 
 
 #### 64. All the properties of light found is in this effort. 
 
-This is why light can be seen as emanating from stars, even if there is no force in the stars themselves
+This is why light can be seen as emanating from stars, even if there is no force in the stars themselves.
 
 The action called light spreads equally in all directions from the body of the Sun or any fixed star. 
 
@@ -142,11 +147,17 @@ It extends to any distance in the smallest moment of time, along straight lines 
 
 Hence, all other properties of light can be deduced.
 
-And what may perhaps appear paradoxical to many, all these things would be so in the celestial matter, even if there were no force at all in the Sun, or other star around which it revolves.
+<!-- And what may perhaps appear paradoxical to many,  -->
+
+All these things are from the air-aether and not from the star. 
+
+ <!-- would be so in the celestial matter, even if there were no force at all in the Sun, or other star around which it revolves. -->
 
 If the sun's body became merely an empty space, its light would be weaker. Yet we would still see it as a circle that moves in the heavens. 
 
-This is because we have not yet considered all the dimensions of the solar system. 
+This is because we have not yet considered all the dimensions of the solar system*.
+
+{{< n n="The light would be from the circumference of the sun which would come from neighboring fire-aether" >}} 
 
  <!-- the spheres.  -->
 

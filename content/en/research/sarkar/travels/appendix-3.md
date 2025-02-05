@@ -15,16 +15,18 @@ Baba writes:
 
 The main characteristic of Tantra is that it represents human vigor. 
 
-It represents a pactless fight. Where there is no fight there is no sa'dhana' [spiritual effort or meditation]. Under such circumstances, Tantra cannot be present. It is impossible to conquer a crude idea and replace it by a subtle idea without a fight. It is not at all possible without sa 'dhana'. Hence, Tantra is not only a fight, it is an all-round fight." 
+It represents a pactless fight. Where there is no fight there is no sadhana [spiritual effort or meditation]. Under such circumstances, Tantra cannot be present. 
+
+It is impossible to conquer a crude idea and replace it by a subtle idea without a fight. It is not at all possible without sadhana.
+
+Hence, Tantra is not only a fight, it is an all-round fight.
+
 
 Tantra finds or creates circumstances designed expressly to bring out, rather than to bury one's problematic mental tendencies. Baba said: 
 
-"A practitioner of Tantra becomes elevated and attains mastery over a 
-hostile environment. Tantra does not accept the teaching of the Vedas 
-that human beings should move internally and carefully avoid any as¬ 
-sociation with their environment." So only if a spiritual path, at least at 
-some stage, deliberately seeks out fearful, demoralizing or tempting circumstances in order to tight and overcome them by Cosmic ideation 
-and by trust in the guru, does it deserve to be called Tantric. Baba 
+"A practitioner of Tantra becomes elevated and attains mastery over a  hostile environment. Tantra does not accept the teaching of the Vedas that human beings should move internally and carefully avoid any association with their environment." 
+
+So only if a spiritual path, at least at  some stage, deliberately seeks out fearful, demoralizing or tempting circumstances in order to tight and overcome them by Cosmic ideation and by trust in the guru, does it deserve to be called Tantric. Baba 
 writes: 
 
 "It is not only an external or internal fight, it is simultaneously both. 
@@ -36,16 +38,12 @@ So practice in each and every stratum of life receives due recognition in Tantra
 
 The practice for raising the kulakun'd'alinii [psycho-spiritual energy force] is the internal sa'dhana 1 of Tantra, while shattering the bondages of hatred, suspicion, fear, shyness, etc., by direct action is the external sa'dhana'." 
 
-Both the "internal fight" and the "external fight" refer to the fight 
-against internal enemies—but the latter uses external means to intensify 
-the fight. He writes: 
+Both the "internal fight" and the "external fight" refer to the fight against internal enemies—but the latter uses external means to intensify  the fight. He writes: 
 
-"The very first night that a Tantric goes to the burial ground, he is 
-stricken with fear.... But when he returns home after finishing sa'dhana', 
-the mind is much lighter than before. When he goes out for sa'dhana' 
-the next night, he is much less fearful. And thus the Tantric steadily and 
-slowly overcomes fear. This is the applied process of Tantra which will 
-help the practitioner overcome all instincts." 
+"The very first night that a Tantric goes to the burial ground, he is stricken with fear.... But when he returns home after finishing sadhana, the mind is much lighter than before. 
+
+When he goes out for sa'dhana' the next night, he is much less fearful. And thus the Tantric steadily and slowly overcomes fear. This is the applied process of Tantra which will help the practitioner overcome all instincts."
+
 
 Though practices such as that of sa'dhana' in a burial ground may be the clearest instances of techniques designed to bring to the surface one's mental propensities, such practices are not required of all Tantrics. 
 
@@ -93,23 +91,15 @@ Finally, collective life must be systematized, regulated and directed toward God
 
 To realize this objective the Ganapati system is used. 
 
-Baba often spoke of having modified Tantra "to suit the needs of the 
-modern era." He further elaborated the philosophy of Tantra along lines 
-which had previously been little developed. 
+Baba often spoke of having modified Tantra "to suit the needs of the modern era." He further elaborated the philosophy of Tantra along lines which had previously been little developed. 
 
-In ancient times, Aryan (white-skinned) peoples lived to the north of 
-India. The Aryan culture was Vedic. East and south of those Aryans, the people were non-Aryan, i.e. Mongolian, Dravidian and Austrie. 
-The non-Aryan culture was Tantric. In a long article titled Tantra and 
-Indo-Aryan Civilization, Baba explains much about Tantra, as well as its 
-relation to Veda. He also slightly refers to yoga. Extracts of that article 
-follow: 
+In ancient times, Aryan (white-skinned) peoples lived to the north of India. The Aryan culture was Vedic. East and south of those Aryans, the people were non-Aryan, i.e. Mongolian, Dravidian and Austrie.  
 
-Usually the non-Aryans were content with little. What was developed in 
-them was their introspective nature, which not only made them devotees 
-of God, but infused in them a surging love for spiritual philosophy. The 
-religious practices of the Aryans, however, entailed performing certain 
-sacrifices in order to attain certain materialistic gains. That is, their 
-religious observances were mainly ritualistic. 
+The non-Aryan culture was Tantric. In a long article titled Tantra and Indo-Aryan Civilization, Baba explains much about Tantra, as well as its  relation to Veda. He also slightly refers to yoga. Extracts of that article  follow: 
+
+Usually the non-Aryans were content with little. What was developed in them was their introspective nature, which not only made them devotees of God, but infused in them a surging love for spiritual philosophy.
+
+The religious practices of the Aryans, however, entailed performing certain sacrifices in order to attain certain materialistic gains. That is, their religious observances were mainly ritualistic.
 
 On the whole, the non-Aryans were followers of Tantra, or subjective [i.e., introspective] sa'dhana'. 
 
@@ -151,7 +141,9 @@ Spiritual practice was common in the Tantric society.
 
 There is no spiritual vigor whatsoever in the lives of those who support pompous, so-called religious ceremonies, as there is in the lives of introspective spiritual practitioners.
 
-After the Aryans came into India, two types of practice used to take place side by side: on the one side the sacrificial fires of the rs'is [religious leaders], characterized by the smell of burning ghee [purified butter] and the sonorous refrains of those paying homage to the manes while offering oblations into the fire; and on the other side, the non-Aryans' Tantra sa'dhana', the practice of self-control and attainment of divine power. Spiritual depth and power of sa'dhana' brought fearlessness into the spiritual lives of the non-Aryans, as befitting staunch Tantrics..
+After the Aryans came into India, two types of practice used to take place side by side: on the one side the sacrificial fires of the rs'is [religious leaders], characterized by the smell of burning ghee [purified butter] and the sonorous refrains of those paying homage to the manes while offering oblations into the fire; and on the other side, the non-Aryans' Tantra sa'dhana', the practice of self-control and attainment of divine power. 
+
+Spiritual depth and power of sa'dhana' brought fearlessness into the spiritual lives of the non-Aryans, as befitting staunch Tantrics..
 
 Tantra is not a religion, but a way of life, a system of sa'dhana.
 
@@ -168,5 +160,3 @@ The Vedas are theoretical—full of ritualistic ceremonies and formalisms.
 Tantra is not a more recent version of those Vedic rituals.
 
 Tantra's esoteric practices had long been known in the society of sa'dhakas [spiritual aspirants]. Its theoretical portion was not as elaborate as that of the Vedas, which took years and years to memorize. 
-
-

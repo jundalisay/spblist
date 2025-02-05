@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 10"
-title: "The Merchant Class"
+title: "The Trading  Class"
 # date: 2022-03-27
 date: 2021-12-18
 weight: 64
@@ -12,3 +12,4 @@ writer:
 ---
 
 
+The 

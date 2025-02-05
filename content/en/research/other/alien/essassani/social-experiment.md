@@ -1,20 +1,20 @@
 ---
 title: "Social Experiment Steps"
 weight: 100
-image: "/photos/objects/pen.jpg"
+image: "/photos/social/pantry.jpg"
 description: "The Steps for Social Experiment"
 author: Consolidated from Bashar
 ---
 
-## Step 1: Don't engage in conspiracy theories.
+### Step 1: Don't engage in conspiracy theories.
 
 
-## Step 2: Have a direct, personal, spiritual relationship with Source. 
+### Step 2: Have a direct, personal, spiritual relationship with Source. 
 
 Meditate, or Quiet Reflection, or listen to calming meditative music 15 to 30 min a day.,
 
 
-## Step 3: Send this letter to government representatives as well as other scientific, military, or political leaders. 
+### Step 3: Send this letter to government representatives as well as other scientific, military, or political leaders. 
 
 Do not add add your name (your return email address with your name is OK or on the return envelope) to the letter or make any changes. It will be resent every three months.
 
@@ -37,11 +37,11 @@ Please be aware the members of this social movement intend to vote for and elect
 
 
 
-## Step 4 Create an Interstellar Alliance ID card. 
+### Step 4 Create an Interstellar Alliance ID card. 
 
 It can create conversations and awareness about the social experiment.
 
 
-## Step 5 
+### Step 5 ...
 
 <!-- It has not yet been released, but it is inferred to have to do with volunteering for community service. -->

@@ -13,3 +13,9 @@ toc: false
 draft: true
 ---
 
+
+The Fine and Hyperfine Structure of the Atom is about its aetherspace.
+
+
+### Electron SHells as Aetherspace Orbits
+

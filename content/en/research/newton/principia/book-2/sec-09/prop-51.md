@@ -1,10 +1,11 @@
 ---
 heading: Section 9
+linkTitle: Prop 51
 title: "Proposition 51, Theorem 39"
 image: "/covers/principia.jpg"
 description: "We simplify Principlia Mathematica"
 icon: "/icons/newton.png"
-weight: 2
+weight: 4
 ---
 
 

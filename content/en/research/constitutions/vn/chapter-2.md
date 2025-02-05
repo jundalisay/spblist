@@ -1,12 +1,12 @@
 ---
 title: "The Citizen’s Fundamental Rights And Duties"
-# Human Rights And 
-heading: "Chapter 2 of the Vietnamese Constitution Simplified"
-weight: 1
+heading: "Chapter 2"
+weight: 4
 image: "/flags/vn.png"
 description: "Political, civic, economic, cultural and social human rights and citizen’s rights are recognized, respected, protected, and guaranteed"
 icon: /flags/vn.png
 ---
+
 
 
 Article 14
@@ -52,16 +52,6 @@ Every one has the right to live. Human life is protected by the law. No one shal
 illegally deprived of his or her life.
 
 Article 20
-<!-- Prohibition of cruel treatment
-Inalienable rights
-Human dignity
-Prohibition of torture
-Protection from unjustified restraint
-Reference to science
-Right to privacy
-Inalienable rights
-Telecommunications
-Telecommunications -->
 
 1. Every one shall enjoy inviolability of the person and the legal protection of his or
 her life, health, honor and dignity; and is protected against torture, harassment

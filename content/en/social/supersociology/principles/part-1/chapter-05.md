@@ -56,9 +56,9 @@ Traders | Socratic Neoliberals | Vaesyas | Oligarchs
 An easy mnemomic is "W-W-T-T" which stands for Worker-Warrior-Thinker-Trader. In this way:
 
 - Socialists, Liberals, and American libertarians fall under **Workers** or Socratic Liberals
-- Dictators, Generals, Communists, and Fascists fall under **Warriors** or Socratic NeoCons
-- Priests, Technocrats, Researchers, and Nazis fall under **Thinkers** or Socratic Conservatives
-- Big Businesses and Free marketeers fall under **Traders** or Socratic NeoLiberals
+- Dictators, Generals, Communists (deployed Marxism), and Fascists fall under **Warriors** or Socratic NeoCons
+- Priests, Technocrats, Researchers, Marxists, and Nazis fall under **Thinkers** or Socratic Conservatives
+- Big Businesses, Free marketeers, Bankers fall under **Traders** or Socratic NeoLiberals
 
 {{< img src="/graphics/social/cycles.png" alt="Social Cycles" >}} 
 
@@ -66,7 +66,7 @@ This makes:
 - Workers and Traders <!-- Socratic Liberals and Neoliberals --> as the Socratic Left Wing
 - Warriors and Thinkers <!-- Socratic Conservatives and NeoConservatives --> as Socratic Right Wing. 
 
-Here, Left Wing represents matter (such as money), while Right Wing represents the immaterial (such as the soul).
+Here, Left Wing represents matter (such as money), while Right Wing represents the immaterial (such as the soul or ideas).
 
 We use this model to expose the current cycle of any society, based on the outcome of events. For example:
 - a successful popular protest that topples a government indicates that the country is in a <!-- democractic --> worker phase
@@ -80,7 +80,9 @@ We use outcomes of changing events* to reveal the soul of the society, just as d
 ![Soul of Society](https://sorasystem.sirv.com/graphics/soulsociety.png)
 
 
-These cycles then reveal the soul of the society, the most important aspects of which are its **age and phases**. Is a society metaphysically young and rising or old and stagnating? Has a country's soul been recently replaced by a new one? 
+These cycles then reveal the soul of the society, the most important aspects of which are its **age and phases**.
+- Is a society metaphysically young and rising or old and stagnating? 
+- Has a country's soul been recently replaced by a new one? 
 
 {{< q a="David-Hume" c="Essays by David Hume Simplified, The Populousness Of Ancient Nations">}}
 Society must therefore have its infancy, youth, manhood, and old age, similar to that each individual form which it contains. Man has these variations equally with every animal and plant.
@@ -94,13 +96,14 @@ We plug in this model into our [equation-for-everything](/superphysics/principle
 ![Universal Relativity](/graphics/social/cycle.png)
 
 
-{{< f f="Our equation for everything is based on Poincare's Law of Relativity which is consistend with the Relativty of Rene Descartes which used a lot in Material Superphysics. Poincare's Relativity was replaced by Einstein's sophistical Relativity which locked humans into the current sad reality without nuclear fusion or anti-gravity." >}}
+{{< f f="Our equation for everything is based on Descartes' Relationality (Relativty) which is used a lot in Material Superphysics which discards Einstein's Relativity as a scam." >}}
 
+ <!-- Poincare's Relativity was replaced by Einstein's sophistical Relativity which locked humans into the current sad reality without nuclear fusion or anti-gravity -->
 
 Social Cycles explain why and how history repeats itself. This is because reality is a wave, and waves are **always related** to previous and future waves. We give a short story below as an example.
 
 
-{{< box >}}
+{{< dc t="Story (click to expand)" >}}
 ### The Story of Survivor Island
 
 <!-- The social cycles can be explained in a short story: -->
@@ -136,7 +139,7 @@ In the past five months, the group’s territory has expanded from the first she
 “We must kill the shark for our own safety! You must let me lead again,” Arthur exclaims.
 
 And so, the group embarks on the new endeavor as they struggle to fully establish themselves on the island.
-{{< /box >}}
+{{< /dc >}}
 
 
 ## Why are there four cycles?
@@ -171,8 +174,12 @@ Prediction!
 
 If you know things happen in a regular cycle, then you can predict what will happen. In fact, this is how we predicted [the crisis years starting in 2019](/social/supersociology/precrisis-years).
 
+{{< u d="Jan 20, 2025" u="The election of Trump fulfill this prediction as to lead to the max crisis years at 2028-2029" >}}
+
 We also have a [running list of predictions](/social/cycles/predictions/) **to prove that cycles work and that we exist inside a Matrix**.
 
 We use these correct predictions to prove the solidity of the principles discovered by <!-- Francis Bacon, --> Socrates, David Hume, Hinduism, Buddhism, and Taoism. This is similar to how the solidity of Newtonian Physics was proven by the correct prediction of the arrival of Haley's comet.
 
-As a science, these cycles and laws of value unify Sociology and Economics by describing the causes of the dynamics of the soul of society.
+These cycles are based on waves that also apply in all sciences whether as quantum field theory, price theory. waves of epidemics, etc. 
+
+<!-- As a science, these cycles and laws of value unify Sociology and Economics by describing the causes of the dynamics of the soul of society. -->

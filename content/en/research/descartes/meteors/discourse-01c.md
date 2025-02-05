@@ -2,7 +2,7 @@
 heading: Discourse 1c
 title: The Nature Of Water
 weight: 6
-description: Descartes gives 4 Precepts on Math and Logic
+description: Water is composed of long and smooth earth-aether particles
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

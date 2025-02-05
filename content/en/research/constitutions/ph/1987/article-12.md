@@ -2,7 +2,7 @@
 title: National Economy and Patrimony
 heading: Article 12
 weight: 18
-description: "The goals of the national economy are a more equitable distribution of opportunities, income, and wealth; a sustained increase in the amount of goods and services produced by the nation for the benefit of the people"
+description: "The goals of the national economy are a more equitable distribution of opportunities, income, and wealth"
 image: "/flags/ph.png"
 icon: /flags/ph.png
 ---

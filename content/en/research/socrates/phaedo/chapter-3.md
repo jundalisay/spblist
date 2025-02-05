@@ -55,9 +55,13 @@ Death is the opposite of life, as sleep is the opposite of waking.
 {{< /l >}}
 
 {{< l a="Socrates" >}}
-If they are opposites, are generated the one from the other, and have there their two intermediate processes also?
+If they are opposites, then one is generated from the other and have there their two intermediate processes also.
 
-I will analyze one of the two pairs of opposites which I have mentioned to you, and also its intermediate processes, and you shall analyze the other to me. One of them I term sleep, the other waking. The state of sleep is opposed to the state of waking, and out of sleeping waking is generated, and out of waking, sleeping; and the process of generation is in the one case falling asleep, and in the other waking up. Do you agree?
+I will analyze one of the 2 pairs of opposites which I have mentioned and its intermediate processes. You shall analyze the other to me. 
+
+One of them I call sleep, the other waking.
+
+The state of sleep is opposed to the state of waking. Out of sleeping, waking is generated. Out of waking, sleeping. The process of generation is in the one case falling asleep, and in the other waking up.
 
 Then, suppose that you analyze life and death to me in the same manner. The dead is generated from the living. The living is generated from the dead. 
 
@@ -79,7 +83,9 @@ These admissions were not unfair. If generation were in a straight line only, an
 {{< l a="Socrates" >}}
 A simple thing enough, which I will illustrate by the case of sleep, he replied. You know that if there were no alternation of sleeping and waking, the tale of the sleeping Endymion would in the end have no meaning, because all other things would be asleep, too, and he would not be distinguishable from the rest. Or if there were composition only, and no division of substances, then the chaos of Anaxagoras would come again. 
 
-Similarly, if all things which partook of life were to die, and after they were dead remained in the form of death, and did not come to life again, all would at last die, and nothing would be alive—what other result could there be? For if the living spring from any other things, and they too die, must not all things at last be swallowed up in death? (But compare Republic.)
+Similarly, if all things which partook of life were to die, and after they were dead remained in the form of death, and did not come to life again, all would at last die, and nothing would be alive—what other result could there be? 
+
+For if the living spring from any other things, and they too die, must not all things at last be swallowed up in death? (But compare Republic.)
 {{< /l >}}
 
 {{< r a="Cebes" >}}
@@ -90,7 +96,9 @@ I am confident that:
 - the living spring from the dead
 - the souls of the dead are in existence
 - the good souls have a better portion than the evil
+{{< /r >}}
 
+{{< r a="Cebes" >}}
 Your favorite doctrine is that knowledge is simply recollection. It implies a previous time in which we have learned that which we now recollect.
 
 But this would be impossible unless our soul had been in some place before existing in the form of man; here then is another proof of the soul's immortality.
@@ -101,11 +109,15 @@ But tell me, Cebes, said Simmias, interposing, what arguments are urged in favou
 {{< /r >}}
 
 {{< r a="Cebes" >}}
-One excellent proof, said Cebes, is afforded by questions. If you put a question to a person in a right way, he will give a true answer of himself, but how could he do this unless there were knowledge and right reason already in him? And this is most clearly shown when he is taken to a diagram or to anything of that sort.
+One excellent proof, said Cebes, is afforded by questions.
+
+If you put a question to a person in a right way, he will give a true answer of himself, but how could he do this unless there were knowledge and right reason already in him?
+
+This is most clearly shown when he is taken to a diagram or to anything of that sort.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-But if, said Socrates, you are still incredulous, Simmias, I would ask you whether you may not agree with me when you look at the matter in another way;—I mean, if you are still incredulous as to whether knowledge is recollection.
+But if you are still incredulous, Simmias, I would ask you whether you may not agree with me when you look at the matter in another way;—I mean, if you are still incredulous as to whether knowledge is recollection.
 {{< /l >}}
 
 {{< r a="Simmias" >}}
@@ -116,7 +128,9 @@ I am not incredulous. But I want to have this doctrine of recollection brought t
 What a man recollects he must have known at some previous time. What is the nature of this knowledge or recollection? 
 
 I mean to ask, Whether a person who, having seen or heard or in any way perceived anything, knows not only that, but has a conception of something else which is the subject, not of the same but of some other kind of knowledge, may not be fairly said to recollect that of which he has the conception?
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 The knowledge of a lyre is not the same as the knowledge of a man. Yet what is the feeling of lovers when they recognize a lyre, or a garment, or anything else which the beloved has been in the habit of using? Do not they, from knowing the lyre, form in the mind's eye an image of the youth to whom the lyre belongs? And this is recollection. 
 
 Similarly, anyone who sees Simmias may remember Cebes. There are endless examples of this.
@@ -128,7 +142,10 @@ Recollection is most commonly a process of recovering that which has been alread
 From seeing the picture of a horse or a lyre, you might remember a man. From the picture of Simmias, you might remember Cebes, or remember Simmias himself. 
 
 In all these cases, the recollection may be derived from things either like or unlike.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 When the memory is derived from like things, then another consideration is sure to arise, The likeness in any degree falls short of that which is remembered. 
 
 There is such a thing as equality, not of one piece of wood or stone with another, but that, over and above this, there is absolute equality.
@@ -138,24 +155,35 @@ We know the nature of this absolute essence. We got this knowlege from seeing th
 
 
 {{< l a="Socrates" >}}
-The same pieces of wood or stone appear at one time equal, and at another time unequal. But real equals are never unequal. The idea of equality is different from that of inequality.
+The same pieces of wood or stone appear at one time equal, and at another time unequal.
 
-Then these (so-called) equals are not the same with the idea of equality.  Yet from these equals, although differing from the idea of equality, you conceived and attained that idea Which might be like, or might be unlike them. 
+But real equals are never unequal. The idea of equality is different from that of inequality.
+
+Then these (so-called) equals are not the same with the idea of equality. Yet from these equals, although differing from the idea of equality, you conceived and attained that idea Which might be like, or might be unlike them. 
 
 But that makes no difference; whenever from seeing one thing you conceived another, whether like or unlike, there must surely have been an act of recollection. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 But equal portions of wood and stone, or other material equals? and what is the impression produced by them? 
 
 Are they equals in the same sense in which absolute equality is equal? or do they fall short of this perfect equality in a measure?
 
-And must we not allow, that when I or any one, looking at any object, observes that the thing which he sees aims at being some other thing, but falls short of, and cannot be, that other thing, but is inferior, he who makes this observation must have had a previous knowledge of that to which the other, although similar, was inferior
-
-And has not this been our own case in the matter of equals and of absolute equality.
-
-Then we must have known equality previously to the time when we first saw the material equals, and reflected that all these apparent equals strive to attain absolute equality, but fall short of it
-
-And we recognize also that this absolute equality has only been known, and can only be known, through the medium of sight or touch, or of some other of the senses, which are all alike in this respect?
+I look at an object. I see that it aims at being some other thing, but falls short of, and cannot be that other thing. Rather it is inferior. This means I must have had a previous knowledge of that other thing. 
 {{< /l >}}
+
+ <!-- to which the other, although similar, was inferior. -->
+
+
+{{< l a="Socrates" >}}
+This was our own case in the matter of equals and of absolute equality.
+
+Then we must have known equality previously to the time when we first saw the material equals. We then reflected that all these apparent equals strive to attain absolute equality, but fall short of it
+
+This absolute equality has only been known, and can only be known, through the medium of sight, touch, or some other of the senses which are all alike in this respect.
+{{< /l >}}
+
 
 {{< r a="Simmias" >}}
 Yes, Socrates. As far as the argument is concerned, one of them is the same as the other.
@@ -166,7 +194,10 @@ Yes, Socrates. As far as the argument is concerned, one of them is the same as t
 From the senses then is derived the knowledge that all sensible things aim at an absolute equality of which they fall short.
 
 Then before we began to see or hear or perceive in any way, we must have had a knowledge of absolute equality, or we could not have referred to that standard the equals which are derived from the senses?—for to that they all aspire, and of that they fall short.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 No other inference can be drawn from the previous statements.
 
 And did we not see and hear and have the use of our other senses as soon as we were born. 
@@ -176,11 +207,15 @@ Then we must have acquired the knowledge of equality at some previous time.
 That is to say, before we were born, I suppose
 {{< /l >}}
 
+
 {{< l a="Socrates" >}}
 If we acquired this knowledge before we were born, and were born having the use of it, then we also knew before we were born and at the instant of birth not only the equal or the greater or the less, but all other ideas. 
 
 For we are not speaking only of equality, but of beauty, goodness, justice, holiness, and of all which we stamp with the name of essence in the dialectical process, both when we ask and when we answer questions. Of all this we may certainly affirm that we acquired the knowledge before birth?
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 But if, after having acquired, we have not forgotten what in each case we acquired, then we must always have come into life having knowledge, and shall always continue to know as long as life lasts—for knowing is the acquiring and retaining knowledge and not forgetting. Forgetting is just the losing of knowledge. 
 
 But if the knowledge which we acquired before birth was lost by us at birth, and if afterwards by the use of the senses we recovered what we previously knew, will not the process which we call learning be a recovering of the knowledge which is natural to us, and may not this be rightly termed recollection. 

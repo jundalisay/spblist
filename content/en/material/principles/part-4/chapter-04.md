@@ -1,8 +1,9 @@
 ---
 heading: Chapter 4
+linkTitle: Substance
 title: "The Substance of Convertibility: Neutrons"
 # date: 2024-07-14
-image: /graphics/physics/quark.jpg
+image: /photos/physics/neutronstar.jpg
 description: "Neutrons are the Substance of Convertibility"
 weight: 16
 writer:
@@ -25,7 +26,9 @@ Beta decay.  -->
 
 ### Neutron Stars
 
-A neutron star is created when the internal fusion of a normal star stops, causing its gravity to collapse. This is because the spatial layer is superior to the radiant. This then makes the star's particles merge. 
+A neutron star is created when the internal fusion of a normal star stops, causing its gravity to collapse. 
+
+This is because the spatial layer is superior to the radiant. This then makes the star's particles merge. 
 
 - Electrons merge with the protons in the atomic nuclei, creating neutrons 
 - In the process of merging, the star produces a lot of neutrinos
@@ -43,3 +46,4 @@ Young, energetic neutron stars are not so much affected by neighboring stars. Th
 Magnetars are pulsars that are very energyetic. 
 
 There are around 3,000 observable neutron stars in the our galaxy. 
+

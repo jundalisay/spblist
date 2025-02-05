@@ -57,7 +57,13 @@ The people might be relieved from some of the most burdensome taxes. The labouri
 - work cheaper, and
 - send their goods cheaper to market.
 
-The cheapness of their goods would increase the demand for those goods and the labour that produced them. This increase in the demand for labour would increase the population of the labouring poor and improve their circumstances. Their consumption would increase and with it, the tax revenue arising from their consumption.
+The cheapness of their goods would increase the demand for those goods and the labour that produced them. 
+
+This increase in the demand for labour would increase the population of the labouring poor and improve their circumstances.*
+
+{{< n n="This is opposite of the Physiocrats who want high prices" >}}
+
+Their consumption would increase and with it, the tax revenue arising from their consumption.
 
 
 

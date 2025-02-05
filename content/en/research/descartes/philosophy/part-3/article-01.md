@@ -1,5 +1,6 @@
 ---
 title: "Understanding The Works of God"
+linkTitle: Articles 1-8
 heading: Articles 1-8
 weight: 12
 description: "The duration alone of our life is sufficient to demonstrate the existence of God"

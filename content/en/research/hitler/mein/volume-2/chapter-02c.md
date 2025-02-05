@@ -40,7 +40,11 @@ The State itself is not the substance but the form.
 
 Therefore, the cultural level is not the standard by which we can judge the value of the State in which that people lives. It is evident that a people which is endowed with high creative powers in the cultural sphere is of more worth than a tribe of negroes. 
 
-Yet the statal organization of the former, if judged from the standpoint of efficiency, may be worse than that of the negroes. Not even the best of States and statal institutions can evolve faculties from a people which they lack and which they never possessed, but a bad State may gradually destroy the faculties which once existed. This it can do by allowing or favouring the suppression of those who are the bearers of a racial culture.
+Yet the statal organization of the former, if judged from the standpoint of efficiency, may be worse than that of the negroes. 
+
+Not even the best of States and statal institutions can evolve faculties from a people which they lack and which they never possessed, but a bad State may gradually destroy the faculties which once existed.
+
+This it can do by allowing or favouring the suppression of those who are the bearers of a racial culture.
 
 Therefore, the worth of a State can be determined only by asking how far it actually succeeds in promoting the well-being of a definite race and not by the role which it plays in the world at large. Its relative worth can be estimated readily and accurately.
 

@@ -4,7 +4,7 @@ title: "Extracts from the Book of History"
 description: "The four evils are omitting to instruct the people and then inflicting capital punishment on them which means cruel tyranny"
 weight: 44
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

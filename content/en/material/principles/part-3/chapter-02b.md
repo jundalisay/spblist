@@ -1,4 +1,5 @@
 ---
+linkTitle: Potential Energy
 title: "Radiant (Electromagnetic) Potential Energy"
 heading: Chapter 2b
 # date: 2024-01-03

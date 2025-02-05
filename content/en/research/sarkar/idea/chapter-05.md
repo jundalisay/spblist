@@ -80,11 +80,15 @@ In the crudification <!-- cycle, extroversial saiṋcara --> process, mindstuff 
 
 ## 5 Portions or Kosas
 
-**This process of crudification of mindstuff is coordinated between the Identity-layer and the Ego-layer.** 
+**This process of crudification of mindstuff is coordinated between the Identity-layer and the Ego-layer.** *
+
+{{< n n="The Identity is from the Higher Mind. The Ego is from the Lower Mind" >}}
+
 
 This process is divided into 5 portions or **kosas**. Each portion has a relative density of crudeness developed through the bondage of the static principle.
 
 These 5 portions are the crude portion of the Macrocosmic Mind where it displays its will. 
+
 
 The 5 portions from the initial portion are:
 

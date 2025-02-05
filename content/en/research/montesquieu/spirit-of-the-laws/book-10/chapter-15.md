@@ -38,11 +38,17 @@ In India, Turkey, and Japan, the prince has always a bodyguard, independent of t
 
 
 
-## Chapter 17= The same Subject continued.
+## Chapter 17: The same Subject continued.
 
-The countries subdued by a despotic monarch should be held by a vassal. Historians are very lavish of their praises on the generosity of those conquerors who restore d the princes to the throne whom they had vanquished. 
+The countries subdued by a despotic monarch should be held by a vassal.
 
-Extremely generous, then, were the Romans, who made such a number of kings, in order to have instruments of slavery.  A proceeding of that kind is absolutely necessary. If the conqueror intends to preserve the country which he has subdued, neither the governors he sen ds will be able to contain the subjects within duty, nor he himself the gov ernors. 
+Historians lavishly praise the generosity of those conquerors who restored the princes to the throne whom they had vanquished. 
+
+Extremely generous, then, were the Romans, who made such a number of kings, in order to have instruments of slavery.
+
+A proceeding of that kind is absolutely necessary. 
+
+If the conqueror intends to preserve the country which he has subdued, neither the governors he sen ds will be able to contain the subjects within duty, nor he himself the gov ernors. 
 
 
 He will be obliged to strip his ancient patrimony of troops in orde r to secure his new dominions. The miseries of each nation will be common t o both; civil broils will spread themselves from one to the other. 

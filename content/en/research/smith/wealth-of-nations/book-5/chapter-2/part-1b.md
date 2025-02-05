@@ -1,6 +1,6 @@
 ---
 title: "The Rent and sale of government lands"
-heading: "Chapter 2a-02"
+heading: "Chapter 2-1b"
 weight: 8
 image: "/covers/wn.jpg"
 description: "The rent of a great landed estate might ordinarily defray all the necessary expences of government"

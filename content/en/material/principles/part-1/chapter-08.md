@@ -18,7 +18,19 @@ This says that all manifested things have 2 sides, 2 aspects, 2 poles, a pair of
 {{< /q >}}
 
 
-The constant action by the Positive and Negative Force on Substance which we call Quantum create a polarity or duality* on each substance or quantum, which then manifests as a particle or a wave. 
+The polarities in the Aethereal Layer are:
+
+Positive | Negative
+--- | ---
+Dharma | Adharma
+Dynamism | Staticity
+
+
+Note that the Physical Domain is inherently Negative. 
+
+
+
+<!-- The constant action by the Positive and Negative Force on Substance which we call Quantum create a polarity or duality* on each substance or quantum, which then manifests as a particle or a wave. 
 
 {{< n n="*'Duality' emphasizes the opposite-ness, while 'Polarity' emphasizes their mutual belligerence" >}}
 
@@ -34,7 +46,7 @@ Aethereal | Unifying |  Divisive
 Spatial | Counterclockwise Rotation | Clockwise Rotation
 Radiant | Male (Positive Charge) | Female (Negative Charge)
 Convertible | Left Chirality | Right Chirality  
-Material | Color Charge (Matter) | Anti-Color Charge (Antimatter)
+Material | Color Charge (Matter) | Anti-Color Charge (Antimatter) -->
 
 
 

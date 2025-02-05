@@ -20,8 +20,11 @@ As the result of His Tantra sádhaná He attained extraordinary powers, which 
 He systematized the science of Tantra. Thus, He was the guru or the father of Tantrics and yogis.
 
 To this Self-realized Mahápuruśa there was no distinction of high and low.
-- People of all classes, from the highest to the lowest, were dear to Him. 
-- Irrespective of class - Aryan, non-Aryan, Dravidian, Austric or Mongolian – all flocked to Him. 
+
+People of all classes and races flocked to Him and were dear to Him.
+
+<!-- , from the highest to the lowest, were  
+- Irrespective of class - Aryan, non-Aryan, Dravidian, Austric or Mongolian – all .  -->
 
 He showered His grace on them all equally.
 
@@ -44,7 +47,9 @@ Shiva had such a forgiving nature, born out of His spirit of benevolence, that e
 
 That is why to everybody He became “Áshutośa” (“Easy to Please”). 
 
-Due to Shiva’s pervasive influence over their society, the non-Aryans, that is, the Tantrics, used to worship Him as God. According to their respective intellectual strata, they regarded and accepted Him in His different bearings. 
+Due to Shiva’s pervasive influence over their society, the non-Aryans, that is, the Tantrics, used to worship Him as God. 
+
+According to their respective intellectual strata, they regarded and accepted Him in His different bearings. 
 
 Just as the Aryans began to identify Shiva with their own gods and goddesses, the kaola mahátántrikas [great Tantrics in the tradition of kulakuńd́alinii yoga] began to regard their Shiva as identical with Nirguńa Brahma. 
 
@@ -59,8 +64,6 @@ All were attracted to Shiva’s:
 - imposing personality
 - limitless qualities
 - calm, tranquil radiance.
-
-
 
 Princess Gaorii was the daughter of the Aryan king Dakśa.
 - She was enthralled by Shiva's physical grace and virtues.

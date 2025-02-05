@@ -73,9 +73,17 @@ The ether hypothesis did not at first bring with it any theory of gravity*.<!-- 
 
 The ether hypothesis found fresh support in the first half of the 19th century when light was proven to be elastic waves in ponderable bodies.
 
-Light became a vibratory process in an elastic, inert medium filling up universal space. Light can be polarized. It follows that the ether must be a solid body. This is because transverse waves are not possible in a fluid, but only in a solid. 
+Light became a vibratory process in an elastic, inert medium filling up universal space.
 
-This led to the theory of the "quasi-rigid" luminiferous ether. Relatively to one another, it only carried the small movements of deformation which correspond to light-waves.
+Light can be polarized. It follows that the ether must be a solid body*.
+
+{{< n n="Material Superphysics explains that space particles (2nd Element) are one of the physical manifetations of the aether (5th Element). Traverse waves happen in the aether because there is no void between the space particles." >}} 
+
+This is because transverse waves are not possible in a fluid, but only in a solid. 
+
+This led to the theory of the "quasi-rigid" luminiferous ether. 
+
+Relatively to one another, it only carried the small movements of deformation which correspond to light-waves.
 
 <!-- This theory — also called the theory of the stationary luminiferous ether — moreover found a strong support in an experiment which is also of fundamental importance in the special theory of relativity, the 
  -->
@@ -125,7 +133,7 @@ In the theory of Hertz, matter is:
 This means that the ether also bears electromagnetic fields. It is thus indistinguishable in its functions from ordinary matter*.
 
 
-{{< n n="In Superphysics, this is the RIB or Radiance Internatl Boundary which is the Higgs Field to Physics. " >}}
+{{< n n="In Superphysics, this is the RIB or Radiance Internal Boundary which is the Higgs Field to Physics. " >}}
 
  <!-- or the This is the earth-aether (Stokes' aether) -->
 
@@ -136,9 +144,15 @@ Within matter, it takes part in the motion of matter. In empty space, it has a v
 {{< n n="We call these as qosts or air-aether (Descartes aether) " >}}
 
 
-In this way, it has a definite velocity throughout space. There is no fundamental difference between Hertz's ether and ponderable matter (which in part subsists in the ether).
+In this way, it has a definite velocity throughout space.*
 
-The Hertz theory was wrong in ascribing mechanical states and electrical states to matter and ether because I think they have no relation to each other. It was also at variance with Fizeau's experiment on the speed of light in moving fluids<!-- , and with other established experimental results -->.
+{{< n n="This is the speed of light imposed by spacetime or the 2nd Element" >}}
+
+There is no fundamental difference between Hertz's ether and ponderable matter (which in part subsists in the ether).
+
+The Hertz theory was wrong in ascribing mechanical states and electrical states to matter and ether because I think they have no relation to each other.
+
+It was also at variance with Fizeau's experiment on the speed of light in moving fluids<!-- , and with other established experimental results -->.
 
 Then, H. A. Lorentz entered the scene and simplified the theory. 
 
@@ -147,15 +161,14 @@ He harmonized the ether theory with experience through a wonderful simplificatio
 
 He achieved this by taking from ether its mechanical qualities, and from matter its electromagnetic qualities. 
 
-The ether in empty space and inside matter  <!-- As in empty space, so too in the interior of material bodies, , and not matter viewed atomistically, --> was exclusively the seat of electromagnetic fields*. 
+The ether in empty space and inside matter  <!-- As in empty space, so too in the interior of material bodies, , and not matter viewed atomistically, --> was exclusively the seat of electromagnetic fields. 
+
+<!-- n n="Therefore, Lorentz Aether is now the Higgs Field" >}} -->
 
 
-{{< n n="Therefore, Lorentz Aether is now the Higgs Field" >}}
+According to Lorentz, only the quantum particles of matter can carry out movements. Their electromagnetic activity is entirely confined to the carrying of electric charges.
 
-
-According to Lorentz, only the quantum particles of matter can carry out movements. Their electromagnetic activity is entirely confined to the carrying of electric charges*.
-
-{{< n n="Correct, the Higgs Field gives electromagnetic potential" >}}
+ <!-- n n="Correct, the Higgs Field gives electromagnetic potential" >}} -->
 
 
 Thus, Lorentz reduced all electromagnetic happenings to Maxwell's equations for free space.
@@ -163,3 +176,4 @@ Thus, Lorentz reduced all electromagnetic happenings to Maxwell's equations for 
 The only mechanical nature of the Lorentzian ether is its immobility. Special Relativity removed this immobility.
 
 <!--  , it may be said of it, in a somewhat playful spirit, that immobility is the only mechanical property of which it has not been deprived by H. A. Lorentz. It may be added that the whole change in the conception of the ether  brought about, consisted in taking away from the ether its last mechanical quality, namely, its . How this is to be understood will forthwith be expounded. -->
+

@@ -1,9 +1,9 @@
 ---
 title: "Form of the State"
 heading: "Chapter 1"
-weight: 1
+weight: 4
 image: "/flags/id.png"
-description: ""
+description: "The State of Indonesia shall be a unitary state in the form of a republic"
 icon: /flags/id.png
 ---
 
@@ -27,9 +27,10 @@ based on a belief in the One and Only God, just and civilised humanity, the unit
 Indonesia, and democratic life led by wisdom of thoughts in deliberation amongst
 representatives of the people, and achieving social justice for all the people of Indonesia. -->
 
-Article 1
 
-1. The State of Indonesia shall be a unitary state in the form of a republic.
+### Article 1
+
+1. The State of Indonesia shall be a unitary state in the form of a republic
 
 2. Sovereignty is in the hands of the people and is implemented according to this
 Constitution.

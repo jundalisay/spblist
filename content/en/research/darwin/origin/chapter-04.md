@@ -1,11 +1,12 @@
 ---
 title: Natural Selection
 heading: Chapter 4
-# First Meditation
-weight: 20
-description: "How will the struggle for existence, discussed too briefly in the last chapter, act in regard to variation? Can the principle of selection, which we have seen is so potent in the hands of man"
+weight: 22
+author: Charles Darwin
+description: "How will the struggle for existence, discussed too briefly in the last chapter, act in regard to variation?"
 image: "/covers/origin.jpg"
 ---
+
 
 <!-- Natural Selection -- its power compared with man's selection -- its power on characters of trifling
 importance -- its power at all ages and on both sexes -- Sexual Selection -- On the generality of
@@ -17,8 +18,6 @@ Divergence of Character and Extinction, on the descendants from a common parent 
 Grouping of all organic beings. -->
 
 
-
-
 The principle of selection is so potent in the hands of man.
 
 Does it apply in nature? How will the struggle for existence act in regard to variation? 
@@ -27,56 +26,139 @@ Does it apply in nature? How will the struggle for existence act in regard to va
 Our domestic productions have a lot more variety than wild organisms.
 
 
-How strong the hereditary tendency is. Under domestication, it may be truly said that the whole organisation becomes in some degree plastic. Let it be borne in mind how infinitely complex and close-fitting are the mutual relations of all organic beings to each other and to their physical conditions of life.
+### How Strong is the Hereditary Tendency?
 
-Can it, then, be thought improbable, seeing that variations useful to man have undoubtedly occurred, that other variations useful in some way to each being in the great and complex battle of life, should sometimes occur in the course of thousands of generations? If such do occur, can we doubt (remembering that many more individuals are born than can possibly survive) that individuals having any advantage, however slight, over others, would have the best chance of surviving and of procreating their kind? On the other hand, we may feel sure that any variation in the least degree injurious would be rigidly destroyed.
+Under domestication, the whole organisation becomes plastic.
 
-This preservation of favourable variations and the rejection of injurious variations, I call Natural Selection. Variations neither useful nor injurious would not be affected by natural selection, and would be left a fluctuating element, as perhaps we see in the species called polymorphic. We shall best understand the probable course of natural selection by taking the case of a country undergoing some physical change, for instance, of climate. The proportional numbers of its inhabitants would almost immediately undergo a change, and some species might become extinct. 
+The mutual relations of all organic beings to each other and to their living conditions are infinitely complex and close-fitting.
 
-We may conclude, from what we have seen of the intimate and complex manner in which the inhabitants of each country are bound together, that any change in the numerical proportions ofsome of the inhabitants, independently of the change of climate itself, would most seriously affect many of the others. If the country were open on its borders, new forms would certainly immigrate, and this also would seriously disturb the relations of some of the former inhabitants. Let it be remembered how powerful the influence of a single introduced tree or mammal has been shown to be.
+<!-- Can it, then, be thought improbable, seeing that variations useful to man have undoubtedly occurred, that other variations useful in some way to each being in the great and complex battle of life, should sometimes occur  -->
 
-But in the case of an island, or of a country partly surrounded by barriers, into which new and better adapted forms could not freely enter, we should then have places in the economy of nature which would assuredly be better filled up, if some of the original inhabitants were in some manner modified; for, had the area been open to immigration, these same places would have been seized on by intruders. In such case, every slight modification, which in the course of ages chanced to arise, and which in any way favoured the individuals of any of the species, by better adapting them to their altered conditions, would tend to be preserved; and natural selection would thus have free scope for the work of improvement.
+In the course of thousands of generations, useful variations also occur in the wild.
 
-A change in the conditions of life, by specially acting on the reproductive system, causes or increases variability; and in the foregoing case the conditions of life are supposed to have undergone a change, and this would manifestly be favourable to natural selection. 
+<!-- If such do occur, can we doubt (remembering that many more individuals are born than can possibly survive) that -->
 
-It gives a better chance of profitable variations occurring; and unless profitable variations do occur, natural selection can do nothing. Not that, as I believe, any extreme amount of variability is necessary; as man can certainly produce great results by adding up in any given direction mere individual differences, so could Nature, but far more easily, from having incomparably longer time at her disposal. 
+The individuals which have any advantage over others, however slight, would have the best chance of surviving and of procreating.
 
-Nor do I believe that any great physical change, as of climate, or any unusual degree of isolation to check immigration, is actually necessary to produce new and unoccupied places for natural selection to fill up by modifying and improving some of the varying inhabitants. For as all the inhabitants of each country are struggling together with nicely balanced forces, extremely slight modifications in the structure or habits of one inhabitant would often give it an advantage over others; and still further modifications of the same kind would often still further increase the advantage. 
+Any injurious variation would be rigidly destroyed.
 
-No country can be named in which all the native inhabitants are now so perfectly adapted to each other and to the physical conditions under which they live, that none of them could anyhow be improved; for in all countries, the natives have been so far conquered by naturalised productions, that they have allowed foreigners to take firm possession of the land. And as foreigners have thus everywhere beaten some of the natives, we may safely conclude that the natives might have been modified with advantage, so as to have better resisted such intruders.
+Natural Selection is this:
+- preservation of favourable variations 
+- rejection of injurious variations
 
-As man can produce and certainly has produced a great result by his methodical and unconscious means of selection, what may not nature effect? Man can act only on external and visible characters: nature cares nothing for appearances, except in so far as they may be useful to any being. 
+Variations neither useful nor injurious would not be affected by natural selection.
 
-She can act on every internal organ, on every shade of constitutional difference, on the whole machinery of life. Man selects only for his own good; Nature only for that of the being which she tends. Every selected character is fully exercised by her; and the being is placed under well-suited conditions of life. 
+They would be left a fluctuating element, as we see in the "polymorphic" species.
 
-Man keeps the natives of many climates in the same country; he seldom exercises each selected character in some peculiar and fitting manner; he feeds a long and a short beaked pigeon on the same food; he does not exercise a long-backed or long-legged quadruped in any peculiar manner; he exposes sheep with long and short wool to the same climate. He does not allow the most vigorous males to struggle for the females. He does not rigidly destroy all inferior animals, but protects during each varying season, as far as lies in his power, all his productions. He often begins his selection by some half-monstrous form; or at least by somemodification prominent enough to catch his eye, or to be plainly useful to him.
+We best understand the probable course of natural selection by looking into physical changes in the country, such as climate change. 
 
-Under nature, the slightest difference of structure or constitution may well turn the nicely-balanced scale in the struggle for life, and so be preserved. How fleeting are the wishes and efforts of man! how short his time! and consequently how poor will his products be, compared with those accumulated by nature during whole geological periods. 
+ <!-- taking the case of a country undergoing some , for instance, of climate.  -->
 
-Can we wonder, then, that nature's productions should be far 'truer' in character than man's productions; that they should be infinitely better adapted to the most complex conditions of life, and should plainly bear the stamp of far higher workmanship? 
+The proportional numbers of its inhabitants would almost immediately undergo a change. Some might become extinct. 
 
-Natural selection is daily and hourly scrutinising, throughout the world, every variation, even the slightest; rejecting that which is bad, preserving and adding up all that is good; silently and insensibly working, whenever and wherever opportunity offers, at the improvement of each organic being in relation to its organic and inorganic conditions of life. We see nothing of these slow changes in progress, until the hand of time has marked the long lapse of ages, and then so imperfect is our view into long past geological ages, that we only see that the forms of life are now different from what they formerly were.
+<!-- We may conclude, from what we have seen of the intimate and complex manner in which the inhabitants of each country are bound together, that  -->
 
-Although natural selection can act only through and for the good of each being, yet characters and
-structures, which we are apt to consider as of very trifling importance, may thus be acted on. When
-we see leaf-eating insects green, and bark-feeders mottled-grey; the alpine ptarmigan white in
-winter, the red-grouse the colour of heather, and the black-grouse that of peaty earth, we must
-believe that these tints are of service to these birds and insects in preserving them from danger.
+Any change in population, independent of climage change itself, would most seriously affect many of the others. 
+
+If the country were open on its borders, new forms would immigrate.
+
+This also would seriously disturb the relations of some of the natives.
+
+This is proven by the influence of a single introduced tree or mammal.
 
 
-Grouse, if not destroyed at some period of their lives, would increase in countless numbers; they
-are known to suffer largely from birds of prey; and hawks are guided by eyesight to their prey,--so
+<!-- In the case of an island, or of a country partly surrounded by barriers, into which  -->
+
+<!-- New and better adapted forms could not freely enter an island. 
+
+ we should then have places in the economy of nature which would assuredly be better filled up, if some of the original inhabitants were in some manner modified; for, had the -->
+
+If an area is open to immigration, these same places would be seized on by intruders. 
+
+The course of time would lead to slight modifications.
+
+<!-- , which in the course of ages chanced to arise, and which in any way favoured the individuals of any of the species, by better adapting them to their altered conditions, would tend to be preserved. -->
+
+Natural selection would thus have free scope for the work of improvement.
+
+A change in the conditions of life, by specially acting on the reproductive system, causes or increases variability.
+
+ <!-- and in the foregoing case the conditions of life are supposed to have undergone a change, and this would manifestly be favourable to natural selection.  -->
+
+It gives a better chance of profitable variations occurring.
+
+Unless profitable variations do occur, natural selection can do nothing.
+
+An extreme amount of variability is not necessary.
+
+Man can produce great results by adding up individual differences. Nature could do this far more easily as she has longer time at her disposal. 
+
+Any great physical change, such as of climate or unusual isolation, is not necessary for natural selection.
+
+ <!-- produce new and unoccupied places for  to fill up by modifying and improving some of the varying inhabitants.  -->
+
+This is because all are struggling together with nicely balanced forces. Extremely slight modifications in the structure or habits of one inhabitant would often give it an advantage over others.
+
+ <!-- and still further modifications of the same kind would often still further increase the advantage.  -->
+
+<!-- No country can be named in which all the native inhabitants are now so perfectly adapted to each other and to the physical conditions under which they live, that none of them could anyhow be improved; for in all countries, the natives have been so far conquered by naturalised productions, that they have allowed foreigners to take firm possession of the land. And as foreigners have thus everywhere beaten some of the natives, we may safely conclude that the natives might have been modified with advantage, so as to have better resisted such intruders.
+
+As man can produce and certainly has produced a great result by his methodical and unconscious means of selection, what may not nature effect? Man can act only on external and visible characters: nature cares nothing for appearances, except in so far as they may be useful to any being.  -->
+
+Nature can act on every internal organ, on every shade of constitutional difference, on the whole machinery of life.
+
+Man selects only for his own good; 
+
+Nature only for that of the being which she tends. Every selected character is fully exercised by her; and the being is placed under well-suited conditions of life. 
+
+Man keeps the natives of many climates in the same country.
+
+<!-- he seldom exercises each selected character in some peculiar and fitting manner; he feeds a long and a short beaked pigeon on the same food; he does not exercise a long-backed or long-legged quadruped in any peculiar manner; he exposes sheep with long and short wool to the same climate. He does not allow the most vigorous males to struggle for the females. 
+
+He does not rigidly destroy all inferior animals, but protects during each varying season, as far as lies in his power, all his productions. He often begins his selection by some half-monstrous form; or at least by somemodification prominent enough to catch his eye, or to be plainly useful to him. -->
+
+In the wild, the slightest difference of structure or constitution may turn the balanced scale in the struggle for life.
+
+ <!-- and so be preserved. How fleeting are the wishes and efforts of man! how short his time! and consequently how poor will his products be, compared with those accumulated by nature during whole geological periods.  -->
+
+This is why nature's productions are far 'truer' in character than man's productions.
+
+They are infinitely better adapted to the most complex conditions of life. 
+
+<!-- , and should plainly bear the stamp of far higher workmanship?  -->
+
+Natural selection is daily and hourly scrutinising, throughout the world, every variation, even the slightest.
+
+It rejects that which is bad, preserving and adding up all that is good.
+
+It silently and insensibly works, whenever and wherever opportunity offers, at the improvement of each organic being in relation to its organic and inorganic conditions of life.
+
+We see nothing of these slow changes in progress, until the hand of time has marked the long lapse of ages, and then so imperfect is our view into long past geological ages, that we only see that the forms of life are now different from what they formerly were.
+
+Natural selection can act only through and for the good of each being.
+
+Yet trifling characters and structures may thus be acted on.
+
+<!-- When we see leaf-eating insects green, and bark-feeders mottled-grey; the alpine ptarmigan white in winter, the red-grouse the colour of heather, and the black-grouse that of peaty earth,  -->
+
+The colors of birds and insects preserving them from danger.
+
+
+If grouse are not destroyed at some period of their lives, they would increase in countless numbers.
+
+They suffer largely from birds of prey.
+
+ and hawks are guided by eyesight to their prey,--so
 much so, that on parts of the Continent persons are warned not to keep white pigeons, as being the
 most liable to destruction. 
 
-Hence I can see no reason to doubt that natural selection might be most
-effective in giving the proper colour to each kind of grouse, and in keeping that colour, when once
-acquired, true and constant. Nor ought we to think that the occasional destruction of an animal of
-any particular colour would produce little effect: we should remember how essential it is in a flock
-of white sheep to destroy every lamb with the faintest trace of black. 
+Natural selection might be most effective in:
+- giving the proper colour to each kind of grouse
+- keeping that colour, when once acquired, true and constant.
 
-In plants the down on the
-fruit and the colour of the flesh are considered by botanists as characters of the most trifling
+Nor ought we to think that the occasional destruction of an animal of any particular colour would produce little effect: we should remember how essential it is in a flock of white sheep to destroy every lamb with the faintest trace of black. 
+
+In plants the down on the fruit and the colour of the flesh are considered by botanists as characters of the most trifling
 importance: yet we hear from an excellent horticulturist, Downing, that in the United States
 smooth-skinned fruits suffer far more from a beetle, a curculio, than those with down; that purple
 plums suffer far more from a certain disease than yellow plums; whereas another disease attacks

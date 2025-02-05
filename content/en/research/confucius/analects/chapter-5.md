@@ -4,7 +4,7 @@ title: "The Disciples of Confucius"
 description: "Confucius pronounced Kung-ye Ch'ang, a disciple, to be a marriageable person"
 weight: 10
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

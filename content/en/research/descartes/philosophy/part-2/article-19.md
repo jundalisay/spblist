@@ -77,7 +77,7 @@ This is because the idea of metaphysical space which we conceive in any physical
 
 <!-- ### 22. It also follows that the matter of the heavens and earth is the same, and that there cannot be a plurality of worlds. -->
 
-#### 22. It also follows that the aethereal susbtance of space and matter is the same, and that there cannot be a  plurality of worlds*
+#### 22. It also follows that the aethereal substance of space and matter is the same, and that there cannot be a  plurality of worlds*
 
 {{< n n="The 'worlds' here would mean causes. It means a single phenomenon has a single root cause and not many" >}}
 

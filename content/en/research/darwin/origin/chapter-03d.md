@@ -1,9 +1,9 @@
 ---
-title: Epidemics as a Check
-heading: Chapter 3c
-weight: 19
+title: Other Species as a Check
+heading: Chapter 3d
+weight: 20
 author: Charles Darwin
-description: "When a species increases inordinately in numbers in a small tract due to highly favourable circumstances, epidemics often ensue"
+description: "Plants and animals, most remote in the scale of nature, are bound together by a web of complex relations"
 image: "/covers/origin.jpg"
 ---
 
@@ -32,11 +32,11 @@ Mr. H. Newman, who has long attended to the habits of humble-bees, believes that
 
 The number of mice is largely dependent, as every one knows, onthe number of cats; and Mr. Newman says, 'Near villages and small towns I have found the nests of humble-bees more numerous than elsewhere, which I attribute to the number of cats that destroy the mice.'
 
-Hence it is quite credible that the presence of a feline animal in large numbers in a district might determine, through the intervention first of mice and then of bees, the frequency of certain flowers in that district!
+The presence of a feline animal in large numbers in a district might determine the frequency of certain flowers in that district through the intervention first of mice and then of bees!
 
-In the case of every species, many different checks, acting at different periods of life, and during different seasons or years, probably come into play; some one check or some few being generally the most potent, but all concurring in determining the average number or even the existence of the species. 
+<!-- In the case of every species, many different checks, acting at different periods of life, and during different seasons or years, probably come into play; some one check or some few being generally the most potent, but all concurring in determining the average number or even the existence of the species. 
 
-In some cases, widely-different checks act on the same species in different districts.
+In some cases, widely-different checks act on the same species in different districts. -->
 
 When we look at the plants and bushes clothing an entangled bank, we are tempted to attribute their proportional numbers and kinds to chance.
 

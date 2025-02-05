@@ -1,7 +1,7 @@
 ---
 title: "The Height of the Crisis Years (2025-2030)"
 date: 2024-11-07
-image: "/photos/countries/ua/trump.jpg"
+image: "/photos/countries/us/trump.jpg"
 description: "It would have been better for the democrats, and the world, if Hillary Clinton or any Positive Warrior, ran in 2024 instead of Harris"
 writer:
   name: Juan
@@ -12,7 +12,9 @@ icon: /icons/spsoc.pn
 
 In 2015, we made a model that predicted the Crisis Years which were to begin in 2019, being felt from 2020 up to around 2035.
 
-This model was created by plotting the historical events in Europe from the mercantilist period with the data from Adam Smith and David Hume who were Scottish historians. 
+This model was created by plotting the historical events in Europe from the mercantilist period. We used the wheat prices from Adam Smith and extended them to current times.
+
+ <!-- and David Hume who were Scottish historians.  -->
 
 It matched the major European wars such as the Seven Years War and the World Wars, as well as the major European economic crises such as:
 - the 18th century stock bubbles and
@@ -49,7 +51,7 @@ However, the US does not follow the popular vote system and so Trump won the pre
 Just like any Negative Trader, Trump wants maximum gain and riches at the expense of others. 
 
 
-{{< i s="/photos/countries/ua/trump.jpg" a="Trump MAGA" >}}
+{{< i s="/photos/countries/us/trump.jpg" a="Trump MAGA" >}}
 
 
 <!-- Trump's legacy has been Covid, Trade War, and the loss of Afghanistan.  -->

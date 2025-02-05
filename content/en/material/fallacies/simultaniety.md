@@ -1,5 +1,5 @@
 ---
-title: "The Fallacy of Einstein's Simultaniety"
+title: "The Fallacy of Einstein's Simultaneity"
 date: 2024-12-06
 # weight: 32
 image: /covers/einstein.jpg
@@ -18,7 +18,7 @@ Physics has become backward because of the failure of gravity research.
 
 ### The Einstein Trap
 
-The cause is Einstein pegging the simultaniety of time to the speed of light as Special Relativity simply because light, as c, is constant and invariant in empty space.
+The cause is Einstein pegging the simultaneity of time to the speed of light as Special Relativity simply because light, as c, is constant and invariant in empty space.
 
 To a shallow mind, this constancy and invariance makes it an ideal measuring rod or timer. 
 

@@ -1,5 +1,6 @@
 ---
 heading: "Chapter 9"
+linkTitle: Feyman
 title: "Convertible Relationality: Feynman Diagrams"
 date: 2024-11-17
 image: /graphics/physics/feynman.jpg
@@ -25,8 +26,4 @@ Dashed | W, Z Boson
 
 
 {{< i s="/graphics/physics/feynman.jpg" >}}
-
-
-More to come!
-
 

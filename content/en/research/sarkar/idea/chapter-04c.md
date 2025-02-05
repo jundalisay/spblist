@@ -28,16 +28,15 @@ This implies a momentum which mind has to express.
 {{< n n="*Therefore the main glands are the pineal (sahasrara chakra) and pituitary (ajna)" >}}
 
 
-Some psychologists define “instinct” as “accumulated sentiment”. They impy that instincts are:
+Some psychologists define “instinct” as “accumulated sentiment”. They imply that instincts are:
 - later stages of sentiments
 <!-- , that is, that instincts are  -->
-- created when sentiments get themselves habituated. 
+- created when sentiments get themselves habituated
 
 This is a theoretical definition.
 
 A spiritual aspirant, who is a practical psychologist, realizes that **instinct is a feeling affecting the subsidiary glands** [not pineal nor pituitary].
-- These subsidiary glands are the sub-stations of organs whose main controlling station, as already discussed, is located in the brain. 
-
+- These subsidiary glands are the sub-stations of organs whose main controlling station is in the brain. 
 
 The mind is:
 - "saḿkalpátmaka" when its internal feelings <!-- occupations --> lead towards the Great.

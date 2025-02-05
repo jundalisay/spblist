@@ -1,7 +1,7 @@
 ---
 title: "Finance"
 heading: "Chapter 7"
-weight: 1
+weight: 14
 image: "/flags/jp.png"
 description: "The power to administer national finances shall be exercised as the Diet shall determine"
 icon: "/flags/jp.png"

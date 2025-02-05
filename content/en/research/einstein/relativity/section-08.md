@@ -39,7 +39,7 @@ As long as this requirement is not satisfied, I allow myself to be deceived as a
 
 <!-- After thinking the matter over for some time you then offer the following suggestion with which to test simultaneity.  -->
 
-We test simultaniety by putting an observer in the middle `M` between `A` and `B`. 
+We test simultaneity by putting an observer in the middle `M` between `A` and `B`. 
 - He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time
 - **If he sees the two flashes of lightning at the same time, then they are simultaneous [happen at the same time]** *
 
@@ -51,10 +51,10 @@ We test simultaniety by putting an observer in the middle `M` between `A` and `B
 <!-- By measuring along the rails, the connecting line AB should be measured up and an observer placed at the mid-point M of the distance AB.  -->
 
 You object by saying that:
-- "time" would only be "simultaniety" if light travels at a constant speed
+- "time" would only be "simultaneity" if light travels at a constant speed
 - but the speed of light is measured by time
 
-**You would say this is reasoning in a circle and therefore, simultaniety has absolutely nothing to do with light.**
+**You would say this is reasoning in a circle and therefore, simultaneity has absolutely nothing to do with light.**
 
 <!-- I am very pleased with this suggestion, but for all that I cannot regard the matter as quite settled,
 because I feel constrained to raise the following objection=  “Your definition would certainly be

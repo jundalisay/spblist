@@ -81,33 +81,51 @@ is evolved by using them to clarify the so-called middle term that brings the tw
 ends of the desired information together . 693 It also deals with the conversion of
 terms.
 
-Book 6 is the Kitab as-Safsatah (Sophistici Elenchi). Sophistry is the kind of analogical reasoning that teaches the opposite of the truth and enables a
-disputant to confuse his opponent. The (book) is bad because of its purpose. It was written only so that one might know sophistical reasoning and be on guard against it. 
+Book 6 is the Kitab as-Safsatah (Sophistici Elenchi). 
 
-Book 7 is the Kitab al-Khitabah (Rhetoric). Rhetoric is the kind of analogical reasoning that teaches how to influence the great mass and get them to dowhat one wants them to do. It also teaches the forms of speech to be employed in this connection.
+Sophistry is the kind of analogical reasoning that teaches the opposite of the truth and enables a disputant to confuse his opponent. 
+
+The (book) is bad because of its purpose. It was written only so that one might know sophistical reasoning and be on guard against it. 
+
+Book 7 is the Kitab al-Khitabah (Rhetoric). Rhetoric is the kind of analogical reasoning that teaches how to influence the great mass and get them to dowhat one wants them to do. 
+
+It also teaches the forms of speech to be employed in this connection.
 
 Book 8 is the Kitdb ash-Shi'r (Poetics). Poetics is the kind of analogical reasoning that teaches the invention of parables and similes, especially
 for the purpose of (encouraging oneself and others) to undertake something or avoid doing something. It also teaches the imaginary propositions 694 to be employed in this connection.
 
 
-These are the eight books on logic according to the ancients. After logic had been improved and systematized, the Greek philosophers were of the opinion that it
-was necessary to discuss the five universals providing the perception that 695 conforms to the quiddities outside or to their parts or accidents. The (five) are
-genus, difference, species, property, and general accident. 696 
+These are the 8 books on logic according to the ancients.
 
-Therefore, they took the subject up in a special book concerned with the (five universals), which serves as an introduction to the discipline. Thus, the books on (logic) came to be nine. All of them were translated in Islam. The Muslim philosophers wrote commentaries and abridgments of them. Al-Farabi and Avicenna, for instance, did this, and, later on, the Spanish philosopher, Averroes. Avicenna wrote the Kitab ash-Shifa',697 which comprises all the seven philosophical disciplines.
+After logic had been improved and systematized, the Greek philosophers were of the opinion that it was necessary to discuss the 5 universals providing the perception that 695 conforms to the quiddities outside or to their parts or accidents. 
+
+The 5 are:
+
+1. Genus
+2. Difference
+3. Species
+4. Property
+5. General accident. 696 
+
+Therefore, they took the subject up in a special book concerned with the (five universals), which serves as an introduction to the discipline. 
+
+Thus, the books on (logic) came to be nine. All of them were translated in Islam. The Muslim philosophers wrote commentaries and abridgments of them. Al-Farabi and Avicenna, for instance, did this, and, later on, the Spanish philosopher, Averroes. Avicenna wrote the Kitab ash-Shifa',697 which comprises all the seven philosophical disciplines.
+
 Later on, more recent scholars have changed the terminology of logic. 
 
-They added to the study of the five universals the (study of) its fruit, namely, the discussion of definitions and descriptions which they took over from the
-Apodeictica. They discarded the Categories, because (the logicians') study of the book is accidental and not essential. To the Hermeneutics they added the discussion
-of the conversion (of terms), whereas the ancient books included that subject in the Topics, 698 but, in some respects, it does fall under the discussion of propositions.
+They added to the study of the 5 universals the (study of) its fruit, namely, the discussion of definitions and descriptions which they took over from the Apodeictica.
 
-Then, they discussed analogical reasoning in as much as it produces the desired information in general, and without regard to any matter. They discarded study of the matter to which analogical reasoning (is applied). That concerned five books, the Apodeictica, the Topics, the Rhetoric, the Poetics, and the Sophistici Elenchi. 
+They discarded the Categories, because (the logicians') study of the book is accidental and not essential. 
 
-Some of them occasionally touched a little on those books. (But in general,) they neglected them, as if they had never been, whereas they are a very important
-basis of the discipline.
+To the Hermeneutics they added the discussion of the conversion (of terms), whereas the ancient books included that subject in the Topics, 698 but, in some respects, it does fall under the discussion of propositions.
 
-Then, they thoroughly discussed their writings on logic and studied them as a discipline in its own right, not as an instrument for the sciences. This resulted in a
-long and extensive discussion of the subject. The first to do this was the imam Fakhr-ad-din b. al-Khatib. 699 He was followed by Afdal-ad-din al-Khunaji. <!-- 700  -->
+Then, they discussed analogical reasoning in as much as it produces the desired information in general, and without regard to any matter. They discarded study of the matter to which analogical reasoning (is applied). 
+
+That concerned 5 books, the Apodeictica, the Topics, the Rhetoric, the Poetics, and the Sophistici Elenchi. 
+
+Some of them occasionally touched a little on those books. (But in general,) they neglected them, as if they had never been, whereas they are a very important basis of the discipline.
+
+Then, they thoroughly discussed their writings on logic and studied them as a discipline in its own right, not as an instrument for the sciences. This resulted in a long and extensive discussion of the subject. The first to do this was the imam Fakhr-ad-din b. al-Khatib. 699 He was followed by Afdal-ad-din al-Khunaji. <!-- 700  -->
 
 Al-Khunaji's books are used by contemporary easterners as reference works. On logic, he wrote the long Kitab Kashf al-asrar, the Mukhtasar al-mujiz which is good as a textbook, and the Mukhtasar al jumal. <!-- 701  -->
 

@@ -121,7 +121,7 @@ A reduction in the existing nominal-wage <!-- money-wage --> would lead to work 
 
 {{< c v="red" >}}Within a certain range, the demand of labour is for a minimum nominal-wage <!-- money-wage --> and not for a minimum real wage.{{< /c >}}
 
-{{< img src="/photos/wtf.jpg" cap="WTF?!? Humans work for paper bills and coins??" >}}
+{{< img src="/graphics/wtf.png" cap="WTF?!? Humans work for paper bills and coins??" >}}
 
 
 The classical school has assumed that this would involve no significant change in their theory*. But this is not so. If the supply of labour is not a function of real wages as its sole variable, their argument breaks down entirely. It leaves the question of what the actual employment will be quite indeterminate.

@@ -28,13 +28,15 @@ This does not contradict the fourth rule which says that a resting body can be i
 
 #### 62. When a solid body is thus transferred from a fluid, it is not therefore moved
 
-If we pay attention to the true and absolute nature of motion, which consists in the translation of the moved body from the vicinity of other contiguous bodies, and in both bodies that touch each other
+The true and absolute nature of motion is the translation of the moved body from the vicinity of other contiguous bodies.
 
-even though it may not always be named in the same way, we will clearly recognize that 
+<!-- , and in both bodies that touch each other
 
-A hard body is not so properly moved when it is carried by the containing fluid as when it is not carried by it; 
+even though it may not always be named in the same way, we will clearly recognize that  -->
 
-In the latter case, it does not recede as much from the neighboring particles of that fluid.
+A hard body is not truly moved when it is carried by the containing fluid just as when the body is not carried by that fluid. 
+
+In the latter case, it does not move away as much from the neighboring particles of that fluid.
 
 
 #### 63. Why are some bodies so hard that they are not easily divided by our hands?
@@ -49,9 +51,13 @@ We should be able to cut a nail with our hands since:
 
 But why can't we divide an iron nail into 2 parts by the force of our hands alone?
 
-The middle part of this nail is one body which is  smaller than our hand. We should be able to move it by force and separate it from the other middle part. 
+The middle part of this nail is one body which is smaller than our hand.
+- This means that we should be able to separate it from the other middle part by force. 
 
-This does not happen because our hands are very soft, resembling the nature of fluid bodies more than hard ones.
+<!-- move it by force and  the nature of-->
+
+But this does not happen because our hands are very soft.
+- They resemble fluid bodies more than hard ones.
 
 Therefore, **they do not usually act entirely together on the body that they are moving.**
 
@@ -59,17 +65,18 @@ Instead, they only act on the part of them that touches the body and bears down 
 
 <!-- For just as the middle part of the iron nail, as far as it is to be divided from the other middle part, has the nature of one body,  -->
 
-The part of our hand that touches the nail closely is smaller than the part of that nail. 
+The part of our hand that touches the nail closely is **smaller** than the part of that nail. 
 
 <!-- than the rest of the hand, as far as it can be separated from the other parts of the same hand, has the nature of another body.  -->
 
-This small part of our hand is more easily  separated from the rest of the hand than the part of the nail from the rest of the nail.
+**This small part of our hand is more easily separated from the rest of the hand than the part of the nail from the rest of the nail.**
 
-This is why trying to separate the nail with our hand produces a sense of pain.
+This is why trying to separate the nail with our hand produces pain.
 <!-- , we cannot break the iron nail with one hand alone;  -->
 
-But if we equip our hand with a hammer, file, pliers, or another instrument so that its [larger] force for dividing the body is applied to the smaller body it uses for dividing, it can overcome its hardness no matter how great.
-
+We can equip our hand with a hammer, file, pliers, or another instrument so that its [larger] force for dividing the body is applied to the smaller body it uses.
+- This can overcome its hardness no matter how great.
+ <!-- for dividing, it -->
 
 
 #### 64. The principles of Physics are based in Geometry and Abstract Mathematics. 

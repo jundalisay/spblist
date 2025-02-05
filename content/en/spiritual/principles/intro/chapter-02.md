@@ -2,11 +2,12 @@
 heading: "Chapter 2"
 title: "The Different Religions and Belief Systems"
 date: 2024-07-15
-image: "/photos/meta/isaiah.jpg"
+image: /photos/meta/buddhism.jpg
 description: "The 10 virtues are based on Yama and Niyama"
 writer:
   name: Lam
   url: https://www.linkedin.com/in/baolamnguyen/
+weight: 6
 icon: /icons/spi.png
 ---
 
@@ -134,6 +135,9 @@ Founder | Confucius
 --- | --- 
 Scripture | Analects, etc
 Organization | Confucian Institute
+
+{{< i s="/covers/conf.jpg" a="Confucius" >}}
+
 
 Political instability was a huge problem during the Warring States Period in China because of the system of Legalism where arbitrary laws were created by the ruling Emperors.
 

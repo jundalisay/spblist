@@ -1,5 +1,6 @@
 ---
-heading: Articles 79-
+heading: Articles 79-84
+linkTitle: Articles 79-84
 title: Love and Hatred
 weight: 25
 description: What is Passion in relation to one subject is always Action in another respect.
@@ -113,52 +114,3 @@ In all of them, we consider ourselves as united with, and part of, the beloved t
 Hatred is directly opposed to Love. But it is has less kinds because we do not notice as much difference between the evils that we want to avoid, as we do between the goods that we want to unite with.
 
 <!-- from which we desire to be separated,  -->
-
-
-### 85. Pleasure and Horror
-
-<!-- And I find only one significant distinction that is the same in both. It consists in that  -->
-
-The objects of both Love and Hatred can be represented to the soul by the external senses or by the internal senses and its own reason. 
-
-We commonly call good or evil what our internal senses or our reason judge to be suitable or contrary to our nature; but we call beautiful or ugly what is represented to us by our external senses, primarily by that of sight, which alone is more considered than all the others. 
-
-Hence arise two kinds of Love:
-
-1. Pleasure
-
-This is our love for good things
-
-2. Desire
-
-Our love for beautiful things
-
- <!-- to which one can give the name of , so as not to confuse it with the other, nor also with , to which one often attributes the name of Love.  -->
-
-Similarly, 2 kinds of Hatred arise:
-
-1. Horror
-
-This is our hatred for bad things.
-
-2. Aversion
-
-This is our hatred for ugly things.
-
- <!-- this latter can be called Horror, or Aversion, to distinguish it.  -->
-
-<!-- But what is most remarkable here is that these passions of  -->
-
-Pleasure and Horror commonly tend to be more violent than the other species of Love or Hatred. 
-
-This is because what comes to the soul through the senses affects it more strongly than what is represented to it by its reason; and yet they usually have less truth. 
-
-Thus, of all the passions, these are the ones that deceive the most, and against which one must be most carefully on guard.
-
-
-### 86. The Definition of Desire
-
-Desire is an agitation of the Soul caused by the spirits. It disposes the Soul to wish for things in the future that it represents to itself as suitable.
-
-Thus, one desires not only the presence of absent good, but also the preservation of what is present; and furthermore, the absence of evil, both of that which one already has and of that which one believes one could receive in the future time.
-

@@ -1,24 +1,23 @@
 ---
 title: "Parliament"
 heading: "Articles 79-"
-weight: 1
+weight: 16
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png
 ---
 
 
-CHAPTER 2. PARLIAMENT
+## CHAPTER 2. PARLIAMENT
 
-<!-- General -->
-
-**Article 79. Constitution of Parliament**
+### Article 79. Constitution of Parliament
 
 The Parliament shall consist of:
 - the President 
 - 2 Houses as the Council of States and the House of the People.
 
-**Article 80. Composition of the Council of States**
+
+### Article 80. Composition of the Council of States
 
 1. It will have:
 
@@ -40,7 +39,7 @@ Amendment) Act, 1974, s. 5 (w.e.f. 26-4-1975).
 
 5. The representatives of the 2 [Union territories] in the Council of States shall be chosen in such manner as Parliament may by law prescribe.
 
-[81. Composition of the House of the People.—(1) 4 [Subject to the provisions of article 331 5 ***],
+[81. Composition of the House of the People.—(1) 4 [Subject to the provisions of article 331 5],
 the House of the People shall consist of—
 (a) not more than 6 [five hundred and thirty members] chosen by direct election from territorial
 constituencies in the States, and
@@ -49,16 +48,19 @@ Parliament may by law provide.
 (2) For the purposes of sub-clause (a) of clause (1),—
 (a) there shall be allotted to each State a number of seats in the House of the People in such manner
 that the ratio between that number and the population of the State is, so far as practicable, the same for
-all States; and
+all States
 (b) each State shall be divided into territorial constituencies in such manner that the ratio between
 the population of each constituency and the number of seats allotted to it is, so far as practicable, the
 same throughout the State:
 
+
 [Provided that the provisions of sub-clause (a) of this clause shall not be applicable for the purpose
 of allotment of seats in the House of the People to any State so long as the population of that State does
 not exceed six millions.]
+
 (3) In this article, the expression “population” means the population as ascertained at the last preceding
 census of which the relevant figures have been published:
+
 1. The words and letters “specified in Part A and Part B of the First Schedule” omitted by the Constitution (Seventh Amendment)
 Act, 1956, s. 3 (w.e.f. 1-11-1956).
 2. Subs. by ibid., for “States specified in Part C of the First Schedule”.
@@ -76,19 +78,23 @@ Act, 1956, s. 3 (w.e.f. 1-11-1956).
 [Provided that the reference in this clause to the last preceding census of which the relevant figures have
 been published shall, until the relevant figures for the first census taken after the year 2 [2026] have been
 published, 3 [be construed,—
+
 (i) for the purposes of sub-clause (a) of clause (2) and the proviso to that clause, as a reference to
 the 1971 census; and
+
 (ii) for the purposes of sub-clause (b)of clause (2) as a reference to the 4 [2001] census.]
 82. Readjustment after each census.—Upon the completion of each census, the allocation of seats
 in the House of the People to the States and the division of each State into territorial constituencies shall be
 readjusted by such authority and in such manner as Parliament may by law determine:
 Provided that such readjustment shall not affect representation in the House of the People until the
 dissolution of the then existing House:
+
 Provided further that such readjustment shall take effect from such date as the President may, by order,
 specify and until such readjustment takes effect, any election to the House may be held on the basis of the
 territorial constituencies existing before such readjustment:
 Provided also that until the relevant figures for the first census taken after the year 5 [2026] have been
 published, it shall not be necessary to 6 [readjust—
+
 (i) the allocation of seats in the House of the People to the States as readjusted on the basis of the
 1971 census; and
 (ii) the division of each State into territorial constituencies as may be readjusted on the basis of the
@@ -96,7 +102,8 @@ published, it shall not be necessary to 6 [readjust—
 7
 under this article.]
 
-**Article 83. Duration of Houses of Parliament**
+
+### Article 83. Duration of Houses of Parliament
 
 1. The Council of States shall not be subject to dissolution, but as nearly as possible one-third of the members thereof shall retire as soon as may be on the expiration of every second year in accordance with the provisions made in that behalf by Parliament by law.
 2. The House of the People, unless sooner dissolved, shall continue for 8 [five years] from the date appointed for its first meeting and no longer and the expiration of the said period of 8 [five years] shall operate as a dissolution of the House:
@@ -216,6 +223,7 @@ removal of the Deputy Speaker from his office is under consideration, the Deputy
 he is present, preside, and the provisions of clause (2) of article 95 shall apply in relation to every such
 sitting as they apply in relation to a sitting from which the Speaker, or, as the case may be, the Deputy
 Speaker, is absent.
+
 (2) The Speaker shall have the right to speak in, and otherwise to take part in the proceedings of, the
 House of the People while any resolution for his removal from office is under consideration in the House
 and shall, notwithstanding anything in article 100, be entitled to vote only in the first instance on such
@@ -235,6 +243,7 @@ the Speaker of the House of the People or the Chairman of the Council of States,
 rules regulating the recruitment, and the conditions of service of persons appointed, to the secretarial staff
 of the House of the People or the Council of States, and any rules so made shall have effect subject to the
 provisions of any law made under the said clause.
+
 Conduct of Business
 99. Oath or affirmation by members.—Every member of either House of Parliament shall, before
 taking his seat, make and subscribe before the President, or some person appointed in that behalf by him,
@@ -248,7 +257,7 @@ and exercise a casting vote in the case of an equality of votes.
 (2) Either House of Parliament shall have power to act notwithstanding any vacancy in the membership
 thereof, and any proceedings in Parliament shall be valid notwithstanding that it is discovered subsequently
 that some person who was not entitled so to do sat or voted or otherwise took part in the proceedings.
-1
+
 [(3) Until Parliament by law otherwise provides, the quorum to constitute a meeting of either House
 of Parliament shall be one-tenth of the total number of members of the House.
 (4) If at any time during a meeting of a House there is no quorum, it shall be the duty of the Chairman
@@ -570,10 +579,12 @@ or in English to address the House in his mother-tongue.
 (2) Unless Parliament by law otherwise provides, this article shall, after the expiration of a period of
 fifteen years from the commencement of this Constitution, have effect as if the words “or in English” were
 omitted therefrom.
+
 121. Restriction on discussion in Parliament.—No discussion shall take place in Parliament with
 respect to the conduct of any Judge of the Supreme Court or of a High Court in the discharge of his duties
 except upon a motion for presenting an address to the President praying for the removal of the Judge as
 hereinafter provided.
+
 122. Courts not to inquire into proceedings of Parliament.—(1) The validity of any proceedings in
 Parliament shall not be called in question on the ground of any alleged irregularity of procedure.
 (2) No officer or member of Parliament in whom powers are vested by or under this Constitution for

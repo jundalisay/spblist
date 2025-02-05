@@ -29,7 +29,7 @@ We know the existence of thing through our perceptions of it. Each perception ha
 
 For example, when we see a mug, we have both the physical perception of a mug and a metaphysical idea of a mug nearly at the same time. 
 
-{{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics" cap="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}}
+{{< i s="/photos/objects/mugecon.jpg" alt="Mug Economics" c="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}}
 
 {{< q a="Spinoza" c="The Ethics Simplified, Part 2, Proposition 7" >}}
 The two are one and the same thing displayed through different attributes:

@@ -71,31 +71,98 @@ The human mind has 2 contradictory inherent tendencies:
 - acquisition
 - sacrifice. 
 
-The more one advances along the path of evolution, the more the spirit of sacrifice becomes prominent.
+**The more one advances along the path of evolution, the more the spirit of sacrifice becomes prominent.**
 
-One wishes to share one’s mental pleasure with others. This is a very interesting aspect of human psychology.
+One wishes to share one’s mental pleasure with others. 
+- This is a very interesting aspect of human psychology.
 
-Now, there are also gradations amongst sweets; all varieties of sweets are not equally sweet.
+There are also gradations amongst sweets.
 
-There are variations in the degree of sweetness which is exactly what people relish most. While eating different sweets, people experience delightful variations from one sweet to another, and they perceive that the vibrations are somewhat similar but not identical. The sweet-maker understands this particular trait of human psychology and invents new varieties of sweets accordingly. The vibrations created in the mind are abstract, and the other vibrations are material.
+<!-- - All varieties of sweets are not equally sweet.
 
-The action of knowing occurs through the medium of sound, touch, taste, smell and form. Suppose one listens to something, say a sound representing ásoyárii rága. It is imprinted in the mind. Later that person listens to the same sound and is reminded of the similar vibrations previously experienced. 
+There are variations in the degree of sweetness which is exactly what people relish most.  -->
 
-Comparing the one rága (musical notes) with the other, one concludes that the latter is indeed ásoyárii rága. He or she may not know anything about music, but the mind already danced to that musical wave. The musical vibrations of the notes reached the ear’s membrane, hit it, passed through the auricular nerves and, on reaching the brain, left their imprint. So far the knowing process is confined to the material level, but when that same vibration creates a ripple in the mind, it comes within the scope of mental vibrations.
+While eating different sweets, people experience delightful variations from one sweet to another.
+- They perceive that the vibrations are similar but not identical.
 
-There are certain notations, both in instrumental music and in vocal music, which are very rhythmic. When these sounds strike the ear’s membrane they produce similar vibrations; concordant rhythmic vibrations are experienced. You may have noticed that whenever the members of an audience listen to rhythmic notes, whether from vocal or instrumental music, they move their legs. They do this unknowingly. The cause is that the rhythmic vibration produced in the mind strikes the [efferent] nerves. The vibration that made the mind dance is thus transmitted down to the nerves of the legs. 
+The sweet-maker understands this particular trait of human psychology and invents new varieties of sweets accordingly. 
 
-Consequently, the mind is unconsciously causing the legs to move. This happens with everyone; some do it consciously, others unconsciously. Those who do it unconsciously stop the movement of their legs the moment they are aware that others are watching them. In the case of excessive joy or enthusiasm, the mind loses its control over the nerves. For example, suppose two football teams are playing a friendly match, and one of them enjoys your special support. Let us imagine that your favourite team is about to score a goal. At that moment of tense excitement, you will also move your legs, unconsciously of course. You may have noticed that sometimes in their dreams football fans cry out, “Goal! Goal!” jerking their legs and kicking those who are sleeping beside them.
+The vibrations created in the mind are abstract, and the other vibrations are material.
 
-By now you should have understood that a major part of the knowing process is material, and only a small part of it is abstract.
-Basically, the mind performs two functions: thinking and memorizing. What is the process of memorizing? Suppose you heard a sound: that very sound leaves an imprint on your mind, and vibrates it. Now, if at a later date you can recreate a similar vibration, a replica of the original one, that is your memory.
+**The action of knowing occurs through the medium of sound, touch, taste, smell and form.** 
+
+Suppose one listens to something, say a sound representing ásoyárii rága. 
+
+It is imprinted in the mind. 
+
+Later that person listens to the same sound and is reminded of the similar vibrations previously experienced. 
+
+Comparing the one rága (musical notes) with the other, one concludes that the latter is indeed ásoyárii rága.
+
+He or she may not know anything about music, but the mind already danced to that musical wave. 
+
+The musical vibrations of the notes reached the ear’s membrane, hit it, passed through the auricular nerves and, on reaching the brain, left their imprint.
+
+So far the knowing process is confined to the material level, but when that same vibration creates a ripple in the mind, it comes within the scope of mental vibrations.
+
+There are certain notations, both in instrumental music and in vocal music, which are very rhythmic.
+
+When these sounds strike the ear’s membrane they produce similar vibrations; concordant rhythmic vibrations are experienced. 
+
+When an audience listens to rhythmic notes, whether from vocal or instrumental music, they move their legs unknowingly.
+
+This is because the rhythmic vibration produced in the mind strikes the [efferent] nerves.
+
+**The vibration that made the mind dance is thus transmitted down to the nerves of the legs.** 
+
+Consequently, the mind is unconsciously causing the legs to move. 
+
+This happens with everyone.
+
+Some do it consciously, others unconsciously.
+
+Those who do it unconsciously stop the movement of their legs the moment they are aware that others are watching them.
+
+In the case of excessive joy or enthusiasm, the mind loses its control over the nerves. 
+
+For example, suppose two football teams are playing a friendly match, and one of them enjoys your special support. 
+
+Let us imagine that your favourite team is about to score a goal. At that moment of tense excitement, you will also move your legs, unconsciously of course.
+
+You may have noticed that sometimes in their dreams football fans cry out, “Goal! Goal!” jerking their legs and kicking those who are sleeping beside them.
+
+A major part of the knowing process is material, and only a small part of it is abstract.
+
+Basically, the mind performs 2 functions:
+
+1. Thinking
+2. Memorizing
+
+
+### Memorizing 
+
+What is the process of memorizing? 
+
+Suppose you heard a sound: that very sound leaves an imprint on your mind, and vibrates it. 
+
+Now, if at a later date you can recreate a similar vibration, a replica of the original one, that is your memory.
 
 Anubhútaviśayásampramośah smrtih [“The re-creation of things already perceived by the mind is called memory”].
 
-The exact mental reproduction of what has been previously perceived is called smrti or memory. For instance, you once perceived an elephant by observing a real elephant and seeing its huge body, legs, eyes, ears, nose and trunk. The physical form of the elephant struck the retina of your eyes creating a vibration in your optical fluid, and was ultimately imprinted in your mind as the image of the elephant. 
+The exact mental reproduction of what has been previously perceived is called smrti or memory.
 
-Now some time later when you see an animal with the same type of limbs as those of your previously-perceived elephant, you immediately conclude that this animal must also be an elephant. Your conclusion is based on your previous perception. This is memory. When the memory becomes established, unfailing and spontaneous, it is called dhruvásmrti, or constant memory. Dhruvásmrti, or constant memory, is an essential prerequisite for spiritual samádhi or bliss.
+For instance, you once perceived an elephant by observing a real elephant and seeing its huge body, legs, eyes, ears, nose and trunk. 
+
+The physical form of the elephant struck the retina of your eyes creating a vibration in your optical fluid, and was ultimately imprinted in your mind as the image of the elephant. 
+
+
+Some time later when you see an animal with the same type of limbs as those of your previously-perceived elephant, you immediately conclude that this animal must also be an elephant.
+
+Your conclusion is based on your previous perception. This is memory. 
+
+When the memory becomes established, unfailing and spontaneous, it is called dhruvásmrti, or constant memory. 
+
+**Dhruvásmrti, or constant memory, is an essential prerequisite for spiritual samádhi or bliss.**
+
 
 4 May 1980, Calcutta
-
-

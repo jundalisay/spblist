@@ -3,7 +3,7 @@ title: "Breaking Changes"
 date: 2024-08-26
 # orig date: 2023-04-22
 description: "Here are Breaking Changes in Superphysics for 2023"
-image: "/photos/idea.jpg"
+image: "/photos/objects/regicide.jpg"
 showdate: true
 type: "featured"
 ---

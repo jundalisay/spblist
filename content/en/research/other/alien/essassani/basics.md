@@ -1,14 +1,17 @@
 ---
 title: "Basic Beliefs of the Essassani"
 weight: 2
-image: "/photos/physics/quasar.jpg"
+image: "/covers/essassani.jpg"
 description: "The Metaphysics followed by the Essassani"
 author: Consolidated from Bashar
 ---
 
 
+The Essassani are a 5th dimensional civilization in a parallel reality in the Shah star system near the Orion's belt. 
 
-The Essassani are a 5th dimensional civilization in a parallel reality in the Orion's belt. They are based on unconditional love, ecstasy, fun, following your excitement, being totally non-judgmental, and giving validity and equality to the uniqueness of each individual in their society*.
+They are a hybrid of human and Gray DNA created by the Grays (future humans). This means they are even closer to humans than the Grays. This is proven by them being able to procreate whereas the Grays could not.   
+
+They are based on unconditional love, ecstasy, fun, following your excitement, being totally non-judgmental, and giving validity and equality to the uniqueness of each individual in their society*.
 
 <!-- Even the Pleiadians look up to the Essassani civilization as being exceptionally spiritually-advanced*. -->
 
@@ -72,6 +75,16 @@ Your body is solidified, crystallized Spirit.
 Your Spirit is not in your body. As you raise your vibrations, you become more Spirit-like, moving closer towards fluid-like Spirit. This makes your reality creation more malleable and easily changeable.
 
 All "things" are the same one thing vibrating at different rates.
+
+
+## You Create Your Reality
+
+Physical reality is your perspective of reality. Your perspective becomes reality. 
+
+This mirrors the quantum mechanics discovery that there is no observation without an observer.
+- Observer and observation create each other simultaneously because time is not real. 
+
+The observation of reality creates reality. Observer needs the observed.
 
 <!-- 3 Phases for receiving the "version" of reality you prefer
 
@@ -170,6 +183,9 @@ This activates synchronicity which is the organizing principle of the entire uni
 By activating this synchronicity, things in your life flow more naturally, pleasantly, and desirably for you automatically, in perfect timing.
 
 
+
+
 ## Most Powerful Mantra
 
 "I am who I am, and that is enough"
+

@@ -21,31 +21,36 @@ Conversion from Aether to Matter | Aether becomes Spacetime then becomes Electro
 
 ## Spacetime Becomes Electromagnetism
 
-The aether particles that broke off from air-aether during collisions gained:
+The air-aether particles that broke off from air-aether during collisions gained:
 - more speed than the air-aether because they had to travel farther at the same amount of time. 
 - the ability to change shape so that it could fit anywhere
 
 **They became the fire-aether.**
 
-<!-- the aethereal air were broken and had the small points of their angles dulled from rounding off. These necessarily had to go faster than the aethereal air.  -->
 
-<!-- It went faster because it had to go off to the side through very narrow passages and out of the small spaces left between the parts of the air-aether as they collided head-on. It had much more of a path than the air-aether to traverse in the same time. -->
+These travel much faster than the air-aether because they have to travel at a more confined path at the same amount of time.  
 
-The excess fire-aether needed to fill the small gaps in the round air-aether necessarily go around them and must draw back toward the centers around the air-aether. 
-<!-- which those parts turn, -->
+<!-- I say that it had to acquire a much faster motion than theirs. The
+reason for this is clear. For, having to go off to the side, and through very
+narrow passages, out of the small spaces left between the parts as they
+proceeded to collide head-on with one another, it had to traverse a very
+much greater path than they had in the same time. -->
 
-This is because the air-aether occupies all the other, more distant places. 
-<!-- parts of the second] -->
+The round air-aether particles have spaces between them. These are quickly filled by the fire-aether. 
 
-At those centers, the remaining <!-- first element --> fire-aether must compose perfectly liquid and subtle round bodies. 
 
+The excess fire-aether go around the air-aether and return towards the centers of those air-aether. 
+
+This is because the air-aether already occupies all the other, more distant places. 
 
 ## The Inverse Square Law Comes From Circular Motion
 
-These incessantly turn much faster than, and in the same direction as, the parts of air-aether surrounding them. 
+At those centers, the remaining fire-aether must compose perfectly liquid and subtle round bodies [as stars]. 
 
-The parts of the fire-aether have the force:
-- to increase the agitation of those parts to which they are closest and
+This is because they incessantly turn much faster than, and in the same direction as, the air-aether particles surrounding them. 
+
+The fire-aether particles have the force:
+- to increase the agitation of those particles to which they are closest to
 - in moving from the center toward the circumference, to push the parts of fire-aether in all directions, just as they push one another.
 
 This action we perceive as light. 
@@ -53,11 +58,11 @@ This action we perceive as light.
 <!-- We shall take one of those round bodies composed purely of the  -->
 <!-- matter of the first element  -->
 
-Let us assume that round bodies of pure fire-aether are the stars. 
+The round bodies of pure fire-aether are the stars. 
 
 <!-- , of the new world I am describing to you.  -->
 
-The air-aether turns around those stars as stellar gravitational territories ['the heavens'].
+The air-aether that turn around those stars as stellar gravitational territories ['the heavens'].
 
 Imagine, that:
 - the points `S`, `E`, `e`, `A`, and `Z` are the centers
@@ -69,16 +74,31 @@ Imagine, that:
 Thus, each star has a stellar gravitational territory.
 - Since the number of stars is indefinite, so too is the number of stellar gravitational territories. 
 
-**The firmament is the flat surface separating all the gravitational territories from one another.**
+**The firmament is the flat surface, without thickness, separating all the gravitational territories from one another.**
 
 
 ### Orbital Speeds
 
-The particles of the air-aether towards `F` or `G` are more agitated than those toward `K` or `L`.
-- This makes their speed gradually decrease from the edge of each territory to the middle place such as:
-  - the orbit `KK` around the `S`
-  - the orbit `LL` around `e`.
+<!-- Thus, while the parts of the second element
+in the neighbourhood of  have the opportunity to describe a complete
+circle there about the Sun, those in the neighbourhood of , which I am
+supposing to be ten times closer, not only have the opportunity to
+describe ten circles, which they would do if they moved only at the same
+speed, but perhaps more than thirty. 
 
+And again, those parts towards , or
+towards , which I am supposing to be two or three thousand times more
+distant, can perhaps describe more than sixty circles. From this you will
+realise immediately that the highest planets must move more slowly than
+the lowest, that is, those closest to the Sun, and that all the planets move
+together more slowly than the comets, which are nevertheless further
+away. -->
+
+The particles of the air-aether towards `F` or `G` are more agitated than those toward `K` or `L`.
+
+This makes their speed gradually decrease from the edge of each territory to the middle place such as:
+- the orbit `KK` around the `S`
+- the orbit `LL` around `e`.
 
 From there, the middle part, it then increases little by little up to the centers of the gravitational territory because of the agitation of the stars at the center. 
 
@@ -125,7 +145,7 @@ Edge of the solar system | medium  | ? | Oort cloud is smallest | Possibly Wrong
 
 <!-- they were inversely proportional, then they would go out to occupy the place of the farthest. -->
 
-{{< img src="/graphics/physics/orbitalspeed.jpg" alt="Orbital Speeds" >}}
+{{< img src="/graphics/physics/orbitalspeed.jpg" alt="Orbital Speeds" c="Descartes' prediction does not apply to our solar system. But it could happen in others" >}}
 
 <!-- The difference of their sizes is proportional to their speeds.  -->
 <!-- tely greater than (or at least proportionately as great as) that of their speeds.  -->

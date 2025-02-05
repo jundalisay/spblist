@@ -3,7 +3,7 @@ title: "Natural Remedies for Eczema"
 weight: 19
 author: "PR Sarkar"
 description: "When the chyle, blood, flesh and fat, these four elements, all become disturbed, eczema appears. That is why this disease is worse and more harmful than leucoderma, or white leprosy"
-image: "/photos/omg.jpg"
+image: "/photos/oops.jpg"
 icon: "/icons/sarkar.png"
 ---
 

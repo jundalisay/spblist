@@ -1,14 +1,14 @@
 ---
 title: "Citizenship"
 heading: "Articles 5-11"
-weight: 1
+weight: 6
 image: "/flags/in.png"
 description: "The Indian citizen is every person who has his domicile in the territory of India"
 icon: /flags/in.png
 ---
 
 
-**Article 5. Citizenship**
+### Article 5. Citizenship
 
 The Indian citizen is every person who has his domicile in the territory of India and:
 
@@ -16,7 +16,8 @@ The Indian citizen is every person who has his domicile in the territory of Indi
 - either of whose parents was born in the territory of India; or
 - who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement
 
-**Article 6. Rights of citizenship of certain persons who have migrated to India from Pakistan**
+
+### Article 6. Rights of citizenship of certain persons who have migrated to India from Pakistan
 
 A person who has migrated to India from Pakistan shall be deemed to be a citizen of India if:
 
@@ -25,7 +26,8 @@ A person who has migrated to India from Pakistan shall be deemed to be a citizen
   - i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or 
   - ii) in the case where such person has so migrated on or after July 19, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government Provided that no person shall be so registered unless he has been resident in the territory of India for at least 6 months immediately preceding the date of his application.
 
-**Article 7. Rights of citizenship of certain migrants to Pakistan**
+
+### Article 7. Rights of citizenship of certain migrants to Pakistan
 
 A person who has after March 1, 1947, migrated from India to Pakistan is not a citizen of India Provided that nothing in this article shall apply to a person who, after having so migrated to the territory now included in Pakistan, has returned to the territory of India under a permit for resettlement or permanent return issued by or under the authority of any law and every such person shall for the purposes of clause
 (b) of article 6 be deemed to have migrated to the territory of India after the nineteenth day of July, 1948.

@@ -108,6 +108,9 @@ The physical body is made up of these 7 materials, of which shukra is the final 
 7. shukra
 
 
+
+### The Lymph
+
 The vital fluid shukra has 3 stages:
 
 1. lymph, or prana-rasa (lasika)
@@ -137,9 +140,19 @@ Some nerve plexuses get developed at 12-14 years old in hot countries and 13-16 
 
 After a due supply of lymph to the brain, the extra lymph comes in contact with the testes and is transformed into spermatozoa. 
 
-By a proper system of observing fast, the excessive formation of lymph can be checked. Impure thoughts also cause excessive formation of spermatozoa from lymph. If the surplus lymph is destroyed there is no harm. Spermatozoa with lymph and other fluids collected in the seminal sac are known as “seminal fluid”.
+By a proper system of fasting, the excessive formation of lymph can be checked.
 
-In the female body, this excess lymph is converted into ova. The unused ova together with other seminal wastages are discharged every month during the last 3 or 4 days in the monthly menstruation.
+Impure thoughts also cause excessive formation of spermatozoa from lymph.
+- If the surplus lymph is destroyed there is no harm.
+
+Spermatozoa with lymph and other fluids collected in the seminal sac are known as “seminal fluid”.
+
+In the female body, this excess lymph is converted into ova.
+
+The unused ova together with other seminal wastages are discharged every month during the last 3 or 4 days in the monthly menstruation.
+
+
+### Conception
 
 If the sperms of the male and the ova of the female get together, they constitute one physical structure. 
 
@@ -147,17 +160,22 @@ When the physical structure commences formation, there is no question of extra s
 
 All the seminal fluid is utilized in forming the body of the embryo.
 
-In the uterus, the basic physical structure is first formed. This structure has potential energy and emanates a wavelength. 
+In the uterus, the basic physical structure is first formed. This structure has potential energy and emanates a wavelength.
 
 **It receives the potentiality from the momentum of the spermatozoa.** 
 
-Spermatozoa get their motion from the vital potentiality of the male body. That is why the living being is said to reside first in the seminal fluid of the male and then in the mother’s womb. After which, the bosom of Mother Earth receives it.
+Spermatozoa get their motion from the vital potentiality of the male body. 
 
-The physical structure starts from spermatozoa which has a positive motion and, therefore, a wavelength. This means the formed physical structure has a wavelength. 
+This is why the living being is said to reside first in the seminal fluid of the male and then in the mother’s womb. After which, the bosom of Mother Earth receives it.
 
-The dissociated mind also has a wavelength (in a potential form) and a momentum which has to be expressed.
+The physical structure starts from spermatozoa which has a positive motion and, therefore, a wavelength.
+- This means the formed physical structure has a wavelength. 
 
-The dissociated mind needs physical parallelism for proper expression. Therefore, the Cosmic mutative force causes the dissociated mind from eternal space to enter the adjustable physical structure, assuming a form in the mother’s womb.
+The dissociated mind also has a wavelength in a potential form and a momentum which has to be expressed.
+
+**The dissociated mind needs physical parallelism for proper expression.** 
+
+Therefore, the Cosmic mutative force causes the dissociated mind from eternal space to enter the adjustable physical structure, assuming a form in the mother’s womb.
 
 <!-- This is how life comes into physical creation. -->
 

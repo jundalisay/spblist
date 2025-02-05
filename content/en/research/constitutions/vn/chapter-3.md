@@ -1,7 +1,7 @@
 ---
 title: "Economy, Society, Culture, Education, Science, Technology, Environment"
-heading: "Chapter 3 of the Vietnamese Constitution Simplified"
-weight: 1
+heading: "Chapter 3"
+weight: 6
 image: "/flags/vn.png"
 description: "Political, civic, economic, cultural and social human rights and citizen’s rights are recognized, respected, protected, and guaranteed"
 icon: /flags/vn.png

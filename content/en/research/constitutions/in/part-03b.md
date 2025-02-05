@@ -1,14 +1,14 @@
 ---
 title: "Fundamental Rights"
 heading: "Articles 12-"
-weight: 1
+weight: 10
 image: "/flags/in.png"
 description: "The Indian citizen is every person who has his domicile in the territory of India"
 icon: /flags/in.png
 ---
 
 
-**18. Abolition of titles**
+18. Abolition of titles
 
 (1) No title, not being a military or academic distinction, shall be conferred by the State.
 (2) No citizen of India shall accept any title from any foreign State.

@@ -1,144 +1,153 @@
 ---
 heading: "Chapter 5b"
-title: "Types of Qosts and Mini-FAQ"
-# date: 2020-01-31
-image: "/photos/physics/star.jpg"
-description: "Qosts manifest invisibly as spacetime particles"
+image: "/photos/physics/messier87.jpg"
+description: "A galaxy is the best representative body of the lower spatial layer in nature, as a galactic qost"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 24
+weight: 26
+title: "Galaxies and Quasars"
+# date: 2020-01-31
 icon: /icons/spmat.png
-# was 3b
 ---
 
 
-Qosts manifest invisibly as spacetime particles. 
-
-Since the spatial layer is purely kinetic, then most3s  and qosts are similar. 
+Galactic qosts manifest as either galaxies or quasars.
 
 
-Since the Spatial Layer is superior to the other 3 Layers, we can classify the qosts according to the 4 Layers:
-
-<!-- The qosts with more energy and idea-complexity become heavenly bodies and are classified below: -->
-
-<!-- Layer | Physics Name/s | Superphysics Name
---- | --- | --- 
-Spatial | Supermassive Black Hole | Galactic Qost (center of galaxy), Reverse Galactic Qost (center of quasar)
-Radiant | Black Hole |  Stellar Qost (core of star), Reverse Stellar Qost (core of pulsar)
-Convertible | Neutron Star | Convertible Qost (neutron star), Convertible Reverse Qost (pulsar)
-Material | Electron Cloud | Material Qost -->
-
-<!-- Convertible Qost (core of planet)  -->
+Qost | Rotation | Purpose
+--- | --- | ---
+Galaxy | Anticlockwise | Convert energy into matter
+Quasar |  Clockwise  | Convert matter back to energy 
 
 
-Layer | Name | Image | Description
---- | --- | --- | ---
-Spatial | Galactic Qosts or Galaxy | {{< i s="/photos/physics/galaxy.jpg" a="Galaxy" >}} | A galaxy has a galactic qost as its center or controlling factor or defining identity.
-Spatial | Reverse Galactic Qosts or Quasars | {{< i s="/photos/physics/quasar.jpg" a="Quasar" >}} | A quasar is a galactic qost that rotates in a clockwise direction. This creates more friction than a galaxy, leading to more light. It also churns matter back into energy, acting as a matter-to-energy recycle bin. This allows the universe to prevent a thermal death. An example is the quasar TON 618. 
-Radiant | Stellar Qosts or Stars | {{< i s="/photos/physics/star.jpg" a="Star" >}} | A star is a young qost that is influenced by the Radiant Layer. It converts energy to matter (non-expressive mind) and life (expressive mind).
-Radiant | Dead Stellar Qosts or Black Holes | {{< i s="https://sorasystem.sirv.com/photos/blackholes800.jpg" a="Black hole" >}} | A star that has run out of energy and has deployed all its ideas becomes a 'dark star' or dead qost. It will slowly diffuse back into spacetime, similar to a typhoon that has lost its energy and diffuses back into the atmosphere. Energy and matter that go into a dead qost will find itself 'lensing' around it. Recent proof of black holes decaying into spacetime is in the [Palomar 5 cluster](https://www.space.com/black-holes-overrun-star-cluster-palomar-5-star-cluster) which is an ancient collection of stars that have turned into black holes.
-Convertible | Convertible Qosts or Neutron Stars | {{< i s="/photos/physics/neutronstar.jpg" a="Neutron Star" >}} | A neutron star is a qost that is influenced by the Convertible layer. It converts matter into heavier matter and complex life and 'explodes' it to the universe.
-Convertible | Convertible Reverse Qosts or Pulsars | {{< i s="/photos/physics/pulsar.jpg" a="Neutron Star" >}} | A pulsar is a neutron star that rotates in a clockwise direction. Like a quasar, it converts matter into energy, manifesting as pulsations.
-Material | Material Qosts or Rotating Objects | | Rotating objects divert most3s to create centripetal and centrifugal forces. 
- 
-<!-- ### Dark Matter (Decayed black holes) or Remnant qosts
-
-![Palomar cluster](https://sorasystem.sirv.com/photos/palomar.jpg)
-
-Dark qosts lose their identity and disperse themselves onto spacetime as remnant qosts. In computing, memory is finite and so virtual objects have to be cleaned up or 'garbage collected' to give a chance for new objects to exist. But the universe is infinite and so the dead stars do not need to be recycled. 
- -->
-
- <!-- that, in turn, will turn into pure gravitation (dark matter) as empty (void) space.  -->
-
-<!-- Material Qosts or Planets, Moons, and  -->
-<!-- ![Mars](https://sorasystem.sirv.com/photos/mars.jpg) -->
+{{< i s="/photos/physics/galaxy.jpg" a="Galaxy" >}}
 
 
-<!-- A planet is a material qost that orbits a stellar qost. It may have its own subqosts as moons and objects like apples, cars, and rocks.  -->
-
-<!-- Unlike stellar qosts, material qosts solidify into material bodies as a consequence of the influence of the material layer. -->
-
-
-{{< r a="Asker" >}}
-#### Q1. What is the difference between a qost and a gravitational signature `G`?
-{{< /r >}}
+Galaxies convert energy into matter, as stars and planets, just as quasars convert matter back into energy. 
+- This prevents the universe from having a thermal death. 
 
 
-{{< l a="Material-Superphysics" >}}
-`G` is is fudamentally aethereal, while a qost is spatial. 
+### Galaxies
 
-For immaterial objects like black holes, the gravitational signature is inside the qost, specifically in its "timespace". 
-- The qost is like the ink that makes up the barcode.
-- The `G` of the timespace is the actual like a barcode data.  
-{{< /l >}}
+The structure of a galaxy depends on the rotation and energy of its vortex. 
+
+According to Descartes, a galaxy forms when mosts (which he calls the 2nd Element) collide with other mosts to form vortices which we call sos'. 
+- The weaker and smaller ones revolve around the larger and stronger ones. 
+- These larger ones are naturally separated by their mutual repulsion from the need to retain their uniqueness.  
+
+{{< q a="Descartes" c="The World Simplified" >}}
+At the beginning, God placed every sort of inequality among these particles. They had all sorts of sizes, shapes, and dispositions to move or not to move, in all ways and in all directions. But that does not prevent them afterwards from having been rendered almost all fairly equal, especially those that remained an equal distance from the centers around which they were turning.
+
+Thus, in a short time, all the parts were arranged in order. Each became more or less distant from the center around which it had taken its course, according as it was more or less large and agitated compared to the others.
+{{< /q >}}
 
 
+These vortices swirl as galaxies, just as cold and warm air create typhoons and tornadoes.
+- The more warm air is present, the stronger the typhoon becomes. 
+- Likewise, the more Positive aether is behind the compiled ideas for a galaxy, the larger its area of influence, when it turns into a spiral galaxy.
 
-{{< r a="Asker" >}}
-#### Q2. How does a most3 convert to a qost?
-{{< /r >}}
+Type | Age | Size
+--- | --- | ---
+Irregular | Young | Small
+Spiral | Medium | Medium
+Lenticular | Medium | Medium
+Elliptical | Old | Large
 
 
-{{< l a="Material-Superphysics" >}}
-Most3 are gravity particles. They convert to qost when they hit a traffic jam and get bent from being a column or line into a flat disk. 
+A galaxy is therefore created in the following steps:
 
-So from a linear force, they change into a spinning flat disk.  
+1. The Supreme has an idea for a universe
+2. The Aether gets the ideas for that universe, packages them as organized ideas (qoa) for distribtion to spacetime (spatial layer)
+3. Galactic mosts and sos emerge in the spatial layer as irregular galaxies. These repel each other to create space
+4. The positive aether acts on the galactic sos to create smaller vortices, as stellar qosts
+ <!-- increase its area of influence and size to create spiral galaxies -->
+5. Stellar qosts emerge within this area to convert energy into matter which are then spread via supernovae, and life through their Positive Force (Living energy is in the spatial Air Element)
+6. The galactic qost runs out of ideas (and feelings), leaving its stars behind as globular clusters. 
+<!-- It turns into either empty space or a quasar -->
+7. The stars die and become pure space
 
-This is similar to virtual photons that hit a traffic jam. The major difference is that virtual photons are rigid and cannot bend to become disks. Instead, they go around the traffic jam, creating a round magnetic field around a magnet or star or galaxy. 
 
-This convertibility of most3 to qost is similar to the conversion of moa2 or feeling into moa3 or idea. For example, love can both be an idea when static or a feeling when dynamic. 
+<!-- 1. Spiral galaxies
 
-After the qost runs out of energy, then it reverts to back into space as a most3. At this point, we can say that the traffic jam has ended. 
-{{< /l >}}
+These are the most common type, making up around 75% of all galaxies. These are flat, rotating disks containing stars, gas and dust, and a central concentration of stars known as the bulge.  -->
+
+<!-- These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters. -->
+
+<!-- This has a subclass called barred spiral galaxy of which the Milky Way is a part of. -->
+
+<!-- Barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about half of all spiral galaxies. Bars generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well.  -->
+
+<!-- 2. Lenticular galaxy an intermediate between an elliptical and a spiral galaxy. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation.
+
+3. Elliptical galaxies are the largest kind and have an ellipsoidal shape. Most are composed of older, low-mass stars, with a sparse interstellar medium and minimal star formation activity. They tend to be surrounded by large numbers of globular clusters.
+
+4. Irregular galaxy is a galaxy that does not have a distinct shape -->
 
 
 
-{{< r a="Asker" >}}
-#### Q2. So empty space is made of most3, not qosts? 
-{{< /r >}}
+<!-- The friction of those invisible spacetime particles creates visible photon sparks (mor1) that travel through spacetime.
+
+Those photons then fizzle out, merging back with faraway spacetime particles (most3), spreading energy everywhere. 
+
+This everywhere-energy then energizes that spacetime until certain areas have more energy than others. 
+
+This imbalance creates new vortices (as traffic jams for most3), similar to how high-low air pressure creates hurricanes from nowhere.
+
+Those new vortices form new galaxies as long as there is enough latent energy in that spacetime area. -->
 
 
-
-{{< l a="Material-Superphysics" >}}
-Since we think of qost as a traffic jam and most3 as no traffic jam, then yes. 
-{{< /l >}}
-
-<!-- #### Q2. Does this mean everything in the universe is a qost?
-
-No. Qosts are just  only apply from the spatial layer down to the material layer, as the **spaces** that they occupy. 
-
-The higher aethereal layer is not made up of qosts, but of qoas (quantum of aether or free aether).  -->
-
-<!-- These are identities that are not affected by physical gravity, space nor time.
-
-The most common example of qoas are ideas. The idea of love is not bound by spacetime. Nor does love attract people to it. 
-
-Rather, the idea of love is the byproduct of the experience of the gravitation between two things that have the same frequency. Likewise, hatred is the idea of the repulsion of two entities. -->
+As you can see, galaxies produce solid matter as planets through their stars. In time, this would cause the universe to have more matter and so lose energy. 
 
 
-{{< r a="Asker" >}}
-#### Q3. How does qosts affect quantum mechanics?
-{{< /r >}}
+## Quasars are Reverse Vortices
 
 
+To prevent this, some qosts rotate in the opposite direction as quasars. This converts matter back into energy, reversing the process. 
 
-{{< l a="Material-Superphysics" >}}
-Quantum mechanics deals with subatomic particles which are governed more by the aetherspace particles. 
+<!-- Thus, spacetime can convert itself to photons then convert back to spacetime, conserving energy. 
 
-So qosts really affect classical mechanics and marco phenomena.
-{{< /l >}}
+But the creation of matter means that more energy is crudified as time passes. This means that the universe should lose energy as it ages, just like adding flour to a glass of water will make it solid eventually, since flour is solid. 
+
+So why is the universe still energetic? -->
 
 
-<!-- Quantum physics was invented before the advent of computers and virtual reality. Its fundamental concept is the 'field' which came from electromagnetism (EM) of the 20th century. This field is bound by spacetime (the layer above EM).
+{{< img src="/graphics/physics/quasar.jpg" alt="Quasars as reverse vortices" cap="In Cartesian Physics, quasars as reverse vortices" >}}
 
-The problem with the field-paradigm is that the qosts work *above* the EM layer. They work under the aether layer which is *NOT* bound by spacetime.  -->
 
-<!-- In our computer analogy, the which is  or an abstract RAM of a computer instead of fields. --> 
+<!-- This is because stars and planets rotate in a clockwise motion.  -->
 
-<!-- This gives qosts and Material Superphysics more freedom than quantum physics on how to explain phenomena like gravitation and the collapse of probability into reality. 
+<!-- These turn in the opposite direction than the rest, let's say clockwise when others turn counterclockwise.  -->
 
-For example, Material Superphysics has 8 dimensions just as a virtual machine (VM) can have virtual machines inside it, which in turn can have VM's inside. 
+When a large powerful clockwise vortex touches a small anticlockwise vortex, the latter does not go with the former, as in a galaxy.
 
-In contrast, a quantum field cannot have fields in it that have subfields, since electromagnetism doesn't work that way. Physics puts the fields *on top* of each other, but Superphysics puts the dimensions *inside* each other.  
+Instead it stays in stasis around the large vortex similar to 2 gears staying at the same spot. 
+
+Other particles join in, creating large stasis similar to a traffic jam. 
+
+In time, more particles get snagged in this traffic jam, leading to a pileup that compresses the particles sequentially like a meatgrinder. 
+
+This leads to friction that creates much more light than a galaxy.
+
+In time, matter as planets, asteroids, comets etc get snagged, crushed and spit out back as light and energy to be sent far away.
+
+This de-crudifies energy and re-energizes the universe.
+
+It follows that that the ratio of galaxies and quasars should be roughly similar. It means that some bright galaxies should be reclassified as quasars. 
+
+These may be elliptical like normal galaxies but are distinguished by the lack of arms or distinctive features because of the difference of the motion of the parts and the center. 
+
+<!-- ## Antimatter as Reverse Vortices in the Radiant, Convertible, and Material Layers
+
+These reverse vortices in the material Element (earth-aether) manifest as anti-matter, such as anti-proton and anti-hydrogen. 
+
+These convert visible (counterclockwise) matter vortices back into invisible spacetime particles upon contact. 
+
+The opposite rotations lead to friction, creating photons until both particles fizzle out and convert to spacetime, as consistency of Cartesian principles in macro and micro.
+
+These principles mean that antimatter can be created more cheaply by changing the vortex rotation called charge directly using far less energy. -->
+
+<!-- Unlike evil Einstein who used Physics to promote nuclear bombs, Cartesians have a higher moral and intellectual standard and will not use vortex science to make antimatter weapons to vaporize enemies back into spacetime particles. 
+
+In fact, Cartesian Physics can delete ALL of Einstein's principles and replace them with Lorentz Relativity in Poincare spacetime, using aethereal vortices to explain both macro and micro.
  -->

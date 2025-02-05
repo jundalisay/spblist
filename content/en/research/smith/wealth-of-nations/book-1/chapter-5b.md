@@ -15,7 +15,9 @@ icon: "/avatars/smith.png"
 
 At distant times, equal amounts of wheat will enable its possessor to buy or command nearly the same amount of the labour of other people. Although equal amounts of wheat will not do it exactly.
 
-The worker's subsistence & enjoyments depend on the advancing, stagnant, or reversing state of society. Every other commodity, however, will buy a varying amount of labour depending on the amount of subsistence it can buy.
+The worker's subsistence & enjoyments depend on the advancing, stagnant, or reversing state of society.
+
+Every other commodity, however, will buy a varying amount of labour depending on the amount of subsistence it can buy.
 
 A rent measured in wheat will only vary depending on the amount of labour wheat can purchase.
 
@@ -29,7 +31,9 @@ But a rent measured in other commodities will vary with depending on the amount 
 [Wheat prices](https= //socioecons.files.wordpress.com/2014/07/cornwheat100.png)
 
 The money price of labour, however, fluctuates according to the price of ordinary subsistence.
+
 The ordinary price of this subsistence is regulated by the value of silver, which is then regulated by the price of wheat.
+
 The real value of silver is more stable year to year, than from century to century.
 The ordinary price of subsistence can be the same from century to century if the society remains in the same condition.
 

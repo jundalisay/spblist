@@ -99,6 +99,7 @@ The brinjal plant should have thorns, as the thorny brinjal produces tasty brinj
 When cultivating lentils, high quality manure should be used, and the best manure for this purpose is the oil cake of castor. Lentils crops should not be discontinued simply because they need good fertilizer, because they can be used to produce refined vegetable oil and lubricants. 
 
 Linseed can also be used to manufacture refined vegetable oil and lubricants, as well as scented hair oil, linen cloth, etc. Linseed can be cultivated after lentils.
+
 When there is a scant supply of water, a “pigeon crop”(1) of the rái variety of mustard can be grown. 
 
 The mustard seeds should be spread out over the whole field while it is still wet after the rainy season, then the crop will grow through the dry season.

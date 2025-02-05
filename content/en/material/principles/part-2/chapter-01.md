@@ -50,7 +50,7 @@ Unlike the aethereal layer which is only quasi-physical, spacetime is both quasi
 Each particle in the Spatial Layer is made up of 4 aether particles. 
 - Force and matter particles are interchangeable 
 
-{{< i s="/graphics/physics/sos.jpg" a="Shape of space particles" >}}
+{{< i s="/graphics/physics/space.jpg" a="Shape of space particles" >}}
 
 
 It is purely kinetic energy and has no static forms*. Rather, the relatively static forms of spacetime manifest as the lower layers.

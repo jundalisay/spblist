@@ -78,5 +78,5 @@ On the contrary, when they encounter a soft body, they can easily transfer all t
 
 All the changes which happen to corporeal bodies are contained in this Third Law.
 
-I do not look here into what force human or angelic minds have for moving bodies. That will be discussed in the  treatise on Man.
+I do not look here into what force human or angelic minds have for moving bodies. That will be discussed in the Treatise on Man.
 

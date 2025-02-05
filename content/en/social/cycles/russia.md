@@ -24,7 +24,7 @@ Negative Warrior | 15 | 5
 
 The Russia-Ukraine war really began *in abstract* on February 8, 2022 when the French President Macron failed to get the Russian President Putin to change his plan to attack Ukraine which actually began on February 24. 
 
-{{< img src="/photos/russia.jpg" alt="Russian Invasion" >}}
+{{< img src="/photos/countries/ru/war.jpg" alt="Russian Invasion" >}}
 
 
 <!-- That led to Putin to decide the attack to commence on February 16. This was leaked by the US, and so Putin delayed it to  The attack began oFebruary 22, starting with his unilateral declaration of the Ukranian provinces Donetsk and Lugansk as being free from Ukraine. -->

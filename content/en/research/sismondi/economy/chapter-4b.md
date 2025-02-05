@@ -9,17 +9,27 @@ contributors: ['Sismondi']
 
 
 
-The increase of population, and of national wealth, contributes to extend the market, in a manner still more advantageous. 
+The increase of population and national wealth does not necessarily extend the market.
 
-Yet every conceivable increase of population and of wealth, does not, of necessity, extend the market; it is only such an increase as attends the increased comforts of the most numerous class. When cultivation on the great scale has succeeded cultivation on the small, more capital is perhaps absorbed by land, and re-produced by it; more wealth than formerly may be diffused among the whole mass of agriculturists, but the consumption of one rich farmer's family, united to that of 50 families of miserable hinds, is not so valuable for the nation, as that of 50 families of peasants, no one of which was rich, but none deprived of an honest competence. 
+<!--  in a manner still more advantageous. 
 
-So also in towns, the consumption of a manufacturer worth a million, under whose orders are employed a thousand workmen, reduced to the bare necessaries of life, is not so advantageous for the nation, as that of a hundred manufacturers far less rich, who employ each but ten workmen far less poor. 
+Yet every conceivable increase of population and wealth, does not, of necessity, extend the market. -->
 
-10,000 pounds of income, whether they belong to a one man, or to 100, are all equally destined for consumption. 
+<!-- It is only such an increase as attends the increased comforts of the most numerous class. 
 
-But this consumption is not of the same nature. 
+When cultivation on the great scale has succeeded cultivation on the small, more capital is perhaps absorbed by land, and re-produced by it.
 
-A man, however rich, cannot employ for his use an infinitely greater number of articles than a poor man, but he employs articles infinitely better; he requires work far better finished, materials far more precious, and brought from a far greater distance. 
+more wealth than formerly may be diffused among the whole mass of agriculturists, but the consumption of one rich farmer's family, united to that of 50 families of miserable hinds, is not so valuable for the nation, as that of 50 families of peasants, no one of which was rich, but none deprived of an honest competence.  -->
+
+A manufacturer worth 1 million employing 1,000 workers who are reduced to the bare necessaries of life is not more advantageous for the nation than 100 manufacturers of far less worth, but employ 10 workers each that are better off.
+
+10,000 pounds of income, whether they belong to a 1 man or to 100, are all equally destined for consumption. 
+
+But this consumption is not of the same nature.
+
+A man, however rich, cannot employ for his use an infinitely greater number of articles than a poor man.
+
+But he employs articles infinitely better; he requires work far better finished, materials far more precious, and brought from a far greater distance. 
 
 It is he who especially encourages the perfection of certain workmen, that finish a small number of objects with extreme skill; it is he who pays them an exorbitant wage. 
 

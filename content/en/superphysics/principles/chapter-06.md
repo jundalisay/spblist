@@ -3,7 +3,7 @@ heading: "Chapter 6"
 title: "Karma, Samskara, and the Loop of Cause and Effect"
 date: 2020-04-12
 weight: 28
-image: /photos/meta/buddhism.jpg
+image: /graphics/meta/morals.png
 description: The Sanskrit word karma implies a complete loop from cause and effect
 # description: "Moral Consequentialism is the effect of actions that are made obscure by fleeting human memory because of the passage of time"
 icon: /icons/sp.png
@@ -59,7 +59,7 @@ Chapter 3 explained how the action of bringing ideas near, introducing, or addin
 
 The Sanskrit word *karma* implies a complete loop from cause and effect. 
 
-{{< img src="/graphics/meta/karma.png" alt="Karma" cap="Science only has action and reaction. Superphysics has action, reaction, and samskara or the pending reaction which is withheld by the time factor" >}}
+{{< img src="/graphics/meta/morals.png" alt="Karma" cap="Science only has action and reaction. Superphysics has action, reaction, and samskara or the pending reaction which is withheld by the time factor" >}}
 <!-- ![Karma]() -->
 
 Existence is thus made up of unending loops of cause and effect, as idea and experience:

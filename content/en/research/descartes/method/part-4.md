@@ -26,15 +26,22 @@ This is because some men:
 
 I was as open to error as any other. So I rejected as false all the reasonings I had hitherto taken as fact.
 
-The very same thoughts which we experience when awake may also be experienced when we are asleep. But when asleep, they are not true. But it means that all the objects (presentations) that had in my mind when awake were just as false as the illusions of my dreams.
+The very same thoughts which we experience when awake may also be experienced when we are asleep. 
+
+But when asleep, they are not true.
+
+But it means that all the objects (presentations) that I had in my mind when awake were just as false as the illusions of my dreams.
 
 I thus wished to think that all was false even myself who was thinking of it. 
+
 
 ## The Non-Physical Existence
 
 I realized that I think, therefore I exist (cogito ergo sum). This was so certain that it could not be doubted. 
 
-I concluded that I might accept it as the first principle of my philosophy. 
+<!-- I concluded that I might accept it as -->
+
+This is the first principle of my philosophy. 
 
 If I had no body, then I would not have any physical existence. But it does not mean that I could not have a [non-physical] existence.  
 

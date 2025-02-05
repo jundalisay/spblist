@@ -10,26 +10,47 @@ weight: 16
 ---
 
 
-[I] The right of sovereigns, which is determined by their power, has been set forth in the previous Chapter, and we have seen that it consists primarily in this, that sovereigns are,l as it were, the mind of the state whereby all citizens must be
-guided. 
+[I] The right of sovereigns is determined by their power.
 
-So they alone have the right to decide what is good, what is bad, what is fair, what is unfair-that is to say, what must be done and what must not be done by individual citizens or by all collectively. We see, therefore, that to the sovereign
-alone belongs the right to make laws, to interpret them in particular cases when
-there is any doubt, and to decide whether a given action is aga inst or in conformity
-with the law (see Sections 3, 4, 5 of the previous Chapter). 
+Its basis is that the sovereigns are the mind of the state that guides the citizens. 
 
-Again, the sovereign alone has the right to make war, to decide upon and to offer terms of peace, or to
-accept them when offered.2 See Sections 12 and 13 of the previous Chapter.
+So they alone have the right to decide what is good, bad, fair, unfair.
 
-[2] Since all these functions, and all the means required to execute them, are matters' that concern the state in its entirety, that is, are affairs of state, it follows that affairs of state depend on the guidance of him alone who holds the sovereignty.' It follows that it is within the sovereign's right alone to judge the actions
-of any man, to demand of anyone an account of his actions, to punish wrongdoers, to decide legal disputes between citizens, or to appoint experienced lawyers' to act in his place. Furthermore, it is his right alone to employ and to organise all
-the means to war and peace, namely, to found and fortify cities, to levy militia, to
-assign military duties, to issue commands as to what he wants done, to send out
-and to give audience to envoys for peaceful purposes, and, finally, to tax the people
-so as to meet all these expenses.
+-that is to say, what must be done and what must not be done by individual citizens or by all collectively. We see, therefore, that to 
 
-[3] Since the sovereign alone has the right to deal with public affairs or to appoint ministers for that purpose, it follows that a subject is committing treason if he engages in any public business on his own initiative without the knowledge of
-the supreme council, even though he believes that what he intended was in the
+The sovereign alone has the right to:
+- make laws
+- interpret them in particular cases when there is doubt
+- decide whether a given action is against or in conformity with the law
+- make war
+- decide on and offer terms of peace
+- accept them when offered
+ <!-- (see Sections 3, 4, 5 of the previous Chapter).  -->
+<!-- .2 See Sections 12 and 13 of the previous Chapter. -->
+
+
+[2] All these are affairs of state.
+
+ <!-- functions, and all the means required to execute them, are matters' that concern the state in its entirety,  -->
+
+It follows that the affairs of state depend on his guidance alone.
+
+It is within the sovereign's right alone to:
+- judge the actions of any man
+- demand of anyone an account of his actions
+- punish wrongdoers
+- decide legal disputes between citizens
+- appoint experienced lawyers' to act in his place
+- employ and to organise all the means to war and peace
+  - to found and fortify cities
+  - to levy militia
+  - to assign military duties
+  - to issue commands as to what he wants done
+  - to send out and give audience to envoys for peaceful purposes
+  - to tax the people to meet all these expenses.
+
+
+[3] Since the sovereign alone has the right to deal with public affairs or to appoint ministers for that purpose, it follows that a subject is committing treason if he engages in any public business on his own initiative without the knowledge of the supreme council, even though he believes that what he intended was in the
 best interests of the commonwealth.
 
 [4] The question is often raised as to whether the sovereign is bound by the laws, and consequently whether he can do wrong. But since the words 'law' and 'wrongdoing' are quite often used with reference not only to the laws of a comI [I read sint for sit as found In Gebhardt ( 1925, 291, lme 31).-S.S.]
@@ -45,10 +66,7 @@ monwealth but also to the universal rules governing natural things in general an
 reason in particular, we cannot without qualification assert that a commonwealth
 is not bound by laws, or that it cannot do wrong. 
 
-For if a commonwealth were not bound by the laws or rules without which the commonwealth would not be a commonwealth, then it would have to be regarded not as a natural thing but as a chimera. So a commonwealth does wrong when it does, or suffers to be done, things that can cause its own downfall; and we then say that it does wrong in the sense in which philosophers or doctors say that Nature does wrong, and it is in this sense we can say that a commonwealth does wrong when it does something
-contrary to the dictates of reason. For it is when a commonwealth acts from the
-dictates of reason that it is most fully in control of its own right (Section 7 of the
-previous Chapter). 
+For if a commonwealth were not bound by the laws or rules without which the commonwealth would not be a commonwealth, then it would have to be regarded not as a natural thing but as a chimera. So a commonwealth does wrong when it does, or suffers to be done, things that can cause its own downfall; and we then say that it does wrong in the sense in which philosophers or doctors say that Nature does wrong, and it is in this sense we can say that a commonwealth does wrong when it does something contrary to the dictates of reason. For it is when a commonwealth acts from the dictates of reason that it is most fully in control of its own right (Section 7 of the previous Chapter). 
 
 Insofar, then, as it acts contrary to reason, it falls short of its own self, or does wrong. This can be more clearly understood if we reflect that when we say that every man has the power to do whatever he likes with an object
 over which he has right, this power has to be limited not only by the potency of
@@ -58,18 +76,7 @@ likely to mean that I have the right to make this table eat grass. Similarly, al
 we say that men are not in control of their own right but are subject to the right
 of the commonwealth, we do not mean that men lose their human nature and assume another nature, with the result that the commonwealth has the right to make men fly, or-and this is just as impossible-to make men regard as honourable th ings that move them to ridicule or disgust. 
 
-No, what we mean is this, that there are certain conditions that, if operative, entail that subjects will respect
-and fear their commonwealth, while the absence of these conditions entails the
-annulment of that fear and respect and together with this, the destruction of the
-commonwealth. Thus, in order that a commonwealth should be in control of its
-own right, it must preserve the causes that foster fear and respect; otherwise it
-ceases to be a commonwealth. For if the rulers or ruler of the state runs drunk or
-naked with harlots through the streets, acts on the stage,6 openly violates or holds
-in contempt those laws that he himselfhas enacted, it is no more possible for him
-to preserve the dignity of sovereignty than for something to be and not be at the
-same time. Then again, to slaughter subjects, to despoil them, to ravish maidens
-and the like turns fear into indignation, and consequently the civil order into a
-condition of war.
+No, what we mean is this, that there are certain conditions that, if operative, entail that subjects will respect and fear their commonwealth, while the absence of these conditions entails the annulment of that fear and respect and together with this, the destruction of the commonwealth. Thus, in order that a commonwealth should be in control of its own right, it must preserve the causes that foster fear and respect; otherwise it ceases to be a commonwealth. For if the rulers or ruler of the state runs drunk or naked with harlots through the streets, acts on the stage,6 openly violates or holds in contempt those laws that he himselfhas enacted, it is no more possible for him to preserve the dignity of sovereignty than for something to be and not be at the same time. Then again, to slaughter subjects, to despoil them, to ravish maidens and the like turns fear into indignation, and consequently the civil order into a condition of war.
 
 [5] We see, then, in what sense it can be said that a commonwealth is bound by laws and can do wrong. But if by law we understand the civil law, which can be enforced by the civil law itself, and by wrongdoing that which is forbidden by
 civil law- that is to say, if these words are taken in their proper sense-then in no

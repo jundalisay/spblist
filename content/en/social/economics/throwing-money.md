@@ -2,7 +2,7 @@
 title: "Why Throwing Money at Problems Won't Always Solve Them"
 # heading: "How it is Similar to the 2008 Financial Crisis"
 date: 2024-05-02
-image: "/photos/wtf.jpg"
+image: "/photos/psych/stop.jpg"
 description: "Money is the command of effecitve work that already exists, not for those that doesn't exist yet"
 writer:
   name: Juan
@@ -43,5 +43,3 @@ To deter the systemic amassment of money, we propose a moneyless economic system
 - being on time for the meetup
 - bringing the goods or rendering the service on time
 - having the diligence to note down the transaction and bringing your point cards
-
-

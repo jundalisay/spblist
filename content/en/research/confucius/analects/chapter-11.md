@@ -4,7 +4,7 @@ title: "Confucius in Private and Official Life"
 description: "In his home life, he was not formal. Whenever he met with a person in mourning, even though it were a familiar acquaintance, he would be certain to change his manner"
 weight: 26
 writer:
-  name: Chau Ju Kua
+  name: Confucius
   url: https://en.wikipedia.org/wiki/Confucius
 image: "/covers/analects.png"
 ---

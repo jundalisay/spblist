@@ -12,33 +12,55 @@ icon: /avatars/huygens.png
 
 <!-- Which serve for Refraction and for Reflexion.
 
-After having explained how the properties of reflexion and refraction follow from what we have supposed concerning the nature of light, and of opaque bodies, and of transparent media,  -->
+After having explained how the properties of reflexion and refraction follow from what we have supposed concerning the nature of light, and of opaque bodies, and of transparent media, , from the same principles, -->
 
-I will here explain a very easy and natural way of deducing, from the same principles, the true shapes which  collect or disperse the rays of light either by reflection or by refraction, as may be desired. 
+I will here explain a very easy and natural way of deducing the true shapes which collect or disperse the rays of light by reflection or refraction.
 
-There is not yet the means to use these figures for Refraction because of:
-- the difficulty of shaping the glasses of Telescopes with the requisite exactitude according to these figures, 
-- refraction itself has a property which hinders the perfect concurrence of the rays, as Mr. Newton has very well proved by experiment
+<!-- , as may be desired.   requisite exactitude according to these figures, -->
 
-I will yet not desist from relating the invention, since it offers itself, so to speak, of itself, and because it further confirms our Theory of refraction, by the agreement which here is found between the refracted ray and the reflected ray. 
+There is not yet the means to use these shapes for Refraction because of:
+- the difficulty of shaping the glasses of Telescopes with the needed precision
+- refraction itself has a property which hinders the perfect concurrence of the rays
+  - This was very well proved by Newton by experiment
 
-Besides, it may occur that some one in the future will discover in it utilities which at present are not seen.
+<!-- I will yet not desist from relating the invention, since it offers itself, so to speak, of itself, and because it further  -->
+
+My invention confirms my Theory of refraction by the agreement between:
+- the refracted ray and
+- the reflected ray. 
+
+Someone in the future will discover utilities in it which are not seen now.
 
 {{< img src="/graphics/physics/huygenschap6a.png" alt="Huygens Drawing" >}}
 
 
+The surface `CDE` reassembles rays coming from point `A` at a point `B`.
+- The summit of the surface is the point `D` in the straight line `AB`. 
 
 
-Let us suppose first, that it is desired to find a surface `CDE` which shall reassemble at a point B rays coming from another point `A`; and that the summit of the surface shall be the given point `D` in the straight line `AB`. 
+Whether by reflexion or by refraction, it is only necessary to make 
 
-Whether by reflexion or by refraction, it is only necessary to make this surface such that the path of the light from the point `A` to all points of the curved line `CDE`, and from these to the point of concurrence (as here the path along the straight lines `AC`, `CB`, along `AL`, `LB`, and along `AD`, `DB`), shall be everywhere traversed in equal times: by which principle the finding of these curves becomes very easy.
+This surface is made so that the light from point `A` goes to all points of the curved line `CDE`.
+
+From these, the light goes to the point of concurrence everywhere traversing in equal times.
+- As here the path along the straight lines `AC`, `CB`, along `AL`, `LB`, and along `AD`, `DB`
+
+This makes the finding of these curves very easy.
 
 
 {{< img src="/graphics/physics/huygenschap6b.png" alt="Huygens Drawing" >}}
 
-So far as relates to the reflecting surface, since the sum of the lines `AC`, `CB` should be equal to that of `AD`, `DB`, it appears that `DCE` ought to be an ellipse; and for refraction, the ratio of the velocities of waves of light in the media `A` and `B` being supposed to be known, for example that of 3 to 2 (which is the same, as we have shown, as the ratio of the Sines in the refraction), it is only necessary to make DH equal to 3/2 of `DB`.
+So far as relates to the reflecting surface, the sum of the lines `AC`, `CB` should be equal to that of `AD`, `DB`.
 
-Having after that described from the centre A some arc FC, cutting DB at F, then describe another from centre B with its semi-diameter BX equal to 2/3 of FH; and the point of intersection of the two arcs will be one of the points required, through which the curve should pass. For this point, having been found in this fashion, it is easy forthwith to demonstrate that the time along AC, CB, will be equal to the time along AD, DB.
+It appears that `DCE` should be an ellipse.
+
+For refraction, the ratio of the velocities of waves of light in the media `A` and `B` being supposed to be known, for example that of 3 to 2 (which is the same, as we have shown, as the ratio of the Sines in the refraction), it is only necessary to make DH equal to 3/2 of `DB`.
+
+Having after that described from the centre `A` some arc `FC`, cutting `DB` at `F`, then describe another from centre `B` with its semi-diameter `BX` equal to 2/3 of `FH`.
+
+The point of intersection of the two arcs will be one of the points required, through which the curve should pass. 
+
+For this point, having been found in this fashion, it is easy forthwith to demonstrate that the time along AC, CB, will be equal to the time along AD, DB.
 
 For assuming that the line AD represents the time which the light takes to traverse this same distance AD in air, it is evident that DH, equal to 3/2 of DB, will represent the time of the light along DB in the medium, because it needs here more time in proportion as its speed is slower.
 
@@ -144,4 +166,3 @@ Its refraction `GV` will be given by means of the tangent which will be drawn at
 Now in `GV` the point D must be found such that FD together with 3/2 of DG and the straight line [Pg 118]GL, may be equal to `FB` together with 3/2 of BA and the straight line AL; which, as is clear, make up a given length. Or rather, by deducting from each the length of LG, which is also given, it will merely be needful to adjust FD up to the straight line VG in such a way that FD together with 3/2 of DG is equal to a given straight line, which is a quite easy plane problem: 
 
 The point D will be one of those through which the curve BDK ought to pass. And similarly, having drawn another ray LM, and found its refraction MO, the point N will be found in this line, and so on as many times as one desires.
-

@@ -1,56 +1,50 @@
 ---
 title: Geographical Distribution
 heading: Chapter 11b
-# First Meditation
-weight: 56
+weight: 77
 description: "Several species of the same genus must originally have come from the same source"
 image: "/covers/origin.jpg"
 ---
 
 
-On these views, the several species of the same genus, though inhabiting the most distant quarters of the world, must originally have come from the same source, as they have descended from the same progenitor.
+On these views, the several species of the same genus originally come from the same source or progenitor, even if they live very far from each other. 
 
-In the case of those species, which have undergone during whole geological periods but little modification, there is not much difficulty in believing that they may have migrated from the same region; for during the vast geographical and climatal changes which will have supervened since ancient times, almost any amount of migration is possible. 
+Some species have undergone little modification during whole geological periods.
+
+It easy to believe that they may have migrated from the same region.
+- During the vast geographical and climatal changes which will have supervened since ancient times, almost any amount of migration is possible. 
 
 But in many other cases, in which we have reason to believe that the species of a genus have been produced within comparatively recent times, there is great difficulty on this head.
 
-It is also obvious that the individuals of the same species, though now inhabiting distant and isolated regions, must have proceeded from one spot, where their parents were first produced: for, as explained in the last chapter, it is incredible that individuals identically the same should ever have been produced through natural selection from parents specifically distinct.
+The individuals of the same species came from one spot where their parents were first produced, though they now live far apart. 
+
+<!-- for, as explained in the last chapter, it is incredible that individuals identically the same should ever have been produced through natural selection from parents specifically distinct. -->
 
 Were species created at one or more points of the earth's surface?
 
-Undoubtedly there
-are very many cases of extreme difficulty, in understanding how the same species could possibly
-have migrated from some one point to the several distant and isolated points, where now found.
+How could the same species have migrated from so far to isolated locations?
 
-Nevertheless the simplicity of the view that each species was first produced within a single region
-captivates the mind.
+<!-- Nevertheless the simplicity of the view that each species was first produced within a single region
+captivates the mind. -->
 
-He who rejects it, rejects the vera causa of ordinary generation with
-subsequent migration, and calls in the agency of a miracle. It is universally admitted, that in most
-cases the area inhabited by a species is continuous; and when a plant or animal inhabits two points
-so distant from each other, or with an interval of such a nature, that the space could not be easily
-passed over by migration, the fact is given as something remarkable and exceptional. The capacity
-of migrating across the sea is more distinctly limited in terrestrial mammals, than perhaps in any
-other organic beings; and, accordingly, we find no inexplicable cases of the same mammal
-inhabiting distant points of the world. No geologist will feel any difficulty in such cases as Great
-Britain having been formerly united to Europe, and consequently possessing the same quadrupeds.
-But if the same species can be produced at two separate points, why do we not find a single
-mammal common to Europe and Australia or South America? The conditions of life are nearly the
-same, so that a multitude of European animals and plants have become naturalised in America and
-Australia; and some of the aboriginal plants are identically the same at these distant points of the
-northern and southern hemispheres?
+<!-- He who rejects it, rejects the vera causa of ordinary generation with subsequent migration, and calls in the agency of a miracle. It is universally admitted, that  -->
 
-The answer, as I believe, is, that mammals have not been able
-to migrate, whereas some plants, from their varied means of dispersal, have migrated across the
-vast and broken interspace. The great and striking influence which barriers of every kind have had
-on distribution, is intelligible only on the view that the great majority of species have been
-produced on one side alone, and have not been able to migrate to the other side. Some few
-families, many sub-families, very many genera, and a still greater number of sections of genera are
-confined to a single region; and it has been observed by several naturalists, that the most natural
-genera, or those genera in which the species are most closely related to each other, are generally
-local, or confined to one area. What a strange anomaly it would be, if, when coming one step lower
-in the series, to the individuals of the same species, a directly opposite rule prevailed; and species
-were not local, but had been produced in two or more distinct areas!Hence it seems to me, as it has to many other naturalists, that the view of each species having been produced in one area alone, and having subsequently migrated from that area as far as its powers of migration and subsistence under past and present conditions permitted, is the most probable.
+
+In most cases, the area inhabited by a species is continuous. When a plant or animal inhabits 2 points so distant from each other, or with an interval of such a nature, that the space could not be easily passed over by migration, the fact is given as something remarkable and exceptional.
+
+The capacity of migrating across the sea is more distinctly limited in terrestrial mammals, than perhaps in any other organic beings; and, accordingly, we find no inexplicable cases of the same mammal inhabiting distant points of the world.
+
+Great Britain was formerly united to Europe, and consequently possessing the same quadrupeds. 
+
+But why do we not find a single mammal common to Europe and Australia or South America? 
+
+<!-- The conditions of life are nearly the same, so that a multitude of European animals and plants have become naturalised in America and Australia; and some of the aboriginal plants are identically the same at these distant points of the northern and southern hemispheres? -->
+
+This is because mammals have not been able to migrate. Whereas some plants, from their varied means of dispersal, have migrated across the vast and broken interspace.
+
+The great and striking influence which barriers of every kind have had on distribution, is intelligible only on the view that the great majority of species have been produced on one side alone, and have not been able to migrate to the other side. 
+
+Some few families, many sub-families, very many genera, and a still greater number of sections of genera are confined to a single region; and it has been observed by several naturalists, that the most natural genera, or those genera in which the species are most closely related to each other, are generally local, or confined to one area. What a strange anomaly it would be, if, when coming one step lower in the series, to the individuals of the same species, a directly opposite rule prevailed; and species were not local, but had been produced in two or more distinct areas!Hence it seems to me, as it has to many other naturalists, that the view of each species having been produced in one area alone, and having subsequently migrated from that area as far as its powers of migration and subsistence under past and present conditions permitted, is the most probable.
 
 
 Undoubtedly many cases occur, in which we cannot explain how the same species could have passed from one point to the other. But the geographical and climatal changes, which have certainly occurred within recent geological times, must have interrupted or rendered discontinuous the formerly continuous range of many species. So that we are reduced to consider whether the

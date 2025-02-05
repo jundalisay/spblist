@@ -12,7 +12,9 @@ Marxism's final objective is the destruction of all non-Jewish national States.
 
 It witnessed in July 1914 how the German working classes, which it had been inveigling, were aroused by the national spirit and rapidly ranged themselves on the side of the Fatherland. 
 
-Within a few days, the deceptive smoke-screen of that infamous national betrayal had vanished into thin air and the Jewish bosses suddenly found themselves alone and deserted. It was as if not a vestige had been left of that folly and madness with which the masses of the German people had been inoculated for sixty years. That was indeed an evil day for the
+Within a few days, the deceptive smoke-screen of that infamous national betrayal had vanished into thin air and the Jewish bosses suddenly found themselves alone and deserted.
+
+It was as if not a vestige had been left of that folly and madness with which the masses of the German people had been inoculated for sixty years. That was indeed an evil day for the
 betrayers of German Labour. 
 
 The moment, however, that the leaders realized the danger which threatened them they pulled the magic cap of deceit over their ears and, without being identified, played the part of mimes in the national reawakening.
@@ -110,52 +112,43 @@ been taken up. To say that the serving up of drivel about a so-called 'State-Aut
 'Law-and-Order' was an adequate foundation for the spiritual driving force in a life-ordeath struggle is only what one would expect to hear from the wiseacres in high official
 positions.
 
-It was because there were no adequate spiritual motives back of this offensive that
-Bismarck was compelled to hand over the administration of his socialist legislative
-measures to the judgment and approval of those circles which were themselves the
-product of the Marxist teaching. Thus a very ludicrous state of affairs prevailed when
-the Iron Chancellor surrendered the fate of his struggle against Marxism to the goodwill
-of the bourgeois democracy. He left the goat to take care of the garden. But this was
-only the necessary result of the failure to find a fundamentally new
-WELTANSCHAUUNG which would attract devoted champions to its cause and could
-be established on the ground from which Marxism had been driven out. And thus the
-result of the Bismarckian campaign was deplorable.
-During the World War, or at the beginning of it, were the conditions any different?
-Unfortunately, they were not.
+It was because there were no adequate spiritual motives back of this offensive that Bismarck was compelled to hand over the administration of his socialist legislative measures to the judgment and approval of those circles which were themselves the product of the Marxist teaching.
 
-The more I then pondered over the necessity for a change in the attitude of the
-executive government towards Social-Democracy, as the incorporation of contemporary
-Marxism, the more I realized the want of a practical substitute for this doctrine. 
-Supposing Social-Democracy were overthrown, what had one to offer the masses in its
-stead? Not a single movement existed which promised any success in attracting vast
-numbers of workers who would be now more or less without leaders, and holding
-these workers in its train. It is nonsensical to imagine that the international fanatic who
-has just severed his connection with a class party would forthwith join a bourgeois
-party, or, in other words, another class organization. For however unsatisfactory these
-various organizations may appear to be, it cannot be denied that bourgeois politicians
-look on the distinction between classes as a very important factor in social life, provided
-it does not turn out politically disadvantageous to them. If they deny this fact they show
-themselves not only impudent but also mendacious.
+Thus a very ludicrous state of affairs prevailed when the Iron Chancellor surrendered the fate of his struggle against Marxism to the goodwill of the bourgeois democracy. He left the goat to take care of the garden. 
 
-Generally speaking, one should guard against considering the broad masses more
-stupid than they really are. In political matters it frequently happens that feeling judges
-more correctly than intellect. But the opinion that this feeling on the part of the masses
-is sufficient proof of their stupid international attitude can be immediately and
-definitely refuted by the simple fact that pacifist democracy is no less fatuous, though it
-draws its supporters almost exclusively from bourgeois circles. As long as millions of
-citizens daily gulp down what the social-democratic Press tells them, it ill becomes the
-'Masters' to joke at the expense of the 'Comrades'; for in the long run they all swallow
-the same hash, even though it be dished up with different spices. In both cases the cook
-is one and the same--the Jew.
+But this was only the necessary result of the failure to find a fundamentally new WELTANSCHAUUNG which would attract devoted champions to its cause and could be established on the ground from which Marxism had been driven out. And thus the result of the Bismarckian campaign was deplorable. During the World War, or at the beginning of it, were the conditions any different? Unfortunately, they were not.
 
-One should be careful about contradicting established facts. It is an undeniable fact that
-the class question has nothing to do with questions concerning ideals, though that dope
-is administered at election time. Class arrogance among a large section of our people, as
-well as a prevailing tendency to look down on the manual labourer, are obvious facts
-and not the fancies of some day-dreamer. Nevertheless it only illustrates the mentality
-of our so-called intellectual circles, that they have not yet grasped the fact that
-circumstances which are incapable of preventing the growth of such a plague as
-Marxism are certainly not capable of restoring what has been lost.
+The more I then pondered over the necessity for a change in the attitude of the executive government towards Social-Democracy, as the incorporation of contemporary Marxism, the more I realized the want of a practical substitute for this doctrine.
+
+Supposing Social-Democracy were overthrown, what had one to offer the masses in its stead? Not a single movement existed which promised any success in attracting vast numbers of workers who would be now more or less without leaders, and holding these workers in its train. 
+
+It is nonsensical to imagine that the international fanatic who has just severed his connection with a class party would forthwith join a bourgeois party, or, in other words, another class organization. 
+
+For however unsatisfactory these various organizations may appear to be, it cannot be denied that bourgeois politicians look on the distinction between classes as a very important factor in social life, provided it does not turn out politically disadvantageous to them. If they deny this fact they show themselves not only impudent but also mendacious.
+
+One should guard against considering the broad masses more stupid than they really are. 
+
+In political matters it frequently happens that feeling judges more correctly than intellect.
+
+But the opinion that this feeling on the part of the masses is sufficient proof of their stupid international attitude can be immediately and definitely refuted by the simple fact that pacifist democracy is no less fatuous, though it draws its supporters almost exclusively from bourgeois circles.
+
+As long as millions of citizens daily gulp down what the social-democratic Press tells them, it ill becomes the 'Masters' to joke at the expense of the 'Comrades'; for in the long run they all swallow the same hash, even though it be dished up with different spices. In both cases the cook is one and the same--the Jew.
+
+One should be careful about contradicting established facts. It is an undeniable fact that 
+
+The class question has nothing to do with questions concerning idealsm though that dope is administered at election time.
+
+The following are obvious:
+- class arrogance among our people
+- the tendency to look down on the manual labourer
+
+ <!-- are obvious facts and not the fancies of some day-dreamer. -->
+
+It shows how our intellectual circles are unable to grasp the circumstances that lead to the growth of such a Marxist plague.
+
+<!--   fact that  which are incapable of preventing 
+
+ as  are certainly not capable of restoring what has been lost. -->
 
 The bourgeois' parties--a name coined by themselves--will never again be able to win over and hold the proletarian masses in their train. That is because two worlds stand opposed to one another here, in part naturally and in part artificially divided. 
 
@@ -163,11 +156,11 @@ These two camps have one leading thought, and that is that they must fight one a
 
 In 1914 a fight against Social-Democracy was indeed quite conceivable. But the lack of any practical substitute made it doubtful how long the fight could be kept up. In this respect there was a gaping void.
 
-Long before the War I was of the same opinion and that was the reason why I could not
-decide to join any of the parties then existing. During the course of the World War my 
-conviction was still further confirmed by the manifest impossibility of fighting SocialDemocracy in anything like a thorough way: because for that purpose there should
-have been a movement that was something more than a mere 'parliamentary' party, and
-there was none such.
+Long before the War, I thought the same. 
+
+That was why I could not decide to join any of the parties then existing.
+
+During the World War my conviction was further confirmed by the manifest impossibility of fighting SocialDemocracy in anything like a thorough way: because for that purpose there should have been a movement that was something more than a mere 'parliamentary' party, and there was none such.
 
 <!-- I frequently discussed that want with my intimate comrades. And it was then that I first
 conceived the idea of taking up political work later on. As I have often assured my

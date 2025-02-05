@@ -1,7 +1,7 @@
 ---
 title: "Ministers of State"
 heading: "Chapter 5"
-weight: 1
+weight: 6
 image: "/flags/id.png"
 description: "Ministers of State shall be appointed and dismissed by the President"
 icon: /flags/id.png
@@ -44,27 +44,20 @@ Article 18
 
 7. The structure and administrative mechanisms of regional authorities shall be regulated by law.
 
-<!-- Subsidiary unit government
-Subsidiary unit government
-Municipal government
-Municipal government
-Subsidiary unit government
-Subsidiary unit government -->
 
-Article 18A
 
-<!-- National vs subnational laws
-Municipal government
- -->
+### Article 18A
+
 
 1. The authority relations between the central government and the regional authorities of the provinces, regencies and municipalities, or between a province and its regencies and municipalities, shall be regulated by law having regard to the particularities and diversity of each region.
 
 2. The relations between the central government and regional authorities in finances, public services, and the use of natural and other resources shall be regulated and administered with justice and equity according to law.
 
 
-Article 18B
+### Article 18B
 
 1. The State recognises and respects units of regional authorities that are special and distinct, which shall be regulated by law.
+
 2. The State recognises and respects traditional communities along with their traditional customary rights as long as these remain in existence and are in accordance with the societal development and the principles of the Unitary State of the Republic of Indonesia, and shall be regulated by law.
 
 

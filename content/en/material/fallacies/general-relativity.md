@@ -5,7 +5,7 @@ description: "Did you know that dark matter, wormholes, and the Big Bang are fal
 # date: 2024-11-02
 date: 2021-06-14
 weight: 36
-linkTitle: "General Relativity Sophistry"
+linkTitle: "Fix Relativity"
 image: "/graphics/physics/general.jpg"
 # categories: ["Material Superphysics"]
 icon: "/icons/spmat.png"

@@ -2,7 +2,7 @@
 heading: Discourse 3b
 title: Making Ice with Salt and Crushed Ice
 weight: 13
-description: Descartes gives 4 Precepts on Math and Logic
+description: Salt is mixed with an equal quantity of snow or crushed ice all around a vase full of fresh water
 image: "/covers/meteors.png"
 writer:
   name: Rene Descartes

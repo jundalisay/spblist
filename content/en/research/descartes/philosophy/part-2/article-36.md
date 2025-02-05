@@ -14,7 +14,7 @@ icon: "/icons/descartes.png"
 ---
 
 
-#### 36. There are 2 causes of motion:
+### 36. There are 2 causes of motion
 
 1. A universal and primary cause that is the general cause of all motions in the world
 
@@ -52,7 +52,7 @@ He also always maintains the same amount of motion in it.
 
 
 
-#### 37. The First Law of Nature: Each thing always perseveres in the same state as much as it can. thus, what is once moved always continues to be moved.
+### 37. The First Law of Nature: Each thing always perseveres in the same state as much as it can. thus, what is once moved always continues to be moved.
 
 Certain laws of nature can be known from this same immutability of God.
 
@@ -78,7 +78,7 @@ But this is very contrary to the laws of nature. This is because rest is contrar
  <!-- or toward its own destruction. -->
 
 
-#### 38. The Motion of Projectiles
+### 38. The Motion of Projectiles
 
 Everyday experience with projectiles entirely confirms this First Law. 
 
@@ -96,12 +96,17 @@ Air is the only liquid that most evidently resists the motions of projectiles.
 
 
 
-#### 37. The first law of nature is that each thing, as far as it is in itself, always continues in the same state, so that which itself is moved, will always continue to be moved.
+### 37. The first law of nature is that each thing, as far as it is in itself, always continues in the same state, so that which itself is moved, will always continue to be moved.
 
 
 From this same immobility of God, certain rules or laws of nature can be known, which are secondary and particular causes of various motions that we observe in individual bodies. 
 
 The first of these is that **every object, insofar as it is simple and indivisible, remains, as much as possible, in the same state, and never changes unless acted upon by external causes.** 
+
+
+{{< i s="/graphics/physics/rule2.jpg" a="Rule 2" >}}
+
+
 
 Thus, if a portion of matter is square, then it will always remain square unless something else comes from outside to change its shape. 
 

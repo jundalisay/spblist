@@ -11,16 +11,33 @@ There is only ONE MOMENT in all creation - the eternal NOW.
 
 "Time" is an illusion created by consciousness.
 
-
 {{< i s="/photos/objects/clock.jpg" a="Clock" >}}
 
+
+
+## Staying Young
+
+When you live in the moment and do what you love to do, time is not generated at all. 
+- You do not create the time that you don't experience
+- Time is created after you reconnect to the mass-consensus reality of time. 
+
+If you do a thing that physically takes 30 minutes but only feels to take 5 minutes, then you actually just used 5 minutes.  
+
+Time doesn't exist without your choice to measure it. 
+- Change the measurement, change the time. 
+
+
+
+## The Illusion of Time
 
 In a film projector, the individual frames of the film are shown in a rapid steady sequence - one frame at a time.
 - This rapid steady sequence of STILL frames creates the ILLUSION of flowing time. 
 
 But in truth, all the actual frames that are used all exist simultaneously. 
 
-There is the illusion of "time" only when the film projector displays those frames - one frame at a time - in a rapid steady sequence. Yet, ALL those frames exist simultaneously. In fact the projectionist can take out the roll of film, spread it out on the floor and view all those frames at the same time.
+There is the illusion of "time" only when the film projector displays those frames - one frame at a time - in a rapid steady sequence.
+
+Yet, ALL those frames exist simultaneously. In fact the projectionist can take out the roll of film, spread it out on the floor and view all those frames at the same time.
 
 In a similar manner, our consciousness "projects" individual "still frames of reality" in a steady and extremely rapid sequence. Bashar says we do this BILLIONS of times per second - thus creating the ILLUSION of the steady flow of TIME.     
 

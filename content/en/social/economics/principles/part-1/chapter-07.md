@@ -1,116 +1,138 @@
 ---
 heading: "Chapter 7"
 linkTitle: Chapter 7
-title: "Demand Inflation, Demand Deflation"
-# date: 2022-03-27
-# date: 2022-08-10
-weight: 28
-image: /photos/econ/crash.jpg
-description: "Neoclassical Economics shallowly defines 'inflation' as a rise in prices, and 'deflation' as its decline"
+title: "Grain Index"
+weight: 32
+date: 2025-01-19
+image: "/photos/grains.jpg"
+description: "The Grain Index is the table of ratios of goods and services to grains"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-toc: false
 ---
 
 
-Neoclassical Economics shallowly defines 'inflation' as a rise in prices, and 'deflation' as its decline.
 
-This definition obviously does not hold because Japan has been in deflation for a long time and yet its prices, such as rent and consumer prices, remain high.
+Chapter 2 explained the use of food-grains as the store of value in a supereconomy.
 
-What really 'deflated' was economic activity, arising from Japan's declining population. Activity is based on the desire, will, or demand to act. This is why Superphysics defines:
-- inflation as **demand inflation** *
-- deflation as **demand deflation**
-
-{{< f f="*From the viewpoint of Economics, the Superphysics definition is Demand-Pull Inflation. Cost-push inflation is merely demand-pull inflation from the viewpoint of the suppliers and producers." >}}
+Chapter 3 explained that these food-grains are the basis for points valuation. This is opposed to the current economic system which is based on fiat money. 
 
 
-> What really 'deflated' was economic activity
+{{< i s="/photos/grains.jpg" a="Grains" >}}
 
-![Downturn in financial market](/photos/econ/crash.jpg)
+Supereconomics uses grains as the store or measure of value because grains are:
 
+1. Common
 
-With this new definition, we can derive the following concepts intuitively:
+Everyone eats and is familiar with the value of food. Grains are the most common food in the world.
 
-### Zero Inflation 
+- Asia uses rice
+- Europe uses wheat
+- The Americas use corn
 
-Zero Inflation means that the demand of society is satsified as quickly as possible so as to not have leftover unanswered demand. It also implies that the amount of money circulating is just enough to circulate the supply to the demand. 
+2. Granular
 
-If a society were one huge family, then it would be a family where all the children are fed and satisfied. 
-
-### Stagflation
-
-Stagflation is a situation where rich people can still demand even if production stagnates or even declines. The demand of the rich allows money to overcirculate. 
-
-An analogy is a family wherein some children have much more than others.
-
-Real-world examples are:
-- the Stagflation of the 1970s and 2022
-- the third world debt which circulated among the cronies of corrupt dictators
-
-### Recession or Depression
-
-Recession is a situation where even the rich cannot demand (or merely withholding their demand in the hopes of higher future profits).
-
-In this case, there is an undercirculation of money. This is similar to a family in poverty wherein the children go hungry.
-
-A depression is a prolonged recession. Both recession and depression are effects of the Negative Force.
+Grains are made up of single bits that are very small. This allows a precise valuation that can be increased or decreased in small increments. 
 
 
-### Hyperinflation
+{{< q a="Smith" >}}
+At distant times, equal amounts of labour will be bought with equal amounts of wheat than with any other commodity.
 
-Hyperinflation is a situation where production declines relative to demand. 
-
-Unlike stagflation which is largely caused by the private sector, hyperinflation is caused by the government reacting to an earlier round of inflation. This prompts it to oversupply money. 
-
-Anciently, this happened when a king debased his currency, causing it to overcirculate. An example is a family where the father demands all the resources. 
-
-Modern examples are:
-- the Weimar republic
-- Zimbabwe under Mugabe
-- Venezuela under Maduro
+At distant times, equal amounts of wheat will enable its possessor to buy the same amount of the labour of other people. Although equal amounts of wheat will not do it exactly.
+{{< /q >}}
 
 
-### Deflation
 
-This is a situation where demand declines nationwide. It would be like a family wherein some of the children moved out or died out. 
+Some countries, like Greenland, do not produce their own grains. This is where the Grain Index comes in.
 
-Examples are:
-- modern Japan
-- the Babylonian exile of the Jews
-- the Roman Plague of Justinian
-- Update Dec 2020: A recent example is the demand deflation during the first months of the pandemic
+It is also used for reconciling the different grain-values from different continents.  
 
-<!-- - **Wage-induced Inflation** is an increase in the demand of workers
+The Grain Index is the table of ratios of goods and services to grains. This is similar to a Big Mac Index which bases value on the market price of a Big Mac. 
 
-- **Profit-induced Inflation** is an increase in the demand of business owners
+Assume that 3 countries each have a main grain and have different local prices for grains in USD:
 
-- **Wage-induced Inflation** is an increase in the demand of workers
- -->
-Under Classical Economics, any oversupply of money will cause a rise in demand which will then eat all the supplies, leading to a crash. <!-- be cancelled out by demand inflation which will then cannibalize productivity, leading to a crash. --> For example:
-- a Roman emperor who debases his currency will cause inflation which will cause the citizens to support a usurper using the old currency
-- A bank that oversupplies bank notes would create a bank run, allowing other banks to take its place in the economy. 
+Country | Rice/kg | Wheat/kg | Corn/kg 
+--- | --- | --- | ---
+A rice | $1 | $2 | $3
+B wheat | $2 | $1 | $3
+C corn | $3| $2 | $1
 
-This natural competition between emperors and banks creates a reliable balance and predictable outcomes.
+Each country will use their main grain as the basis for 1 point. 
 
+If Country A sells a thing locally worth 100 points real price to Country C, will Country C assign to it a market price of $100 or $300? 
 
-All kinds of inflation and deflation, therefore, are signs that the natural balance of an economy has been disrupted. 
+According to convention, 1 point represents the real value of 1 kilogram of the cheapest basic grain in a country.
 
-Balance is essential to make systems last long. This applies to material bodies, living organisms, political systems, social relationships, business organizatios, economics, etc. This principle will be explained in Part 4 as part of the Fourth Law of Value
+However, 1 kilogram of a low value crop light cassava might be of less real value compared to 1 kilogram of rice.  
+<!-- Assuming that 600 grams of rice is needed daily, and the calories of different grains are below -->
 
-
-## How Balance Is Disrupted
-
-According to the Four Social Cycles, the Worker, Warrior, Thinker, and Trader have to work together to move their society forward. Most often, one of them gains a natural dominance depending on the current cycle. 
-
-However, sometimes the dominant class wants to stay in power. In the economy, this is done in the following ways:
-
-Class | Examples | Revenue Model
---- | ---  | ---
-1 Worker | Communism, Populism | Wages
-2 Warrior | Tyranny, Dictatorship | Tax
-3 Thinker | Research, Religions | Research Grants, Tithes, Dogma
-4 Trader | Mercantilism | Profits
+Crop | Calories 
+--- | ---
+Rice | 1
+Corn | 0.9 
+Wheat | 0.8 
+Cassava | 0.4
 
 
-As the most pressing and obvious disruption was caused by Neoclassical Economics, we shall explain it in Part 4. 
+Therefore:
+- the value of 1 point of cassava would be around 0.4 points of rice
+- the value of 1 point of corn would be around 0.9 points of rice
+
+This can be made more accurate by defining the type of grains and getting the actual calorie content. 
+
+The important difference here with the fiat-based valuation is that differences in the values are allowed. 
+- For example, a common breed of sweet corn might be 0.7-0.9 calories compared to 1 calorie of rice. But they will never be as low as 0.3-0.4 as cassava. 
+- Instead of precise cents or decimal values, Supereconomics relies on viable ranges that are common and understandable to all.
+
+This slight imprecision allows freedom and flexibility, very different from the rigidity of the current Economic system. 
+
+
+
+## Basis for Zero Market Price Inflation 
+
+<!-- Demand and Supply Efficiency as  -->
+
+The goal of Supereconomics is to match demand with supply in real time. A perfect match represents the match of real with nominal values. 
+
+This means that there is zero or minimum demand or supply inefficiency compared to the previous time period.
+
+This manifest as zero Market price inflation in the perspective of modern Economics.
+
+The grain index is the basis for judging Market price inflation. For example, the price of chicken and rice in 2 countries were different in 2019:
+
+
+Q4 2019 | **Philippines** | **Vietnam** 
+--- | --- | ---
+1 kg Rice can buy | **330 grams chicken** | 100 grams chicken
+1 kg Chicken can buy | 3.33 kg Rice | **10 kg Rice**
+
+
+This means that:
+- chicken is really cheaper in the Philippines
+- rice is really cheaper in Vietnam
+
+If rice is a basic need and chicken is a luxury, then Filipinos enjoy luxuries better but Vietnamese enjoy basics better. 
+
+This is consistent if we replace chickens with cars. A Toyota Vios is 16,000 kg rice in the Philippines, but 44,250 kg rice in Vietnam.
+
+As of Q4 2019 | **Singapore** | **Philippines** | **Vietnam**
+--- | --- | --- | ---
+GDP per capita | {{< c v="lightseagreen" >}} $100,345 (1st place, 13x Vietnam) {{< /c >}} | $8,936 (2nd place, 1.19x Vietnam) | {{< c v="tomato" >}} $7,510 (3rd place){{< /c >}}
+Rice Prices per kg | 75 US cents or 1.1 SGD (2nd place or 1.5x Vietnam) | {{< c v="tomato" >}}80 US cents or 40 PHP (3rd or 1.6x Vietnam){{< /c >}} | {{< c v="lightseagreen" >}}50 US cents or 12k VND (1st place or cheapest){{< /c >}}
+Chicken Prices in rice | 4.22 kg rice (2nd place or 1.3x Philippines) | {{< c v="lightseagreen" >}} 3.25 kg rice (1st place){{< /c >}} | {{< c v="tomato" >}}8.33 kg rice (3rd place or 2.56x Philippines){{< /c >}}
+Toyota Vios in rice | {{< c v="tomato" >}}73,636 kg rice (3rd place or 4.46x Philippines){{< /c >}} | {{< c v="lightseagreen" >}}16,500 kg rice (1st place){{< /c >}} | 44,250 kg rice (2nd place or 2.68x Philippines)
+Toyota Alphard Luxury Van in rice | 206,000 kg rice (2nd place or 2.25x Philippines) | {{< c v="lightseagreen" >}}91,250 kg rice (1st place){{< /c >}} | {{< c v="tomato" >}}336,000 kg rice (3rd place or 3.7x Philippines){{< /c >}}
+
+
+The grain index thus explains:
+- the different socioeconomic condition of each society. This is the grain index compared with others
+- the increase or decrease of the demand and supply efficiencies through time. This is the grain index compared with itself through time or with instances of itself
+
+
+
+## Exposing Problems with the Economies 
+
+The grain index is the basis of Net Domestic Product which is the Supereconomic alternative to Gross Domestic Product (GDP) of Economics.  
+
+The NDP includes the different budgets and spending patterns of various governments, based on Law 3. This lets people know which social cycle their soceity is in. 
+

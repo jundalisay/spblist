@@ -49,7 +49,7 @@ It only remains here to explain why I did not say a little earlier that the dete
 When body `B` is thus moved towards `C`, its motion does not come solely from the external force pushing it.
 - Rather most of it comes from the fluid particles.
 
-{{< i s="/graphics/physics/fbd.jpg" a="FBD" >}}
+{{< i s="/graphics/physics/fbc.jpg" a="FBD" >}}
 
 
 Those which make up the circles `AEIO` and `AYUO` lose as much of their motion as those acquired by the particles of body `B` between `O` and `A`.

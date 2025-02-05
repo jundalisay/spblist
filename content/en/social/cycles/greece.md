@@ -13,14 +13,22 @@ icon: "/flags/gr.png"
 {{< u d="March 2024" u="Added credit derivatives, and EU weakness, as the main cause of the fault" >}}
 
 
-We can use our [DCTI tool](/social/economics/principles/part-4/chapter-07/) to analyze the Greek crisis to prove that the current solutions of austerity and high taxes are not the best ones. Such solutions are are a relic of the mercantile way of thinking of an economy as a business, instead of, naturally, as a society, family, or group of friends. The proper solution will involve the whole EU and will help the union stay together*.
+We can use our [DCTI tool](/social/economics/principles/part-4/chapter-07/) to analyze the Greek crisis to prove that austerity and high taxes are not the best solutions.
+
+Such technocratic solutions are are a relic of the mercantile way of thinking of an economy as a business, instead of as a society.*
+
+<!-- , family, or group of friends. The proper solution will involve the whole EU and will help the union stay together*. -->
 
 
 {{< u d="Nov 2016" u="The Brexit vote proves that the current mercantile solution was wrong" >}}
 
 
-As the 2008 Credit Crunch was said to have triggered the crisis, we set year 2009 as the central-point (when the effects would have been felt) and 2013 (the year with the latest data) as the last point of our Value-Trade analysis. To make a better trend analysis, we will set 2001 as our starting point.
+The 2008 Credit Crunch triggered the crisis, so we set:
+- 2009 as the central-point 
+- 2013 as the last point of our Value-Trade analysis
+- 2001 as our starting point
 
+<!-- (when the effects would have been felt) and  (the year with the latest data) as . To make a better trend analysis, we will set . -->
 
 
 ## Greece 2013: High Demand, Low Trade
@@ -35,9 +43,11 @@ Capital | Employment from 2001 to 2009 is also ok, so that is not the cause of t
 Industry | Production started to decline by 2009. This is strange because its employment was good
 Trade | Trade rose from 2001 to 2009. This is strange because it is way above its supporting capital
 
-We can pinpoint the anomaly to the strange increase in trade in 2004 and 2009 that did not contribute to industry. This means that the trade was speculative (like in a stock market crash) or unproductive (like in a debt crisis). As there have been no reports of a crash or a great scam in Greece, it leads to the cause to being a debt which was used unproductively.
+We can pinpoint the anomaly to the strange increase in trade in 2004 and 2009 that did not contribute to industry. This means that the trade was speculative (like in a stock market crash) or unproductive (like in a debt crisis).
 
-A lot of European countries, such as Spain, Portugal and Ireland, also had debt and almost had a crisis like Greece, but did not.
+As there have been no reports of a crash or a great scam in Greece, it means that the cause was a debt which was used unproductively.
+
+A lot of European countries, such as Spain, Portugal and Ireland, also had debt and almost had a crisis like Greece.
 
 ![The GDP-Debt ratio](/graphics/econ/greecegdp.png)
 
@@ -48,29 +58,41 @@ So why did Greece suffer a debt crisis?
 
 ### A Consequence of the Derivatives Spree in the 2000s
 
-In the 2000s, credit default swaps took off. It allowed large corporations to take on huge amounts of debt and spread the risk to so many people and investors. The key change was to regard the derivatives as an **insurance** which could be sold to many people, instead of as a loan. 
+In the 2000s, credit default swaps took off.
 
-Previously, this was illegal. But the [repeal of Glass-Steagall](https://en.wikipedia.org/wiki/Aftermath_of_the_repeal_of_the_Glass%E2%80%93Steagall_Act) suddenly allowed it from 1999. 
+It allowed large corporations to take on huge amounts of debt and spread the risk to so many people and investors. 
+
+The key change was to regard the derivatives as an **insurance product** which could be sold to many people, instead of as a loan. 
+
+Previously, this was illegal. 
+
+But the [repeal of Glass-Steagall](https://en.wikipedia.org/wiki/Aftermath_of_the_repeal_of_the_Glass%E2%80%93Steagall_Act) suddenly allowed it from 1999. 
 
 
 {{< youtube W-Q9AOp2FW8 >}}
 
 This allowed banks to sell huge amounts of debt which then gave huge amounts of profits, and so they pushed it aggressively. 
 
-It soon spread to public debt where governments were offered so much debt. This is why former [Greek Prime Minister Simitis](https://english.pku.edu.cn/news_events/news/global/473.html) blamed "European economic management" which was helpless against it.
+It soon spread to public debt where governments were offered so much debt.
 
-The last line of defense should have been credit rating agencies. Unfortunately, [their revenue came from the lenders](https://www.theguardian.com/business/2010/apr/28/greece-debt-crisis-standard-poor-credit-agencies) and so they allowed bad debt. 
+This is why former [Greek Prime Minister Simitis](https://english.pku.edu.cn/news_events/news/global/473.html) blamed "European economic management".
 
+ <!-- which was helpless against it. -->
+
+The last line of defense should have been credit rating agencies. 
+
+Unfortunately, [their revenue came from the lenders](https://www.theguardian.com/business/2010/apr/28/greece-debt-crisis-standard-poor-credit-agencies) and so they allowed bad debt. 
 
  <!-- with the risk spread over so many people.  -->
-
 
 This is why both private and public debt ballooned and collapsed nearly at the same years:
 - from 2007, as seen in the fall of Lehman
 - to 2010, as seen with the fall of Greece
 
-The evils of debt were very well known in the 18th century, especially to Adam Smith who blamed the finance industry for it:
+This is very similar to the Latin American debt crisis wherein petrodollars needed to be used. And so they were lent to dicatators. 
 
+
+The evils of debt were very well known in the 18th century, especially to Adam Smith who blamed the finance industry for it:
 
 {{< q a="Adam-Smith" c="The Wealth of Nations Simplified, Book 5" >}}
 Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.

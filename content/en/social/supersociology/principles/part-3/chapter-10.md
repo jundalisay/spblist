@@ -3,7 +3,7 @@ heading: "Chapter 10"
 title: "What is Feudalism?"
 date: 2021-07-21
 weight: 10
-image: /photos/medieval/spartan.jpg
+image: /photos/medieval/slave.jpg
 description: "Feudalism is a delegated system of political and economic control"
 writer:
   name: Juan

@@ -1,125 +1,222 @@
 ---
 heading: "Chapter 1c"
-title: "Economic Karma"
-description : "Economic Karma is the cause and effect of economic actions"
-# date: 2022-01-28
-weight: 13
-date: 2016-01-01
-image: /photos/meta/buddhism.jpg
-description: "Smith hinted at the concept of dharma, as the personal interest of people"
+# linkTitle: Chapter 1b
+title: "The Effort Theory of Value"
+date: 2015-10-30
+weight: 8
+image: "/photos/objects/car.jpg"
+# graphics/jfk
+description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
+icon: /icons/pantry.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
+toc: false
 ---
 
 
-<!-- heading: "Opportunity Cost to Economics"
-image: / -->
+
+The **Effort Theory of Value** is based on the abstract valuation assigned by the mind to real things.
+
+This valuation is based on one's feelings of need or desire for that thing. The more you want something the more you will work, get stressed, and exert for it. 
 
 
-## Economic Karma
+{{< q a="Smith" c="Wealth of Nations, Book 1, Chapter 5" >}}
+The real price of everything.. is the toil and trouble of acquiring it ourselves. 
 
-Smith was one of the few Western intellectuals to hint at the concept of dharma, or the natural and sustainable activities of humans, and apply it both for moral and economic purporses.
-
-Instead of the word dharma, however, he named his concept the invisible hand. This had economic applications in The Wealth of Nations and moral applications in The Theory of Moral Sentiments.
-
-
-
-### Weaponizing the Invisible Hand
-
-The main difference between Smith’s invisible hand and Eastern dharma is that the former has moral, spiritual, and practical uses, while the latter emphasizes only its moral and spiritual use.
-
-
-{{< img src="/photos/meta/buddhism.jpg" alt="Buddhism" >}}
-
-Eastern philosophers did not dare teach the practical use of dharma because they knew that it would merely lead to corruption and evil.
-
-For example, the Chinese discovered the principles of gunpowder which the Europeans took and weaponized in order to enslave Africa, South America, and Asia and even take Hongkong. Similarly, Western physicists discovered the nuclear fission and weaponized it to drop atom bombs on Japan.
-
-Smith and the Physiocrats discovered the principles of wealth created by knowing one's own self-interest or purpose in life or svadharma. But this was soon "weaponized" by the merchants to enrich themselves via Mercantilism and trade wars instead of enriching all humans. 
-
-Those merchants merely brushed aside the warnings by Smith against the pursuit of utility and avarice that the principles might bring. Later economists such as John Stuart Mill and Jean Baptiste Say even built economic theories around selfishness instead of dharma or morality:
-
-{{< q a="John-Stuart-Mill" >}}
-The doctrine that the basis of morals is utility, or the greatest happiness principle, holds that actions are right in proportion as they tend to promote happiness, wrong in proportion as they tend to produce the reverse of happiness. By ‘happiness’ is meant pleasure and the absence of pain; by ‘unhappiness’ is meant pain and the lack of pleasure.
-<cite>Mill, Utilitarianism</cite>
+To save us from toil and trouble, we exchange goods or money [that other people want to aqcuire] for those other people to acquire it for us. 
 {{< /q >}}
 
-Of course, the flaw in Mill's philosophy is that **personal happiness is subjective**. If pursued without thinking of others, then it becomes arbitrary. 
+<!-- , and who wants to dispose of it or exchange it for something else, -->
 
-For example, it might bring happiness to a rich country to invade a poorer country for oil as the former would think that it would bring happiness and progress to both countries. Or conversely, it might bring happiness to terrorists to attack a rich, extravagant country thinking that it would bring it closer to simplicity and austerity which are foundations for religious happiness (For example, Jesus himself said it will be difficult for the rich to enter the Kingdom of God).
+<!-- What everything is really worth to the man who has acquired it is the toil and trouble which it can save to himself, and which it can impose on other people. 
+
+What is bought with money or with goods is purchased by labour as much as what we acquire by the toil of our own body. That money or those goods indeed save us this toil. -->
+
+{{< i s="/photos/objects/car.jpg" a="Supercar" >}}
+
+We might desire a Ferrari because of its beauty, speed, and comfort. This gives it a very high nominal value according to the 1st Law. 
+
+Its high-tech engineering and difficult-to-acquire materials means that it will take a lot of effort to produce ourselves. 
+
+And so we would rather exchange it with something that the seller wants which is also of the same high value. 
+
+Assuming a Ferrari is $300,000, then it can be exchanged for a $300,000 house in the suburbs or a $300,000 condo unit in the heart of the city. 
+- If the Ferrari were sold by the Ferrari company directly just as the house were sold by its builder-company, then the $300,000 would be both the real price and market price
+- If the Ferarri were sold by a trader just as the house were sold by a broker, then the $300,000 is the market price, not the real price. 
+
+Therefore the real price is the price from the maker or producer who actually makes the thing. It represents his toil and trouble to make it.
 
 
-{{< img src="https://sorasystem.sirv.com/photos/taliban.jpg" alt="Taliban fighters" cap="The Taliban is doing what they feel is moral, just as what the US is doing" >}}
+### Toil and Trouble are not Objective
 
-Utilitarianism is useful only when one is alone. It, however, creates problems when one comes into society because people have diverse experiences, opinions, and moral standards. It's the type of thing that works only in thought experiments but fails in the real world. 
+Assume that instead of making cars or building houses, the economic service is in playing guitar music.
 
-Smith's invisible hand, on the contrary, works both personally by tapping into one's conscience, or "the man within the breast", and  socially by knowing what others are interested in, through selling and market research.
+- Person A (aka 'Guitar Hater') has no interest in playing the guitar. He might 'toil' a lot if forced to learn the guitar.
+- Person B (aka 'Guitar Lover') naturally loves guitars.
 
+Therefore:
+- the 'high toil' or suffering of Guitar Hater in playing the guitar will be consistently high always and anywhere he is.
+- the low toil or suffering of Guitar Lover in playing the guitar is consistently low always and anywhere he is. 
 
-## Why did later economists miss out on the invisible hand or dharma?
-
-The first reason is because Say and Mill lived during the start and the height of the Industrial Revolution which lasted from 1760 to 1840. The increase in productivity increased the number and variety of products available for use or utility and for satisfying the senses which were not available before. Thus, utility and all its shallow and short-term benefits came to dominate the field of morality.
-
-Another more important reason is because both dharma and the invisible hand are naturally invisible or not obvious to shallow observation. Both can only be seen by highly-penetrating and highly-evolved minds that can look far beyond the obvious. 
-
-In Hinduism, the concept of dharma naturally leads to the concept of karma. Anything that has a self will want to act to express that self. This action is called karma. Other selves will then react to this karma to create a reaction or another karma that boomerangs on the intial actor or self. This is why in English, karma is loosely translated as "What goes around, comes around."
-
-
-## Smith on Economic Karma
-
-Since karma is universal and timeless, it works the same way regardless of time and location, whether in the distant past, distant future, or in a very distant place. Selfish actions always and everywhere bring about something hurtful, or opposite of what was intended, in the long-run or even short-run:
+Adam Smith explains:
 
 {{< q a="Adam-Smith" >}}
-At first sight, the monopoly of the great commerce of America naturally seems to be an acquisition of the highest value. <!-- To the undiscerning eye of giddy ambition, it naturally presents itself amidst the confused scramble of politics and war as a very dazzling object to fight for. --> The dazzling splendour of the object, however, <!-- the immense greatness of the commerce, --> is the very quality which renders the monopoly of it hurtful..
+At all times and places:
+- an expensive thing is something that is difficult or costs much labour to acquire
+- a cheap thing is something which is easy or costs very little labour to acquire
+
+Therefore, labour alone, never varying in its own value, is the ultimate and real standard for the valuation of all commodities.
+
+It is their real price. Money is their nominal price only.
 {{< /q >}}
 
-{{< q a="Adam-Smith" >}}
-Even the regulations by which each nation endeavours to secure to itself the exclusive trade of its own colonies are frequently more hurtful to the countries in favour of which they are established than to those against which they are established.
-{{< /q >}}
+ <!-- can at all times and places be estimated and compared.  that is dear which it is difficult to come at, or which-->
 
 
-{{< q a="Adam-Smith" >}}
-The unjust oppression of the industry of other countries falls back, if I may say so, upon the heads of the oppressors, and crushes their industry more than it does that of those other countries. The industry of the country, therefore, is thus turned away from a more to a less advantageous employment [because of the monopoly of the home market]; and the exchangeable value of its annual produce, instead of being increased, according to the intention of the lawgiver, must necessarily be diminished by every such regulation.
-<cite>The Wealth of Nations</cite>
-{{< /q >}}
+## Cartesian Relationality (Relativity) and the Constant of Personal Interest
+
+Thus, the 'cost' or 'price' of guitar playing will be consistently:
+- 'expensive' to Guitar Hater
+- 'cheap' to Guitar Lover 
+
+If their society naturally values guitar music, then:
+- Guitar Hater will be 'poor'
+- Guitar Lover will be 'wealthy' 
+
+Guitar Lover can 'arbitrage' his high quality but cheaply-earned guitar skill by selling it to society at a price that is high to them.
+
+{{< i s="/photos/econ/singer.jpg" a="Guitar-playing" c="Playing instruments is easy for some, hard for others" >}}
+
+So the core idea in Smith's theory is the feeling of psychological toil and trouble instead of physical labour. This was known as the 'Labour theory of value'. 
+
+We replace it with 'Effort Theory of Value' since the word 'effort' best combines both psychological and emotional toil-and-trouble with physical work.
+
+'Work Theory of Value' was also a good candidate. However, 'work' tends to mean more of the effect rather than the cause.
 
 
-{{< img src="https://socioecons.files.wordpress.com/2014/12/karma.gif" alt="Karma boxes falling" >}}
+{{< dc t="A new way of thinking" >}}
+This way of thinking about another person's love for guitar-playing (cause) instead of thinking about his actual guitar music (effect) is not common. 
 
+When you buy bread at the grocery, you often check the label and think about its price and nutrients. You never think about the baker who baked that bread and who was the cause of the existence of the bread. His name, skills, looks, personality, doesn't enter your mind. Likewise, we see objects everday and never think about the persons or Creator that made their existence possible.
 
+Eastern philosophy solves this by using a mantra constantly which forces the mind to always think of the causal principles behind every perception. Thanks to this technique, the mind is trained to look at the principles behind every perception, whether it be in economics, politics, healthcare, astrophysics, etc. 
 
-History is full of examples of narrow-minded economic policies going back to hurt the intended beneficiaries or producing opposite effects:
-
-- Tariffs were created in the 1930's in the US to protect their local industries. Instead, they contributed to the Great Depression that destroyed them
-
-- Credit derivatives were created in the 90's to increase the wealth of investment banks. They instead led to bankruptcy and the Great Recession
-
-- The Greek government borrowed massively for the Athens Olympics to make their country richer. It however led to the Greek debt crisis and plunged the country into austerity
-
-<!-- debt crisis where massive government spending, which was thought to draw in future investors, actually plunged Greece into a crisis.  -->
-
-Those policies were created to increase wealth rapidly, but ended up destroying it. The more people study Smith and his ideas, the better will be humanity's chances in avoiding bad economic karma from selfish motives.
-
-
-{{< dc t="Luck vs Karma" >}}
-According to Eastern Philosoophy, there is no such thing as good or bad luck. Instead, everything is based on karma or action and reaction.
-
-If you plant good deeds, then you get good rewards and a good feeling from such rewards. If you plant bad or selfish deeds, then you get bad consequences and a bad feeling from such consequences.
-
-The problem is that such reactions do not happen in a fixed nor predictable time period. A good action today might create a reaction that will be experienced 10 days from now, 10 years from now, or 10 lifetimes from now (since Asian philosophy believes in reincarnation).
-
-So if you plant a good action now and experience the good effects 10 lifetimes from now, then your future self will regard it as good luck. This is because your future self will have no memory of the good deed you performed 10 lifetimes ago. Likewise, the 'bad luck' that we experience today could come from our bad actions 10 days ago, 10 years ago, or 10 lifetimes ago.
-
-This is why Asian philosophies have certain policy suggestions:
-
-1. **Do good deeds as much as you can and avoid doing bad.** 
-
-According to Hindus and Buddhists, this is to deposit good karma into your existential bank account <!-- of consequences --> so you have a lot of good karma to withdraw in the future.
-
-However, according to Superphysics, this is not 100% technically correct. Instead, the act of consistently doing good deeds makes the 'wave' of your soul attain a certain shape. This shape then will let it fit in its proper reality, just as a classical violin fits into an orchestra and not in a death-metal band or a gangsta rap group.
-
-2. **Learn the techniques to burn karma faster, whether good or bad. **
-
-This is akin to making your karmic bank account more liquid. In this way, bad karma doesn't occur in one go, which might overwhelm your mind. Likewise, good karma doesn't all fall on you in one package, as this might bloat your ego.  Instead, karma is taken in manageable pieces, just like a loan that gets easy payment terms.
+Shallow minds will think that money is the cause of economic activity because that is what their perceptions readily presents to them. From this, they will create utility theories, and then equilibrium and profit maximization theories, not knowing that such ideas naturally create crises after some time because they are based on effect instead of cause.
 {{< /dc >}}
+
+
+## Personal Interest as the Invisible Hand
+
+But effort alone will not lead to value-creation. 
+
+- No matter how hard a guitar player creates furniture, he can never make it as good as how a carpenter would make it. 
+- No matter how hard a carpenter plays a guitar, he can never be as good as a real guitar player in concerts
+
+{{< img alt="JFK quote" src="/graphics/jfk.jpg" cap="Effort is not enough. Dharma or purpose is also needed" >}}
+
+
+Thus to succeed, a person must be interested in what he is applying his effort to -- **he has to be deeply interested in whatever task he is doing**.
+
+This is where his 'personal-interest'* comes in. Whatever one is interested in is a natural part of the invisible hand of his dharma or tao.
+
+We call this dharma as the **gravitational signature**, which is a key concept in Superphysics. 
+
+
+{{< n n="*The Invisible Hand of Dharma or the Tao separates self-interest from selfish-interest. In order to make the separation permanent, we shall call self-interest as 'personal interest' in order to remove the vice of selfishness from it." >}}
+
+
+
+A person interested in guitars will naturally create higher quality* guitar music than someone who is not interested in guitars.
+
+{{< n n="*We can call this a 'superabundance' in guitar music" >}}
+
+
+
+Society would therefore have more value, quality, and abundance if its carpenters focused on making furniture, and its musicians focused on creating music instead of the other way around. <!-- bakers baked and its brewers brewed, instead of its bakers brewing and its brewers baking. -->
+
+This value and abundance are then spread through exchange, such as through money, barter, credit, or donations, onto places where there is lack*:
+
+
+{{< q a="Lao-tzu" c="Tao Te Ching, Chapter 77" >}}
+The Way (or Tao) of Heaven can be compared to the bending a bow. The part of the bow which was high is lowered. The part which was low is raised up. Likewise, Heaven reduces where there is superabundance, and supplements where there is deficiency.. Who can take his own superabundance and use it to serve all under heaven? Only he who is in possession of the Tao!
+{{< /q >}}
+
+
+{{< n n="*This balancing of abundance and lack manifests as entropy of thermodynamics in the physical dimension" >}}
+
+
+
+{{< dc t="How it Works" >}}
+The Effort Theory of Value can be derived by asking: What is stressful to others that is not stressful to you?
+
+By focusing on that task, then you are able to produce something that relieves the stress of others at less stress for yourself. 
+
+Those others might then want to give you something for it. They will give you something that is stressful to you to make, but not stressful for them. 
+
+For example, a farmer might find it difficult to make a website to advertise his potato harvest for sale. So he asks a web developer or programmer to make his website or social media page to let people know of his harvest. 
+
+The programmer finds it difficult to grow potatoes so he gets the potatoes of the farmer as part of the payment. 
+{{< /dc >}}
+
+
+
+## Matching Interest and Action 
+
+The matching of interest and action or occupation is the key to wealth. This is why Socrates put it as the core requirement of his ideal city-state and even for life itself:
+
+{{< q a="Socrates" c="The Simple Republic, Book 2, Chapter 2" >}}
+A person works better when he has only one occupation instead of many. A work is spoilt when not done at the right time. Business does not wait for the businessman to be at leisure. Instead, the businessman must follow up what he is doing and make his business his first object. All things are produced more plentifully, easily, and with a better quality when one man does one thing which is natural to him at the right time, and leaves other things.
+{{< /q >}}
+
+{{< q a="Socrates" c="The Simple Republic, Book 10, Chapter 3" >}}
+Here, my dear Glaucon, is the supreme peril of our human state. Therefore, the utmost care should be taken. <i>Let each of us leave every other kind of knowledge and seek and follow one thing only.</i> This will help us learn and discern between good and evil. In this way, we can always and everywhere choose the better life.
+{{< /q >}}
+
+
+This is the same reasoning behind the Hindu varna system wherein a family of farmers trains its some of its children as farmers, and a family of doctors trains some of its children as doctors. Unfortunately, this system degenerated into a rigid caste system that people got trapped into. Instead of the occupations being naturally dynamic, it became static. 
+
+To prevent this, one of the features of our proposed system is for the classification of careers to be done by artificial intellgence based on personality instead of heredity, so that society can have economic balance and higher quality of goods and services.
+
+
+{{< img alt="Sorting hat" src="https://ik.imagekit.io/sora/cards/sorting_oIPhW50VG.jpg" cap="ISAIAH suggests the best career or educational path for workers and students to align them with their natural Tao or Dharma" >}}
+<!-- In theory, it would be able to predict who would be rich and who would be poor so that the societal imbalances that trigger jealousy can be prevented in advance in order to then preserve the happiness and unity of society. -->
+
+
+With this, we can safely translate Smith's 18th-century words into modern English without corrupting its deeper meaning and intention:
+
+
+### Original
+
+{{< q a="Smith" >}}
+A measure of quantity, such as the natural foot, continually varies. It can never be an accurate measure of other things. Likewise a commodity which continually varyies in value can never measure the value of other commodities. 
+
+Equal quantities of labour, at all times and places, is of equal value to the labourer.. The labor which he pays is always the same, whatever the goods he receives for it. At all times and places, an expensive thing is difficult to come at and costs much labour. 
+
+Labour alone, therefore, never varying in its own value, is the ultimate and real standard or price. Money is the nominal price only.
+{{< /q >}}
+
+
+
+### Translated with 'toil and trouble'
+
+{{< q a="Smith" >}}
+A commodity that always varies in value can never be an accurate measure of the value of other commodities.
+
+But a person's toil and trouble will always be the same to himself always and anywhere he is. 
+
+Always and everywhere, a thing is expensive if it is difficult or costs much toil and trouble to acquire.
+
+Toil and trouble never varies in its own value. Therefore, it alone is the ultimate and real price. Money is the nominal price only.
+{{< /q >}}
+
+<!-- But it is the value of the commodities which varies, not his toil and trouble. 
+In his ordinary state, he must always lay down the same portion of his ease, liberty, and happiness. The price which he pays must always be the same, though sometimes it buys varying amounts of commodity.  -->
+
+
+{{< i s="https://socioecons.files.wordpress.com/2017/07/hourly-rates.jpg" a="Hourly rates of jobs" >}}
+
+
+The **Effort Theory of Value** is seen in lowly-paid and highly-paid jobs. The former generally requires less effort than the latter, when taking into account the physical, mental, and emotional toil and trouble involved.
+
+This post series will explain how the Effort Theory of Value can replace the Utility and Marginal Pricing paradigms of Economics to create a new economy called a "pantrynomy" that has zero inflation while having superabundance.

@@ -45,7 +45,10 @@ You must:
 - offer many costly sacrifices -- without them, neither gods nor men would tolerate you. 
 - welcome numerous foreigners as guests and to entertain them handsomely. 
 - feast your fellow-citizens and ply them with all sorts of kindness, or else be cut adrift from your supporters. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 You are required to give large contributions, such as:
 - the rearing of studs, 
 - (3) the training of choruses, 
@@ -129,7 +132,9 @@ No, I am not trying to escape.
 If you had come to me for water, and I had none in my house, you would not blame me for sending you where you might get it.
 
 If you desired to be taught music by me, and I pointed you to a far more skilful teacher than myself. There are others cleverer than myself about those matters. I have made it long my study to discover who among our fellow-citizens are the greatest adepts in the various branches of knowledge. 
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 I had been amazed at how a set of people are engaged in identical operations. Half of them are in absolute poverty. The other half roll in wealth. I thought that the history of the matter was worth investigation. I found that it all happened very naturally. 
 
 Those who carried on their affairs in a haphazard manner I saw were punished by their losses. Those who kept their wits upon the stretch and paid attention I soon perceived to be rewarded by the greater ease and profit of their undertakings. You should learn from them and then you will become as clever a man of business as one might hope to see.

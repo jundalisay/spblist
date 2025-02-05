@@ -1,6 +1,6 @@
 ---
-title: "Refraction"
-heading: "Part 2b"
+title: "Refraction Angles"
+heading: "Part 2c"
 weight: 8
 writer:
   name: Rene Descartes
@@ -56,7 +56,7 @@ This is because the proportion that exists between these angles varies with all 
 
 For example, if a ray passes from A to B in the air, and, encountering the surface of the glass CBR at point B, is deflected towards I within the glass; and another ray passes from K to B, which is deflected towards L; and another from P to R, which is deflected towards S; then the proportion between the lines KM and LN, or PQ and ST, should be the same as between AH and IG, but not the same as the proportion between the angles KBM and LBN, or PRQ and SRT, and the angle ABH and IBG.
 
-* How the size of refractions should be measured.
+<!-- How the size of refractions should be measured. -->
 
 * Since AH = CB and EB = IG, the ratio CB/BE is equivalent to the ratio of the sines (AH/AB and IG/BI, or AB and IB being equal to the unit ray, AH and IG) of the angle of incidence ABH and the angle of refraction GBI. The law of refraction expresses the constancy of the ratio of the two sines, as a function of the index of refraction (n) of the two media considered, that is: AH = n . IG.
 

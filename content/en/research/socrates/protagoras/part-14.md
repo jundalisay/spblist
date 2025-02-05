@@ -239,29 +239,43 @@ You seem to have a great ambition to make me answer, Socrates, and therefore I w
 
 
 {{< l a="Socrates" >}}
-My only object in continuing the discussion has been the desire to ascertain the nature and relations of virtue; for if this were clear, I am very sure that the other controversy which has been carried on at great length by both of us—you affirming and I denying that virtue can be taught—would also become clear. The result of our discussion appears to me to be singular. 
+My only object in continuing the discussion has been the desire to ascertain the nature and relations of virtue.
 
+You said virtue can be taught. I denied this. 
 
-For if the argument had a human voice, that voice would be heard laughing at us and saying: 'Protagoras and Socrates, you are strange beings; there are you, Socrates, who were saying that virtue cannot be taught, contradicting yourself now by your attempt to prove that all things are knowledge, including justice, and temperance, and courage,—which tends to show that virtue can certainly be taught; for if virtue were other than knowledge, as Protagoras attempted to prove, then clearly virtue cannot be taught; but if virtue is entirely knowledge, as you are seeking to show, then I cannot but suppose that virtue is capable of being taught. 
+If virtue were clear, then we would settle this controversy.
+
+ <!-- which has been carried on at great length by both of us— -->
+
+I think the result of our discussion is singular. 
+
+For if the argument had a human voice, that voice would be heard laughing at us and saying: 'Protagoras and Socrates, you are strange beings; there are you, Socrates, who were saying that virtue cannot be taught, contradicting yourself now by your attempt to prove that all things are knowledge, including justice, and temperance, and courage,—which tends to show that virtue can certainly be taught;
+
+For if virtue were other than knowledge, as Protagoras attempted to prove, then clearly virtue cannot be taught; but if virtue is entirely knowledge, as you are seeking to show, then I cannot but suppose that virtue is capable of being taught. 
 {{< /l >}}
 
 Protagoras, on the other hand, who started by saying that it might be taught, is now eager to prove it to be anything rather than knowledge; and if this is true, it must be quite incapable of being taught.' 
 
 
 {{< l a="Socrates" >}}
-I perceive this terrible confusion of our ideas which I want to be cleared up. I will carry on the discussion until we ascertain what virtue is, whether capable of being taught or not, lest haply Epimetheus should trip us up and deceive us in the argument, as he forgot us in the story.
+I perceive this terrible confusion of our ideas which I want to be cleared up.
+
+I will carry on the discussion until we ascertain what virtue is, whether capable of being taught or not, lest haply Epimetheus should trip us up and deceive us in the argument, as he forgot us in the story.
 
 I prefer your Prometheus to your Epimetheus, for of him I make use, whenever I am busy about these questions, in Promethean care of my own life. And if you have no objection, as I said at first, I should like to have your help in the enquiry.
 {{< /l >}}
 
 
+ <!-- and I am the last man in the world to be envious. I applaud your energy and your conduct of an argument.I admire you above all men whom I know, and far above all men of your age. I believe that you will become very eminent in philosophy. -->
 {{< r a="Protagoras" >}}
-I am not of a base nature, and I am the last man in the world to be envious. I applaud your energy and your conduct of an argument.
-
-I admire you above all men whom I know, and far above all men of your age. I believe that you will become very eminent in philosophy. 
+I am not of a base nature, nor am I the envious type. 
 
 Let us come back to the subject at some future time; at present we had better turn to something else.
 {{< /r >}}
 
 
-By all means, if that is your wish. I too ought long since to have kept the engagement of which I spoke before, and only tarried because I could not refuse the request of the noble Callias. So the conversation ended, and we went our way.
+By all means, if that is your wish.
+
+<!-- I too ought long since to have kept the engagement of which I spoke before, and only tarried because I could not refuse the request of the noble Callias.  -->
+
+So the conversation ended, and we went our way.

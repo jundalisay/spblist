@@ -1,161 +1,171 @@
 ---
-title: "Instant bliss"
+title: "New education Techniques"
 heading: "Chapter 4c"
 description: "A mind-wrenching circular arrived from our office in Wichita. Baba is in jail in India"
 image: "/covers/mystic.jpg"
-weight: 36
+weight: 32
 author: Dada Dharmavedananda
 ---
 
- 
 
-On the Greyhound bus north. I'm traveling to Chicago. From Chicago I'll go to India to meet Baba and try to find out whether or not I should become an acharya 13 . The Jackson center is now in the hands of another volunteer. 
+<!-- All of my social service responsibilities were taken over today by a new volunteer who will soon replace me.  -->
 
-Chicago. One week later. My sister's getting married this week. The 
-ceremony will be at our house, and scores of near and distant family members 
-are either here or on their way. 
+<!-- ‘■'The universal mantra is Baba Nam Kevalam  -->
 
 
-13 Acharya is the formal title of the teachers of Ananda M arga—the Dadas and Didis. Acharan 
-means conduct. Acharya means one who teaches others through his or her personal conduct. 
+<!-- ### You Have to Work For Your Realization  -->
+
+On a whim I visited a local primary school to see if I could help in any way. By their shabby clothing it was obvious that the children were from poor families. Almost all of them were black. A secretary in the administrative office told me 1 was free to look around. As I walked through the hallways I heard children talking, laughing and yelling through every door.
+
+When I entered a classroom for nine year-olds, I found nothing short of chaos. Not only were all the children busy in loud games of their own, ignoring the teacher, some were chasing others around the room, knocking over chairs, desks, whatever got in their way. Meanwhile, the teacher was sitting at her desk, reading something. I approached her.
+
+"Excuse me, ma'am," I said, "I wonder if there is any way I could help you." 
+
+She looked up, surprised. "Well, that's right kind of yo'all," she said to me.
+
+"Alrightee, thank yo'all. I'll just be on down to the lounge for a cup of coffee, and yo'all can take over the class." 
+
+Before I could express my astonishment, she stood up and left the room. The students didn't even notice. 
+
+I looked at all of them, sat down at the teacher's desk, and closed my eyes. 
+As I thought of Baba, an idea entered my head. 
+
+"Children!" I said loudly above all their racket. 
+
+Most of them spun around and shouted, "Yes!" 
+
+"Would you like to play a game?" 
+
+"Yes!" 
+
+"Okay. Come and sit down near to me." 
+
+Immediately they all ran forward, pushing and knocking against each other, 
+laughing and arguing over who could sit nearest to me. A desk was knocked 
+down, and a new fist-fight erupted for a few moments. 
+
+"This is a very special game you never played before. Are you sure you want to 
+do it?" "Yes!" 
+
+"But you have to be very different than usual to play it. Can you really do 
+that?" "Yes!" 
+
+I dropped my voice low and said, "You'll have to be very very quiet to 
+play. I don't think you can do that. Do you really think you can play this special 
+game?" 
+
+"Yes!" they yelled in a whisper. 
+
+Two boys pushed each other. Pointing at them, I said, "You two can play a 
+different game, it's okay. You go over to that corner, and play your own game." 
+
+The two jumped up and ran to the far corner of the room. For about ten 
+seconds they pushed each other. Then they sat down and looked at the rest of 
+us. 
+
+"Now, I want you all to close your eyes for a moment." 
+
+they all shut their eyes. Taking advantage of the situation, one boy pulled 
+the ears of another boy, who turned around and pulled the pig-tails of a girl. 
+
+"Open your eyes," I said. I directed the two pullers to go and play their 
+game in the comer. Like the first two, they ran at full speed to the comer, were 
+raucous for a few seconds, and then sat quietly looking at us. 
+
+"Now, this time when you close your eyes, I want you to imagine 
+something that you like more than anything else in the world." 
+
+Again they closed their eyes. No sound, no movement. Even the boys in 
+the comer closed their eyes. 
+
+After about ten seconds I said, "Okay very good. Open your eyes. What 
+did you see?" 
+
+"Chocolate cake!" 
+
+"Mary Sue!" 
+
+"A miniature electric train!" 
+
+Their answers went on until I heard "Presents around the Christmas tree!" 
+
+"Stop!" I said, holding up my hand. "You all did very nicely. Let's take one 
+of these: presents around the Christmas tree. I like that too. Have any of you 
+seen snow?" 
+
+"Yes,” they all said. 
+
+"Mas anyone never seen snow?" 
+
+Silence. Even though Jackson is a hot place, I guess they'd all seen snow, 
+at least on television. 
+
+"Okay, great. Now let's all think about Christmas, boys and girls. Yes, close your eyes again. Good. Now imagine it's really Christmas, and you're sitting at home in front of the fireplace because it's cold outside and it's snowing. You feel nice and cozy by the fire, and you look out the window and see all that snow falling. And it's so beautiful. Lots and lots of white white snow. Now your body becomes very small, and very light, and you float out the window, and you're floating in the snowflakes, and you feel so happy and light and white. And you go higher and higher in the beautiful snowflakes, and you're all
+
+alone. And then you see the sun shining. And you float toward the sun. 
+It's great, it's fun, it's beautiful. And you're flying toward the sun, riding 
+on the sun's rays. And everywhere is light and light and more light. 
+And your body is full of light. And your mind is full of light. And 
+
+you're becoming a ray of light. And you mix with that light, and enjoy 
+it. Ah, it's so beautiful, and you feel better than ever in your life, and 
+so quiet and peaceful and happy. And you feel that you love every¬ 
+body. And you feel you're a ray of love. It's so beautiful. You're so 
+
+beautiful and loving and love, only love, only love..." 
+
+Toward the end my voice became softer and softer until it faded 
+
+away. I meditated with them for about fifteen seconds. Then I opened 
+my eyes. They were all pin-drop quiet, sitting with eyes closed, includ¬ 
+ing the boys in the corner. 
+
+"Okay," I whispered. "Very good. Open your eyes slowly." 
+
+Most of them opened their eyes, though a few kept them closed. 
+Their eyes glistened, and their faces shone. 
+
+"You're very beautiful children," I said. "You're so full of love. I 
+love you, and I'm sure God loves you too. And I'm sure you love ev¬ 
+erybody. So ... what do you like to say now?" 
+
+"I love everybody," one boy said. 
+
+"Me too! Me too! I love everybody!" came a chorus of voices. 
+
+Just in that moment the teacher appeared at the door. Her eyes 
+opened wide, and she raised her arms. 
+
+"I can't believe it," she said. As she walked in, the children looked at her, and 
+started chitchatting lightly between themselves. She came up to me. 
+
+"How did you manage to get them like this?" Before I could answer, the school bell rang. "Ask them." I said. 
+
+Yesterday and today I went again to that school. The same teacher asked me 
+to come to her classroom, saying that her children had been much quieter and 
+nicer after my visit. But I told her I wanted to try other classrooms. 
 
 
-Yesterday, two of my cousins and I went to a public meeting of an Indian spiritual movement just starting in America. The main attraction was the mother of the guru, together with the two leading teachers of the movement— all of whom are supposed to be living saints. The guru is still in India. 
 
-The lecture had already started when we arrived. We slipped in at the back of the room, which was packed with about 200 people. The teacher who was lecturing turned toward me and stared. He kept his eyes fixed on me even while singing. 
+I did more or less the same in two more classes with good results. But for 
+today's class I also taught them to sing Baba Nam Kevalam. It was even better, 
+because there's hardly anything kids like more than singing. 
 
-But was he really looking at me? To find out, I moved to other sides of the hall. 
+All the teachers in the school heard about these programs, and many of 
+them requested me to come to their classrooms. 
 
-His eyes remained glued on me until the end—about one hour. 
+When I told them I'm leaving Mississippi this week, they were dis¬ 
+appointed. 
 
-When the lecture finished, I was curious, to say the least. About 10 disciples were there, and it seemed all had noticed the teacher staring at me. 
+Don't move! 
 
-They also seemed to be wondering why. I requested an interview. 
+As I began morning meditation, a thought crossed my mind: "I shall be 
+inflexibly rigid. No matter what uneasiness I feel, I shall not move." 
 
-The teacher said to me, "We are leaving Chicago just now. Come to the airport, and we will talk there." 
+Until today, each and every time I practiced meditation, I inevitably shifted 
+my weight or my legs a few times. Though I knew I should not move, I never 
+adhered strictly to the system. 
 
-Together with several disciples, my cousins and I drove to the airport. After 
-checking in. the two teachers and the mother took me aside, alone. 
+This time, however, when itching asked for scratching, nervous tension demanded release, and pain shouted for relief—I did not give in. Though it was very difficult, I didn't move even a fraction of an inch. Slowly, all the mental and physical chatter lessened, and finally ceased. My mind sunk deep into meditation, and I achieved a consciousness previously unknown to me.
 
-"Who are you?" they asked. 
-
-"I'm going to India in a few days. I'm an Ananda Margi." 
-
-They laughed uproariously. I was shocked. 
-
-"Oh, Ananda Marga! Violent, dangerous people! You must have nothing to 
-do with them." 
-
-I asked for the source of their malicious information. They spoke of various 
-so-called scandals, but added nothing convincing. 
-
-Then they said, "Whether you believe in Ananda Marga doesn't matter. The 
-important fact is we give you Cosmic Knowledge instantly. You will see Light 
-and hear Music." 
-
-"Okay. Please give me the initiation here now," I said. 
-
-"No, no. You meet us in Denver. We will hold big seminar there. You must 
-join and then you receive initiation." 
-
-"I'm going to India. Why should I change? How can I know if your 
-Knowledge is correct or not?" 
-
-For 20 minutes they tried to persuade me. 
-
-At the end of that time, two sentences finally struck me: "We are opening 
-doorway to God. You should at least try." I couldn't deny that. 
-
-
-I immediately canceled my flight to India, and re-booked for Denver 
-reasoning that I could always go to India later if their promises proved empty. 
-
-In the evening, I arrived home with my cousins. They were excited and I 
-was inspired. Everyone was pleased when they heard that I would be staying in 
-America. Only my father was frustrated. 
-
-"How could you change your mind so easily?" he asked. "Looks like your 
-commitment was not so deep as you made it out to be." 
-
-As the evening wore on, a strange feeling developed. Something was 
-wrong, though I had no idea what. "What is it, God? How am I failing You?" I 
-thought. 
-
-Confusion overtook me. Struggling to get free, the anxiety only increased. I 
-asked Baba and God to save me. At last I fell asleep, fully prostrate, praying for 
-guidance. 
-
-When I woke up this morning at 6:00 a.m., I was still lying in the same 
-position. I had been dreaming and the meaning of the dream seemed 
-unmistakably clear. Thrilled to the bone, I jumped up to phone Dada Birendra 
-Lai. 14 
-
-I quickly told him about yesterday's experience. Then I told him my dream: 
-
-"Dadaji, I was in India in a room with about forty or fifty people. Baba sat 
-in the front, facing us and speaking. We all knew that Bindeshwari was in the 
-next room. You know, the Bindeshwari who died and was brought back to life 
-by Baba's touch, and who now has miraculous psychic powers." 
-
-"Yes, yes. I know him very well." 
-
-"Well, we could hear many persons in that room being affected by 
-Bindeshwari's touch on their foreheads—they were shouting, sighing, and 
-gasping as they entered into high states of consciousness. It seemed that each of 
-us in the room with Baba was thinking, T wish I were there', 
-
-14 At this time there were three Dadas, or acharyas, in the USA. One was a renunciate (Dada 
-Yatishvarananda, the Dada who taught me meditation), and the other two were married. Dada 
-Birendra Lai was a family man, employed in Chicago as an engineer. In the beginning years of 
-Ananda M arga, all the acharyas were family people. The renunciate or monk system only came 
-later. The two family acharyas were from the original group, and thus had long experience on 
-the spiritual path. While maintaining his normal family responsibilities Dada Birendra also 
-guided our Chicago meditation group. The third Dada, also married, lived and worked in 
-Philadelphia. 
-
-
-as we all looked at the wall separating us from ecstasy. Only Baba was 
-unimpressed. He turned toward the wall and yelled through it, 'Will you little 
-children please be quiet!' In that same moment I woke up. 
-
-"Doesn't it show, Dadaji, that Baba doesn't give much importance to such 
-psychic phenomena? Surely it would be worse than a waste of time for me to go 
-to Denver, just running after occult experience. I think I have to give myself to 
-God, not try to get something for myself. Isn't is so, Dada?" 
-
-"In 1955," Dada replied, "one devotee said to Baba, We've received 
-everything by Your grace. Baba. Why don't you give bliss to everyone in the 
-world right now? Why wait?' He said, T have not come to give instant bliss. 
-That would defeat the purpose of life. Your purpose is to realize love-for- 
-everyone-and-everything. You have to work for that.'" 
-
-I canceled the ticket for Denver and re-booked for India. 15 
-
-Don't thank me 
-
-On the way to India I spent one day in New York City. I arranged to meet 
-Paul at a bus stop near his house. When I stepped off the bus. he was standing 
-about 150 meters away. When he saw me, his face lit up with a big smile. In 
-Mississippi I had never seen him smile even once. He ran toward me and we 
-embraced. 
-
-The first thing he blurted out was, "You'll never believe it! In the last days 
-I've been strongly desiring to do meditation, but couldn't remember my mantra, 
-lust now as I saw you, I suddenly remembered it! Thank you. thank you. thank 
-you!" 
-
-
-15 Though Bindeshwari did clinically die, according to yoga it is possible that he never actually 
-died. Yoga says that death is a process in which ultimately both the nerve cells and fibers die. 
-There are, however, some cases in which only the nerve fibers die, but the nerve cel Is continue to 
-live. Doctors declare that person to be clinically dead. This might have been Bindeshwari's 
-situation. 
-
-Baba did several times demonstrate that a person whose nerve fibers were dead but nerve 
-cells alive could be restored to life, a phenomenon which medical science has not yet understood. 
-
-Bindeshwari had some ability to raise the consciousness of others by his touch. It is a 
-common occult power which is accessible to advanced spiritual aspirants. Though this same 
-occult power was displayed by Baba innumerable times, He often explained the science behind 
-it, together with the dangers inherent in misusing the power. 
-
+A simple, effective technique: don't move a muscle! Isn't it odd that 1 didn't try it before? 

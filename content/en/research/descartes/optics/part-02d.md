@@ -1,6 +1,6 @@
 ---
-title: "Refraction2"
-heading: "Part 2b"
+title: "How the size of refractions should be measured."
+heading: "Part 2d"
 weight: 9
 writer:
   name: Rene Descartes

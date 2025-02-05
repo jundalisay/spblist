@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 12b"
-title: "The Superphysics Future"
+title: "The Superphysics Direction"
 date: 2022-01-22
-image: "/photos/psych/binoculars.jpg"
+image: "/photos/psych/hall.jpg"
 description: "Superphysics opens up a new course for the future that is impossible with the current science"
 weight: 72
 writer:
@@ -13,7 +13,23 @@ icontext: Superphysics icon
 ---
 
 
+
 The vision of Superphysics is a new reality which has freed itself from the shackles of ego, materialism, and the Negative Force. 
+
+This creates a transition period for learning the basics of how the universe really works. 
+
+This is similar to high school level. 
+
+Graduation from the high school level enables the human species to be employed for higher purposes such as doing service to the nearby star systems. 
+
+Experience in our stellar neighborhood will then be the start of university where humans will learn how the entire galaxy works. 
+
+This will then allow human employment for the service of the galaxy. 
+
+Graduation from this level will lead to the masters level wherein humans can go beyond the galaxy and physical existence itself. 
+
+Mastery of that level will allow huumans to evolve beyond physicality. At that point, Superhysics itself will need to be overhauled to explain the nature of non-physical reality. 
+
 
 
 ## Supereconomics

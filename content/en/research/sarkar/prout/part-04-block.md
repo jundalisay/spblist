@@ -9,7 +9,8 @@ icon: "/icons/sarkar.png"
 ---
 
 
-{{< img src="/photos/happysuccess.jpg" >}}
+{{< img src="/photos/psych/freedom.jpg" >}}
+
 
 In a decentralized economy, economic planning is to be undertaken for the welfare of the local people.
 
