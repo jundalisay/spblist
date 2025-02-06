@@ -1,6 +1,6 @@
 ---
-heading: Chapter 1
-title: "A Discourse On Political Economy"
+heading: Part 1
+title: "What is Economy?"
 description: ""
 image: "/covers/rousseau.jpg"
 weight: 4
@@ -47,50 +47,97 @@ But in the state:
 - the political authority is:
   - purely arbitrary
   - founded only on conventions
-- the Magistrate can have no authority over the rest, except by virtue of the laws. The duties of a father are dictated to him by natural feelings, and in a manner that seldom allows him to neglect them. For rulers there is no such principle, and they are really obliged to the people only by what they themselves have promised to do, and the people have therefore a right to require of them. 
+- the Magistrate only has authority by virtue of the laws. 
 
-Another more important difference is that since the children have nothing but what they receive from their father, it is plain that all the rights of property belong to him, or emanate from him; but quite the opposite is the case in the great family, where the general administration is established only to secure individual property, which is antecedent to it. 
+The duties of a father are dictated to him by natural feelings which seldom allows him to neglect them.
 
-The principal object of the work of the whole house is to preserve and increase the patrimony of the father, in order that he may be able some day to distribute it among his children without impoverishing them; whereas the wealth of the exchequer is only a means, often ill understood, of keeping the individuals in peace and plenty. In a word, the little family is destined to be extinguished, and to resolve itself some day into several families of a similar nature; but the great family, being constituted to endure for ever in the same condition, need not, like the small one, increase for the purpose of multiplying, but need only maintain itself; and it can easily be proved that any increase does it more harm than good.
+For rulers there is no such principle. They are really obliged to the people only by what they have promised. 
 
-In the family, it is clear, for several reasons which lie in its very nature, that the father ought to command. In the first place, the authority ought not to be equally divided between father and mother; the government must be single, and in every division of opinion there must be one preponderant voice to decide. Secondly, however lightly we may regard the disadvantages peculiar to women, yet, as they necessarily occasion intervals of inaction, this is a sufficient reason for excluding them from this supreme authority: for when the balance is perfectly even, a straw is enough to turn the scale. 
+The people have therefore a right to require of them. 
 
-Besides, the husband ought to be able to superintend his wife's conduct, because it is of importance for him to be assured that the children, whom he is obliged to acknowledge and maintain, belong to no-one but himself. Thirdly, children should be obedient to their father, at first of necessity, and afterwards from gratitude: after having had their wants satisfied by him during one half of their lives, they ought to consecrate the other half to providing for his. Fourthly, servants owe him their services in exchange for the provision he makes for them, though they may break off the bargain as soon as it ceases to suit them. I say nothing here of slavery, because it is contrary to nature, and cannot be authorised by any right or law.
+The children only have what they receive from their father.
 
-There is nothing of all this in political society, in which the chief is so far from having any natural interest in the happiness of the individuals, that it is not uncommon for him to seek his own in their misery. If the magistracy is hereditary, a community of men is often governed by a child. If it be elective, innumerable inconveniences arise from such election; while in both cases all the advantages of paternity are lost. If you have but a single ruler, you lie at the discretion of a master who has no reason to love you: and if you have several, you must bear at once their tyranny and their divisions. In a word, abuses are inevitable and their consequences fatal in every society where the public interest and the laws have no natural force, and are perpetually attacked by personal interest and the passions of the ruler and the members.
+All the rights of property belong to him, or emanate from him.
 
-Although the functions of the father of a family and those of the chief magistrate ought to make for the same object, they must do so in such different ways, and their duty and rights are so essentially distinct, that we cannot confound them without forming very false ideas about the fundamental laws of society, and falling into errors which are fatal to mankind. In fact, if the voice of nature is the best counsellor to which a father can listen in the discharge of his duty, for the Magistrate it is a false guide, which continually prevents him from performing his, and leads him on sooner or later to the ruin of himself and of the State, if he is not restrained by the most sublime virtue. The only precaution necessary for the father of a family is to guard himself against depravity, and prevent his natural inclinations from being corrupted; whereas it is these themselves which corrupt the Magistrate. In order to act aright, the first has only to consult his heart; the other becomes a traitor the moment he listens to his. Even his own reason should be suspect to him, nor should he follow any rule other than the public reason, which is the law. Thus nature has made a multitude of good fathers of families; but it is doubtful whether, from the very beginning of the world, human wisdom has made ten men capable of governing their peers.
+But in a state, the general administration is established only to secure individual property, which is antecedent to it. 
 
-From all that has just been said, it follows that public economy, which is my subject, has been rightly distinguished from private economy, and that, the State having nothing in common with the family except the obligations which their heads lie under of making both of them happy, the same rules of conduct cannot apply to both. I have considered these few lines enough to overthrow the detestable system which Sir Robert Filmer has endeavoured to establish in his Patriarcha; a work to which two celebrated writers have done too much honour in writing books to refute it. Moreover, this error is of very long standing; for Aristotle himself thought proper to combat it with arguments which may be found in the first book of his Politics.
+The principal object of the work of the whole house is to preserve and increase the patrimony of the father, in order that he may be able some day to distribute it among his children without impoverishing them; whereas the wealth of the exchequer is only a means, often ill understood, of keeping the individuals in peace and plenty.
 
-I must here ask my readers to distinguish also between public economy, which is my subject and which I call government, and the supreme authority, which I call Sovereignty; a distinction which consists in the fact that the latter has the right of legislation, and in certain cases binds the body of the nation itself, while the former has only the right of execution, and is binding only on individuals.
+The family is destined to be extinguished unnless it multiplies.
 
-I shall take the liberty of making use of a very common, and in some respects inaccurate, comparison, which will serve to illustrate my meaning.
+ <!-- and to resolve itself some day into several families of a similar nature;  -->
 
-The body politic, taken individually, may be considered as an organised, living body, resembling that of man. The sovereign power represents the head; the laws and customs are the brain, the source of the nerves and seat of the understanding, will and senses, of which the Judges and Magistrates are the organs: commerce, industry, and agriculture are the mouth and stomach which prepare the common subsistence; the public income is the blood, which a prudent economy, in performing the functions of the heart, causes to distribute through the whole body nutriment and life: the citizens are the body and the members, which make the machine live, move and work; and no part of this machine can be damaged without the painful impression being at once conveyed to the brain, if the animal is in a state of health.
+But the state is constituted to endure forever in the same condition. It does not need to multiply. It only needs to maintain itself.
 
-The life of both bodies is the self common to the whole, the reciprocal sensibility and internal correspondence of all the parts. Where this communication ceases, where the formal unity disappears, and the contiguous parts belong to one another only by juxtaposition, the man is dead, or the State is dissolved.
+Any increase does it more harm than good.
 
-The body politic, therefore, is also a moral being possessed of a will; and this general will, which tends always to the preservation and welfare of the whole and of every part, and is the source of the laws, constitutes for all the members of the State, in their relations to one another and to it, the rule of what is just or unjust: a truth which shows, by the way, how idly some writers have treated as theft the subtlety prescribed to children at Sparta for obtaining their frugal repasts, as if everything ordained by the law were not lawful.
+In the family, the father should command, for the following reasons:
 
-It is important to observe that this rule of justice, though certain with regard to all citizens, may be defective with regard to foreigners. The reason is clear. The will of the State, though general in relation to its own members, is no longer so in relation to other States and their members, but becomes, for them, a particular and individual will, which has its rule of justice in the law of nature. This, however, enters equally into the principle here laid down; for in such a case, the great city of the world becomes the body politic, whose general will is always the law of nature, and of which the different States and peoples are individual members. From these distinctions, applied to each political society and its members, are derived the most certain and universal rules, by which we can judge whether a government is good or bad, and in general of the morality of all human actions.
+1. The authority ought not to be equally divided between father and mother.
 
-Every political society is composed of other smaller societies of different kinds, each of which has its interests and its rules of conduct: but those societies which everybody perceives, because they have an external and authorised form, are not the only ones that actually exist in the State: all individuals who are united by a common interest compose as many others, either transitory or permanent, whose influence is none the less real because it is less apparent, and the proper observation of whose various relations is the true knowledge of public morals and manners. The influence of all these tacit or formal associations causes, by the influence of their will, as many different modifications of the public will. The will of these particular societies has always two relations; for the members of the association, it is a general will; for the great society, it is a particular will; and it is often right with regard to the first object, and wrong as to the second. An individual may be a devout priest, a brave soldier, or a zealous senator, and yet a bad citizen. A particular resolution may be advantageous to the smaller community, but pernicious to the greater. It is true that particular societies being always subordinate to the general society in preference to others, the duty of a citizen takes precedence of that of a senator, and a man's duty of that of a citizen: but unhappily personal interest is always found in inverse ratio to duty, and increases in proportion as the association grows narrower, and the engagement less sacred; which irrefragably proves that the most general will is always the must just also, and that the voice of the people is in fact the voice of God.
+The government must be single. In every division of opinion, there must be one preponderant voice to decide.
 
-It does not follow that the public decisions are always equitable; they may possibly, for reasons which I have given, not be so when they have to do with foreigners. Thus it is not impossible that a Republic, though in itself well governed, should enter upon an unjust war. Nor is it less possible for the Council of a Democracy to pass unjust decrees, and condemn the innocent; but this never happens unless the people is seduced by private interests, which the credit or eloquence of some clever persons substitutes for those of the State; in which case the general will will be one thing, and the result of the public deliberation another. This is not contradicted by the case of the Athenian Democracy; for Athens was in fact not a Democracy, but a very tyrannical Aristocracy, governed by philosophers and orators. Carefully determine what happens in every public deliberation, and it will be seen that the general will is always for the common good; but very often there is a secret division, a tacit confederacy, which, for particular ends, causes the natural disposition of the assembly to be set at nought. In such a case the body of society is really divided into other bodies, the members of which acquire a general will, which is good and just with respect to these new bodies, but unjust and bad with regard to the whole, from which each is thus dismembered.
+2. In a family, women necessarily have intervals of inaction.
 
-We see then how easy it is, by the help of these principles, to explain those apparent contradictions, which are noticed in the conduct of many persons who are scrupulously honest in some respects, and cheats and scoundrels in others, who trample under foot the most sacred duties, and yet are faithful to the death to engagements that are often illegitimate. Thus the most depraved of men always pay some sort of homage to public faith; and even robbers, who are the enemies of virtue in the great society, pay some respect to the shadow of it in their secret caves.
+This is a sufficient reason for excluding them from this supreme authority.
 
-In establishing the general will as the first principle of public economy, and the fundamental rule of government, I have not thought it necessary to inquire seriously whether the Magistrates belong to the people, or the people to the Magistrates; or whether in public affairs the good of the State should be taken into account, or only that of its rulers. 
+For when the balance is perfectly even, a straw is enough to turn the scale. 
 
-That question indeed has long been decided one way in theory, and another in practice; and in general it would be ridiculous to expect that those who are in fact masters will prefer any other interest to their own. 
+Besides, the husband should be able to superintend his wife's conduct, because it is of importance for him to be assured that the children, whom he is obliged to acknowledge and maintain, belong to no-one but himself.
 
-We can classify public economy as either:
+3. Children should be obedient to their father, at first of necessity, and afterwards from gratitude.
 
-1. Popular
+After having had their wants satisfied by him during one half of their lives, they ought to consecrate the other half to providing for his. 
 
-Here the people and the rulers have united interest and will. The rules of this are found only in the writings of philosophers who proclaim the rights of humanity.
+4. Servants owe him their services in exchange for the provision he gives.
 
-2. Tyrannical
+They may break off the bargain as soon as it ceases to suit them. I say nothing here of slavery, because it is contrary to nature, and cannot be authorised by any right or law.
 
-Here, the people have different interests, and, consequently, opposing wills. The rules of this is in the archives of history, and in the satires of Macchiavelli.
+There is nothing of all this 4 in political society. The leader of society does not have any natural interest in the happiness of the individuals.
+
+This is why it is not uncommon for him to seek his own happiness in their misery. 
+
+If the magistracy is hereditary, the state is often governed by a child. 
+
+If it be elective, innumerable inconveniences arise from such election.
+
+In both cases, all the advantages of paternity are lost. 
+
+- If you have but a single ruler, you lie at the discretion of a master who has no reason to love you.
+- If you have several, you must bear at once their tyranny and their divisions. 
+
+Abuses are inevitable. Their consequences are fatal in every society where the public interest and the laws have no natural force, and are perpetually attacked by personal interest and the passions of the ruler and the members.
+
+The functions of the father and those of the chief magistrate should make for the same object. But they must do so in such different ways.
+
+Their duty and rights are so essentially distinct. We cannot confound them without forming very false ideas about the fundamental laws of society, and falling into errors which are fatal to mankind.
+
+The father can trust the voice of nature in the discharge of his duty.
+
+But for the Magistrate, the voice of nature is a false guide. It continually:
+- prevents him from performing his, 
+- leads him to the ruin of himself and of the State, if he is not restrained by the most sublime virtue. 
+
+The father only needs to:
+- guard himself against depravity
+- prevent his natural inclinations from being corrupted
+
+Whereas it is these themselves which corrupt the Magistrate. 
+
+In order to act aright:
+- the father has only to consult his heart.
+- the magistrate must not listen to his heart.
+  - Even his own reason should be suspect to him, nor should he follow any rule other than the public reason, which is the law.
+
+Thus nature has made a multitude of good fathers of families; but it is doubtful whether, from the very beginning of the world, human wisdom has made ten men capable of governing their peers.
+
+It follows that:
+- public economy has been rightly distinguished from private economy
+- the State has nothing in common with the family except the obligations which their heads lie under of making both of them happy, the same rules of conduct cannot apply to both.
+
+I overthrow the detestable system of Sir Robert Filmer's Patriarcha.
+
+<!-- ; a work to which two celebrated writers have done too much honour in writing books to refute it.  -->
+
+Moreover, this error is of very long standing; for Aristotle himself thought proper to combat it with arguments which may be found in the first book of his Politics.
+

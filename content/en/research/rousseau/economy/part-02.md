@@ -1,6 +1,7 @@
 ---
-heading: Chapter 1
-title: "We Must Always Go Back To A First Convention"
+heading: Part 2
+title: The Rules of legitimate or popular government
+# "We Must Always Go Back To A First Convention"
 description: ""
 image: "/covers/rousseau.jpg"
 weight: 4
@@ -8,7 +9,7 @@ date: 2025-01-11
 ---
 
 
-### The Rules of legitimate or popular government
+<!-- ### The Rules of legitimate or popular government -->
 
 Rule 1. Follow in everything the general will
 
