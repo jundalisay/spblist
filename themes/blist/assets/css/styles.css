@@ -1,0 +1,361 @@
+/* Tailwind base - put variables under: tailwind.config.js */
+@import "node_modules/tailwindcss/base";
+/* Tailwind component classes registered by plugins*/
+@import "node_modules/tailwindcss/components";
+/* Site Specific */
+@import "assets/css/site";
+/* Paginator */
+@import "assets/css/paginator";
+/* Tailwind's utility classes - generated based on config file */
+@import "node_modules/tailwindcss/utilities";
+@layer components {
+  details.toc[open] summary ~ * {
+    animation: slideUp 0.25s ease-in-out;
+  }
+
+  @keyframes slideUp {
+    0% {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  details.toc[open] summary svg {
+    @apply transform duration-200 rotate-180 ease-in-out;
+  }
+
+  details.toc > ul {
+    @apply ml-4;
+  }
+
+  details.toc ul {
+    @apply list-none;
+    margin-top: 0.125rem /* 2px */ !important;
+    margin-bottom: 0.125rem /* 2px */ !important;
+  }
+  details.toc ul li {
+    margin-top: 0.125rem /* 2px */ !important;
+    margin-bottom: 0.125rem /* 2px */ !important;
+  }
+  details.toc ul li:before {
+    @apply rounded-none bg-gray-400;
+  }
+  details.toc ul li a {
+    @apply no-underline text-gray-700 dark:text-gray-200 text-base;
+  }
+
+  a:empty {
+    display: none;
+  }
+}
+
+/*strong {color: darkcyan !important;}*/
+
+/*.prose strong {color: darkcyan !important;}*/
+
+.zoom:hover { transform: scale(1.05); transition: 0.1s; -webkit-filter: grayscale(100%); filter: grayscale(100%);}
+
+
+[data-sal]{transition-duration:.2s;transition-duration:var(--sal-duration,.2s);transition-delay:0s;transition-delay:var(--sal-delay,0s);transition-timing-function:ease;transition-timing-function:var(--sal-easing,ease)}[data-sal][data-sal-duration="200"]{transition-duration:.2s}[data-sal][data-sal-duration="250"]{transition-duration:.25s}[data-sal][data-sal-duration="300"]{transition-duration:.3s}[data-sal][data-sal-duration="350"]{transition-duration:.35s}[data-sal][data-sal-duration="400"]{transition-duration:.4s}[data-sal][data-sal-duration="450"]{transition-duration:.45s}[data-sal][data-sal-duration="500"]{transition-duration:.5s}[data-sal][data-sal-duration="550"]{transition-duration:.55s}[data-sal][data-sal-duration="600"]{transition-duration:.6s}[data-sal][data-sal-duration="650"]{transition-duration:.65s}[data-sal][data-sal-duration="700"]{transition-duration:.7s}[data-sal][data-sal-duration="750"]{transition-duration:.75s}[data-sal][data-sal-duration="800"]{transition-duration:.8s}[data-sal][data-sal-duration="850"]{transition-duration:.85s}[data-sal][data-sal-duration="900"]{transition-duration:.9s}[data-sal][data-sal-duration="950"]{transition-duration:.95s}[data-sal][data-sal-duration="1000"]{transition-duration:1s}[data-sal][data-sal-duration="1050"]{transition-duration:1.05s}[data-sal][data-sal-duration="1100"]{transition-duration:1.1s}[data-sal][data-sal-duration="1150"]{transition-duration:1.15s}[data-sal][data-sal-duration="1200"]{transition-duration:1.2s}[data-sal][data-sal-duration="1250"]{transition-duration:1.25s}[data-sal][data-sal-duration="1300"]{transition-duration:1.3s}[data-sal][data-sal-duration="1350"]{transition-duration:1.35s}[data-sal][data-sal-duration="1400"]{transition-duration:1.4s}[data-sal][data-sal-duration="1450"]{transition-duration:1.45s}[data-sal][data-sal-duration="1500"]{transition-duration:1.5s}[data-sal][data-sal-duration="1550"]{transition-duration:1.55s}[data-sal][data-sal-duration="1600"]{transition-duration:1.6s}[data-sal][data-sal-duration="1650"]{transition-duration:1.65s}[data-sal][data-sal-duration="1700"]{transition-duration:1.7s}[data-sal][data-sal-duration="1750"]{transition-duration:1.75s}[data-sal][data-sal-duration="1800"]{transition-duration:1.8s}[data-sal][data-sal-duration="1850"]{transition-duration:1.85s}[data-sal][data-sal-duration="1900"]{transition-duration:1.9s}[data-sal][data-sal-duration="1950"]{transition-duration:1.95s}[data-sal][data-sal-duration="2000"]{transition-duration:2s}[data-sal][data-sal-delay="50"]{transition-delay:.05s}[data-sal][data-sal-delay="100"]{transition-delay:.1s}[data-sal][data-sal-delay="150"]{transition-delay:.15s}[data-sal][data-sal-delay="200"]{transition-delay:.2s}[data-sal][data-sal-delay="250"]{transition-delay:.25s}[data-sal][data-sal-delay="300"]{transition-delay:.3s}[data-sal][data-sal-delay="350"]{transition-delay:.35s}[data-sal][data-sal-delay="400"]{transition-delay:.4s}[data-sal][data-sal-delay="450"]{transition-delay:.45s}[data-sal][data-sal-delay="500"]{transition-delay:.5s}[data-sal][data-sal-delay="550"]{transition-delay:.55s}[data-sal][data-sal-delay="600"]{transition-delay:.6s}[data-sal][data-sal-delay="650"]{transition-delay:.65s}[data-sal][data-sal-delay="700"]{transition-delay:.7s}[data-sal][data-sal-delay="750"]{transition-delay:.75s}[data-sal][data-sal-delay="800"]{transition-delay:.8s}[data-sal][data-sal-delay="850"]{transition-delay:.85s}[data-sal][data-sal-delay="900"]{transition-delay:.9s}[data-sal][data-sal-delay="950"]{transition-delay:.95s}[data-sal][data-sal-delay="1000"]{transition-delay:1s}[data-sal][data-sal-easing=linear]{transition-timing-function:linear}[data-sal][data-sal-easing=ease]{transition-timing-function:ease}[data-sal][data-sal-easing=ease-in]{transition-timing-function:ease-in}[data-sal][data-sal-easing=ease-out]{transition-timing-function:ease-out}[data-sal][data-sal-easing=ease-in-out]{transition-timing-function:ease-in-out}[data-sal][data-sal-easing=ease-in-cubic]{transition-timing-function:cubic-bezier(.55,.055,.675,.19)}[data-sal][data-sal-easing=ease-out-cubic]{transition-timing-function:cubic-bezier(.215,.61,.355,1)}[data-sal][data-sal-easing=ease-in-out-cubic]{transition-timing-function:cubic-bezier(.645,.045,.355,1)}[data-sal][data-sal-easing=ease-in-circ]{transition-timing-function:cubic-bezier(.6,.04,.98,.335)}[data-sal][data-sal-easing=ease-out-circ]{transition-timing-function:cubic-bezier(.075,.82,.165,1)}[data-sal][data-sal-easing=ease-in-out-circ]{transition-timing-function:cubic-bezier(.785,.135,.15,.86)}[data-sal][data-sal-easing=ease-in-expo]{transition-timing-function:cubic-bezier(.95,.05,.795,.035)}[data-sal][data-sal-easing=ease-out-expo]{transition-timing-function:cubic-bezier(.19,1,.22,1)}[data-sal][data-sal-easing=ease-in-out-expo]{transition-timing-function:cubic-bezier(1,0,0,1)}[data-sal][data-sal-easing=ease-in-quad]{transition-timing-function:cubic-bezier(.55,.085,.68,.53)}[data-sal][data-sal-easing=ease-out-quad]{transition-timing-function:cubic-bezier(.25,.46,.45,.94)}[data-sal][data-sal-easing=ease-in-out-quad]{transition-timing-function:cubic-bezier(.455,.03,.515,.955)}[data-sal][data-sal-easing=ease-in-quart]{transition-timing-function:cubic-bezier(.895,.03,.685,.22)}[data-sal][data-sal-easing=ease-out-quart]{transition-timing-function:cubic-bezier(.165,.84,.44,1)}[data-sal][data-sal-easing=ease-in-out-quart]{transition-timing-function:cubic-bezier(.77,0,.175,1)}[data-sal][data-sal-easing=ease-in-quint]{transition-timing-function:cubic-bezier(.755,.05,.855,.06)}[data-sal][data-sal-easing=ease-out-quint]{transition-timing-function:cubic-bezier(.23,1,.32,1)}[data-sal][data-sal-easing=ease-in-out-quint]{transition-timing-function:cubic-bezier(.86,0,.07,1)}[data-sal][data-sal-easing=ease-in-sine]{transition-timing-function:cubic-bezier(.47,0,.745,.715)}[data-sal][data-sal-easing=ease-out-sine]{transition-timing-function:cubic-bezier(.39,.575,.565,1)}[data-sal][data-sal-easing=ease-in-out-sine]{transition-timing-function:cubic-bezier(.445,.05,.55,.95)}[data-sal][data-sal-easing=ease-in-back]{transition-timing-function:cubic-bezier(.6,-.28,.735,.045)}[data-sal][data-sal-easing=ease-out-back]{transition-timing-function:cubic-bezier(.175,.885,.32,1.275)}[data-sal][data-sal-easing=ease-in-out-back]{transition-timing-function:cubic-bezier(.68,-.55,.265,1.55)}[data-sal|=fade]{opacity:0;transition-property:opacity}[data-sal|=fade].sal-animate,body.sal-disabled [data-sal|=fade]{opacity:1}[data-sal|=slide]{opacity:0;transition-property:opacity,transform}[data-sal=slide-up]{transform:translateY(20%)}[data-sal=slide-down]{transform:translateY(-20%)}[data-sal=slide-left]{transform:translateX(20%)}[data-sal=slide-right]{transform:translateX(-20%)}[data-sal|=slide].sal-animate,body.sal-disabled [data-sal|=slide]{opacity:1;transform:none}[data-sal|=zoom]{opacity:0;transition-property:opacity,transform}[data-sal=zoom-in]{transform:scale(.5)}[data-sal=zoom-out]{transform:scale(1.1)}[data-sal|=zoom].sal-animate,body.sal-disabled [data-sal|=zoom]{opacity:1;transform:none}[data-sal|=flip]{-webkit-backface-visibility:hidden;backface-visibility:hidden;transition-property:transform}[data-sal=flip-left]{transform:perspective(2000px) rotateY(-91deg)}[data-sal=flip-right]{transform:perspective(2000px) rotateY(91deg)}[data-sal=flip-up]{transform:perspective(2000px) rotateX(-91deg)}[data-sal=flip-down]{transform:perspective(2000px) rotateX(91deg)}[data-sal|=flip].sal-animate,body.sal-disabled [data-sal|=flip]{transform:none}
+
+.Adam, .Hunter {background-image: url(/icons/adam.png);}
+
+.Allah, .Spirit, .Soul {background-image: url(/icons/yellow.png);}
+
+.aris, .Aristotle {background-image: url(/icons/aris.png) !important;}
+
+.Arjuna, .Troops, .King, .Angulimala {background-image: url(/icons/arjuna.png);}
+
+.asker, .Asker {background-image: url(/icons/teacher.png);}
+
+.Avicenna {background-image: url(/avatars/avicenna.png);}
+
+.Bacon, .Francis-Bacon {background-image: url(/icons/bacon.png) !important;}
+
+.Banker {background-image: url(/icons/banker.png);}
+
+.Bashar {background-image: url(/avatars/bashar.jpg);}
+
+.Buddha, .buddha, .Bodhisatva {background-image: url(/avatars/buddha.jpg) !important;}
+
+.Christians {background-image: url(/icons/xmastree.png);}
+
+.Monks, .monks {background-image: url(/avatars/monks.jpg) !important;}
+
+.boni, .Bonifacio {background-image: url(/avatars/boni.png) !important;}
+
+.Carol-Lawrence {background-image: url(/avatars/carol.jpg);}
+
+.conf, .Confucius {background-image: url(/icons/conf.png);}
+
+.Desire {background-image: url(/icons/heart.png);}
+
+.descartes, .Descartes {background-image: url(/icons/descartes.png);}
+
+.Dharmavedananda {background-image: url(/avatars/dharma.jpg);}
+
+.Doctor, .Paul {background-image: url(/icons/whit.png);}
+
+
+.ein, .einstein, .Einstein {background-image: url(/icons/ein.png);}
+
+.einbla, .einblah, .Einstein-sophist {background-image: url(/icons/einbla.png);}
+
+.Enki, .Enki-Agent, .Enki-Agents, .Wrath {background-image: url(/icons/enki.png);}
+
+.Enlil-Followers, .Spies, .Rohita {background-image: url(/icons/g03.png)}
+
+.Enlil-Satan, .Anunnaki, .Enlil-Faction, .Enlil {background-image: url(/icons/enlil.png)}
+
+.Engels {background-image: url(/avatars/engels.jpg);}
+
+.Epicurus {background-image: url(/icons/epi.png);}
+
+.Eve {background-image: url(/icons/eve.png);}
+
+.People {background-image: url(/icons/farmer.png)}
+
+.Indian, .Margi {background-image: url(/icons/indian.png)}
+
+.Fresnel {background-image: url(/avatars/fresnel.jpg);}
+
+.Man, .Foreigner, .Father, .Joshua, .Planter, .Nagina, .g, .Glaucon, .Critobulus, .Neighbor, .Tsz-Chang, .Callias, .Demea, .kin, .Tsz-Kin, .Lin-Fang, .Echecrates, .Iamblichus, .Simon-Peter {
+  background-image: url(/icons/g01.png);
+}
+
+.Hegel {background-image: url(/avatars/hegel.png);}
+
+.Helmholtz {background-image: url(/avatars/helmholtz.jpg);}
+
+.Hitler {background-image: url(/avatars/hitler.jpg);}
+
+.Hooke {background-image: url(/avatars/hooke.jpg) !important;}
+
+.hume, .Hume, .David-Hume {background-image: url(/avatars/hume.png);}
+
+.Huygens {background-image: url(/avatars/huygens.png);}
+
+.ibn, .Ibn-Khaldun, .Aeschylus {background-image: url(/icons/ibn.jpg);}
+
+.Ignorance {background-image: url(/icons/question.png);}
+
+.Jesus {background-image: url(/avatars/jesus.png);}
+
+.Jews, .Israelites {background-image: url(/icons/il.png);}
+
+.jev, .Jevons {background-image: url(/avatars/jevons.png);}
+
+.Juan, .Chris {background-image: url(/avatars/jun.jpg);}
+
+.kant, .Kant {background-image: url(/avatars/kant.png);}
+
+.kepler, .Kepler, .Johannes-Kepler {background-image: url(/avatars/kepler.png);}
+
+.keynes, .Keynes, .John-Maynard-Keynes {background-image: url(/avatars/keynes.png);}
+
+.Knowledgeable {background-image: url(/icons/arab5.png) }
+
+.Krishna {background-image: url(/avatars/krishna.png);}
+
+.poincare, .Poincare {background-image: url(/avatars/poincare.png) !important;}
+
+.lao, .Lao-tzu, .Master {background-image: url(/avatars/lao.png);}
+
+.Lam {background-image: url(/avatars/lam.jpg);}
+
+.Leibniz {background-image: url(/avatars/leibniz.jpg);}
+
+
+.lor, .lorentz, .Lorentz {background-image: url(/icons/lor.png);}
+
+.Locke {background-image: url(/avatars/locke.jpg);}
+
+.mac {background-image: url(/avatars/macapagal.jpg) !important;}
+
+.mang, .Mang-i, .Mang-Wu, .Yen-Yung {background-image: url(/avatars/ava2.jpg);}
+
+.menger, .Menger, .G {background-image: url(/icons/menger.jpg);}
+
+.marshall, .Marshall {background-image: url(/avatars/marshall.jpg);}
+
+.marx, .Marx {background-image: url(/icons/marx.png);}
+
+.Saturn, .Mercury {background-image: url(/icons/atom.png);}
+
+.mill, .Mill, .John-Stuart-Mill {background-image: url(/icons/mill.png);}
+
+.Muslim, .Muslims {background-image: url(/icons/arab4.png) }
+
+.Bhadrapala, .Musa, .Abu-Bakr {background-image: url(/avatars/musa.png);}
+
+.Pythagoras {background-image: url(/icons/py.png);}
+
+.M {background-image: url(/icons/m.jpg);}
+
+.mont, .Montesquieu {background-image: url(/icons/mont.png);}
+
+.Narendra {background-image: url(/icons/vivekananda.jpg);}
+
+
+.Nature {background-image: url(/icons/cycles.png);}
+
+
+.Neptune {background-image: url(/icons/stars.png);}
+
+.newton, .Newton {background-image: url(/icons/newton.png);}
+
+.Old-man, .Men, .Levi {background-image: url(/icons/g08.png) !important;}
+
+.Question {background-image: url(/icons/question.png);}
+
+.quesnay, .Quesnay {background-image: url(/icons/quesnay.png);}
+
+.rama, .Ramakrishna {background-image: url(/avatars/rama.jpg);}
+
+.Ramus, .Hesiod {background-image: url(/icons/ramus.png) !important;}
+
+.ric, .Ricardo {background-image: url(/avatars/ricardo.jpg);}
+
+.riq, .Riqueti {background-image: url(/avatars/riq.png);}
+
+.Rizal {background-image: url(/icons/rizal.png);}
+
+.Sad {background-image: url(/icons/arab2.png) !important;}
+
+.say, .Say {background-image: url(/avatars/say.png);}
+
+.sam, .Samuelson, .Paul-Samuelson, .Silesaloma {background-image: url(/icons/sam.png);}
+
+.Sarkar, .PR-Sarkar, .Baba {background-image: url(/icons/sarkar.png) !important;}
+
+.schu, .EF-Schumacher {background-image: url(/avatars/ef.png) !important;}
+
+.smith, .Smith, .Adam-Smith {background-image: url(/avatars/smith.png) !important;}
+
+.Someone, .Blasphemer, .No-photo, .m, .Mohammad, .Mun, .Thomas-Mun {background-image: url(/avatars/blank.png);}
+
+.roger {background-image: url(/avatars/roger.jpg) !important;}
+
+.soc, .Socrates, .socrates, .Philo {background-image: url(/icons/socrates.png);}
+
+.Supereconomics {background-image: url(/icons/specon.png) !important;}
+
+.Surendra, .J, .Madhu, .Guard, .Dinkar {background-image: url(/icons/surendra.jpg);}
+
+.Material-Superphysics {background-image: url(/icons/spmat.png) !important;}
+
+.Spiritual-Superphysics {background-image: url(/icons/spi.png) !important;}
+
+.social, .Social-Superphysics {background-image: url(/icons/spsoc.png) !important;}
+
+.spmed, .Bio-Superphysics, .Medical-Superphysics {background-image: url(/icons/spmed50.png) !important;}\
+
+.sp, .Superphysics {background-image: url(/icons/sp.png) !important;}
+
+.spinoza, .Spinoza {background-image: url(/icons/spinoza.png) !important;}
+
+/*.sp::after, .Superphysics::after {
+  content: "Superphysics";
+  font-size: 8px;
+  margin-top: 100px;
+}*/
+
+.Thomas-Aquinas, .Aquinas {background-image: url(/icons/aquinas.png) !important;}
+
+.Timaeus, .Andrew {background-image: url(/icons/g05.png) }
+
+.pantry, .tao {background-image: url(/icons/pantry.png) !important;}
+
+.Umar {background-image: url(/icons/arab1.png) !important;}
+
+.Paracelsus, .Alchemist, .Euclid, .Homer {background-image: url(/icons/euclid.jpg);}
+
+.Cleinias, .ade, .Aaron, .Adeimantus, .Patanjali, .Tsz-Hi, .Tuan-Zhuan, .Disciples, .Meno, .Phaedo, .Zeno, .zeno {background-image: url(/icons/g02.png);}
+
+.Athenian, .Noah, .Believers, .Priest-of-Sais, .Prophet, .Elders, .Jacob, .Parmenides, .Ischomachus, .pole, .Polemarchus, .Boy, .Critias, .Devotee, .Judge, .Man, .Apollodorus {
+  background-image: url(/icons/g04.png);}
+
+.Mahut, .Pindar {background-image: url(/icons/g06.png) !important;}
+
+.Qian, .Wang-Sun-Ki, .Xiang-Zhuan, .Judas, .Tsz-Lu, .Gauri, .Ignorant {background-image: url(/icons/g07.png) !important;}
+
+.Disbelievers, .Teacher, .ceph, .Cephalus, .Tsz-Kung, .Zechariah, .Cebes, .Hippias-the-Sage, .Protagoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
+  background-image: url(/icons/g08.png);  
+}
+
+.Anytus, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung, .Sons {
+  background-image: url(/icons/g09.png) !important;
+}
+
+.Tsai-Wo, .Matthew, .Duke-Ngai, .Abraham, .Aristoteles, .Companion, .Tsz-Lu, .Crito, .Shopkeeper {background-image: url(/icons/g10.png);  }
+
+.Tsz-Yu, .Min-Tsz-Kienm, .Moses, .thra, .Thrasymachus, .Cleanthes {
+  background-image: url(/icons/moses.png);
+}
+
+.Aishah, .Mary, .Wife, .Woman, .Oracle, .Saradamani, .Brahmani, .Rahab, .Leah, .Gandhari {background-image: url(/icons/veil.png);}
+
+.Tesla {background-image: url(/avatars/tesla.png);}
+
+/* Chinese */
+.tsang, .Tsang-Sin, .Szma-Niu {background-image: url(/avatars/ava4.jpg);}
+
+.kung, .Kung-si, .Ki-Kang, .Tsi-Tiau-Kai {background-image: url(/avatars/ava3.jpg);}
+
+.Yatindra, .yu, .Yen-Yu, .Yen-Yuen, .Fan-Chi {background-image: url(/avatars/ava1.jpg);}
+
+
+.right { 
+  border-radius: 5px; 
+  box-shadow: 0px 5px 15px rgba(100, 100, 100, 175);
+  margin: 1% 0% 1% 3%;
+  padding: 10px; 
+}
+
+.left {
+  border-radius: 5px; 
+  box-shadow: 0px 5px 15px rgba(100, 100, 100, 175);
+  margin: 1% 3% 1% 0;
+  padding: 10px;
+}
+
+
+.squote {
+  transition-delay:.1s; 
+  transition-timing-function:cubic-bezier(.19,1,.22,1);
+  transition-duration:2s;
+}
+
+blockquote {
+  font-weight: 700;
+  font-size: 1.4rem;
+  line-height: 1.1;
+  font-style: normal !important;
+  word-break: break-word;
+/*  background-color: silver !important;*/
+/*  color: darkcyan !important;*/
+  color: mediumseagreen !important;
+  border-left-color: seagreen !important;
+}
+/*  border-left-color: turquoise */
+
+
+.box {
+  border-radius: 6px;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02);
+  display: block;
+  padding: 1.25rem;
+}
+
+cite {
+  font-weight: 300;
+  line-height: 1.7;
+  display: block;
+  text-align: right;
+  font-style: italic;
+  word-break: break-word;
+}

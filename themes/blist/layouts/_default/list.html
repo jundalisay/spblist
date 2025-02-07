@@ -1,0 +1,92 @@
+{{ define "main" }}
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2557957536703477"
+     crossorigin="anonymous"></script>
+<!-- horiz -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2557957536703477"
+     data-ad-slot="7902990808"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+  <div class="container px-6 pt-6 mx-auto"> 
+    <h1 class="container text-3xl font-bold">{{ .Title }}</h1>
+      <small>
+              {{ .Params.description }}        
+      </small>
+      <div id="breadcrumbs" class="text-gray-700 mb-4" style="text-decoration: none;">
+        <small>
+            {{- range .Ancestors.Reverse }}
+              {{ if .Params.linkTitle }}
+                <a href="{{ .RelPermalink }}">{{ .Params.linkTitle }}</a> /
+              {{- else }}
+                <a href="{{ .RelPermalink }}">{{ .Params.title }}</a> /          
+              {{- end }}
+            {{- end }}
+              {{ if .Params.linkTitle }}
+                <a href="{{ .RelPermalink }}">{{ .Params.linkTitle }}</a>
+              {{- else }}
+                <a href="{{ .RelPermalink }}">{{ .Params.title }}</a>          
+              {{- end }}
+              <!-- <a href="{{ .RelPermalink }}"> .Title </a> -->
+        </small>
+      </div>
+
+  </div>
+
+
+  {{ $paginator := .Paginate .Pages.ByWeight }}
+  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
+    {{ range $paginator.Pages }}
+
+      <a href="{{ .Permalink }}" title="{{ .Title }}" class="zoom max-w-sm rounded-lg overflow-hidden shadow-lg" data-sal="slide-down">
+        {{ if .Params.image }}
+        <img class="w-full" src="{{ .Params.image }}" alt="{{ .Params.title }}">
+        {{- else }}
+        {{- end }}
+
+              
+
+        <div class="px-6 py-4">
+          <small class="leading-none">
+            {{ .Params.heading }}
+          </small>
+          <div class="font-bold text-2xl mb-2 leading-none">{{ .Params.title }} &rarr;</div>
+          <!-- with .Params.date -->
+              {{ if .Params.showdate }}
+                <div class="leading-none text-gray-500">
+                   {{ .Params.date.Format "January 2, 2006"  }}
+                </div>
+              {{- else }}
+              {{- end }}
+
+        </div>
+      </a>
+
+    {{ end }}
+  </div>
+
+  {{- partial "pagination.html" . -}}
+  
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2557957536703477"
+     crossorigin="anonymous"></script>
+<!-- horiz -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2557957536703477"
+     data-ad-slot="7902990808"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+  {{- partial "social.html" . -}}
+{{ end }}
