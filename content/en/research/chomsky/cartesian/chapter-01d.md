@@ -8,11 +8,20 @@ image: "/covers/ling.png"
 
 Humboldt’s tries to develop a comprehensive theory of general linguistics using the Cartesian emphasis on the creative aspect of language use.36 
 
-Humboldt’s characterization of language as energeia (“activity” [Thätigkeit]) rather than ergon (“product” [Werk]),37 as “a generative activity [eine Erzeugung]” rather than “a lifeless product” [ein todtes Erzeugtes] extends and elaborates – often, in almost the same words – the formulations typical of Cartesian linguistics and romantic philosophy of language and aesthetic theory. 
+Humboldt’s characterization of language:
+- as energeia (“activity” [Thätigkeit]) rather than ergon (“product” [Werk])
+- as “a generative activity [eine Erzeugung]” rather than “a lifeless product”
+
+He extends and elaborates the formulations typical of Cartesian linguistics and romantic philosophy of language and aesthetic theory. 
 
 For Humboldt, the only true definition of language is “a productive activity” [eine genetische]: 
 
-“It is the ever repeated mental labour [Arbeit des Geistes] of making articulated sound capable of expressing thought (p. 57). 38 There is a constant and uniform factor underlying this “mental labour”; it is this which Humboldt calls the “Form” of language.39 It is only the underlying laws of generation that are fixed, in language. 
+{{< q >}}
+“It is the ever repeated mental labour [Arbeit des Geistes] of making articulated sound capable of expressing thought (p. 57).
+{{< /q >}}
+
+
+There is a constant and uniform factor underlying this “mental labour”; it is this which Humboldt calls the “Form” of language.39 It is only the underlying laws of generation that are fixed, in language. 
 
 The scope and manner in which the generative process may operate in the actual production of speech (or in speech perception, which Humboldt regards as a partially analogous performance – see pp. 105–106 below) are totally undetermined. (See note 38.)
 
