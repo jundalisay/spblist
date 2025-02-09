@@ -4,7 +4,7 @@ linkTitle: Chapter 6
 title: "The Demand Model"
 # date: 2022-03-27
 # date: 2022-08-10
-weight: 24
+weight: 60
 image: /graphics/econ/law1st.jpg
 description: "Unlike Economics which prioritizes the suppliers and their profit motive, Supereconomics prioritizes the demanders and their consumption motive."
 writer:

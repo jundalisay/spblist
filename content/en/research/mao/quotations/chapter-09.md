@@ -1,6 +1,6 @@
 ---
 title: The People's Army
-heading: Chapter 6
+heading: Chapter 9
 weight: 20
 description: Without a people's army the people have nothing.
 image: "/covers/quotations.jpg"

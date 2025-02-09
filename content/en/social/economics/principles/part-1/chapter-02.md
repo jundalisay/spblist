@@ -63,6 +63,9 @@ The caravans of Moors who go to Timbuktu, in the heart of Africa, do not need mo
 
 Basing value on weight is really basing it on its material density, since denser bodies are heavier. This is really a quantitative way. 
 
+
+## Money as a Store of Value
+
 Gradually, as humans became more civilized, they chose precious coins as their tool. The preciousness is the qualitative way. 
 
 Coins standardized the value and prevented fraud:
@@ -90,34 +93,40 @@ This manifests as paper assets and paper wealth that can be created or be made t
 These problems persist even today.
 
 
-### Grains as the Store of Value
 
-The root cause of the problem with economic value is the arbitrariness of the assignment of value due to the invention of paper bank notes and stock certificates.
+## Why Money Causes Problems
 
-This can be seen in:
-- checks that have no money
-- stock corporations that have wrong valuation 
-- financial statements with cooked books
+If we plug it into our 5 Strata model, we find that it occupies the lowest stratum. This is because, as a reprsentative number, it is purely quantitative and not qualitative. This makes it very precise, but at the expense of other information. 
 
-Even if money is avoided and metals are used, not all societies have gold and silver for facilitating transactions. 
+{{< i s="/graphics/econ/quality.jpg" a="Quality vs Quantity" c="Quantity reduces and loses information for the sake of precision" >}}
 
-<!-- It will not be a store of value that everyone can relate to.  -->
+For example, we can think of 3 tomatoes as either:
+- 3 real, red, wet, juicy, shiny tomatoes, or
+  - This one has a lot of information that is expressed during our perception of them.
+- `3` and `"tomato"`  
+  - This only has 2 pieces of infromation: `3` and `tomatoes`
 
-This is why Supereconomics uses the common food as the store of value. 
-- In most cases, these will be grains such as rice or wheat.  
-- In barren places that have little agriculture such as Greenland and Alaska, these are in fish or wild game.
-
-The important thing that they should be prevalent and known by all, as to be the common measure of economic valuation.
+<!-- we can think of 3 tomatoes as merely the number `3` and the word "tomato".  -->
 
 
-{{< q a="Smith" c="Wealth of Nations, Book 1 Chapter 11" >}}
-In every state of society and every stage of improvement, equal amounts of wheat will, more nearly represent equal amounts of labour than equal amounts of any rude produce.
+And so **quantitative resource mechanisms drastically reduce the amount of information in every transaction**. This is done so that decision makers can make quick decisions through aggregated data, instead of granularly making decisions for each item.
 
-In all the different stages of wealth and improvement, wheat is a more accurate measure of value than any other commodity.
+> Quantitative resource mechanisms drastically reduce the amount of information in every transaction
 
-In all those different stages, we can judge the real value of silver by comparing it with wheat than any other commodity.
-{{< /q >}}
+For example, assume you were a manager who had to fire 10% of your 100 staff who you did not personally know. To make a quick decision you would refer to some quantitative data like productivity or contribution to revenue. 
 
-This concept is the foundation of the grain index which will be used for: 
-- Net Domestic Product
-- Zero Inflation Goal 
+However, you might not be aware that some of your staff are contributing in non quantative means to the success of your company. 
+
+Relying too much on quantitative information alone would therefore lead to bad decisions. However, qualitative information would be hard to define or cause information overload. Or it would incur a cost to collect. 
+
+**The removal of qualitative information in favor of quantitative information fits the limiting tendency of the Negative Force.** This is opposed to the Positive Force that makes us curious and urges us to get more qualitative information.
+
+This is why large companies tend to rely mostly on quantitative information or metrics.
+
+
+Society can incur the cost of getting that qualitative information about its people because the purpose of society is not to get a quantity of money. It is to raise the quality of life. 
+
+Supereconomics uses both qualitative and quantitative information to get a more accurate valuation of goods, services, and living things in a supereconomy. 
+
+Information overload can be addressed by artificial intelligence.
+

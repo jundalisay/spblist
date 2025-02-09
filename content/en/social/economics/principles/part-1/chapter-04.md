@@ -3,7 +3,7 @@ heading: "Chapter 4"
 linkTitle: Chapter 4
 title: "Effective Demand and Absolute Demand"
 # date: 2022-08-18
-weight: 20
+weight: 40
 image: /graphics/econ/absolute.png
 description: "Effective Demand is the actual demand of the people who are willing to pay for products or services"
 writer:

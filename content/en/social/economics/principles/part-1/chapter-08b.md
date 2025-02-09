@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 6"
+heading: "Chapter 8b"
 title: "Ecommerce and XCommerce: Last Mile"
 date: 2024-11-20
-weight: 38
+weight: 84
 image: /graphics/econ/ui.jpg
 description: "Historically, commerce involved both barter and money exchanges"
 writer:
@@ -20,7 +20,7 @@ Historically, commerce involved both barter and money exchanges. It meant bringi
 
 Therefore, commerce has 2 ideas: 
 
-1. Trade\
+1. Trade
 
 Trade is made up of the rules and conventions to facilitate the exchange. This will be discussed in Parts 2-4.
 

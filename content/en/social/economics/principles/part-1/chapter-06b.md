@@ -3,7 +3,7 @@ heading: "Chapter 6b"
 linkTitle: Chapter 6b
 title: "Demand Efficiency and Inefficiency"
 date: 2025-01-27
-weight: 26
+weight: 62
 image: /photos/psych/eat.jpg
 description: "The quantity and quality of demand addressed by suppliers from the perspective of demand shows the demand efficiency of a supereconomic system"
 writer:

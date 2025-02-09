@@ -2,7 +2,7 @@
 heading: "Chapter 7"
 linkTitle: Chapter 7
 title: "Grain Index"
-weight: 32
+weight: 70
 date: 2025-01-19
 image: "/photos/grains.jpg"
 description: "The Grain Index is the table of ratios of goods and services to grains"

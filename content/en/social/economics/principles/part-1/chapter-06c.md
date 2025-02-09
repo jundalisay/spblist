@@ -4,7 +4,7 @@ linkTitle: Chapter 6c
 title: "Demand Inflation, Demand Deflation"
 # date: 2022-03-27
 # date: 2022-08-10
-weight: 29
+weight: 64
 image: /photos/econ/prices.jpg
 description: "Neoclassical Economics shallowly defines 'inflation' as a rise in prices, and 'deflation' as its decline"
 writer:

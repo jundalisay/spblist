@@ -4,7 +4,7 @@ linkTitle: Chapter 3
 title: "The Consumption Motive"
 date: 2020-04-07
 # date: 2022-08-22
-weight: 16
+weight: 30
 image: /photos/social/family.jpg
 description: "The Consumption Motive is the opposite of the Production Motive advocated by Capitalism and Mercantilism"
 writer:

@@ -1,84 +1,76 @@
 ---
-title: "Land Reform: Usufruct Land Titles"
-heading: Chapter 9b
-weight: 41
-# date: 2022-08-02
-# date: 2016-02-07
-description: "According to Adam Smith, Land Reform should focus on the productivity of the land"
-image: /photos/objects/egypt.jpg
+heading: "Chapter 9b"
+title: "Violations of the 1st Law: Gambling"
+date: 2024-11-20
+weight: 98
+image: /graphics/econ/profit.jpg
+description: "Historically, commerce involved both barter and money exchanges"
 writer:
   name: Juan
-  url: https://www.linkedin.com/in/jundalisay/
-icon: /icons/pantry.png
+  url: https://www.linkedin.com/in/jundalisay
 ---
 
 
-The Mercantile period from the 16th to the 18th centuries led to the amassment of land ownership to a few wealthy individuals such as European conquistadors and religious orders. These were often connected to the colonial governments. 
-
-This led to the modern development of native lands, at the cost of creating huge inequalities in wealth. This is because those land owners acted like feudal lords.
-
-{{< q a="Adam-Smith" >}}
-This original great engrossing of uncultivated lands might have been but a transitory evil.. Great tracts of uncultivated land were engrossed by particular families in this way. Such lands were prevented from being divided again.
-{{< /q >}}
+The lack of self-control of a mind in assigning nominal value leads to a gambling tendency.
 
 
-These inequalities hurt the country in the long run as it reduced the productivity of the land. 
+### Gambling is Gaming, which is Entertainment
 
-{{< q a="Adam-Smith" >}}
-A great proprietor is seldom a great improver. He often did not have the inclination nor the needed abilities. He frequently had no stock to improve his lands because his expences frequently exceeded his revenue. If he was an economist, he generally found it more profitable to use his savings on new purchases than in improving his old estate. 
-{{< /q >}}
+Gambling lets you gain a lot of rewards, as resources, by expanding the least amount of effort. 
 
+Socially, it is an injustice and is therefore from the Negative Force.
 
-The period of Nationalism in the 20th century led to the redistribution of such lands to the people or to private interests. 
+However, it provides a satisfaction to the winner and a thrill to the participants. This is why it is used in gaming as a form of entertainment.    
 
-This is because private attention is better at increasing the land's productivity.  
+This is similar to:
+- a gladiator match
+- basketball or football game
 
-{{< q a="Adam-Smith" c="The Simple Wealth of Nations" >}}
-To improve land with profit, like all other commercial projects, requires an exact attention to small savings and small gains. 
+In such sporting events, people can get injured just to achieve the most points. 
+- There is a winner and a loser. 
+- The winner feels happy.
+- The loser feels sad. 
 
-A man born to a great fortune is seldom capable of this attention.. He would rather focus on ornaments which please his fancy.
-{{< /q >}}
-
-
-This led to land reform as a means for economic development. 
-
-<!-- In Book 3, Chap 2, Adam Smith writes that people should own land only as they can productively use: -->
-
-
-### Should Land Be Broken Up or Kept Whole?
-
-Some policymakers think that landholdings should be made small and distributed to small families for them to cultivate it better.
-
-For example, Adam Smith believes that the land should be broken up in order to:
-- spread the risk of loss  
-- increase productivity and cost-efficiency by letting the owners micro-manage their land better 
+Yet these are allowed because:
+- It has an entertainment value since the spectators imagine themselves to be the players
+- It has a health value by promoting strength and good health
+- It has a moral value by encouraging discipline, sacrifice, and training
 
 
-{{< q a="Smith" c="The Wealth of Nations" >}}
-There are still some great estates in the United Kingdom which have continued without interruption in the hands of the same family since feudal times. 
+But unlike sporting events, gambling only has entertainment value. Some types of gambling might have a positive effect as encouraging math skills or intuitional abilities. 
 
-Compare the present condition of those estates with the possessions of the small proprietors near them, and you will see how unfavourable such extensive property is to improvement.
-{{< /q >}}
+But this is rarely the case. 
 
-
-The problem is that, nowadays, land is distributed to anyone regardless of their ability to farm or to make the land productive.
-
-This is especially common in socialist countries such as Venezuela wherein its leader, Hugo Chavez, gave land to poor people who didn't know how to farm or maintain irrigation equipment. 
-
-This policy backfired and led to decreased agricultural production, which then led to hyperinflation.  
+{{< i s="/graphics/econ/profit.jpg" a="Evil Greed" >}}
 
 
-## Maximized Farming and Usufruct Land Titles
+Most of the time, it is just pure ego, as risk-taking, that drives gambling. Some cases are even sourced from desperation. Such cases can be fatal and is the main discouragement of gambling to the point that it was banned by Islam. 
 
-To solve this we introduce Usufruct Land Titles which are the same as freehold systems. 
-
-The land belongs to the state, but is leased to private people under certain conditions. 
-
-For agricultural land, the condition might be for the lessors to bond together in a Social Company and implement Maximized Farming. 
-
-The lease will then be jointly transferred to the children after the death of the original lessor or father. 
-
-This joint transfer will prevent the land from being broken up. 
+In contrast, Chinese and European culture does not ban gambling because their mentalities are mutative in nature.  
+- This explains why China and Europe are both materially advanced, while Arabia is backward. 
 
 
+### Gambling or Speculation on Commodities and Essentials Should be Banned
+
+Invetors and Traders justify gambling on commodities and real estate as being similar to betting on horse races and sporting events. 
+
+But the main difference is that those bettors enter the gambling deal actually fully knowing that they could lose all the money or resources that they bet with. 
+
+Moreover, betting on sporting events lead to game-fixing which cancels the entertainment value and other benefits of the event. 
+
+Betting on economic commodities and essentials therefore 'fixes' the economy to benefit the trading class, and transfers the losses to the other 3 classes: workers, warriors, and thinkers. 
+
+
+<!-- Gaming Method | Benefits | Risks
+--- | --- | ---
+Sports | Entertainment, Health, Training, Unjust Rewards | Injury 
+Casino | Entertainment | Losses
+Economic Speculation | Unjust Rewards | Losses -->
+
+
+### Solution to the Gambling or Speculation Tendency: Clearing Funds
+
+The good aspect of the gambling tendency is the risk-taking attitude that leads to strong activity that breaks the usual idleness or staticity that always creeps into any economy.  
+
+Supereconomics taps this attitude to spur international and intranational trade through the Clearing Funds of Pool Clearing.
 

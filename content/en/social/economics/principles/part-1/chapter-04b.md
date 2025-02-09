@@ -3,7 +3,7 @@ heading: "Chapter 4"
 linkTitle: Chapter 4
 title: "The Poverty Cycle"
 # date: 2022-08-18
-weight: 21
+weight: 42
 image: /graphics/econ/wagecycle.gif
 description: "Poverty Cycle is a result of the weaknesses in the worker class"
 writer:

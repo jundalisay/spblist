@@ -1,6 +1,6 @@
 ---
 title: The Communists
-heading: Chapter 10
+heading: Chapter 28
 weight: 56
 description: The supreme test of a Communist is whether they conform with the highest interests and are supported by the people
 image: "/covers/quotations.jpg"
@@ -31,20 +31,22 @@ Every comrade must understand that the supreme test of the words and deeds of a 
 {{< /cite >}}
 
 
-At no time and in no circumstances should a Communist place his personal interests first; he should subordinate them to the interests of the nation and of the masses. Hence, selfishness, slacking, corruption, seeking the limelight, and so on, are most contemptible, while selflessness, working with all one's energy, whole-hearted devotion to public duty, and quiet hard work will command respect.
+At no time and in no circumstances should a Communist place his personal interests first; he should subordinate them to the interests of the nation and of the masses.
+
+Hence, selfishness, slacking, corruption, seeking the limelight, and so on, are most contemptible, while selflessness, working with all one's energy, whole-hearted devotion to public duty, and quiet hard work will command respect.
 
 {{< cite >}}
 "The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 198.
 {{< /cite >}}
 
-Communists must be ready at all times to stand up for the truth, because truth
-is in the interests of the people; Communists must be ready at all times to
-correct their mistakes, because mistakes are against the interests of the
-people.
+Communists must be ready at all times to stand up for the truth, because truth is in the interests of the people. 
+
+Communists must be ready at all times to correct their mistakes, because mistakes are against the interests of the people.
 
 {{< cite >}}
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 315.
 {{< /cite >}}
+
 
 Communists must always go into the whys and wherefores of anything, use their own heads and carefully think over whether or not it corresponds toreality and is really well founded; on no account should they follow blindly
 and encourage slavishness.
@@ -63,9 +65,14 @@ Communists should set an example in being practical as well as far-sighted. For 
 Selected Works, Vol. II, p. 198.
 {{< /cite >}}
 
-Communists should be the most far-sighted, the most self-sacrificing, the
-most resolute, and the least prejudiced in sizing up situations, and should rely
-on the majority of the masses and win their support.
+
+In sizing up situations, Communists should be:
+- the most far-sighted
+- the most self-sacrificing
+- the most resolute
+- the least prejudiced
+
+They should rely on the majority of the masses and win their support.
 
 {{< cite >}}
 "The Tasks of the Chinese Communist Party in the Period of Resistance to Japan" (May 3, 1937), Selected Works, Vol. I, p. 274.*
@@ -78,10 +85,18 @@ Communists should set an example in study; at all times they should be pupils of
 
 Every Communist working in the mass movements should be a friend of the masses and not a boss over them, an indefatigable teacher and not a bureaucratic politician.
 
-Communists must never separate themselves from the majority of the people or neglect them by leading only a few progressive contingents in an isolated and rash advance, but must take care to forge close links between the progressive elements and the broad masses. This is what is meant by thinking
-in terms of the majority.
+Communists must never:
+- separate themselves from the majority of the people
+- neglect them by leading only a few progressive contingents in an isolated and rash advance
+
+Instead, Communists must forge close links between:
+- the progressive elements and
+- the broad masses. 
+
+This is what is meant by thinking in terms of the majority.
 
 <cite>Ibid., p. 201.*</cite>
+
 
 
 We Communists are like seeds and the people are like the soil. Wherever we go, we must unite with the people, take root and blossom among them.
@@ -99,7 +114,9 @@ None at all, and we do not need such people as Party members. We Communists ough
 <cite>"Get Organized!" (November 29, 1943), Selected Works, Vol. III, p. 158.</cite>
 
 
-The exemplary vanguard role of the Communists is of vital importance. Communists in the Eighth Route and New Fourth Armies should set an example in fighting bravely, carrying out orders, observing discipline, doing political work and fostering internal unity and solidarity.
+The exemplary vanguard role of the Communists is of vital importance.
+
+Communists in the Eighth Route and New Fourth Armies should set an example in fighting bravely, carrying out orders, observing discipline, doing political work and fostering internal unity and solidarity.
 
 {{< cite >}}
 "The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 197.*
@@ -113,7 +130,15 @@ A Communist must never be opinionated or domineering, thinking that he is good i
 {{< /cite >}}
 
 
-Communists must listen attentively to the views of people outside the Party and let them have their say. If what they say is right, we ought to welcome it, and we should learn from their strong points; if it is wrong, we should let them finish what they are saying and then patiently explain things to them.
+Communists must listen attentively to the views of people outside the Party and let them have their say.
+
+If what they say is right, we should:
+- welcome it
+- learn from their strong points
+
+If it is wrong, we should:
+- let them finish what they are saying
+- then patiently explain things to them.
 
 The attitude of Communists towards any person who has made mistakes in his work should be one of persuasion in order to help him change and start afresh and not one of exclusion, unless he is incorrigible.
 

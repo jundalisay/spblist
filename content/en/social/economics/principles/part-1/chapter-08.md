@@ -2,7 +2,7 @@
 heading: "Chapter 8"
 title: "Demand Efficiency: Retail"
 date: 2024-11-20
-weight: 36
+weight: 80
 image: /graphics/econ/commerce.jpg
 description: "Demand is readily addressed by retail, as opposed to wholesale which trades items in bulk"
 writer:

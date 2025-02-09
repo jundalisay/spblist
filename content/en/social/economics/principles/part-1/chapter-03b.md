@@ -2,7 +2,7 @@
 title: "Pointization: Basic Points Revenue"
 heading: "Chapter 3b"
 linkTitle: Chapter 3b
-weight: 18
+weight: 38
 date: 2020-08-20
 # date: 2017-04-26
 image: /photos/econ/bake.jpg
