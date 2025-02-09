@@ -5,6 +5,6 @@ linkTitle: Schumacher
 image: /covers/schu.jpg
 description: Fritz Schumacher was a British economist
 # date: 2022-04-30
-weight: 92
+weight: 192
 ---
 

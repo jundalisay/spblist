@@ -1,7 +1,7 @@
 ---
 heading: "Unenlightened"
 title: "Maslow, Abraham"
-weight: 63
+weight: 135
 date: 2024-05-14
 author: Maslow
 description: "Abraham Maslow was an academic who invented the hierarchy of human needs"

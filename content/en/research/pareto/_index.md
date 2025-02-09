@@ -1,7 +1,7 @@
 ---
 # heading: Chapter 1
 title: "Pareto, Vilfredo"
-weight: 80
+weight: 161
 description: "By Pareto"
 image: "/covers/pareto.jpg"
 ---

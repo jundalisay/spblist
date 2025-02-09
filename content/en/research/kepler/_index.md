@@ -5,7 +5,7 @@ heading: "Enlightened"
 image: "/covers/kepler.jpg"
 description: "Kepler worked with Galileo to prove the heliocentric model of the universe."
 # date: "2022-01-26"
-weight: 52
+weight: 114
 ---
 
 

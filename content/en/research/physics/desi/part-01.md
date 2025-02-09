@@ -1,9 +1,7 @@
 ---
-title: "Piketty, Thomas"
-heading: "Unenlightened"
-linkTitle: "Piketty"
-description: "Modern Marxism"
-image: "/covers/piketty.jpg"
+title: "Baryon acoustic oscillations (BAO)"
+description: ""
+# image: "/covers/piketty.jpg"
 weight: 82
 draft: true
 ---
