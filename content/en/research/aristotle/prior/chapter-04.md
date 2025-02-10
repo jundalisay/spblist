@@ -1,5 +1,5 @@
 ---
-heading: Chapters 4-
+heading: Chapters 4
 title: "How are syllogisms produced?"
 weight: 6
 image: "/covers/prior.jpg"
@@ -13,9 +13,16 @@ icon: "/icons/aris.png"
 
 ### Chapter 4
 
-How are syllogisms produced?
+How are syllogisms produced?*
 
-Syllogism should be discussed before demonstration because syllogism is the general. The demonstration is a sort of syllogism, but not every syllogism is a demonstration.
+{{< n n="Syllogisms are merely the flow of the mind from one idea to another, as Aristotle explained in Chapter 1" >}}
+
+
+Syllogism should be discussed before demonstration because syllogism is the general. 
+
+The demonstration is a sort of syllogism, but not every syllogism is a demonstration.*
+
+{{< n n="A demonstration is when the abstract flow of ideas has a match with reality" >}}
 
 <!-- Whenever 3 terms are related to one another that  as in a
 whole, and  as in or from a whole,   -->
@@ -24,35 +31,81 @@ A perfect syllogism is when its 3 inter-related terms, the extremes must be rela
 - the last which is contained in the middle 
 - the middle which is either contained in, or excluded from, the first
 
-The middle term is itself contained in another and contains another in itself.
+The middle term is itself contained in another and contains another in itself.*
+
+{{< n n="A flow has a start, middle, and end" >}}
+
 
 In position also this comes in the middle. By extremes I mean both that term which is itself contained in another and that in which another is contained. 
 
-If A is predicated of all B, and B of all C, A must be predicated of all C: we have already explained what we mean by 'predicated of all'. Similarly also, if A is predicated of no B, and B of all C, it is necessary that no C will be A.
+If A is predicated of all B, and B of all C, A must be predicated of all C: This is 'predicated of all'.
 
-But if the first term belongs to all the middle, but the middle to none of the last term, there will be no syllogism in respect of the extremes; for nothing necessary follows from the terms being so related; for it is possible that the first should belong either to all or to none of the last, so that neither a particular nor a universal conclusion is necessary.
+Similarly also, if A is predicated of no B, and B of all C, it is necessary that no C will be A.
+
+But if the first term belongs to all the middle, but the middle to none of the last term, there will be no syllogism in respect of the extremes.*
+
+{{< n n="Here, the flow has either consistency or inconsistency with itself" >}}
+
+
+For nothing necessary follows from the terms being so related.
+
+It is possible that the first should belong either to all or to none of the last, so that neither a particular nor a universal conclusion is necessary.
 
 But if there is no necessary consequence, there cannot be a syllogism by means of these premises.
 
-As an example of a universal affirmative relation between the extremes we may take the terms animal, man, horse; of a universal negative relation, the terms animal, man, stone. 
+- An example of a universal affirmative relation between the extremes are the words [ideas] animal, man, horse*
 
-Nor again can syllogism be formed
-when neither the first term belongs to any of the middle, nor the middle to any of the last. As an
-example of a positive relation between the extremes take the terms science, line, medicine: of a
-negative relation science, line, unit.
+{{< n n="The flow of the mind between the ideas of 'animal', 'man', 'horse', has consistency and parallelism with the idea of a living thing" >}}
 
-If then the terms are universally related, it is clear in this figure when a syllogism will be
-possible and when not, and that if a syllogism is possible the terms must be related as described,
-and if they are so related there will be a syllogism. 
 
-But if one term is related universally, the other in part only, to its subject, there must be a perfect syllogism whenever universality is posited with reference to the major term either affirmatively or negatively, and particularity with reference to the minor term affirmatively: but whenever the universality is posited in relation to the minor term, or the terms are related in any other way, a syllogism is impossible.
+- A universal negative relation are the words [ideas] animal, man, stone. 
 
-I call that term the major in which the middle is contained and that term the minor which comes under the middle. Let all B be A and some C be B. Then if 'predicated of all' means what was said above, it is necessary that some C is A. And if no B is A but some C is B, it is necessary that some C is not A. The meaning of 'predicated of none' has also been defined. 
+{{< n n="The flow of the mind between the ideas of 'animal', 'man', 'stone', hits an inconsistency with 'stone' which is not an idea of a living thing" >}}
 
-So there will be a perfect syllogism. This holds good also if the premise BC should be indefinite, provided that it is affirmative: for we shall have the same syllogism whether the
-premise is indefinite or particular.
 
-But if the universality is posited with respect to the minor term either affirmatively or negatively, a syllogism will not be possible, whether the major premise is positive or negative, indefinite or particular: e.g. if some B is or is not A, and all C is B. As an example of a positive relation between the extremes take the terms good, state, wisdom: of a negative relation, good, state, ignorance.
+A syllogism cannot be formed when neither the first term belongs to any of the middle, nor the middle to any of the last. 
+
+As an example of a positive relation between the extremes take the terms science, line, medicine: of a negative relation science, line, unit.
+
+If then the terms are universally related, it is clear when a syllogism will be possible and not possible. 
+- A syllogism is possible and is created when the terms relate. 
+
+<!-- - and if they are so related there will be a syllogism.  -->
+
+But if one term is related universally, the other in part only, to its subject, there must be 
+
+A perfect syllogism is:
+- universal when one word is affirmatively or negatively relates to the major word 
+- particular when it relates to the minor term affirmatively 
+
+A syllogism is impossible whenever:
+- the universality is posited in relation to the minor term, or 
+- the terms are related in any other way.*
+
+{{< n n="This just means the logic is not sound because the flow is inconsistent" >}}
+
+
+- The 'major' word [idea] contains the middle.
+- The 'minor' word [idea] comes under the middle. 
+
+Let:
+- all `B` be `A`
+- some `C` be `B`
+
+It is necessary that some `C` is `A`. This is from being 'predicated of all'.
+
+If no `B` is `A` but some `C` is `B`, it is necessary that some `C` is not `A`. This is from 'predicated of none'. 
+
+So there will be a perfect syllogism.*
+
+{{< n n="In programming, such premises are called control-flow statements and never called syllogisms. Therefore, syllogisms can be thrown away in order to simplify logic as it is already used by programming to power the internet and apps" >}}
+
+
+This holds good also if the premise `BC` should be indefinite, provided that it is affirmative: for we shall have the same syllogism whether the premise is indefinite or particular.
+
+But if the universality is posited with respect to the minor term either affirmatively or negatively, a syllogism will not be possible, whether the major premise is positive or negative, indefinite or particular: 
+
+For example, if some B is or is not A, and all C is B. As an example of a positive relation between the extremes take the terms good, state, wisdom: of a negative relation, good, state, ignorance.
 
 Again if no C is B, but some B is or is not A or not every B is A, there cannot be a
 syllogism. Take the terms white, horse, swan: white, horse, raven. The same terms may be taken
