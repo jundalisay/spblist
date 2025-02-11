@@ -42,7 +42,10 @@ The policy of Europe which restrains perfect liberty.
 
 {{< s v="5" >}}
 
-> 1. Wages vary with the employment's <ul><li>ease or hardship</li><li>cleanliness or dirtiness</li><li>honourableness or dishonourableness</li>
+1. Wages vary with the employment's:
+- ease or hardship
+- cleanliness or dirtiness
+- honourableness or dishonourableness
 
 A journeyman tailor has an easier work than a journeyman weaver and earns less
 
@@ -74,9 +77,7 @@ It only affords the most scanty subsistence.
 {{< s v="7" >}} Disagreeableness and disgrace affect profits and wages in the same way. The innkeeper does not have a very agreeable nor creditable business, though it is very profitable for a small stock.
 
 
-{{< s v="8" >}}
-
-> 2. Wages vary with the difficulty and cost of learning the business.
+{{< s v="8" >}} 2. Wages vary with the difficulty and cost of learning the business.
 
 {{< s v="9" >}} When any expensive machine is built, the work it must perform must replace the capital spent for it, with at least ordinary profits.
 
@@ -98,16 +99,21 @@ During the apprenticeship, the apprentice's labour belongs to his master.
 
 In the meantime, he must be maintained and clothed by his parents or relations.
 Some money too is given to the master for teaching him.
+
 Those who cannot give money, give time or become bound for longer than usual.
 This is not always advantageous to the master.
+
 But it is always disadvantageous to the apprentice because of their idleness.
 
 In country labour, on the contrary, the labourer can maintain himself while he is employed and learning.
 
 It is reasonable, therefore, that the wages of mechanics, artificers, and manufacturers should be higher than those of common labourers.
+
 This makes them considered as a superior rank.
-This superiority, however, is very small
+
+This superiority, however, is very small.
 The daily earnings of journeymen are very little more than the day wages of common labourers.
+
 The employment of journeymen in common trades is more steady and uniform.
 Their earnings are just sufficient to compensate the cost of their education.
 

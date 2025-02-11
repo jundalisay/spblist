@@ -1,5 +1,5 @@
 ---
-heading: Chapter 8
+heading: Chapter 8b
 title: "Taxes on Rent"
 description: ""
 image: "/covers/tax.jpg"

@@ -20,22 +20,28 @@ The landlord tries to leave the tenant only:
 - the wages needed to maintain his workers, and
 - ordinary profits after maintaining his capital.
 
-Ordinary profit is the smallest share which the tenant can have without being a loser.
-The landlord seldom means to leave him any more.
-The landlord naturally tries to gain as rent whatever is left over of the price after ordinary profits.
+Ordinary profit is the smallest share which the tenant can have without being a loser. The landlord:
+- seldom means to leave him any more.
+- tries to gain as rent whatever is left over of the price after ordinary profits.
 
 Sometimes, the tenant is made to pay less than this rent because of the landlord's liberality or ignorance.
-Rarely, the tenant's ignorance makes him pay more rent.
+- Rarely, the tenant's ignorance makes him pay more rent.
+
 However, this may still be considered as the natural rent of land.
+
 The natural rent of land is the rent which land is naturally meant to be rented out for.
 
-{{< s v="2" >}} Rent is frequently seen as the landlord's reasonable profit or interest for improving the land.
 
-In reality, this is only true sometimes.
+{{< s v="2" >}} Rent is frequently seen as the landlord's reasonable profit or interest for improving the land.
+- In reality, this is only true sometimes.
+
 The landlord demands rent even for unimproved land.
+
 The supposed interest or profit from the cost of improvement is added to this original rent.
+
 Those improvements are sometimes made by the tenant, not the landlord.
 When the lease is renewed, the landlord commonly demands an increase in rent as if he made the improvements.
+
 
 {{< s v="3" >}} He sometimes demands rent for things which cannot be improved.
 

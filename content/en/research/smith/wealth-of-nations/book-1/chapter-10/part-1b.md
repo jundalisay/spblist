@@ -42,8 +42,10 @@ Chairmen in London are sometimes employed as bricklayers during summer.
 {{< s v="17" >}} When the trades which usually afford constant employment do not bring constant employment, the wages in those trades are always higher than the wages of common labour.
 
 In London, almost all journeymen artificers can be hired and dismissed by their masters daily and weekly in the same way as day-labourers.
+
 The lowest order of artificers in London are journeymen tailors.
 They earn half a crown a day, though 18 pence are the wages of common labour.
+
 In small towns, the wages of journeymen tailors are rarely equal those of common labour.
 But in London, they are often unemployed for many weeks, particularly during summer.
 
@@ -60,9 +62,11 @@ His employment is constant.
 The coal-heavers in London experience hardship, dirtiness, and disagreeableness, almost equal that of coal miners.
 The employment of coal-heavers is inconstant because of the irregularity in the arrivals of coal-ships.
 If coal miners earn double and triple the wages of common labour, it is reasonable that coal-heavers should earn four and five times those wages.
+
 Coal miners earn from 6 to 10 shillings a day.
 Six shillings are about four times the wages of common labour in London
 The lowest common earnings may always be considered as the earnings of the majority.
+
 If wages were higher than necessary, competition for those wages would soon increase.
 This competition would quickly be reduce wages in trades which have no exclusive privilege.
 

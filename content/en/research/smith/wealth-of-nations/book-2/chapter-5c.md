@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 5c"
-title: "The Carrying Trade"
+title: "Residence of Capitals Used in Different Employments"
 linkTitle: "Chapter 5c"
-weight: 58
+weight: 55
 image: "/covers/wn.jpg"
-description: "The Carrying Trade can be as important as the foreign trade of consumption"
+description: "The destiny of all capitals is to maintain productive labour"
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -12,124 +12,136 @@ icon: /avatars/smith.png
 ---
 
 
+<sup>13</sup> The agricultural and retail capital of any society must always reside within that society.
 
-{{< s v="30" >}} The capital employed in the carrying trade is diverted from supporting its productive labour to support that of foreign countries. It may replace the capitals of foreign countries. 
+Their employment is confined to a precise spot, to the farm and to the retailer's shop.
+They must generally belong to the residents.
 
-The Dutch merchant who sends the Polish wheat to Portugal and returns Portuguese fruits & wines to Poland, replaces the capitals of Poland and Portugal.
-- Neither of those two capitals supported the productive labour of Holland. 
-- One of the capitals supports the productive labour of Poland 
-- The other one supports that of Portugal. 
-- Only the profits return regularly to Holland. 
-- This is its sole addition to the national produce of Holland.
+<sup>14</sup> The wholesale merchant's capital has no fixed residence anywhere.
 
-When the carrying trade of any country is carried on with its own ships and sailors, the capital which pays the freight is distributed among, and mobilizes productive labourers of that country.
+It may wander about according as it can buy cheap or sell dear.
 
-Almost all nations in the carrying trade have done it in this way. The trade itself probably derived its name from it. The people of such countries are the carriers to other countries. However, this is not essential in the carrying trade.
+<sup>15</sup> The manufacturer's capital must reside where the manufacture is done.
 
-A Dutch merchant may carry the commerce of Poland and Portugal in British ships. We may presume that this is actually done.
+This place is not always determined.
 
-This is why the carrying trade was peculiarly advantageous to Great Britain Its defence and security depend on its shipping and on its sailors.
+It may be far from where the materials grow and from where the finished product is consumed.
 
-But the same capital may employ as many sailors and shipping in the foreign trade or even in the home-trade (done in coasting vessels), as in the carrying trade. The number of sailors and shipping which any capital can employ does not depend on the nature of the trade.
+Lyons is very distant from the source of raw materials and from its consumers.
 
-It depends partly on the bulk of the goods in proportion to their value. It depends partly on the distance of the ports where they are carried, chiefly upon their bulk.
+The people of fashion in Sicily are clothed in silks from overseas which they process locally.
 
-For example, the coal trade from Newcastle to London employs more shipping than all the carrying trade of England, though the ports are not far apart.
+Part of the wool of Spain is manufactured in Great Britain.
 
-Forcing more of the country's capital into the carrying trade by extraordinary encouragements above the natural will not always increase that country's shipping.
+Some part of that cloth is then sent back to Spain.
 
 
-{{< s v="31" >}} The capital employed in the home-trade will generally=  Support more of its productive labour Increase the value of its produce more than an equal capital employed in the foreign trade
+<sup>16</sup> It is not important whether the merchant exporter is a native or a foreigner.
 
-The capital in the foreign trade of consumption has a greater advantage over an equal capital in the carrying trade. The riches and power of every country must always be in proportion to the value of its annual produce, the fund from which all taxes must ultimately be paid. But the great object of the political economy of every country is to increase the riches and power of that country.
+If he is a foreigner, the number of foreign productive labourers will be less by one man. only than if he had been a native.
 
-It should give no preference nor encouragement:
-- to the foreign trade above the home-trade
-- to the carrying trade above either of those two
+The difference of the value of their annual produce will be determined by the profits of that one man.
 
-It should neither force nor tempt into either of those two channels more of a country's capital than what would naturally flow into them.
+The sailors or carriers he employs may still belong to whatever country.
 
+The capital of a foreigner gives a value to their surplus produce equally with that of a native.
 
-{{< s v="32" >}} When the produce of any country exceeds its own demand, the surplus must be sent abroad. It must be exchanged for something which is in demand at home. 
+His capital buys surplus produce in demand at home.
 
-Without such exportation, a part of the productive labour of the country will cease and its resulting value will diminish.
+It replaces the capital of the person who produces that surplus and enables him to continue his business.
 
-The land and labour of Great Britain produce more grain, woollens, and hardware than needed at home.
-- The surplus must be exchanged for something in demand at home.
-- This surplus can compensate the labour and expence of producing it only through such exportation.
+This is how the merchant's capital chiefly supports productive labour.
 
-The sea-coast and the banks of navigable rivers are advantageous for industry only because they facilitate the exchange of such surplus produce.
+It increases the value of the annual produce of his society.
 
 
-{{< s v="33" >}} When the foreign goods purchased with the surplus domestic produce exceed the demand at home, the surplus must be sent abroad again.
+<sup>17</sup> It is of more consequence that the capital of the manufacturer should reside within the country.
 
-Around 96,000 hogsheads of tobacco are annually purchased in Virginia and Maryland with surplus British produce.
-- But Great Britain does not require perhaps more than 14,000.
-- If the remaining 82,000 could not be sold abroad, their importation must cease immediately.
-  - The productive labour of all the British employed in making those exported goods must also cease.
-  <!-- - Those goods are part of Great Britain's annual produce which has no market at home.
-  - The production of those goods must cease, as they are deprived of overseas demand. -->
+It mobilizes more productive labour, and adds a greater value to the national annual produce.
+It may, however, be very useful to the country that it should reside overseas.
 
-**The most round-about foreign trade of consumption therefore may be as necessary as the most direct foreign trade in terms of supporting the country's productive labour.**
+The capitals of the British manufacturers who process the flax and hemp imported from the Baltic coasts are very useful to the countries which produce them.
 
-<!--  of the country and the value of its produce.
- -->
+Those raw materials are part of the surplus produce of those countries which would otherwise be of no value, and would not be produced.
 
-{{< s v="34" >}} When a country's capital stock is increased to the point that it cannot be all employed to support its productive labour, the surplus naturally disgorges itself into the carrying trade.
+The merchants who export those raw materials replace the capitals of the producers and encourage them to continue production.
 
-**The carrying trade is the natural effect and symptom of great national wealth, not the cause.** Those statesmen who encourage it mistake the effect for the cause.
-
-Holland is by far the richest country in Europe.
-- It has the greatest share of the European carrying trade.
-
-England is perhaps the second richest European country.
-- It also has a big share of the European carrying trade, although the English carrying trade frequently really is a round-about foreign trade of consumption.
-
-The round-about foreign trade of consumption is largely made up of the trades between= 
-- America 
-- the East and West Indies
-- Europe
-
-Those goods are generally purchased immediately with= 
-- British produce or
-- foreign produce bought with British produce, with the final returns being consumed in Great Britain
-
-The principal branches of the carrying trade of Great Britain are perhaps made up of= 
-- the trade done in British ships between the Mediterranean ports, and
-- some of the trade done by British merchants between Indian ports.
+The British manufacturers who buy those raw materials replace the capitals of those merchants.
 
 
-{{< s v="35" >}} The extent of the home-trade is limited by the value of the surplus produce within the country.
+<sup>18</sup> A country, like a person, may frequently not have capital sufficient= 
+- to improve and cultivate all its lands
+- to manufacture or process their rude produce for immediate use and consumption
+- to transport their surplus produce to distant markets.
 
-The extent of the foreign trade of consumption is limited by the value of the surplus produce of the whole country.
+All the British do not not capital sufficient to improve and cultivate all their lands. Most of the wool of southern Scotland is manufactured far in Yorkshire through bad roads because of the lack of capital to manufacture it at home.
 
-The extent of the carrying trade is limited by the value of the surplus produce of all the countries in the world. 
-- Therefore, its farthest extent is infinite compared to the other two.
-- It can absorb the greatest capitals.
+There are many little manufacturing towns in Great Britain.
+Its inhabitants do not have the capital to transport their produce to distant markets where there is demand for it.
+The only merchants among them are the agents of wealthier merchants residing in the greater commercial cities.
 
 
-{{< s v="36" >}} Private profit is the sole motive of the owner of the capital in agriculture, manufactures, or wholesale or retail trade.
+<sup>19</sup> When the capital of any country is employed largely in agriculture, more productive labour will be mobilized within the country and increase the value it adds to the national annual produce.
 
-He never thinks of= 
-- the productive labour it may mobilize and
-- how it can increase the national annual produce.
+After agriculture, the capital employed in manufactures mobilizes the most productive labour.
 
-Individual capitals will naturally be employed in the most advantageous way for society in countries where= 
-- agriculture is the most profitable of all employments, and
-- farming and land improvement are the most direct roads to a splendid fortune.
+It adds the greatest value to the annual produce.
 
-However, agricultural profits are not superior to other employments in Europe.
+The capital employed in exportation has the least effect of the three.
 
-Within these few years, projectors everywhere have amused the public with most magnificent accounts of the profits to be made by land cultivation and improvement.
 
-But this is false, as proven by the splendid fortunes acquired in a single lifetime through trade and manufacturers, frequently from a very small capital<!-- , sometimes from no capital -->.
+<sup>20</sup> The country which has insufficient capital for all those three purposes has not reached opulence.
 
-Such a fortune acquired by agriculture from such a capital has perhaps not occurred in Europe in the present century.
+Prematurely attempting to do all three with insufficient capital is certainly not the shortest way for a society to acquire a sufficient capital, no more than it would be for an individual.
 
-However, in all great European countries, much good land still remains uncultivated.
-- Most of the cultivated lands are not yet fully improved.
-- Almost everywhere, agriculture can absorb much more capital than before.
+The capital of all the members of society has its limits in the same way as the capital of a single individual.
+It is increased by their continual accumulation and savings out of their revenue.
 
-In Books 3 and 4, I will explain:
-- why European policy gave the trades of towns a great advantage over the trades in the countryside.
-- why private persons find it better to employ their capitals in the most distant carrying trades of Asia and America than in the their own country's land improvement.
+The national capital is likely to increase fastest when it brings greatest revenue to all its citizens.
+This will enable them to make the greatest savings.
+
+But the revenue of all its citizens is in proportion to the value of the national annual produce.
+
+
+<sup>21</sup> Our American colonies progress rapidly towards wealth mainly because almost all their capitals are employed in agriculture.
+- They have no manufactures except the household and course manufactures.
+- These accompany the progress of agriculture.
+- These are the work of the women and children in every private family.
+
+Most of the exportation and coasting trade of America is done by the capitals of merchants living in Great Britain.
+
+Many of the stores and warehouses used in retail, particularly in Virginia and Maryland, belong to British merchants.
+
+It is one of the few examples of local retail being carried on by the capitals of non-residents.
+
+If the Americans stop imports of European manufactures by combination or violence, they would:
+- give a monopoly to the Americans who could manufacture similar goods,
+- divert American capital into manufacturing,
+- retard the increase in the value of their annual produce,
+- obstruct the progress of their country towards real wealth and greatness.
+
+This and much worse would also happen if the Americans monopolized their entire exports to themselves.
+
+
+<sup>22</sup> Human prosperity has never lasted long enough to enable any great country to acquire capital for all those 3 purposes.
+
+Perhaps only the following have been wealthy and cultivated enough to do this: 
+- China
+- ancient Egypt
+- ancient India
+
+Even those three countries are chiefly renowned for their agriculture and manufactures, not for foreign trade.
+- The ancient Egyptians and the Indians had a superstitious antipathy to the sea.
+- The Chinese have never excelled in foreign commerce.
+
+Most of the surplus produce of those three countries were always exported by foreigners who gave gold and silver for their surplus produce.
+
+<sup>23</sup> In any country, the same capital will mobilize varying amounts of productive labour.
+
+It will add a varying value to the national annual produce, according to the proportions of it employed in:
+- agriculture
+- manufactures
+- wholesale trade
+
+This variation can be very big depending on the kinds of wholesale trade it is employed in.
+

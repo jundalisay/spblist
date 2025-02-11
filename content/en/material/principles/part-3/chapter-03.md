@@ -1,12 +1,12 @@
 ---
 heading: "Chapter 3"
 linkTitle: Media
-title: "The Media of Radiance: Light, Heat, Magnetism"
+title: "The Media of Radiance: Light, Magnetism, Heat"
 # # date: 2020-01-31
 # date: 2023-03-01
 weight: 8
 image: /photos/physics/whitehole.jpg
-description: "The Source of All Movement is Internal, Not External"
+description: "The Medium of Radiance facilitates the dynamics of the radiant layer"
 icon: /icons/spmat.png
 ---
 

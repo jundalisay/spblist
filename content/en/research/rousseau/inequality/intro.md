@@ -23,21 +23,40 @@ This is established by nature. It consists in a difference of age, health, bodil
 
 This depends on a kind of convention. It is established, or at least authorised by the consent of men. 
 
-This consists of the different privileges, which some men enjoy to the prejudice of others; such as that of being more rich, more honoured, more powerful or even in a position to exact obedience.
+This consists of the different privileges such as wealth, honor, power, and position. 
 
-It is useless to ask what is the source of natural inequality, because that question is answered by the simple definition of the word.
+<!-- , which some men enjoy to the prejudice of others; such as that of being more rich, more honoured, more powerful or even in a position to exact obedience. -->
 
-Again, it is still more useless to inquire whether there is any essential connection between the two inequalities; 
+The source of natural inequality is Nature. 
 
-This would be only asking, in other words, whether those who command are necessarily better than those who obey, and if strength of body or of mind, wisdom or virtue are always found in particular individuals, in proportion to their power or wealth: a question fit perhaps to be discussed by slaves in the hearing of their masters, but highly unbecoming to reasonable and free men in search of the truth.
+<!-- It is useless to ask what is the source of natural inequality, because that question is answered by the simple definition of the word. -->
 
-The subject of the present discourse, therefore, is more precisely this. To mark, in the progress of things, the moment at which right took the place of violence and nature became subject to law, and to explain by what sequence of miracles the strong came to submit to serve the weak, and the people to purchase imaginary repose at the expense of real felicity.
+<!-- Again, it is still more useless to inquire whether there is any essential connection between the two inequalities; 
+
+This would be only asking, in other words, whether  -->
+
+Are those who command necessarily better than those who obey?
+
+Is strength of body or mind, wisdom, or virtue always found in particular individuals, in proportion to their power or wealth?
+
+<!-- a question fit perhaps to be discussed by slaves in the hearing of their masters, but highly unbecoming to reasonable and free men in search of the truth.
+
+The subject of the present discourse, therefore, is more precisely this. To mark, in the progress of things, the moment at which -->
+
+
+I will explain when:
+- right took the place of violence
+- nature became subject to law
+
+ and to explain by what sequence of miracles the strong came to submit to serve the weak, and the people to purchase imaginary repose at the expense of real felicity.
 
 The philosophers, who have inquired into the foundations of society, have all felt the necessity of going back to a state of nature; but not one of them has got there. 
 
 Some of them have not hesitated to ascribe to man, in such a state, the idea of just and unjust, without troubling themselves to show that he must be possessed of such an idea, or that it could be of any use to him.
 
-Others have spoken of the natural right of every man to keep what belongs to him, without explaining what they meant by belongs. Others again, beginning by giving the strong authority over the weak, proceeded directly to the birth of government, without regard to the time that must have elapsed before the meaning of the words authority and government could have existed among men. Every one of them, in short, constantly dwelling on wants, avidity, oppression, desires and pride, has transferred to the state of nature ideas which were acquired in society; so that, in speaking of the savage, they described the social man. It has not even entered into the heads of most of our writers to doubt whether the state of nature ever existed; but it is clear from the Holy Scriptures that the first man, having received his understanding and commandments immediately from God, was not himself in such a state; and that, if we give such credit to the writings of Moses as every Christian philosopher ought to give, we must deny that, even before the deluge, men were ever in the pure state of nature; unless, indeed, they fell back into it from some very extraordinary circumstance; a paradox which it would be very embarrassing to defend, and quite impossible to prove.
+Others have spoken of the natural right of every man to keep what belongs to him, without explaining what they meant by belongs. Others again, beginning by giving the strong authority over the weak, proceeded directly to the birth of government, without regard to the time that must have elapsed before the meaning of the words authority and government could have existed among men. 
+
+Every one of them, in short, constantly dwelling on wants, avidity, oppression, desires and pride, has transferred to the state of nature ideas which were acquired in society; so that, in speaking of the savage, they described the social man. It has not even entered into the heads of most of our writers to doubt whether the state of nature ever existed; but it is clear from the Holy Scriptures that the first man, having received his understanding and commandments immediately from God, was not himself in such a state; and that, if we give such credit to the writings of Moses as every Christian philosopher ought to give, we must deny that, even before the deluge, men were ever in the pure state of nature; unless, indeed, they fell back into it from some very extraordinary circumstance; a paradox which it would be very embarrassing to defend, and quite impossible to prove.
 
 Let us begin then by laying facts aside, as they do not affect the question. 
 

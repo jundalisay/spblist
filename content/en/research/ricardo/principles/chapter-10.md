@@ -1,6 +1,20 @@
-CHAPTER X. LAND-TAX
+---
+heading: Chapter 10
+title: "Land Tax"
+description: ""
+image: "/covers/tax.jpg"
+weight: 184
+date: 2025-01-11
+---
 
-A land-tax, levied in proportion to the rent of land, and varying with every variation of rent, is in effect a tax on rent; and as such a tax will not apply to that land which yields no rent, nor to the produce of that capital which is employed on the land with a view to profit merely, and which never pays rent, it will not in any way affect the price of raw produce, but will fall wholly on the landlords. In no respect would such a tax differ from a tax on rent. But if a land-tax be imposed on all cultivated land, however moderate that tax may be, it will be a tax on produce, and will therefore raise the price of produce. If No. 3 be the land last cultivated, although it should pay no rent, it cannot, after the tax, be cultivated, and afford233 the general rate of profit, unless the price of produce rise to meet the tax. Either capital will be withheld from that employment until the price of corn shall have risen, in consequence of demand, sufficiently to afford the usual profit; or if already employed on such land, it will quit it, to seek a more advantageous employment. The tax cannot be removed to the landlord, for by the supposition he receives no rent. Such a tax may be proportioned to the quality of the land and the abundance of its produce, and then it differs in no respect from tithes; or it may be a fixed tax per acre on all land cultivated, whatever its quality may be.
+
+
+
+A land-tax, levied in proportion to the rent of land, and varying with every variation of rent, is in effect a tax on rent.
+
+Such a tax will not apply to that land which yields no rent, nor to the produce of that capital which is employed on the land with a view to profit merely, and which never pays rent, it will not in any way affect the price of raw produce, but will fall wholly on the landlords. In no respect would such a tax differ from a tax on rent. But if a land-tax be imposed on all cultivated land, however moderate that tax may be, it will be a tax on produce, and will therefore raise the price of produce. 
+
+If No. 3 be the land last cultivated, although it should pay no rent, it cannot, after the tax, be cultivated, and afford233 the general rate of profit, unless the price of produce rise to meet the tax. Either capital will be withheld from that employment until the price of corn shall have risen, in consequence of demand, sufficiently to afford the usual profit; or if already employed on such land, it will quit it, to seek a more advantageous employment. The tax cannot be removed to the landlord, for by the supposition he receives no rent. Such a tax may be proportioned to the quality of the land and the abundance of its produce, and then it differs in no respect from tithes; or it may be a fixed tax per acre on all land cultivated, whatever its quality may be.
 
 A land-tax of this latter description would be a very unequal tax, and would be contrary to one of the four maxims with regard to taxes in general, to which, according to Adam Smith, all taxes should conform. The four maxims are as follow:
 

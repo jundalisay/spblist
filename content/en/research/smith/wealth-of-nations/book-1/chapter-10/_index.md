@@ -1,4 +1,3 @@
-
 ---
 heading: Chapter 10
 title: "Inequalities in employment or industry"

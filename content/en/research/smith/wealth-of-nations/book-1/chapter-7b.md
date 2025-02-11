@@ -59,28 +59,39 @@ The monopolists keep the market constantly under-stocked to unnaturally raise th
 The monopoly price is the highest which can be squeezed out of the buyers.
 The natural price is the lowest which the sellers can commonly afford to continue their business.
 
-28 The exclusive privileges of corporations, or enlarged monopolies, and all laws which restrain the competition also increase market prices for ages, but to a lesser degree.
+<sup>28</sup> The exclusive privileges of corporations, or enlarged monopolies, and all laws which restrain the competition also increase market prices for ages, but to a lesser degree.
 
-29 Such enhancements of the market price may last as long as the regulations which cause them.
+<sup>29</sup> Such enhancements of the market price may last as long as the regulations which cause them.
 
-30 The market price may stay higher than the natural price for a long time. But it cannot stay below the natural price as long because the proprietors would feel the loss and would immediately stop production. The price would then soon rise to meet the effective demand if there were perfect liberty.
+<sup>30</sup> The market price may stay higher than the natural price for a long time. 
 
-31 The statutes of apprenticeship and corporation laws allow a worker to raise his wage rate above the natural rate during the prosperity of manufactures.
+But it cannot stay below the natural price as long because the proprietors would feel the loss and would immediately stop production. The price would then soon rise to meet the effective demand if there were perfect liberty.
+
+<sup>31</sup> The statutes of apprenticeship and corporation laws allow a worker to raise his wage rate above the natural rate during the prosperity of manufactures.
 
 They lower wage rates below their natural rate during decay.
+
 During the prosperity of manufacturing, it excludes others from entering his employment.
 During the decay, it excludes him from entering other employments.
+
 Statues and corporation laws are better at unnaturally lowering wages than raising them.
+
 They may lower wages for many centuries.
+
 But they can raise wages only for the lifetime of those workers.
+
 When they are gone, other people will learn the trade.
+
 The number of workers will then suit itself to the effective demand.
+
 Laws can also sink wages below the natural rate for several generations.
+
 This is seen in ancient India and Egypt where every man was bound by religion to follow only the occupation of his father and never change it.
 
-32 These are all the causes of the differences between the market price and the natural price of commodities.
 
-33 Natural price itself varies with the natural rate of wages, profits, and rent. Their rates vary according to the society's= 
+<sup>32</sup> These are all the causes of the differences between the market price and the natural price of commodities.
+
+<sup>33</sup> Natural price itself varies with the natural rate of wages, profits, and rent. Their rates vary according to the society's:
 - circumstances,
 - riches or poverty, and
 - advancing, stationary, or declining condition.
@@ -96,9 +107,10 @@ The causes of those variations in natural price will be explained next.
 
 {{< s v="36" >}} There is a proportion between the monetary wages in all the different employments of labour and the monetary profits in all the different employments of stock.
 
-This proportion depends on: 
-the nature of the different employments, and
-the laws and policies in place.
+This proportion depends on:
+- the nature of the different employments, and
+- the laws and policies in place.
+
 This proportion remains the same in the advancing, stationary, or declining condition of the society.
 
 I shall explain the different circumstances which regulate this proportion.

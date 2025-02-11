@@ -1,6 +1,23 @@
-CHAPTER 13 TAXES ON PROFITS.
+---
+heading: Chapter 13
+title: "Taxes on Profits"
+description: ""
+image: "/covers/tax.jpg"
+weight: 184
+date: 2025-01-11
+---
 
-Taxes on those commodities, which are generally denominated luxuries, fall on those only who make use of them. A tax on wine is paid by the consumer of wine. A tax on pleasure horses, or on coaches, is paid by those who provide for themselves such enjoyments, and in exact proportion as they provide them. But taxes on necessaries do not affect the consumers of necessaries, in proportion to the quantity that may be consumed by them, but often in a much higher proportion. A tax on corn, we have observed, not only affects a manufacturer in the proportion that he and his family may consume corn, but it alters the rate of profits of stock, and therefore also affects his income. Whatever raises the wages of labour, lowers the profits of stock; therefore every tax on270 any commodity consumed by the labourer, has a tendency to lower the rate of profits.
+
+
+Taxes on those commodities, which are generally denominated luxuries, fall on those only who make use of them. A tax on wine is paid by the consumer of wine.
+
+A tax on pleasure horses, or on coaches, is paid by those who provide for themselves such enjoyments, and in exact proportion as they provide them.
+
+But taxes on necessaries do not affect the consumers of necessaries, in proportion to the quantity that may be consumed by them, but often in a much higher proportion. 
+
+A tax on corn affects a manufacturer in the proportion that he and his family may consume corn and alters the rate of profits of stock. Therefore it also affects his income.
+
+Whatever raises the wages of labour, lowers the profits of stock; therefore every tax on270 any commodity consumed by the labourer, has a tendency to lower the rate of profits.
 
 A tax on hats will raise the price of hats; a tax on shoes, the price of shoes; if this were not the case, the tax would be finally paid by the manufacturer; his profits would be reduced below the general level, and he would quit his trade. A partial tax on profits will raise the price of the commodity on which it falls: a tax, for example, on the profits of the hatter, would raise the price of hats; for if his profits were taxed, and not those of any other trade, his profits, unless he raised the price of his hats, would be below the general rate of profits, and he would quit his employment for another.
 

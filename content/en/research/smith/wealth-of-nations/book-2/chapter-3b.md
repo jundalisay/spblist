@@ -28,7 +28,7 @@ Capital affects the number of productive hands. The number of productive hands a
 {{< s v="14" >}} Capitals are increased by parsimony and decreased by prodigality and misconduct.
 
 
-{{< s v="15" >}} Whatever a person saves from his revenue, he adds to his capital. He employs his capital= 
+{{< s v="15" >}} Whatever a person saves from his revenue, he adds to his capital. He employs his capital:
 - by using it himself to maintain more productive hands, and
 - by lending it at an interest to someone else to maintain productive hands.
 
@@ -67,12 +67,13 @@ The consumption is the same, but the consumers are different.
 
 
 {{< s v="19" >}} A frugal man’s annual savings maintains more productive hands for the current or the ensuing year.
+- Like the founder of a public workhouse, he establishes a perpetual fund to maintain workers in the future.
 
-Like the founder of a public workhouse, he establishes a perpetual fund to maintain workers in the future.
-The perpetual allotment of this fund is not always guarded by any positive law or by any trust-right or deed of mortmain [perpetual ownership]​.
-It is always guarded by a very powerful principle=  The obvious interest of every individual to whom the fund belongs.
+The perpetual allotment of this fund is not always guarded by any positive law or by any trust-right or deed of mortmain [perpetual ownership].
+- It is always guarded by a very powerful principle: The obvious interest of every individual to whom the fund belongs.
+
 His annual savings is afterwards used to maintain productive hands.
-If used otherwise, it would create a loss.
+- If used otherwise, it would create a loss.
 
 
 {{< s v="20" >}} The prodigal perverts it in this way.

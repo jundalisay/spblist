@@ -1,7 +1,7 @@
 ---
-title: "How to Create Equality in Wages and Profits"
+title: "Inequalities in Wholesale and Retail Trade"
 heading: "Part 1e"
-weight: 64
+weight: 62
 writer:
   name: Adam Smith
   url: https://en.wikipedia.org/wiki/Adam_Smith
@@ -10,155 +10,110 @@ description: "The chance of loss is frequently under-valued and rarely valued mo
 icon: "/avatars/smith.png"
 ---
 
-
-<!-- heading=  "Chapter 10, Part 1d=  Profit and wage inequality in different Occupations and Businesses" -->
-
-
-{{< s v="42" >}} Those 5 circumstances create inequalities in wages and profits.
-
-But they create equality when the advantages and disadvantages in employments are both taken into account. They balance out gains and losses.
-
-{{< s v="43" >}} To create this balance or equality, three things are needed on top of the most perfect freedom= 
+<!-- # heading=  "Chapter 10, Part 1d=  Profit and wage inequality in different Occupations and Businesses" -->
 
 
-## Equality Through Length of Time in Operations
+## Wages in the Pharmaceutical Industry [Apothecaries]
 
-> 1. {{< s v="44" >}} The employments must be well known and long established in the neighbourhood
+{{< s v="38" >}} 'Pharmaceutical profit' denotes something uncommonly extravagant.
+- This great apparent profit, however, is frequently no more than reasonable wages.
 
-{{< s v="45" >}} Where all other circumstances are equal, wages are higher in new than in old trades. Before an entrepreneur establishes a new manufacture, he must at first entice workers from other employments with higher wages. A considerable time must pass before he can reduce them to the common level.
+The skill of an pharmacist is a much nicer and more delicate than that of any artificer.
+- The trust reposed in him is of much more importance.
+- He is:
+  - the physician of the poor in all cases.
+  - the physician of the rich when the distress is not very great.
+- His reward
+  - should be suitable to his skill and trust.
+  - reward is in the price of his drugs.
 
-- Manufactures for products with ever-changing demand, arising from fashion and fancy, seldom last long.
-- Manufactures for products with constant demand, arising from necessity, may continue for centuries.
-
-Wages are likely to be higher in manufactures of products with changing demand, than in those with constant demand.
-
-Birmingham deals chiefly with products of changing demand and are said to have higher wages than Sheffield which deals with products of constant demand.
-
-{{< s v="46" >}} The establishment of any new manufacture or branch of commerce or new agricultural practice, is always a speculation from an entrepreneur who desires extraordinary profits.
-
-These profits can be very great or very small.
-In general, their profits bear no regular proportion to those of other old trades in the neighbourhood.
-If the project succeeds, profits are commonly at first very high.
-
-When the trade becomes thoroughly established and well known, competition reduces them to the level of other trades.
-
-A considerable time must pass before he can reduce them to the common level.
-Manufactures for products with ever-changing demand, arising from fashion and fancy, seldom last long.
-
-Manufactures for products with constant demand, arising from necessity, may continue for centuries.
-Wages are likely to be higher in manufactures of products with changing demand, than in those with constant demand.
-
-Birmingham deals chiefly with products of changing demand and are said to have higher wages than Sheffield which deals with products of constant demand.
-
-{{< s v="46" >}} The establishment of any new manufacture or branch of commerce or new agricultural practice, is always a speculation from an entrepreneur who desires extraordinary profits.
-
-These profits can be very great or very small.
-In general, their profits bear no regular proportion to those of other old trades in the neighbourhood.
-If the project succeeds, profits are commonly at first very high.
-When the trade becomes thoroughly established and well known, competition reduces them to the level of other trades.
+All the drugs the best pharmacy will sell in a large town may not perhaps cost above 30-40 pounds a year.
+If he sells them for 300-400 pounds, or at 1,000% profit, this may be the reasonable wages for his labour charged on the price of his drugs.
+Most of his profit is actually wages.
 
 
-## Businesses must be natural
+
+## Groceries and Retail
+
+{{< s v="39" >}} In a small sea-port town, a little grocer will make 40-50% from a stock of £100.
+
+A wholesale merchant in the same place will make 8-10% on a stock of £10,000.
+
+The trade of the grocer may be necessary for the conveniency of the inhabitants.
+
+The narrowness of the market may not admit a larger capital.
+
+Man, must not only live by his trade, but live by it suitably to the qualifications it requires.
+
+Besides possessing a little capital, he must:
+- be able to read, write, and compute
+- be a tolerable judge of 50-60 sorts of goods
+
+This includes knowing their prices, qualities, and the markets where they are to be had cheapest.
+He must have the knowledge of a great merchant.
+
+Only his lack of capital hinders him from becoming one.
+
+30 or 40 pounds a year is not too big a compensation for a person so accomplished.
+
+Deduct this from his great profits and little above ordinary profits remain.
+A majority of his apparent profit is real wages.
 
 
-> 2. {{< s v="47" >}} This equality can take place only in the ordinary or natural state of those employments.
+{{< s v="40" >}} There is less difference between the apparent profits in retail and wholesale in big cities than small towns.
 
-{{< s v="48" >}} The demand for labour constantly changes.
+If a grocery owner employs £10,000, his wages must add very little to the real profits his great stock.
+In a big city therefore, a wealthy retailer's apparent profits are more on a level with the wholesale merchant's profits.
 
-The demand and wages for country labour is greatest at hay-time and harvest.
-In wartime, when 40,000-50,000 sailors are forced from the merchant service into the navy, the demand for sailors in merchant ships rises.
-Their wages rise from a guinea and 27 shillings to 40 shillings and 3 pounds a month.
-In a decaying manufacture, many workmen are content with smaller wages rather than quit their old trade.
+Retail goods are generally cheaper in big cities than small towns.
 
+Grocery goods are generally much cheaper.
+Bread and meat frequently as cheap.
 
-{{< s v="49" >}} Profits vary with the price of the commodities in which stock is employed.
+This is because the prime cost of retail is the same in big cities and rural villages.
+It costs no more to bring grocery goods to a big city than to the rural village.
 
-Profits change as prices change relative to the ordinary rate.
-Some commodities are more liable to price variations than others.
-In manufactured commodities, the quantity of industry annually employed is regulated by the annual demand so that the average annual produce may be equal to the average annual consumption.
-In some employments, the same quantity of industry will always produce nearly the same quantity of commodities.
-In the linen or woollen manufactures, for example, the same number of workers will annually work up nearly the same quantity of linen and woollen cloth.
+But retail profits are smaller in big cities because the bigger market of the city gives employment to more stocks.
+More stock employed lowers profits.
 
-The variations in the market price of such commodities can arise only from some accidental variation in the demand.
-A public mourning raises the price of black cloth.
-But the price of plain linen and woollen cloth is uniform because the demand is also uniform.
-There are other employments in which the same quantity of industry will not always produce the same quantity of commodities.
-An example is corn, wine, hops, sugar, tobacco, etc.
-The price of agricultural commodities,varies with the variations of demand and quantity produced.
-It is consequently extremely fluctuating.
-The profit of some of those dealers must fluctuate with the price of the commodities.
-Thus, there are many speculators in agricultural commodities.
+Even if the prime cost of retail bread and meat is higher in big cities than rural villages, its smaller profits make it as cheap as those in the rural villages.
+
+The prime cost of wholesale goods, such as corn and cattle, is bigger in big cities than rural villages as they must be brought from farther away.
+
+This is probably why the price of bread and meat are nearly the same in parts of Great Britain while the prices of corn and cattle are different.
 
 
-## Focus of the Entrepeneur
+{{< s v="41" >}} Profits in both wholesale and retail trade are generally less in big than in small towns
 
-> 3. {{< s v="50" >}} This equality can take place only in the sole or principal employments of those who occupy them.
+But great fortunes are frequently gained from small beginnings in big cities and rarely in small towns.
+Small towns and rural villages have a small market
+Trade there cannot always be extended as stock extends
 
-{{< s v="51" >}} When a person derives his subsistence from an employment which can give him some free time, he is often willing to work at another for less wages than normal.
+A person there may have high profit rates
+But his total accumulated profits can never be very great
+In big cities, on the contrary, trade can be extended as stock increases.
+The credit of a frugal and thriving man increases much faster than his stock.
 
-{{< s v="52" >}} Cotters (or Cottagers) of Scotland were frequent some years ago.
+His business is extended with his credit and stock
+His total accumulated profits is extended with his business
+Great fortunes are seldom made even in big cities by any one regular, established, and well-known branch of business.
 
-They are out-servants of the landlords and farmers.
+Great fortunes are created instead from a long life of industry, frugality, and attention.
+Sudden fortunes are sometimes made by speculation.
 
-They receive from their master a house, a small garden for pot herbs, as much grass as will feed a cow, and, an acre or two of bad arable land.
-When their master needs their labour, he gives them an additional two pecks of oatmeal a week, worth about 16 pence sterling.
-    He has no need for their labour during most of the year.
+The speculative merchant has no regular, established, or well-known business.
 
-The cultivation of their own small land is insufficient to keep them occupied.
-In the past, they were willing to work for anybody at a very small pay, even less than other labourers.
-In ancient times, they were common in Europe.
+"He is a corn merchant this year, and a wine merchant the next, and a sugar, tobacco, or tea merchant the year after."
 
-In countries ill cultivated, with few people, most landlords and farmers could not provide themselves with many workers required by agricultural work during certain seasons.
+He enters into businesses likely to be profitable and quits it when its profits are likely to decline.
 
-The low pay received by Cotters from their masters was not the whole price of their labour.
-Many authors who wrote about wages in ancient times thought them to be.
-Their small tenement made a big part of their pay.
+His profits and losses, therefore, are not as regular as any established and well-known business.
 
+A bold adventurer may sometimes gain a big fortune by two or three successful speculations.
 
-{{< s v="53" >}} The produce of Cotters' labour is cheaper than natural.
+But he is just as likely to lose by two or three unsuccessful ones.
 
-Stockings in Scotland are knit much cheaper than the ones produced with the loom.
-- They are made by servants who derive their principal subsistence from some other employment.
+Speculation can only be done in big cities.
 
-More than a thousand pairs priced 5 to 7 pence a pair of Shetland stockings are annually imported into Leith.
-Learwick is the small capital of the Shetland islands.
-10 pence a day is a price of common labour there.
+Only big cities have the extensive commerce needed for speculation.
 
-People of those islands knit worsted stockings worth a guinea a pair or more.
-
-{{< s v="54" >}} The spinning of linen yarn in Scotland is done by servants who are chiefly hired for other purposes, in the same way as those who knit stockings.
-- They earn very little.
-- They do those trades to add to their livelihood.
-
-In most parts of Scotland, a good spinner can earn 20 pence a week.
-
-
-{{< s v="55" >}} The market of opulent countries is so extensive, that any one trade can fully employ those who work in it.
-
-People have multiple employments chiefly in poor countries. But it also happens in the capital of a very rich country.
-
-<!-- Instances of people living by one employment while deriving some little wage from another, occur  -->
-
-London has the most expensive house rent in Europe.
-- It is also the only capital where apartment rent can be so cheap.
-- Lodging is much cheaper in London than in Paris and Edinburgh.
-
-The dearness of house-rent is the cause of the cheapness of lodging.
-
-The dearness of house-rent in London arises from:
-- the dearness of labour
-- the building materials which must be brought from far away
-- the dearness of ground-rent, most of all
-  - Every landlord acts as a monopolist.
-  - He exacts a higher rent for 1 acre of bad land in a town than can be had for 100 acres of the best land in the countryside.
-- the social customs which oblige every master of a family to rent a whole house<!-- from top to bottom -->.
-  - In England, a "dwelling-house" means everything under the same roof.
-  - In France, Scotland, and other European countries, it means a single story.
-
-A tradesman in London is obliged to hire a whole house where his customers live.
-- His shop is on the ground-floor.
-- He and his family sleep in the attic.
-- He pays a part of his house-rent by renting out the 2 middle stories to lodgers.
-- He maintains his family by his trade, not by his lodgers.
-
-In Paris and Edinburgh, the people who rent out lodgings commonly have no other means of subsistence.

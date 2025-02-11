@@ -17,14 +17,17 @@ When a man makes an investment, he buys the right to prospective returns.
 
 I call this "the prospective yield of the investment".
 
-This prospective yield has a supply price which is the cost to create that investment.
+This prospective yield has a supply price.
 
-This supply price is not the market price at which it is bought.
+This supply price:
+- is the cost to create that investment
+- is not the market price at which it is bought
 
-The relation between the prospective yield and its supply price gives us its **marginal efficiency of capital**.
-- It is equal to that rate of discount which would make the present value of the series of annuities given by the returns expected from the capital-asset during its life just equal to its supply price.
-- It is the expectation of yield and of the current supply price of the investment.
-- It is not based on the historical result of what an investment has yielded.
+
+The relation between the prospective yield and its supply price gives us its **marginal efficiency of capital**. It is:
+- equal to that rate of discount which would make the present value of the series of annuities given by the returns expected from the capital-asset during its life just equal to its supply price
+- the expectation of yield and of the current supply price of the investment
+- not based on the historical result of what an investment has yielded
 
 This marginal efficiencies for each kind of investment.
 
@@ -34,14 +37,16 @@ If more people buy ann investment over time, the marginal efficiency of that kin
 
 This is:
 - because the prospective yield will fall as the supply of that type of capital is increased, and
-- This is takes place in the long run
+  - This is takes place in the long run
 - partly because as a rule, pressure on the facilities for producing that type of capital will cause its supply price to increase.
-- This is takes place in the short run
+  - This is takes place in the short run
 
-Thus for each type of capital we can build up a schedule
+Thus for each type of capital we can build up a schedule.
 
 We show how much investment in it will have to increase within the period, for its marginal efficiency to fall.
+
 We then aggregate these curves for all types of capital to create a curve.
+
 This will show the rate of aggregate investment to the corresponding general marginal efficiency of capital established by that rate of investment.
 
 The actual rate of current investment will then be reduced to the point where there is no longer any investment which has the marginal efficiency to exceed the current rate of interest.
@@ -51,12 +56,16 @@ The rate of investment will be pushed to the point on the investment demand curv
 The demand price of the investment at equilibrium = Summation of the prospective yield from an asset at given timespan multiplied by the Present value of £1 deferred at that timespan at the current rate of interest.
 
 Investment will be carried to the point where the demand price of the investment becomes equal to the supply price of the investment.
+
 If the demand price of the investment falls goes below the supply price, investment will stop.
 
 It follows that the inducement to invest depends partly on the investment demand-curve and partly on the rate of interest.
 
-The conclusion of Book 4 has a comprehensive view of the factors determining the rate of investment in their actual complexity. Neither the knowledge of an asset’s prospective yield nor the knowledge of the returns of the investment enables us to deduce either the rate of interest or the present value of the asset. We must ascertain the rate of interest from some other source. Only then can we value the asset by “capitalising” its prospective yield.
+The conclusion of Book 4 has a comprehensive view of the factors determining the rate of investment in their actual complexity. 
 
+Neither the knowledge of an asset’s prospective yield nor the knowledge of the returns of the investment enables us to deduce either the rate of interest or the present value of the asset. We must ascertain the rate of interest from some other source. 
+
+Only then can we value the asset by “capitalising” its prospective yield.
 
 
 
@@ -124,6 +133,7 @@ If the rate is 20%, then less hat-making machinery would be bought that if the r
 Thus, if the rate is 3% and hat-making absorbs capital then it means that the marginal utility of the hat-making machinery is at 3%.
 
 Marshall knew that we are reasoning in a circle if we try to determine what the interest rate actually is.
+
 
 [2] He accepts that the interest rate determines the point to which new investment will be pushed, given the return-on-investment curve.
 

@@ -14,7 +14,7 @@ icon: "/icons/descartes.png"
 
 
 
-#### 4. The nature of body consists not in weight hardness, colour and the like, but in extension alone*
+### 4. The nature of body consists not in weight hardness, colour and the like, but in extension alone*
 
 {{< n n="Descartes reiterates that the nature of matter is it occupying metaphysical space. From now, we will replace 'extension' with 'metaphysical space' to distinguish it from 'space' as physical space" >}}
 

@@ -87,6 +87,3 @@ The gravitational pull of the large approaching planet soon began to tear away p
 From her midst there emerged 11 "monsters," a "growling, raging" throng of satellites who "separated themselves" from her body and "marched at the side of Tiamat." 
 
 Preparing herself to face the onrushing Marduk, Tiamat "crowned them with halos," giving them the appearance of "gods" (planets). 
-
-
-

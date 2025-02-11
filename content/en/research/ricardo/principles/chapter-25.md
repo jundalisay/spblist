@@ -1,4 +1,13 @@
-CHAPTER XXV. CURRENCY AND BANKS.
+---
+heading: Chapter 25
+title: "Currency And Banks"
+description: ""
+image: "/covers/tax.jpg"
+weight: 184
+date: 2025-01-11
+---
+
+
 
 It is not my intention to detain the reader by any long dissertation on the subject of money. So much has already been written on currency, that of those who give their attention to such subjects, none but the prejudiced are ignorant of its true principles. I shall therefore take only a brief survey of some of the general laws which regulate its quantity and value.
 

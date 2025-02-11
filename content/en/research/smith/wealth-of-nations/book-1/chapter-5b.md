@@ -26,9 +26,9 @@ But a rent measured in other commodities will vary with depending on the amount 
 
 {{< s v="16" >}} The real value of a wheat is more stable from century to century than from year to year, compared to metal money.
 
-[Gold & silver prices](https= //socioecons.files.wordpress.com/2014/07/gold-silver.jpg)
+[Gold & silver prices](https://socioecons.files.wordpress.com/2014/07/gold-silver.jpg)
 
-[Wheat prices](https= //socioecons.files.wordpress.com/2014/07/cornwheat100.png)
+[Wheat prices](https://socioecons.files.wordpress.com/2014/07/cornwheat100.png)
 
 The money price of labour, however, fluctuates according to the price of ordinary subsistence.
 
@@ -64,15 +64,15 @@ Only at the same time and place is money the exact measure of the real exchangea
 Yet, the merchant considers only the nominal or money price. This difference of arbitrage is exactly what merchants want.
 
 For example, 0.5 ounces of silver in China commands more labour and buys more Chinese commodities than 1 ounce at London buys British commodities.
+
 A commodity which sells for 0.5 ounces of silver in China is more important to a man there than a commodity which sells for 1 ounce of silver in London, to a man in London.
 However, if a merchant can buy a Chinese commodity in China worth 0.5 ounces of silver there and sell it in London for 1 ounce, he gains 100%.
 
 It is unimportant to him that his 0.5 ounce would have given him more command of labour in China, than 1 ounce would do in London.
 By getting 1 ounce in London, he now has double the command of labour, compared to if he had spent his original 0.5 ounces to buy Chinese commodities for consumption in China.
 
-> [Modernized example=  $100 will buy more Chinese-made shoes in China than $100 will buy American-made shoes in the US.]
-[Merchants therefore use their dollars to buy Chinese-made shoes and sell it in the US.]
-[They do not use their dollars to use those shoes themselves or sell them back to the Chinese.]
+
+{{< n n="Modernized example: $100 will buy more Chinese-made shoes in China than $100 will buy American-made shoes in the US. Merchants therefore use their dollars to buy Chinese-made shoes and sell it in the US. They do not use their dollars to use those shoes themselves or sell them back to the Chinese." >}}
 
 
 ## Nominal Prices and (Secondary) Arbitrage
@@ -91,13 +91,17 @@ Each nation ended up with a single metal, usually the first metal to accept, to 
 
 
 {{< s v="24" >}} The Romans used only copper money until five years before the first Punic war, when they first began to coin silver.
+
 Copper appears to have always been the measure of value there.
-All estates in Rome were computed in= 
-As=  a denomination of copper coin
-Sestertii=  2.5 Asses, equal to a silver coin
+
+All estates in Rome were computed in:
+- As: a denomination of copper coin
+- Sestertii: 2.5 Asses, equal to a silver coin
+
 
 {{< s v="25" >}} The Northern Europeans used silver.
-The Saxons used silver and little gold coin until Edward III and no copper until James I
+
+The Saxons used silver and little gold coin until Edward 3rd and no copper until James 1st.
 
 In all modern European nations, all value is generally measured in silver (pounds sterling)
 
@@ -109,7 +113,9 @@ In all modern European nations, all value is generally measured in silver (pound
 {{< s v="27" >}} In time, people established laws to set the values of gold and silver. In this case, the difference between the metals was just a little nominal distinction. A (gold) guinea was equal to 21 (silver) shillings
 
 {{< s v="28" >}} If the law changes, then the difference becomes more than nominal again.
+
 If a guinea was changed to be equal to 20 or 22 shillings, then debts in silver will require different amounts of guinea.
+
 Silver appeared to be the measure of value of gold because of the custom of keeping accounts in silver.
 
 On the contrary, promissory notes are recorded in gold.
@@ -120,7 +126,9 @@ If the custom of using notes in gold instead of silver becomes general, then gol
 {{< s v="29" >}} In reality, the value of the most precious metal regulates the value of all coins.
 
 12 copper pence contain half a pound, avoirdupois, of copper, seldom worth sevenpence in silver
+
 But by regulation, 12 copper pence equals a shilling
+
 The regulation makes worn coins of equal value to good coins of the same kind
 
 {{< s v="30" >}} Because the regulation disregards the physical degradation of coins, it raises the real value of silver.

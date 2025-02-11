@@ -1,5 +1,17 @@
-CHAPTER XXIII. COLONIAL TRADE.
-Adam Smith, in his observations on colonial trade, has shewn, most satisfactorily, the advantages of a free trade, and the injustice suffered by colonies, in being prevented by their mother countries, from selling their produce at the dearest market, and buying their manufactures and stores at the cheapest. He has shewn, that by permitting every country freely to exchange the produce of its industry when and where it pleases, the best distribution of the labour of the world will be effected, and the greatest abundance of the necessaries and enjoyments of human life will be secured.
+---
+heading: Chapter 23
+title: "Colonial Trade"
+description: ""
+image: "/covers/tax.jpg"
+weight: 184
+date: 2025-01-11
+---
+
+
+
+Adam Smith, in his observations on colonial trade, has shewn the advantages of a free trade, and the injustice suffered by colonies, in being prevented by their mother countries, from selling their produce at the dearest market, and buying their manufactures and stores at the cheapest. 
+
+He has shewn, that by permitting every country freely to exchange the produce of its industry when and where it pleases, the best distribution of the labour of the world will be effected, and the greatest abundance of the necessaries and enjoyments of human life will be secured.
 
 He has attempted also to shew, that this freedom of commerce, which undoubtedly promotes the interest of the whole, promotes also that of each particular country; and that the477 narrow policy adopted in the countries of Europe respecting their colonies, is not less injurious to the mother countries themselves, than to the colonies whose interests are sacrificed.
 

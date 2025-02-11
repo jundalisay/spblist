@@ -88,21 +88,26 @@ That 90 degree sudden shift is like a car switching lanes instantly. That can on
 
 ### Star Colors
 
-Coors are caused 
+The colors that come from stars are sourced from the relation of their proton and the heat energy in their aetherspace. 
 
+A hot star will have more radiant energy and subsequently less matter or heavy protons. This will create a white or blue color.
 
+A cooler star will have less radiant energy and more matter as heavy protons. This will create an orange or red color.
 
-The colors are are combination of rotational and linear speed. 
+<!-- The colors are are combination of rotational and linear speed. 
 
 Passing through dense space makes the light corpuscles move forward at different linear speeds. These differences make them rotate relative to each other. 
 
 The rotation is seen as wavelengths. 
 
-Energy is related to brightness, not color. Energy is 1st Element. Color is 2nd Element (space). 
+Energy is related to brightness, not color. Energy is 1st Element. Color is 2nd Element (space).  -->
+
 
 The space around Earth has variations. But space around stars has no variations.
 
-This is why there is green and UV LED but no green or violet star. And why there is no white LED but there are white stars. 
+This is why:
+- there is green and UV LED but no green or violet star
+- there is no white LED but there are white stars
 
 
 Since red stars are fast going to matter, then it has less energy and less heat. Blue stars are slow going to matter and so have more energy and heat. 

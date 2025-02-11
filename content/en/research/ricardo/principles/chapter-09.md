@@ -1,6 +1,22 @@
-CHAPTER 9. TITHES
+---
+heading: Chapter 9
+title: "Tithes"
+description: ""
+image: "/covers/tax.jpg"
+weight: 184
+date: 2025-01-11
+---
 
-Tithes are a tax on the gross produce of the land, and, like taxes on raw produce, fall wholly on the consumer. They differ from a tax on rent, inasmuch as they affect land which such a tax would not reach; and raise the price of raw produce, which that tax e of raw produce, which that tax would not alter. Lands of the worst quality, as well as of the best, pay tithes, and exactly in proportion to the quantity of produce obtained from them; tithes are therefore an equal tax.
+
+
+Tithes are a tax on the gross produce of the land.
+- Like taxes on raw produce, they fall wholly on the consumer.
+
+They differ from a tax on rent, inasmuch as they affect land which such a tax would not reach; and raise the price of raw produce, which that tax e of raw produce, which that tax would not alter. 
+
+Lands pay tithes in proportion to produce obtained from them.
+
+Tithes are therefore an equal tax.
 
 If land of the last quality, or that which pays no rent, and which regulates the price of corn, yield a sufficient quantity to give the farmer the usual profits of stock, when the226 price of wheat is 4l. per quarter, the price must rise to 4l. 8s. before the same profits can be obtained after the tithes are imposed, because for every quarter of wheat the cultivator must pay eight shillings to the church.
 

@@ -107,36 +107,24 @@ But if the universality is posited with respect to the minor term either affirma
 
 For example, if some B is or is not A, and all C is B. As an example of a positive relation between the extremes take the terms good, state, wisdom: of a negative relation, good, state, ignorance.
 
-Again if no C is B, but some B is or is not A or not every B is A, there cannot be a
-syllogism. Take the terms white, horse, swan: white, horse, raven. The same terms may be taken
-also if the premise BA is indefinite.
+Again if no C is B, but some B is or is not A or not every B is A, there cannot be a syllogism. Take the terms white, horse, swan: white, horse, raven. The same terms may be taken also if the premise BA is indefinite.
 
-Nor when the major premise is universal, whether affirmative or negative, and the minor premise
-is negative and particular, can there be a syllogism, whether the minor premise be indefinite or
-particular: e.g. if all B is A and some C is not B, or if not all C is B. 
+Nor when the major premise is universal, whether affirmative or negative, and the minor premise is negative and particular, can there be a syllogism, whether the minor premise be indefinite or particular: e.g. if all B is A and some C is not B, or if not all C is B. 
 
 For the major term may be predicable both of all and of none of the minor, to some of which the middle term cannot be attributed.
 
-Suppose the terms are animal, man, white: next take some of the white things of
-which man is not predicated-swan and snow: animal is predicated of all of the one, but of none
-of the other. 
+Suppose the terms are animal, man, white: next take some of the white things of which man is not predicated-swan and snow: animal is predicated of all of the one, but of none of the other. 
 
-Consequently there cannot be a syllogism. Again let no B be A, but let some C not
-be B.
+Consequently there cannot be a syllogism. Again let no B be A, but let some C not be B.
 
-Take the terms inanimate, man, white: then take some white things of which man is not
-predicated-swan and snow: the term inanimate is predicated of all of the one, of none of the
-other.
+Take the terms inanimate, man, white: then take some white things of which man is not predicated-swan and snow: the term inanimate is predicated of all of the one, of none of the other.
 
-Further since it is indefinite to say some C is not B, and it is true that some C is not B, whether
-no C is B, or not all C is B, and since if terms are assumed such that no C is B, no syllogism
-follows (this has already been stated) it is clear that this arrangement of terms will not afford a
-syllogism: otherwise one would have been possible with a universal negative minor premise. A
-similar proof may also be given if the universal premise is negative.
+Further since it is indefinite to say some C is not B, and it is true that some C is not B, whether no C is B, or not all C is B, and since if terms are assumed such that no C is B, no syllogism follows (this has already been stated) it is clear that this arrangement of terms will not afford a syllogism: otherwise one would have been possible with a universal negative minor premise. A similar proof may also be given if the universal premise is negative.
 
-Nor can there in any way be a syllogism if both the relations of subject and predicate are
-particular, either positively or negatively, or the one negative and the other affirmative, or one
-indefinite and the other definite, or both indefinite. Terms common to all the above are animal,
-white, horse: animal, white, stone.
+Nor can there in any way be a syllogism if both the relations of subject and predicate are particular, either positively or negatively, or the one negative and the other affirmative, or one indefinite and the other definite, or both indefinite. Terms common to all the above are animal, white, horse: animal, white, stone.
 
-If there is a syllogism in this figure with a particular conclusion, the terms must be related as we have stated: if they are related otherwise, no syllogism is possible anyhow. It is evident also that all the syllogisms in this figure are perfect (for they are all completed by means of the premises originally taken) and that all conclusions are proved by this figure, viz. universal and particular, affirmative and negative. Such a figure I call the first. 
+If there is a syllogism in this figure with a particular conclusion, the terms must be related as we have stated: if they are related otherwise, no syllogism is possible anyhow.
+
+In this figure:
+- all the syllogisms in this figure are perfect. They are all completed by means of the premises originally taken
+- all conclusions are proved by this figure, viz. universal and particular, affirmative and negative. Such a figure I call the first.

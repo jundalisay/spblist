@@ -1,8 +1,25 @@
-CHAPTER 14. TAXES ON WAGES
+---
+heading: Chapter 14
+title: "Taxes on Wages"
+description: ""
+image: "/covers/tax.jpg"
+weight: 184
+date: 2025-01-11
+---
 
-Taxes on wages will raise wages, and therefore will diminish the rate of the profits of stock. We have already seen that a tax on necessaries will raise their prices, and will be followed by a rise of wages. The only difference between a tax on necessaries, and a tax on wages is, that the former will necessarily be accompanied by a rise in the price of necessaries, but the latter will not; towards a tax on wages, consequently, neither the stockholder, the landlord, nor any other class but the employers of labour will contribute. A tax on wages is wholly a tax on profits, a tax on necessaries is partly a tax on profits, and partly a tax on rich consumers. The ultimate effects which will result from such taxes then are precisely the same as those which result from a direct tax on profits.
 
-286 "The wages of the inferior classes of workmen," says Adam Smith, "I have endeavoured to shew in the first book, are every where necessarily regulated by two different circumstances; the demand for labour, and the ordinary or average price of provisions. The demand for labour, according as it happens to be either increasing, stationary, or declining, or to require an increasing, stationary, or declining population, regulates the subsistence of the labourer, and determines in what degree it shall be either liberal, moderate, or scanty. The ordinary or average price of provisions determines the quantity of money which must be paid to the workman, in order to enable him one year with another to purchase this liberal, moderate, or scanty subsistence. While the demand for labour, and the price of provisions, therefore remain the same, a direct tax upon the wages of labour can have no other effect than to raise them somewhat higher than the tax."
+
+Taxes on wages will raise wages, and therefore will diminish the rate of the profits of stock. 
+
+A tax on necessaries will raise their prices, and will be followed by a rise of wages. The only difference between a tax on necessaries, and a tax on wages is, that the former will necessarily be accompanied by a rise in the price of necessaries, but the latter will not; towards a tax on wages, consequently, neither the stockholder, the landlord, nor any other class but the employers of labour will contribute. 
+
+A tax on wages is wholly a tax on profits, a tax on necessaries is partly a tax on profits, and partly a tax on rich consumers. The ultimate effects which will result from such taxes then are precisely the same as those which result from a direct tax on profits.
+
+"The wages of the inferior classes of workmen," says Adam Smith, "I have endeavoured to shew in the first book, are every where necessarily regulated by two different circumstances; the demand for labour, and the ordinary or average price of provisions.
+
+The demand for labour, according as it happens to be either increasing, stationary, or declining, or to require an increasing, stationary, or declining population, regulates the subsistence of the labourer, and determines in what degree it shall be either liberal, moderate, or scanty.
+
+The ordinary or average price of provisions determines the quantity of money which must be paid to the workman, in order to enable him one year with another to purchase this liberal, moderate, or scanty subsistence. While the demand for labour, and the price of provisions, therefore remain the same, a direct tax upon the wages of labour can have no other effect than to raise them somewhat higher than the tax."
 
 To the proposition, as it is here advanced by Dr. Smith, Mr. Buchanan offers two objections. First, he denies that the money287 wages of labour are regulated by the price of provisions; and secondly, he denies that a tax on the wages of labour would raise the price of labour. On the first point, Mr. Buchanan's argument is as follows, page 59: "The wages of labour, it has already been remarked, consist not in money, but in what money purchases, namely, provisions and other necessaries; and the allowance of the labourer out of the common stock, will always be in proportion to the supply. Where provisions are cheap and abundant, his share will be the larger; and where they are scarce and dear, it will be the less. His wages will always give him his just share, and they cannot give him more. It is an opinion indeed, adopted by Dr. Smith and most other writers, that the money price of labour is regulated by the money price of provisions, and that when provisions rise in price, wages rise in proportion. But it is clear that the price of labour has no necessary connexion with the price of food, since it depends entirely on the supply of labourers compared with the demand. Besides, it is to be observed, that the high price of provisions is a certain indication of a deficient supply, and288 arises in the natural course of things, for the purpose of retarding the consumption. A smaller supply of food, shared among the same number of consumers, will evidently leave a smaller portion to each, and the labourer must bear his share of the common want. To distribute this burden equally, and to prevent the labourer from consuming subsistence so freely as before, the price rises. But wages it seems must rise along with it, that he may still use the same quantity of a scarcer commodity; and thus nature is represented as counteracting her own purposes: first, raising the price of food, to diminish the consumption, and afterwards, raising wages to give the labourer the same supply as before."
 
