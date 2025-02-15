@@ -20,9 +20,13 @@ I have explained how we:
 Why do cause and effect need to be connected to each other? (Section 2)
 
 All our ideas are derived from impressions.
+
 We must find some impression that creates this need.
+
 To do this, I consider where the need arises.
+
 It is always ascribed to causes and effects.
+
 I look at two objects, one is the cause and the other, the effect.
 
 I examine them in all situations and immediately perceive that:
@@ -41,6 +45,7 @@ But on further inquiry, I find that the repetition is not the same.
 Each repetition creates a new impression.
 This new impression needs the connection that produced it.
 After a frequent repetition, I find that on the appearance of one of the objects, the mind is determined by habit to consider its usual attendant.
+
 The mind considers that attendant in a stronger light because of its relation to the first object.
 This impression or determination gives me the idea of the needed or consequential connection between cause and effect.
 These consequences will be initially received easily as deductions from our previous principles.
@@ -51,6 +56,7 @@ make us imagine that this need or consequence contains nothing extraordinary, an
 make us forget this need or consequence.
 But in fact, this evidence is the base of the most sublime topics in philosophy: the power and efficacy of causes.
 All the sciences seem so much interested in it.
+
 I hope that my reasoning on the need for cause and effect to connect to each other will:
 rouse the reader's attention, and
 make the reader want:

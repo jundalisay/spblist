@@ -11,55 +11,79 @@ icon: /avatars/hume.png
 ---
 
 
-A passion is an original existence or modification of existence.
-- It does not contain any representative quality which renders it a copy of any other existence or modification.
+A passion is an:
+- original existence or
+- modification of existence.
+
+It does not contain any representative quality which renders it a copy of any other existence or modification.
 
 When I am angry, I actually have the passion.
-        ◦ In that emotion, I have no more a reference to any other object, than when I am thirsty, or sick, or more than five foot high.
-    • Therefore, it is impossible that this passion can be opposed by or be contradictory to truth and reason, since this contradiction consists in the disagreement of ideas, considered as copies, with the objects they represent.
 
-    • Nothing can be contrary to truth or reason except what has a reference to it.
-        ◦ As the judgements of our understanding only have this reference, it follows that passions can be contrary to reason only so far as they are accompanied with some judgement or opinion.
-    • This principle is so obvious and natural.
-        ◦ Accordingly, it is only in two senses that any affection can be called unreasonable.
-            1. When a passion, such as hope or fear, grief or joy, despair or security, is founded on the supposition or the existence of objects, which really do not exist.
-            2. When in exerting any passion in action, we:
-                1. choose means insufficient for the designed end
-                2. deceive ourselves in our judgement of causes and effects.
+◦ In that emotion, I have no more a reference to any other object, than when I am thirsty, or sick, or more than five foot high.
+
+Therefore, it is impossible for anger to be opposed by truth and reason.
+- An opposition would mean that my copies of ideas are not really copies. 
+
+<!-- adiction consists in the disagreement of ideas, considered as copies, with the objects they represent. -->
+
+• Nothing can be contrary to truth or reason except what has a reference to it.
+
+◦ As the judgements of our understanding only have this reference, it follows that passions can be contrary to reason only so far as they are accompanied with some judgement or opinion.
+
+• This principle is so obvious and natural.
+
+Any affection is called unreasonable in only 2 senses:
+
+1. When a passion is founded on objects which really do not exist.
+
+<!-- such as hope or fear, grief or joy, despair or security, -->
+
+2. When in exerting any passion in action, we:
+- choose insufficient means for the designed end
+- deceive ourselves in our judgement of causes and effects.
 
 Where a passion is neither founded on false suppositions, nor chooses means insufficient for the end, the understanding can neither justify nor condemn it.
 
 It is not contrary to reason for me:
-            1. to prefer the destruction of the whole world to the scratching of my finger.
-            2. to choose my total ruin
-            3. to prevent the least uneasiness of an Indian or person wholly unknown to me.
-            4. to prefer my own acknowledged lesser good to my greater good
-            5. to have a more ardent affection for my lesser good than my greater good.
+
+1. to prefer the destruction of the whole world to the scratching of my finger.
+2. to choose my total ruin
+3. to prevent the least uneasiness of an Indian or person wholly unknown to me.
+4. to prefer my own acknowledged lesser good to my greater good
+5. to have a more ardent affection for my lesser good than my greater good.
 
 In some circumstances, a trivial good might produce a desire superior to what arises from the greatest and most valuable enjoyment.
-        ◦ There is nothing more extraordinary in this, than in mechanics to see one pound weight raise 100 pounds by the advantage of its situation.
-    • In short, a passion must be accompanied with some false judgement for it to be unreasonable.
-        ◦ Even then, it is the judgement that is unreasonable, not the passion.
 
-    • The consequences are evident.
-        ◦ A passion can only be called unreasonable when it:
-            ▪ is founded on a false supposition, or
-            ▪ chooses means insufficient for the designed end.
-        ◦ It is therefore impossible that reason and passion can ever:
-            ▪ oppose each other, or
-            ▪ dispute for the government of the will and actions.
-    • Our passions yield to our reason without any opposition the moment we perceive the:
-        ◦ falsehood of any supposition, or
-        ◦ the insufficiency of any means.
-    • I may desire any fruit as of an excellent relish.
-        ◦ But whenever you convince me of my mistake, my longing ceases.
-    • I may will the performance of certain actions as means of obtaining any desired good.
-        ◦ But my willing of these actions is:
-            ▪ only secondary
-            ▪ founded on the supposition that they are causes of the proposed effect.
-        ◦ As soon as I discover the falsehood of that supposition, they must become indifferent to me.
+For example, in mechanics, 1 pound weight can raise 100 pounds by the advantage of its situation.
 
-    • It is natural for someone not philosophical to imagine that the mind’s actions are entirely the same.
+In short, a passion must be accompanied with some false judgement for it to be unreasonable.
+
+**Even then, it is the judgement that is unreasonable, not the passion.**
+
+A passion can only be called unreasonable when it:
+- is founded on a false supposition, or
+- chooses means insufficient for the designed end
+
+It is therefore impossible for reason and passion to ever:
+- oppose each other, or
+- dispute for the government of the will and actions
+
+Our passions yield to our reason without any opposition the moment we perceive the:
+- falsehood of any supposition, or
+- the insufficiency of any means.
+  
+I may desire any fruit as of an excellent relish.
+◦ But whenever you convince me of my mistake, my longing ceases.
+
+• I may will the performance of certain actions as means of obtaining any desired good.
+
+◦ But my willing of these actions is:
+- only secondary
+- founded on the supposition that they are causes of the proposed effect.
+
+As soon as I discover the falsehood of that supposition, they must become indifferent to me.
+
+It is natural for someone not philosophical to imagine that the mind’s actions are entirely the same.
         ◦ Its actions:
             ▪ do not produce a different sensation
             ▪ are not immediately distinguishable to the feeling and perception.

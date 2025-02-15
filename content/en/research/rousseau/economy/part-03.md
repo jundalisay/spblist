@@ -1,6 +1,6 @@
 ---
 heading: Rule 2
-title: "We Must Always Go Back To A First Convention"
+title: "Rule 2: Make the Particular Wills Conform with the General Will"
 description: ""
 image: "/covers/rousseau.jpg"
 weight: 4
@@ -16,7 +16,9 @@ If our politicians were less blinded by their ambition, they would see how impos
 
 They would feel that the greatest support of public authority lies in the hearts of the citizens, and that nothing can take the place of morality in the maintenance of government. It is not only upright men who know how to administer the laws; but at bottom only good men know how to obey them. 
 
-The man who once gets the better of remorse, will not shrink before punishments which are less severe, and less lasting, and from which there is at least the hope of escaping: whatever precautions are taken, those who only require impunity in order to do wrong will not fail to find means of eluding the law, and avoiding its penalties. In this case, as all particular interests unite against the general interest, which is no longer that of any individual, public vices have a greater effect in enervating the laws than the laws in the repression of such vices: so that the corruption of the people and of their rulers will at length extend to the government, however wise it may be. The worst of all abuses is to pay an apparent obedience to the laws, only in order actually to break them with security. For in this case the best laws soon become the most pernicious; and it would be a hundred times better that they should not exist. 
+The man who once gets the better of remorse, will not shrink before punishments which are less severe, and less lasting, and from which there is at least the hope of escaping: whatever precautions are taken, those who only require impunity in order to do wrong will not fail to find means of eluding the law, and avoiding its penalties. 
+
+In this case, as all particular interests unite against the general interest, which is no longer that of any individual, public vices have a greater effect in enervating the laws than the laws in the repression of such vices: so that the corruption of the people and of their rulers will at length extend to the government, however wise it may be. The worst of all abuses is to pay an apparent obedience to the laws, only in order actually to break them with security. For in this case the best laws soon become the most pernicious; and it would be a hundred times better that they should not exist. 
 
 In such a situation, it is vain to add edicts to edicts and regulations to regulations. Everything serves only to introduce new abuses, without correcting the old. The more laws are multiplied, the more they are despised, and all the new officials appointed to supervise them are only so many more people to break them, and either to share the plunder with their predecessors, or to plunder apart on their own. The reward of virtue soon becomes that of robbery; the vilest of men rise to the greatest credit; the greater they are the more despicable they become; their infamy appears even in their dignities, and their very honours dishonour them. If they buy the influence of the leaders or the protection of women, it is only that they may sell justice, duty, and the State in their turn: in the meantime, the people, feeling that its vices are not the first cause of its misfortunes, murmurs and complains that all its misfortunes come solely from those whom it pays to protect it from such things.
 
@@ -78,4 +80,6 @@ The virtue of the Romans, engendered by their horror of tyranny and the crimes o
 
 The unlimited power of fathers over their children made the individual authority so rigid that the father was more feared than the Magistrate, and was in his family tribunal both censor of morals and avenger of the laws.
 
-A careful and well-intentioned government, vigilant incessantly to maintain or restore patriotism and morality among the people, provides beforehand against the evils which sooner or later result from the indifference of the citizens to the fate of the Republic, keeping within narrow bounds that personal interest which so isolates the individual that the State is enfeebled by his power, and has nothing to hope from his good-will. Wherever men love their country, respect the laws, and live simply, little remains to be done in order to make them happy; and in public administration, where chance has less influence than in the lot of individuals, wisdom is so nearly allied to happiness, that the two objects are confounded.
+A careful and well-intentioned government, vigilant incessantly to maintain or restore patriotism and morality among the people, provides beforehand against the evils which sooner or later result from the indifference of the citizens to the fate of the Republic, keeping within narrow bounds that personal interest which so isolates the individual that the State is enfeebled by his power, and has nothing to hope from his good-will.
+
+Wherever men love their country, respect the laws, and live simply, little remains to be done in order to make them happy; and in public administration, where chance has less influence than in the lot of individuals, wisdom is so nearly allied to happiness, that the two objects are confounded.

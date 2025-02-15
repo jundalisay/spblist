@@ -152,7 +152,7 @@ Aether (dodecahedron) | Akasha | 水 still water | Dodecahedron ![Dodecahedron](
 Wind (octahedron) | Vayu | 木 moving wood | Octahedron ![Octahedron](/graphics/physics/octa.gif) | Square
 Fire (tetrahedron) | Tejas | 火 radiant fire | Tetrahedron ![Tetrahedron](/graphics/physics/tetra.gif) | Line
 Water (icosahedron) | Jala | 土 transforming earth | Icosahedron ![Icosahedron](/graphics/physics/icos.gif) | Dash
-Earth (cube) | Pritvi | 金 solid metal | Cube ![Cube](/graphics/physics/cube.gif) | Sphere
+Earth (cube) | Pritvi | 金 solid metal | Cube ![Cube](/graphics/physics/cube.gif) | Dot
 
 
 
@@ -176,7 +176,7 @@ Name | Greek-Hindu-Chinese | Physics | Superphysics
 --- | --- | --- | --- 
 Probability | Metaphysical | Probability | Probability
 Aethereal | Aether, Akasha, 水 (still water) | Pseudo-science | Mind 
-Spatial | Air, Vayu, 木 (moving wood) | Gravity | Space
+Spatial | Air, Vayu, 木 (moving wood) | Gravity, Dark Matter, Dark Energy | Space
 Radiant | Fire, Tejas, 火 (expanding fire) | Electromagnetism | Radiance
 Convertible | Water, Jala, 土 (changing earth) | Weak | Conversion 
 Material | Earth, Pritvi, 金 (solid metal) | Strong | Aetherspace
