@@ -4,7 +4,7 @@ title: The Rules of legitimate or popular government and Rule 1
 # "We Must Always Go Back To A First Convention"
 description: ""
 image: "/covers/rousseau.jpg"
-weight: 4
+weight: 10
 date: 2025-01-11
 ---
 

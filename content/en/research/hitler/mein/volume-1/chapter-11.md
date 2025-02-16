@@ -7,7 +7,7 @@ author: Adolf Hitler
 image: /covers/mein.jpg
 ---
 
-### The iron law of Nature
+### The Iron law of Nature
 
 <!-- THERE ARE certain truths which stand out so openly on the roadsides of life, as it
 were, that every passer-by may see them. Yet, because of their very obviousness, the
@@ -83,17 +83,25 @@ Thus it is one of the causes underlying the process of development towards a hig
 
 If things were opposite, then retrogression might set in. 
 
-The inferior always outnumber the superior. The inferior would always increase more rapidly if they possessed the same capacities for survival and for the procreation of their kind.
+The inferior always outnumber the superior. 
+
+The inferior would always increase more rapidly if they possessed the same capacities for survival and for the procreation of their kind.
 
 This would force the best in quality to recede into the background. 
 
 Therefore, a corrective measure in favour of the better quality must intervene.
 
-Nature supplies this by establishing rigorous conditions of life to which the weaker will have to submit and will thereby be numerically restricted. but even that portion which survives cannot indiscriminately multiply, for here a new and rigorous selection takes place, according to strength and health. 
+Nature supplies this by establishing rigorous conditions of life which the weaker will have to submit to. This will numerically restrict them.
 
-If Nature does not wish that weaker individuals should mate with the stronger, she wishes even less that a superior race should intermingle with an inferior one; because in such a case all her efforts, throughout hundreds of thousands of years, to establish an evolutionary higher stage of being, may thus be rendered futile.
+The surviving portion then cannot indiscriminately multiply, for here a new and rigorous selection takes place, according to strength and health. 
 
-History furnishes us with innumerable instances that prove this law. It shows, with a startling clarity, that whenever Aryans have mingled their blood with that of an inferior race the result has been the downfall of the people who were the standard-bearers of a higher culture.
+Nature does not wish that weaker individuals should mate with the stronger. She wishes even less that a superior race intermingles with an inferior one.
+
+This is because this would render all her efforts, throughout hundreds of thousands of years, to establish an evolutionary higher stage of being, futile.
+
+History furnishes us with innumerable instances that prove this law. 
+
+Whenever Aryans have mingled their blood with that of an inferior race, the result has been the downfall of the people of a higher culture.
 
 In North America, the population is prevalently Teutonic. Those elements intermingled with the inferior race only very little.
 
@@ -110,10 +118,11 @@ In short, the results of miscegenation are always the following:
 1. The level of the superior race becomes lowered
 2. Physical and mental degeneration sets in, thus leading slowly but steadily towards a progressive drying up of the vital sap.
 
-The act which brings about such a development is a sin against the will of the Eternal
-Creator. And as a sin this act will be avenged. 
+The act which brings about such a development is a sin against the will of the Eternal Creator. As a sin, this act will be avenged. 
 
-Man's effort to build up something that contradicts the iron logic of Nature brings him into conflict with those principles to which he himself exclusively owes his own existence. By acting against the laws of Nature he prepares the way that leads to his ruin.
+Contradicting the iron logic of Nature conflicts with human xistence. 
+
+By acting against the laws of Nature, man prepares the way that leads to his ruin.
 
 <!-- Here we meet the insolent objection, which is Jewish in its inspiration and is typical of
 the modern pacifist.  -->
@@ -125,23 +134,28 @@ imagining that somehow they themselves are the conquerors of Nature.  -->
 
 Yet their only weapon is just a mere preposterous idea. If one accepted it, then it would be impossible even for the  world to exist. 
 
-Man has failed to overcome Nature in any sphere. He has merely succeeded in lifting a tiny corner of the enormous veil of her eternal mysteries and secret. 
+Man has failed to overcome Nature in any sphere. He has merely succeeded in lifting a tiny corner of the enormous veil of her eternal mysteries and secret.
 
 Man never creates anything. All he can do is to discover something. 
 
 He does not master Nature but has only come to be the master of those living beings who have not gained the knowledge he has arrived at by penetrating into some of Nature's laws and mysteries. 
 
-Apart from all this, an idea can never subject to its own sway those conditions which are necessary for the existence and development of mankind; for the idea itself has come only from man. Without man there would be no human idea in this
-world.
 
-The idea as such is therefore always dependent on the existence of man and consequently is dependent on those laws which furnish the conditions of his existence. 
+An idea can never subject to its own sway those conditions which are necessary for mankind's existence and development.
+- This is becuase the idea itself has come only from man. 
+- Without man there would be no human idea in this world.
+
+The idea is therefore dependent on man's existence.
+- Consequently, it is dependent on those laws which furnish the conditions of his existence.
 
 Certain ideas are even confined to certain people. 
 
-This holds true with regard to those ideas in particular which have not their roots in objective scientific truth but in the world of feeling. In other words, to use a phrase which is current to-day and which well and clearly expresses this truth: THEY REFLECT AN INNER EXPERIENCE. 
+This holds true with regard to those ideas which are based on feelings and not in objective scientific truth.
+- In other words: **THEY REFLECT AN INNER EXPERIENCE.**
 
-All such ideas, which have nothing to do with cold logic as such but represent mere manifestations of feeling, such as ethical and moral conceptions, etc., are inextricably bound up with man's existence. It is to the creative powers of man's
-imagination that such ideas owe their existence.
+All such ideas, which have nothing to do with cold logic as such but represent mere manifestations of feeling, such as ethical and moral conceptions, etc., are inextricably bound up with man's existence. 
+
+It is to the creative powers of man's imagination that such ideas owe their existence.
 
 
 ### War then Pacifism

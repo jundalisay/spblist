@@ -3,7 +3,7 @@ heading: Part 1b
 title: "Government Versus Sovereign"
 description: ""
 image: "/covers/rousseau.jpg"
-weight: 4
+weight: 8
 date: 2025-01-11
 ---
 

@@ -3,7 +3,7 @@ heading: Rule 2
 title: "Rule 2: Make the Particular Wills Conform with the General Will"
 description: ""
 image: "/covers/rousseau.jpg"
-weight: 4
+weight: 12
 date: 2025-01-11
 ---
 

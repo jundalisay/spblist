@@ -20,7 +20,7 @@ The answer is obvious.
 
 The working poor makes up the majority of every great society. What improves the majority can never be an inconvenience to the whole.
 
-**No society can surely be flourishing and happy if the majority were poor and miserable. It is but equity that those who feed, clothe and lodge the the people, should have such a share of the produce of their own labour as to be themselves tolerably well fed, clothed and lodged.**
+**No society can surely be flourishing and happy if the majority were poor and miserable. It is but equity that those who feed, clothe and lodge the people, should have such a share of the produce of their own labour as to be themselves tolerably well fed, clothed and lodged.**
 
 {{< s v="36" >}} Poverty discourages marriage but does not always prevent it. Poverty is even favourable to generation.
 

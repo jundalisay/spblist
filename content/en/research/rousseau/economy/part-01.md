@@ -3,7 +3,7 @@ heading: Part 1
 title: "What is Economy?"
 description: ""
 image: "/covers/rousseau.jpg"
-weight: 4
+weight: 6
 date: 2025-01-11
 ---
 

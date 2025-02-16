@@ -3,7 +3,7 @@ heading: Part 4
 title: "Rule 3: Provide for the public wants"
 description: "Provision for the public wants is an obvious inference from the general will"
 image: "/covers/rousseau.jpg"
-weight: 4
+weight: 14
 date: 2025-01-11
 ---
 
@@ -65,7 +65,7 @@ There is a sensible reason for this in favour of children, to whom the right of 
 The continual shifting of rank and fortune among the citizens is the most fatal to morality and to the Republic.
 
 
- such changes are both the proof and the source of a thousand disorders, and overturn and confound everything; for 
+ <!-- such changes are both the proof and the source of a thousand disorders, and overturn and confound everything; for  -->
 
 In this way, those who were brought up to one thing find themselves destined for another.
 
