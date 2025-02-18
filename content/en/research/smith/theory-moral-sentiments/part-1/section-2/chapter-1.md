@@ -95,7 +95,7 @@ It more readily assumes the shape and configuration of the imaginations of those
 
 Love and ambition all arise from the imagination. A disappointment in them will call forth more sympathy than the greatest bodily evil.
 
-A person who has lost his whole fortune suffers from the imagination only. His imagination brings him=  
+A person who has lost his whole fortune suffers from the imagination only. His imagination brings him:
 - the loss of his dignity,
 - the neglect from his friends,
 - the contempt from his enemies,

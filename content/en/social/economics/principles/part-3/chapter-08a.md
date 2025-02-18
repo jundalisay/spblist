@@ -2,7 +2,7 @@
 heading: "Chapter 7"
 title: "Economic Karma"
 description : "Economic Karma is the cause and effect of economic actions"
-weight: 30
+weight: 42
 # orig date: 2016-01-01
 date: 2025-01-19
 image: /photos/meta/buddhism.jpg

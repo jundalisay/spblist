@@ -3,7 +3,7 @@ heading: "Chapter 7"
 title: "The Demand, Capital, Industry, and Trade Tool (DCIT)"
 date: 2021-06-26
 weight: 30
-image: "/graphics/econ/dcti.jpg"
+image: "/graphics/econ/dcit.png"
 description: "The Demand Capital Trade Industry Tool is for Troubleshooting Economies according to the Fourth Law of Value"
 writer:
   name: Juan
@@ -47,7 +47,7 @@ Quality of Real Value | `GDP` + `Demand` + `Capital` | Economic Table
 
 The DCTI Tool can prevent crises by checking a society's Demand, Capital, Trade, and Industry metrics to see if they match [the Four Laws of Value](/social/economics/principles/intro/chapter-04/):
 
-![DCTI Tool](/graphics/econ/dcti.jpg)
+![DCTI Tool](/graphics/econ/dcit.png)
 <!-- ![](https://sorasystem.sirv.com/charts/dcti/val.png) -->
 
 These 4 factors manifest as economic indicators.

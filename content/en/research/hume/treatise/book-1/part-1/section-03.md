@@ -45,14 +45,18 @@ On the contrary, the memory is tied down in that respect, without any power of v
 
 If it does not preserve the original form in remembering anything, then it is caused by some defect in memory.
 A historian might narrate Event B happening before Event A, which in fact occurred after Event A.
+
 He might discover this mistake and consequently narrate Event B in its proper sequence.
 The same thing happens when we remember places and persons.
+
 The chief exercise of the memory is not to preserve the simple ideas, but their order and position.
 This principle is supported by many common phenomena that we do not need to insist on it any further.
+
 The same evidence follows us in our second principle: the imagination is free to transpose and change its ideas.
 
 The fables are proof of this.
 Nature in fables is totally confounded.
+
 It mentions winged horses, fiery dragons, and monstrous giants.
 
 This liberty of the fancy will not appear strange when we consider that:

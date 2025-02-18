@@ -43,8 +43,7 @@ No one can make a scruple to:
 - rank them under distinct heads, and
 - assign a name to each to mark the difference*
 
-> *I use 'impression' and 'idea' in a different sense from the usual. I am restoring the word 'idea' to its original sense from which John Locke had perverted it. He made it stand for all our perceptions. 'Impression' does not mean how our lively perceptions are produced in the soul. It merely means the perceptions themselves. 
-
+{{< f f="I use 'impression' and 'idea' in a different sense from the usual. I am restoring the word 'idea' to its original sense from which John Locke had perverted it. He made it stand for all our perceptions. 'Impression' does not mean how our lively perceptions are produced in the soul. It merely means the perceptions themselves. " >}}
 
 
 ## Simple and Complex Perceptions

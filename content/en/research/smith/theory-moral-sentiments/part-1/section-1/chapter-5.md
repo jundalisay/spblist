@@ -29,22 +29,27 @@ From this effort originates the respectable virtues of self-denial and self-cont
 {{< s v="41" >}} A man is very amiable if his sympathetic heart:
 - echoes all the feelings of the people he converses with
 - grieves for their calamities
-- resents their injuries, and
+<!-- - resents their injuries, and -->
 - rejoices at their good fortune
 
 When we bring ourselves the situation of his companions, we understand their gratitude to him for his tender sympathy.
 
-A man is disagreeable if his hard heart feels for himself only and is insensible to the happiness or misery of others!
-- We also enter into the pain of the people he talks to and sympathize with them
+A man is disagreeable if his hard heart:
+- feels for himself only and 
+- is insensible to the happiness or misery of others!
+
+We also enter into the pain of the people he talks to and sympathize with them
 <!-- , especially with the unfortunate and the injured.
 We are most apt to sympathize with them. -->
 
 
-{{< s v="42" >}} On the other hand, we feel noble propriety and grace in those who exert self-command= 
+{{< s v="42" >}} On the other hand, we feel noble propriety and grace in those who exert self-command:
 - for the dignity of every passion, and
 - for others to enter into it.
 
-We are disgusted with that clamorous grief, which calls on our compassion with sighs, tears, and lamentations. But we revere that reserved, silent, and majestic sorrow. 
+We are disgusted with that clamorous grief, which calls on our compassion with sighs, tears, and lamentations. 
+
+But we revere that reserved, silent, and majestic sorrow. 
 
 <!-- Such sorrow is only seen in the= 
 swelling of the eyes,
@@ -66,17 +71,20 @@ But we admire that noble resentment that seeks justice for injuries.
  - wants to inflict more punishment, than what every indifferent person wants to see.
 
 
-### The Perfection of Human Nature is in feeling for others while restraining ourselves.
+### The Perfection of Human Nature is in feeling for others while restraining ourselves
 
 {{< s v="44" >}} Hence, the perfection of human nature is:
 - in feeling much for others and little for ourselves, and 
 - in restraining our selfish and to indulge our benevolent affections
 
 Only these can produce that harmony of feelings.
-- The great law of Christianity is to love our neighbour as we love ourselves
-- The great law of nature is to love ourselves only= 
-  - as we love our neighbour, 
-  - as our neighbour is capable of loving us.
+
+The great law of Christianity is to love our neighbour as we love ourselves.
+
+The great law of nature is to love ourselves only:
+- as we love our neighbour, and
+- as our neighbour is capable of loving us.
+
 
 {{< s v="45" >}} Good taste and good judgement imply:
 - a delicacy of sentiment, and
@@ -104,12 +112,15 @@ The respectable virtues have a self-command which governs human passions.
 - Virtues are qualities and actions which deserve admiration and celebration.
 - Propriety simply deserves approval.
 
-Often, ordinary sensibility or self-command is enough for us to act properly. For example, to eat when we are hungry is perfectly proper, but not virtuous.
+Often, ordinary sensibility or self-command is enough for us to act properly.
+- For example, eating when we are hungry is proper, but not virtuous.
 
 
-{{< s v="47" >}} On the contrary, there might be much virtue in actions which are not perfectly proper, because the situation itself might render perfection impossible. 
+{{< s v="47" >}} On the contrary, there might be much virtue in actions which are not perfectly proper, because the situation itself might render perfection impossible.
 
-This often happens in situations which require the greatest self-command. In those cases, the sufferer's behaviour is not perfectly proper, though it may still deserve some applause.
+This often happens in situations which require the greatest self-command.
+
+In those cases, the sufferer's behaviour is not perfectly proper, though it may still deserve some applause.
 <!-- Some situations are so hard on human nature, that the greatest self-control is unable to= 
 - stifle human weakness or
 - reduce our feelings so that the impartial spectator can enter into them. -->
@@ -133,8 +144,12 @@ This often happens in situations which require the greatest self-command. In tho
 
 ### Moral Relativity
 
-{{< s v="49" >}} In the same way, we judge works of art which address themselves to the imagination. When a critic examines a great master's poetry or painting, he may sometimes examine it by an idea of perfection in his own mind:
+{{< s v="49" >}} In the same way, we judge works of art which address themselves to the imagination. 
+
+When a critic examines a great master's poetry or painting, he may sometimes examine it by an idea of perfection in his own mind:
 - He compares the work with his standards and sees only faults and imperfections.
 - But when he considers it relative to other works of the same kind, he compares it with a very different standard.
 
-The work may deserve the highest applause when compared to the new measure of the common excellence of its genre. When he judges relative to other artworks, it may often deserve the highest applause because it is more perfect than the others.
+The work may deserve the highest applause when compared to the new measure of the common excellence of its genre. 
+
+When he judges relative to other artworks, it may often deserve the highest applause because it is more perfect than the others.

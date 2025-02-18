@@ -16,7 +16,7 @@ The demand for money to satisfy the former motives generally responds to the act
 - economic activity and
 - the level of incomes.
 
-The aggregate demand for money to satisfy the speculative-motive continually responds to changes in the interest rate, as a curve. 
+The aggregate demand for money to satisfy the speculative-motive continually responds to changes in the interest rate, as a curve.
 - These changes are in the changing prices of bonds and debts of various maturities.
 - This is why “open market operations” are done.
 
@@ -26,6 +26,7 @@ Normally, the banking system is always able to buy or sell bonds in exchange for
 - The more they sell bonds and debts, the more cash they cancel.
   - The greater the rise in interest rate.
 
+
 In the US (1933-1934), open-market operations have been limited to buying very short-dated securities. Its effect:
 - is mainly confined to the very short-term interest rate and
 - has little reaction on the much more important long-term interest rates.
@@ -34,22 +35,34 @@ With speculation, it is important to distinguish between:
 - the changes in the interest rate from changes in the supply of money available to satisfy speculation, without having any change in the liquidity function
 - the changes which are primarily due to changes in expectation affecting the liquidity function itself.
 
+
 Open-market operations may influence the interest rate through both channels since they may:
 - change the volume of money
 - change expectations on the future policy of the Central Bank or the Government
 
-Changes in the liquidity function itself, due to a change in the news which causes a change of expectations, will often be discontinuous.
-- It will therefore, give rise to a corresponding discontinuity of change in the rate of interest.
-- Only in so far as the change in the news is differently interpreted by different individuals or affects individual interests differently will there be room for any increased activity of dealing in the bond market.
+
+A change in the news can cause a change of expectations.
+
+This changes the the liquidity function itself which will often be discontinuous.
+
+A change in the news will therefore cause a corresponding discontinuity of change in the rate of interest.
+
+ <!-- or affects individual interests differently will there be room for any  -->
+
+Increased activity in the bond market will arise from the change in the news being interpreted differently by different individuals.
 
 If the change in the news affects everyone's judgment precisely in the same way, the interest rate <!-- (as indicated by the prices of bonds and debts) --> will be adjusted <!-- forthwith --> to the new situation without any market transactions being necessary.
 
-Thus, in the simplest case, a change in expectations cannot cause any displacement of money.
-- It will simply change the interest rate to offset the desire of each individual, felt at the previous rate, to change his holding of cash in response to the new expectations.
+**Thus, in the simplest case, a change in expectations cannot cause any displacement of money.**
+
+- It simply changes the interest rate to change the desire of each person, felt at the previous interest rate.
+- This change in desire will change his holding of cash in response to the new expectations.
 
 No transactions will result. This is because everyone will change his ideas as to the rate which would induce him to alter his holdings of cash in the same degree.
 
-Each set of expectations has an appropriate interest rate. There will never be any question of anyone changing his usual holdings of cash.
+Each set of expectations has an appropriate interest rate. 
+
+This does not change the *usual* holdings of cash of each person.
 
 A change in expectations will influence people differently. 
 - This will cause some realignment in individual holdings of money.
@@ -57,6 +70,7 @@ A change in expectations will influence people differently.
 <!--  different individuals differently by reason partly of differences in environment and the reason for which money is held and partly of differences in knowledge and interpretation of the new situation. -->
 
 Thus, the new equilibrium interest rate will be associated with a redistribution of money-holdings.
+
 
 We will focus on the change in the interest rate, rather than the redistribution of cash. 
 - The redistribution is incidental to individual differences

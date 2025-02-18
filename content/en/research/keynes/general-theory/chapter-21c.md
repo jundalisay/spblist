@@ -20,13 +20,17 @@ Up to this point, the effect of monetary expansion is entirely a question of deg
 
 Every previous increase in the quantity of money is likely, in so far as it increases effective demand, to spend itself partly in increasing the cost-unit and partly in increasing output.
 
-Thus, we have an asymmetry on the two sides of the critical level above which true inflation sets in. For a contraction of effective demand below the critical level will reduce its amount measured in cost-units; whereas an expansion of effective demand beyond this level will not, in general, have the effect of increasing its amount in terms of cost-units. 
+Thus, we have an asymmetry on the two sides of the critical level above which true inflation sets in. 
+
+For a contraction of effective demand below the critical level will reduce its amount measured in cost-units; whereas an expansion of effective demand beyond this level will not, in general, have the effect of increasing its amount in terms of cost-units. 
 
 This result follows from the assumption that the factors of production, and in particular the workers, are disposed to resist a reduction in their money-rewards, and that there is no corresponding motive to resist an increase. 
 
 This assumption is, however, obviously well founded in the facts, due to the circumstance that a change, which is not an all-round change, is beneficial to the special factors affected when it is upward and harmful when it is downward.
 
-If, on the contrary, money-wages were to fall without limit whenever there was a tendency for less than full employment, the asymmetry would, indeed, disappear. But in that case there would be no resting-place below full employment until either the rate of interest was incapable of falling further or wages were zero. In fact we must have some factor, the value of which in terms of money is, if not fixed, at least sticky, to give us any stability of values in a monetary system.
+If, on the contrary, money-wages were to fall without limit whenever there was a tendency for less than full employment, the asymmetry would, indeed, disappear. But in that case there would be no resting-place below full employment until either the rate of interest was incapable of falling further or wages were zero. 
+
+In fact we must have some factor, the value of which in terms of money is, if not fixed, at least sticky, to give us any stability of values in a monetary system.
 
 The view that any increase in the quantity of money is inflationary (unless we mean by inflationary merely that prices are rising) is bound up with the underlying assumption of the classical theory that we are always in a condition where a reduction in the real rewards of the factors of production will lead to a curtailment in their supply.
 
@@ -67,17 +71,32 @@ Since this last expression gives us the proportionate change in prices in respon
 
 I warn again that they involve just as much tacit assumption as to what variables are taken as independent (partial differentials being ignored throughout) as does ordinary discourse, whilst I doubt if they carry us any further than ordinary discourse can. Perhaps the best purpose served by writing them down is to exhibit the extreme complexity of the relationship between prices and the quantity of money, when we attempt to express it in a formal manner. 
 
-Of the four terms ed, ew, ee and eo upon which the effect on prices of changes in the quantity of money depends, 
 
-`ed` is the liquidity factors which determine the demand for money in each situation
-`ew` is the labour factors (or, more strictly, the factors entering into prime-cost) which determine the extent to which money-wages are raised as employment increases
-`ee` and `eo` are the physical factors which determine the rate of decreasing returns as more employment is applied to the existing equipment.
 
-If the public hold a constant proportion of their income in money, ed = 1; if money-wages are fixed, ew = 0; if there are constant returns throughout so that marginal return equals average return, eeeo = 1; and if there is full employment either of labour or of equipment, eeeo = 0.
+Changes in the quantity of money leads to the effect on prices as ed, ew, ee and eo.
+- `ed` is the liquidity factors which determine the demand for money in each situation
+- `ew` is the labour factors (or, more strictly, the factors entering into prime-cost) which determine the extent to which money-wages are raised as employment increases
+- `ee` and `eo` are the physical factors which determine the rate of decreasing returns as more employment is applied to the existing equipment.
 
-Now `e = 1`, if `ed = 1` and `ew = 1`; or if `ed = 1`, `ew = 0` and `ee.eo = 1`; or if `ed = 1` and `eo = 0`. 
 
-There is a variety of other special cases in which `e = 1`. But in general e is not unity; and it is, perhaps, safe to make the generalisation that on plausible assumptions relating to the real world, and excluding the case of a “flight from the currency” in which ed and ew become large, e is, as a rule, less than unity.
+ 
+
+`ed = 1` is when the public holds a constant proportion of their income in money
+
+ if money-wages are fixed, ew = 0
+
+ if there are constant returns throughout so that marginal return equals average return, eeeo = 1
+
+ if there is full employment either of labour or of equipment, eeeo = 0.
+
+`e = 1`, if `ed = 1` and `ew = 1`; or 
+if `ed = 1`, `ew = 0` and `ee.eo = 1`; or 
+if `ed = 1` and `eo = 0`. 
+
+There is a variety of other special cases in which `e = 1`. 
+
+But in general e is not unity; and it is, perhaps, safe to make the generalisation that on plausible assumptions relating to the real world, and excluding the case of a “flight from the currency” in which ed and ew become large, e is, as a rule, less than unity.
+
 
 
 ### Section 7

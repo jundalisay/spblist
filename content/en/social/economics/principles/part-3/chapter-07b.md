@@ -3,7 +3,7 @@ heading: "Chapter 7b"
 title: "Two DCIT Scenarios"
 # date: 2021-06-28
 date: 2021-12-25
-weight: 36
+weight: 32
 image: "/photos/medieval/cave.jpg"
 description : "Here are two Scenarios viewed according to the DCIT model"
 writer:

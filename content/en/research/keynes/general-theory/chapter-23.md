@@ -16,15 +16,26 @@ writer:
  
 <!-- ### Section 1  -->
 
-FOR 200 years, people saw a national advantage in a favourable balance of trade, and grave danger in an unfavourable balance, particularly if it results in an efflux of the precious metals. 
+FOR 200 years, people saw:
+- a national advantage in a favourable balance of trade
+- a grave danger in an unfavourable balance
+
+This is more if it results in an efflux of the precious metals. 
 
 But this changed in the past 100 years. 
 
-Most statesmen, practical men in most countries, and nearly half of them even in Great Britain, the home of the opposite view, have remained faithful to the ancient doctrine. 
+Most statesmen remained faithful to Mercantilism.
 
-Whereas almost all economic theorists have held that anxiety concerning such matters is absolutely groundless except on a very short view. This is because the mechanism of foreign trade is self-adjusting. 
+<!-- the ancient doctrine. -->
 
-Attempts to interfere with it are futile and will greatly impoverish those who practise them because they forfeit the advantages of the international division of labour. 
+<!-- , practical men in most countries, and nearly half of them even in Great Britain, the home of the opposite view, have   -->
+
+Whereas almost all economic theorists taught that:
+- such anxiety is only valid in the very short term because the mechanism of foreign trade is self-adjusting
+- attempts to interfere with it are futile and will greatly impoverish those who practise them because they forfeit the advantages of the international division of labour
+
+<!-- .  concerning such matters is absolutely groundless except on a very short view. This is because   -->
+
 
 The older opinion is Mercantilism. The newer one is Free Trade. <!-- , though these terms, since each of them has both a broader and a narrower signification, must be interpreted with reference to the context.  -->
 
@@ -34,15 +45,15 @@ Modern economists believe that:
 
 Marshall's [1] references to Mercantilism are not altogether unsympathetic. But he had no regard for their central theory.<!--  as such and does not even mention those elements of truth in their contentions which I shall examine below. -->[2] 
 
-In the same way, the theoretical concessions which 
+<!-- In the same way, the theoretical concessions which 
 
- have been ready to make in contemporary , relating, for example, to 
+ have been ready to make in contemporary , relating, for example, to  -->
 
 There are current controversies on whether:
 - infant industries should be encouraged
 - the terms of trade should be improved
 
-Free-trade economists address these controversies without looking into the theoretica substance of the mercantilist case. 
+Free-trade economists address these controversies without looking into the theoretical substance of the mercantilist case. 
 
 <!-- During the fiscal controversy of the first quarter of the present century I do not remember that any concession was ever allowed by economists to the claim that Protection might increase domestic employment. It will be fairest, perhaps, to quote, as an example, what I wrote myself. So lately as 1923, as a faithful pupil of the classical school who did not at that time doubt what he had been taught and entertained on this matter no reserves at all, I wrote= “If there is one thing that Protection can not do, it is to cure Unemployment. ... There are some arguments for Protection, based upon its securing possible but improbable advantages, to which there is no simple answer. But the claim to cure Unemployment involves the Protectionist fallacy in its grossest and crudest form.”[3]  -->
 
@@ -63,7 +74,7 @@ When a country is growing rapidly in wealth, this growth can be interrupted<!-- 
 
 
 
-{{< n n="In Classical economics, incentives are only given to difficult industries, like research and overseas expansion" >}}
+{{< n n="In Classical economics, incentives are only given to difficult industries, like research and overseas expansion. The problem is that profit maximization stifles new growth" >}}
 
 <!-- Given the social and political environment and the national characteristics which determine the propensity to consume,  -->
 

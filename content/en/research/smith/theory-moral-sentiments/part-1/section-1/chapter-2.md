@@ -57,7 +57,7 @@ But his amusement or nonamusement at the book is not the sole cause of our pleas
 <!--         It enlivens joy by presenting another source of satisfaction.
         It alleviates grief by giving the heart the only agreeable sensation which it can receive. -->
 
-16 We are more anxious to communicate to our friends our disagreeable passions than our agreeable ones.
+<sup>16</sup> We are more anxious to communicate to our friends our disagreeable passions than our agreeable ones.
 - We derive more satisfaction from their sympathy with our disagreeable passions than our agreeable ones.
 - We are more shocked by the lack of sympathy.
 

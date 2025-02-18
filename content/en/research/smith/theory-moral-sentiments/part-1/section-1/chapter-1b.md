@@ -96,15 +96,18 @@ From of all these, she forms the most complete image of misery and distress. The
 
 ### The Dread of Death Arises from Our Sympathy with the Dead
 
-{{< s v="13" >}} We even sympathize with the dead. The real importance in the dead's situation is that awful futurity which awaits them. But we overlook this.
+{{< s v="13" >}} We even sympathize with the dead. 
 
-We instead are affected by those circumstances which strike our senses, even if these circumstances have no influence on the dead's happiness. 
+We do not feel what has happened to the deceased person. 
 
-We think that it is miserable to be:
+<!-- The real importance in the dead's situation is that awful futurity which awaits them. But we overlook this. -->
+
+We instead are affected by what we see. We think that it is miserable to be:
 - laid in the cold grave
 - not be thought of in this world
 - removed from the memory of their friends and relations
 
+ <!-- those circumstances which strike our senses, even if these circumstances have no influence on the dead's happiness.  -->
 
 Our fellow-feeling gives double tribute to the dead when they are in danger of being forgotten by everybody.
 - We pay vain honours to their memory.
@@ -114,7 +117,10 @@ Our fellow-feeling gives double tribute to the dead when they are in danger of b
   - all we can do is unavailing
   - even the alleviation of their friends' distress can give them no comfort.
 
-All these increase our sense of their misery. However, the happiness of the dead, most assuredly, is not affected by these. 
+All these increase our sense of their misery. 
+
+
+However, the happiness of the dead, most assuredly, is not affected by these. 
 - The thought of these things can never disturb their repose. 
 
 Our imagination naturally ascribes the idea of endless sadness to the dead. 

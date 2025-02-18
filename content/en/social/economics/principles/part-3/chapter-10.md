@@ -2,7 +2,7 @@
 heading: "Chapter 10"
 title: "The Thinker Class"
 date: 2022-01-11
-weight: 30
+weight: 50
 image: /photos/econ/writer.jpg
 description: "In the process of the evolution of a society, the thinking class emerges from the worker and warrior classes"
 writer:

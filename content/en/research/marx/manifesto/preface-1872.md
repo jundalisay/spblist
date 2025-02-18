@@ -43,27 +43,47 @@ June 24, 1872, London
 
 The first Russian edition of the Manifesto of the Communist Party, translated by Bakunin [A], was published early in the ’sixties by the printing office of the Kolokol [reference to the Free Russian Printing House]. 
 
-Then the West could see in it (the Russian edition of the Manifesto) only a literary curiosity. Such a view would be impossible today.
+Back then (December 1847):
+- the West saw it only as a literary curiosity. Such a view would be impossible today
+- the proletarian movement occupied a little field relative to the other opposition parties in various countries
+- Russia was the last great reserve of all European reaction
+- the United States absorbed the surplus proletarian forces of Europe through immigration
 
-What a limited field the proletarian movement occupied at that time (December 1847) is most clearly shown by the last section: the position of the Communists in relation to the various opposition parties in various countries. Precisely Russia and the United States are missing here. 
+<!-- Precisely Russia and the United States are missing here.  -->
 
-It was the time when Russia constituted the last great reserve of all European reaction, when the United States absorbed the surplus proletarian forces of Europe through immigration. Both countries provided Europe with raw materials and were at the same time markets for the sale of its industrial products. Both were, therefore, in one way of another, pillars of the existing European system.
+Both countries provided Europe with raw materials and were at the same time markets for the sale of its industrial products. 
+
+Both were, therefore, in one way of another, pillars of the existing European system.
 
 How very different today. 
 
-Precisely European immigration fitted North American for a gigantic agricultural production, whose competition is shaking the very foundations of European landed property — large and small. 
+European immigration fitted North American for a gigantic agricultural production, whose competition is shaking the very foundations of European landed property — large and small. 
 
-At the same time, it enabled the US to exploit its tremendous industrial resources with an energy and on a scale that must shortly break the industrial monopoly of Western Europe, and especially of England, existing up to now. Both circumstances react in a revolutionary manner upon America itself. 
+At the same time, it enabled the US to exploit its tremendous industrial resources with an energy and on a scale that must shortly break the industrial monopoly of Western Europe, and especially of England, existing up to now. 
 
-Step by step, the small and middle land ownership of the farmers, the basis of the whole political constitution, is succumbing to the competition of giant farms; at the same time, a mass industrial proletariat and a fabulous concentration of capital funds are developing for the first time in the industrial regions.
+Both circumstances react in a revolutionary manner upon America itself. 
 
-And now Russia! During the Revolution of 1848-9, not only the European princes, but the European capitalist as well, found their only salvation from the proletariat just beginning to awaken in Russian intervention. The Tsar was proclaimed the chief of European reaction. Today, he is a prisoner of war of the revolution in Gatchina [B], and Russia forms the vanguard of revolutionary action in Europe.
+The whole political constitution is based on the small and middle land ownership of the farmers.
 
-The Communist Manifesto had, as its object, the proclamation of the inevitable impending dissolution of modern capitalist property. But in Russia we find, face-to-face with the rapidly flowering capitalist swindle and capitalist property, just beginning to develop, more than half the land owned in common by the peasants. 
+Step by step, this ownership is succumbing to the competition of giant farms.
 
-Now the question is: can the Russian obshchina, though greatly undermined, yet a form of primeval common ownership of land, pass directly to the higher form of Communist common ownership? Or, on the contrary, must it first pass through the same process of dissolution such as constitutes the historical evolution of the West?
+At the same time, a mass industrial proletariat and a fabulous concentration of capital funds are developing for the first time in the industrial regions.
 
-The only answer to that possible today is this: If the Russian Revolution becomes the signal for a proletarian revolution in the West, so that both complement each other, the present Russian common ownership of land may serve as the starting point for a communist development.
+And now Russia! During the Revolution of 1848-9, the European princes and the European capitalist, found their only salvation from the proletariat just beginning to awaken in Russian intervention.
+
+The Tsar was proclaimed the chief of European reaction. 
+
+Today, he is a prisoner of war of the revolution in Gatchina [B], and Russia forms the vanguard of revolutionary action in Europe.
+
+The Communist Manifesto had aimed to dissolve modern capitalist property.
+
+But in Russia we find, face-to-face with the rapidly flowering capitalist swindle and capitalist property, just beginning to develop, more than half the land owned in common by the peasants. 
+
+Can the Russian obshchina, though greatly undermined, yet a form of primeval common ownership of land, pass directly to the higher form of Communist common ownership? 
+
+Or, on the contrary, must it first pass through the same process of dissolution such as constitutes the historical evolution of the West?
+
+If the Russian Revolution becomes the signal for a proletarian revolution in the West, so that both complement each other, the present Russian common ownership of land may serve as the starting point for a communist development.
 
 Karl Marx & Frederick Engels
 January 21, 1882, London

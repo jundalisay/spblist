@@ -70,7 +70,13 @@ We feel that it is natural and suitable to its object. Even if we we cannot easi
 
 {{< s v="23" >}} The same thing often happens with all the other passions.
 
-A very sad stranger passes by on the street. We are told that he has just heard of his father's death. We do not know him nor his father so we might not have sympathy [no correspondence]. However, we know from experience, that death naturally excites sorrow so we approve of his sorrow.
+A very sad stranger passes by on the street. 
+
+We are told that he has just heard of his father's death. 
+
+We do not know him nor his father so we might not have sympathy [no correspondence]. 
+
+However, we know from experience, that death naturally excites sorrow so we approve of his sorrow.
 
 <!--         It is impossible that we should not approve of his grief.
     Yet we might often be unable to completely sympathize with him.
@@ -78,23 +84,20 @@ A very sad stranger passes by on the street. We are told that he has just heard 
         We might be too busy with other things.
         We do not take time to visualize his distress in our imagination.
 
-
-            We know that if we took time to consider his situation fully, we should sincerely sympathize with him.
+        We know that if we took time to consider his situation fully, we should sincerely sympathize with him.
     Our approval of his sorrow is founded on the consciousness of this conditional sympathy, even in cases where that sympathy does not actually take place. -->
 
 Our previous experiences of what feelings are proper and improper lead to general moral rules which correct our lack of sympathy. 
-
-
 
 <!-- The general rules derived from  our sentiments commonly correspond with, correct the impropriety of our present emotions. -->
 
 ### The morality of an action depends on that action's cause (proper/improper) and effect (merit/demerit)
 
-{{< s v="24" >}} The morality of a feeling has two relations*= 
+{{< s v="24" >}} The morality of a feeling has 2 relations*:
 - In relation to its cause or motive that creates the feeling
 - In relation to its end or effect which the feeling tends to produce
 
-> *Translator's note=  This is from Hume's double relation of impressions and ideas 
+{{< n n="This is from Hume's double relation of impressions and ideas" >}}
 
 
 
@@ -104,13 +107,16 @@ Our previous experiences of what feelings are proper and improper lead to genera
 - A beneficial aim deserves reward
 - A harmful aim deserves punishment
 
-{{< s v="27" >}} Philosophers give little attention to the relation of the causes of the affections. In common life, however, we constantly judge any person's conduct and motives under both cause and effect. When we blame another man's excess of love, grief, or resentment, we consider= 
+{{< s v="27" >}} Philosophers give little attention to the relation of the causes of the affections. 
+
+In common life, however, we constantly judge any person's conduct and motives under both cause and effect. When we blame another man's excess of love, grief, or resentment, we consider:
 - its ruinous effects and
 - the little reason for it.
 
 We say that: 
 - his misfortune is not so dreadful to justify such a violent passion, and
 - we would approve of his violent emotion if the cause were proportional to it.
+
 
 {{< s v="28" >}} We use our own feelings to determine whether his feeling is proportional to its cause,  .
 - We approve of them if we find them to be suitable
