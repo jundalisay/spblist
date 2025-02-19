@@ -1,6 +1,6 @@
 ---
 heading: "Authors 5-7"
-title: "GIMMERTHAL, Schmidt, De Hartog"
+title: "Gimmerthal, Schmidt, De Hartog"
 # date: 2024-12-12
 weight: 10
 description: "Einstein was a German physicist who made physics overly complicated by using arbitrary tensors"
@@ -8,7 +8,7 @@ image: "/covers/100.jpg"
 ---
 
 
-5. ### ARMIN GIMMERTHAL / BONN: RELATIVITY IS FAKE
+5. ### Armin Gimmerthal / Bonn: Relativity Is Fake
 
 Factor | Grade
 --- | ---
@@ -34,7 +34,7 @@ principle of addition and the principle of relativity of classical mechanics;
 6. The Minkowski's "world" — a mathematical fantasy of this is in turn a forgery, and7. that the correctly understood mathematics of theory fully confirms all these accusations.
 
 
-### 6. Dr. LUDWIG GOLD SCHMIDT: IGNORANCE AND ARBITRARINESS
+### 6. Dr. Ludwig Gold Schmidt: Ignorance And Arbitrariness
 
 My work refutes Einstein's assertions.
 
@@ -54,33 +54,26 @@ To really understand the error of their speculations, Einstein and Weyl will nee
 
 
 
-### 7. Professor Dr. A. H. DE HARTOG / AMSTERDAM: PHILOSOPHIC BACKGROUNDS
+### 7. Professor Dr. A. H. De Hartog / Amsterdam: Philosophic Backgrounds
 
 Many believe that through his theory:
 - everything has become "relative"
 - nothing is fixed any more
 
-1. If the temporal orientation may change from a subjective point of view, it is not yet said
-that time cannot therefore be a "form of existence" in objective reality (see, inter alia, Ed. von
-Hartmann's transcendental realism). 
+1. If the temporal orientation may change from a subjective point of view, it is not yet said that time cannot therefore be a "form of existence" in objective reality (see, inter alia, Ed. von Hartmann's transcendental realism). 
 
-The subjective orientation in the midst of the temporal event
-may be relative, but objectively there may nevertheless be a temporal constellation at the same
-time, which is not readily compatible with the sub- orientation stands and falls.
+The subjective orientation in the midst of the temporal event may be relative, but objectively there may nevertheless be a temporal constellation at the same time, which is not readily compatible with the sub- orientation stands and falls.
 
-2. Although the subjective orientation in the temporal1 ) "Against Einstein's metaphysics. A critic. Liberation." Lübeck 1923.13 
 
-events would turn out to be relative, the arithmetical and geometric numbers and formulas with
-which the subjective-relative orientations are calculated remain constant as such, as arithmetic and
+2. Although the subjective orientation in the temporal events would turn out to be relative, the arithmetical and geometric numbers and formulas with which the subjective-relative orientations are calculated remain constant as such, as arithmetic and
 mathematical data, under which one use the relative temporal orientation.
+<!-- ) "Against Einstein's metaphysics. A critic. Liberation." Lübeck 1923.13  -->
 
-3. If relativism were to be mentioned here, this relativism, in the midst of Relativity itself, is to
-be understood only physically, i.e. solely in relation to the natural, material events.
+3. If relativism were to be mentioned here, this relativism, in the midst of Relativity itself, is to be understood only physically, i.e. solely in relation to the natural, material events.
 
-But this natural, material, physical event exceeds the aesthetic, ethical, philosophical and religious
-values, which do not stand or fall with a potentially physical event. Because the above values show
-up as a "duty", "idea" "Ideal" etc. about -natural, even anti-natural. The evaluation of these values is
-therefore not physical, but a metaphysical one.
+But this natural, material, physical event exceeds the aesthetic, ethical, philosophical and religious values, which do not stand or fall with a potentially physical event. Because the above values show up as a "duty", "idea" "Ideal" etc. about -natural, even anti-natural. 
+
+The evaluation of these values is therefore not physical, but a metaphysical one.
 
 4. Although these values should be relative, the human spirit nevertheless refers all, even these relative values, to the absolute, to the thought, the spirit, god or whatever word one may choose, in order to mean that unity is in- the midst of the multiplicity of science, wisdom and religion.
 

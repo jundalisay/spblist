@@ -47,18 +47,21 @@ Though they will never be unisons, they may be concords. This is all that is req
 
 ## How to Make Society More Harmonious
 
-<sup>37</sup> To produce this concord, nature teaches the observers to assume the circumstances of the observee just as she teaches him to assume the circumstances of the observers.
+<sup>37</sup> To produce this concord, nature teaches:
+- the observers to assume the circumstances of the observee
+- the observee to assume the circumstances of the observers
 
-The observers are continually placing themselves in the situation of the observee to conceive similar emotions.
-- They are constantly considering what they themselves would feel if they were the sufferers. 
-- The sympathy of the observers makes them look at the sufferer's misfortune through his eyes.
+The observers are continually placing themselves in the observee's situation in order to conceive similar emotions.
+- Through sympathy, they are constantly considering what they themselves would feel if they were the sufferers. 
 
-The observee is also constantly placing himself in the situation of the observers.
-- The sufferer is as constantly led to imagine how he would be affected if he was an observer of his own situation.
-- The sufferer's sympathy makes him look at his suffering through the eyes of the observers.
-  - The reflected passion he conceives is much weaker than his own original passion.
-  - It necessarily abates the violence of what he felt before he was observed.
-  - He begins to view his own situation in this candid and impartial light.
+The observee is also constantly placing himself in the observers' situation.
+- Through sympathy, he is also constantly led to imagine how he would be affected if he was his own observer. [i.e. self-conscious]
+
+<!-- - The sufferer's sympathy makes him look at his suffering through the eyes of the observers. -->
+- This creates in him a reflected passion
+- This is much weaker than his own original passion.
+- It abates the violence of his own pasion.
+- He begins to view his own situation in this candid and impartial light.
 
 
 ### Friendship

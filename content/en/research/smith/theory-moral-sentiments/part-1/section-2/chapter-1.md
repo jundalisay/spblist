@@ -17,19 +17,24 @@ icon: /avatars/smith.png
 ### The Middle Ground
 
 {{< s v="1" >}} The spectator can go along with our feelings which lie in a certain middle.
+- If it is too high or too low, he cannot enter into it.
 
-If it is too high or too low, he cannot enter into it.
+For example, grief for private misfortunes might be too high in people. They are rarely too low.
 
-For example, grief for private misfortunes and injuries may easily be too high in many people. They may also be too low, but rarely.
-- We call excessive grief as 'weakness' and 'fury'.
-- We call the shortage of grief as 'stupidity', 'insensibility', and 'lack of spirit'.
-- We cannot enter into either and are astonished and confounded to see them.
+We call:
+- excessive grief as 'weakness' and 'fury'
+- the shortage of grief as 'stupidity', 'insensibility', and 'lack of spirit'.
+
+We cannot enter into either and are astonished and confounded to see them.
 
 
-{{< s v="2" >}} However, this middle is different in different feelings. It is high in some and low in others.
-- There are some feelings which are indecent to express very strongly.
+{{< s v="2" >}} However, this middle is different in different feelings. 
+
+It is high in some and low in others.
+
+- Some feelings are indecent to express very strongly.
   - These feelings have little or no sympathy from other people.
-- There are others of which the strongest expressions are extremely graceful.
+- Other feelings are extremely graceful if they are expressed strongly.
   - These feelings have the greatest sympathy from other people.
 
 All feelings are decent or indecent depending on the sympathy it gets from other people.

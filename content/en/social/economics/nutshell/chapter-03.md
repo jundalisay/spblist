@@ -11,63 +11,124 @@ date: 2025-01-27
 ---
 
 
-The First Law of Value states: **Every thing in the universe has an existential value, otherwise it would not exist.**
+The First Law of Value states: *Every thing in the universe has an existential value, otherwise it would not exist.*
 
-This law is derived from the Third Law of Thermodynamics which says that absolute zero temperature is impossible to reach or maintain. In Supereconomics, this manifests as Nominal Price.
+This law is derived from the Third Law of Thermodynamics which says that absolute zero temperature is impossible to reach or maintain. In Supereconomics, this manifests as Nominal Price which can be positive or negative. 
 
+Negative prices, such as the waste of resources from overcooking, leading to burnt unsellable food, still contributes to the final product of a sellable dish in the long run, especially if the cook’s self-purpose is to cook.
 
-## Nominal Price: The Buyer’s Valuation
+## Nominal Price: The Purchaser’s Valuation
 
-A purchaser assigns a nominal value to any good or service that he needs or wants, after his mind realizes that need or want.
+A purchaser assigns a nominal value to any good or service that he needs or wants after his mind realizes that need or want as an effect of desire. This value can be denoted in 3 forms:
 
-This value can be denoted in 3 forms:
+1.  Money as tokens - Examples are currency & cryptocurrency
+2.  Moneyless Tangible - Examples are goods and services 
+3.  Moneyless Intangible - Examples are goodwill, reputation, mental  satisfaction or peace of mind
 
-1. Money as number-objects - Examples are currency and crytocurrency
-
-2. Moneyless Tangible - Examples are goods and services themselves
-
-3. Moneyless Intangible - Examples are goodwill, reputation, mental satisfaction or peace of mind
-
-
-Nominal price is exchangeable value denoted as a numerical object.
-
-- In a money-system this number-object manifests as money
-- In a moneyless system it manifests as points such as strings or shells or any system of notation. For example, strings were used by the Inca Empire to represent nominal value and account balances. It was used internally within their empire and money was only used for external trade as imports and exports, along with barter. 
-
-{{< i s="/photos/econ/quipu.jpg" a="Quipu strings" c="It is wrong to say that money is needed in an economy because some civilizations were able to have long running economies that totally did not use money." >}}
-
-
-We implement this a points-based system where 1 point is based on the retail price of 1 kilogram of basic rice.
-
-This means that everything in the economy is valuated in terms of rice. This is because everyone needs to eat and so everyone will be aware of the value of rice.
-
-
-### The Doctrine of Minimum Needs
-
-For example, we might need 600 grams of rice daily to live. This means that everyone should get 0.6 points revenue daily.
-
-- If 1 kilo of rice costs $1, then everyone would need 60 cents per day
-- If 1 kilo of rice costs $1.5, then 90 cents would be needed
-
-The government would then need to arrange the economy so that everyone could get the value of 60-90 cents daily either by exchange or employment, or by donation or welfare.
-
-We call this the **Doctrine of Minimum Needs** which replaces the doctrine of profit maximization. It says that a society should take care of its members just like family. 
-
-
-{{< q a="Sismondi" c="New Principles of Political Economy" >}}
-Political economists must always take 2 elements: the increase of happiness and its diffusion among all classes. This makes the political economy a theory of beneficence. Everything which does not concern happiness in the long run does not belong to this science. The human race originated in a single family.
-{{< /q >}} 
-        
-
-{{< q a="Rousseau" c="Discourse on Political Economy" >}}
-The word ‘Œconomy’ originally meant the wise government of a house of a family. This was was extended to the government of that great family, the State.. There is a close analogy between the State and the family.
+{{< q a="Montesquieu" c="The Spirit of the Laws, Book 22, Chap 22" >}}
+“Money is a sign which represents the value of all merchandizes. A precious metal has been chosen as a sign, as being most portable.”
 {{< /q >}}
 
 
+Nominal price is exchangeable value denoted as a numerical object. 
+· In a money-system this number-object manifests as money
+· In a moneyless system it manifests as points or strings or any system of notation. Strings were used by the Inca Empire to represent nominal value and account balances
 
-Supereconomic systems with minimum needs creates a flatter distribution of wealth, while raising total wealth more than economic systems that follow profit maximization. 
+Supereconomics uses a moneyless system based on grains where 1 point is based on the retail price of 1 kilogram of basic rice or the common grain of the society. This is similar to how the *Big Mac Index* compares real prices between different countries using the Big Mac as a universal reference.
+
+For example, if 1 kilo of basic rice is $1, an iPhone 16 is worth $800, and a toothbrush is $2, then the iPhone is worth 800 points and the toothbrush is 2 points. The relative value of the iPhone and the toothbrush is 400:1 or that it takes 400 toothbrushes to buy an iPhone.
+
+Assume that in the next year, rice goes up to $1.50, the iPhone to $900, and the toothbrush to $4.50. The nominal price of the iPhone and toothbrush went up, but the real value of the iPhone went down to 600 points, while that of the toothbrush went up to 3. 
+
+This changes the ratio to 200:1 – it takes only 200 toothbrushes to buy an iPhone, or conversely, that an iPhone can only buy 200 toothbrushes when it could previously buy 400*. The supply chain of toothbrushes can then be checked to see what caused the change. 
+
+*We call this Relativistic or Relational Pricing based on Cartesian Relationality, which is a fundamental idea in Superphysics.
 
 
-{{< i s="/graphics/econ/minimumrequirements.jpg" a="Quipu strings" >}}
+In time, the natural ratios might be revealed to be 1 iPhone:300 toothbrushes: 600 rice. At such a point when natural ratios have been established, the money system can be discarded in favor of a grain index as below.
 
-This is similar to a basketball team that has balanced players all working together to produce the most points. This is opposed to a team that focuses on a superstar player to make all the points. Injuries to, or mistakes by, that star player can impact the points-production very negatively, leading to lost games. In contrast, an injury in a balanced team can be compensated by the other players, leading to less risk of loss. 
+_ | Scenario 1 | Scenario 2 | Scenario 3 
+--- | --- | --- | ---
+1 kg rice can buy.. | 0.00125 iPhone or 0.5 toothbrushes | 0.0017 iPhone or 0.33 toothbrushes | 0.0017 iPhone or 0.5 toothbrushes
+1 iPhone can buy.. | 800 rice or 400 toothbrushes | 600 rice or 200 toothbrushes | 600 rice or 300 toothbrushes
+1 toothbrush can buy.. | 0.0025 iPhone or 2 rice | 0.005 iPhone or 3 rice | 0.003 iPhone or 2 rice
+
+
+## Replacing the Time Value of Money with the Time Value of Life
+
+The conversion of money to points is important because it shifts the basis of an economy from mechanical utility (as an effect of being alive) into life itself (as cause).
+
+This removes the rigid and unbending time value of money, and therefore the interest rates and inflation which have pressured people to exhaust themselves just to meet those rising prices and interest payments. Moreover, it focuses on the value of life instead of the value of utility. 
+
+In this system, destroying a forest (with so many living beings) to create cash crops will be far less justifiable. 
+
+As a store of value, points do not have a rigid interest rate because everyone has different levels of desire of life itself. 
+· An absolutely lazy person might have assign himself a 0% life-interest rate. He will not be moved to improve himself or use his time productively beyond maintaining his physical existence. In Superphysics-speak, we say he is static or matter-dominated. 
+· A very ambitious person might assign his life a 1,000% interest rate. He would treat his own time as gold, and push himself towards lofty goals with milestones to achieve each day. We say he is aether-dominated.
+
+
+## The Doctrine of Minimum Needs
+
+Regardless of ambition or drive, each person will need the goods and services of others. Assume that each person on average needs 600 grams of rice daily to live, as 0.6 points, and 1.4 points for water and basic clothing. 
+
+This means that everyone should make 2 points revenue per day. 
+· If 1 kilo of rice costs $1, then everyone would need $2
+· If 1 kilo of rice costs $2, then $4 would be needed
+
+The government would then need to arrange the supereconomy so that everyone could get the daily value of 2 points or $2-$4 either by exchange or employment, or by donation or welfare. We call this the Doctrine of Minimum Needs which replaces the doctrine of profit maximization. It says that a society should take care of its members just like family.
+
+{{< q a=Sismondi c="New Principles of Political Economy" >}}
+“Political economists must always take 2 elements: the increase of happiness and its diffusion among all classes. This makes the political economy a theory of beneficence. Everything which does not concern happiness in the long run does not belong to this science. The human race originated in a single family.” 
+{{< /q >}}
+
+“The word ‘Œconomy’ originally meant the wise government of a house of a family. This was extended to the government of that great family, the State.. There is a close analogy between the State and the family.”
+ Rousseau, Discourse on Political Economy
+
+“No society can be flourishing and happy if the majority were poor and miserable. It is but equity that those who feed, clothe and lodge the people should be tolerably well fed, clothed and lodged themselves.”
+Smith, The Wealth of Nations, Book 1, Chapter 8
+
+Supereconomic systems with minimum needs will create a flatter, but still unequal, distribution of wealth, while raising total wealth more than economic systems that follow profit maximization.
+
+
+Gross National Happiness as Alternative to GDP
+The replacement of utility with life will likewise shift the emphasis from the production of utility, as Gross Domestic Product (GDP), into the happiness of life. The Gross National Happiness Centre in Bhutan classifies this happiness into 9 domains which we can integrate into our minimum needs model:
+
+1.  Living Standards 
+2.  Health and Education
+3.  Environment  
+4.  Community
+5.  Vitality
+6.  Time Use
+7.  Mental Health
+8.  Culture
+9.  Good Governance
+
+
+Good governance is on the top, while living standards is at the bottom, matching the physiological needs from Maslow's hierarchy. This is because the policies of the government can make or break the economy, and along with it the happiness of society. This is easily seen in the difference between North and South Korea. Good governance is aethereal in nature, as wisdom with dynamism (this is why we call ambitious people as aether-dominated). This, as well as the top 6 domains, cannot be measured objectively or in material output. Rather they are known through abstract aethereal feelings, as subjective opinion. This is why a national survey is the key tool of the GNH. 
+
+GDP is replaced by Net Domestic Product (NDP) which is GDP without the financial system, measured through the grain index. This is because banking, finance, and insurance do not contribute to real goods or services, but are just enablers. NDP is included in “Living Standards”.
+
+The Downward-Sloping Demand Curve
+
+The previous chapter mentioned the Value of Rarity which says that rare items have higher nominal value than common ones. This can be plotted as the downward-sloping demand curve that is used by both Economics and Supereconomics. As this is already well-known in Economics, we do not need to explain it here.
+
+
+Violations of the First Law
+The violations of the first law lead to the following economic problems that usually involve consumers:
+· personal and national budget deficits and the poverty cycle
+· gambling and speculation
+· counterfeiting and product adulteration
+
+The most common is the poverty cycle which arises from high personal demand not matching one’s productive capacity. People with weak self-control and discipline of body and mind develop too many desires and cravings that might plunge them into debt when they spend more than their means. This often creates a debt trap and a poverty cycle which is very common among the poor i.e. a person’s lack of self-control makes him poor. 
+
+This has 4 phases:
+1.  The worker gets low wages
+2.  Inflation or the lack of discipline makes him spend more than he earns
+3.  Poverty results from the mismatch between revenue and expense
+4.  The lack of empowerment prevents him raising his revenue
+
+
+
+“Capitals are increased by parsimony and decreased by prodigality and misconduct.. The prodigal encroaches on his capital by not confining his expence within his income.. If the prodigality of some was not compensated by the frugality of others, the country would soon be impoverished.”
+       Smith, The Wealth of Nations, Book 2, Chapter 3
+
