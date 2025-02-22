@@ -226,7 +226,7 @@ paginate = 12
       sub = "We systematize all Economics concepts neatly under the Four Laws which mirror the Four Laws of Thermodynamics"
     [languages.en.params.tricon8.items.c]
       url = "/social/economics/principles/part-3/chapter-07d/"
-      img = "/graphics/econ/dcti.jpg"
+      img = "/photos/grains.jpg"
       title = "NDP as an alternative to GDP"
       sub = "See how finance-less Net Domestic Product creates a more accurate picture of an economy than GDP"
     [languages.en.params.tricon8.items.d]
