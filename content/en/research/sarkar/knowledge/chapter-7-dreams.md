@@ -8,51 +8,126 @@ icon: "/icons/sarkar.png"
 ---
 
 
-The nervous system is the crude receptacle of the kámamaya kośa [crude layer] and the mind. It becomes unsteady and restless:
+The nervous system is the crude receptacle of the kámamaya kośa [crude layer] and the mind. 
+
+It becomes unsteady and restless:
 - when certain sentiments or impressions are received by the organs and agitate the conscious mind, or
 - when sensual or material thoughts are powerfully awakened in the conscious mind, 
 
 
-An impression of that restlessness is left on the nerve cells, and that impression remains short-lived or lasting according to the degree of its intensity. Sometimes even a significant impression loses its previously-acquired permanence because it is compelled to make room for a newer one under the impact of a counter- agitation or restlessness.
+An impression of that restlessness is left on the nerve cells.
 
-In the sleeping state, if a person’s nerve tissues get agitated, more often than not due to some physical cause or due to cerebral heat caused by vehement thinking, the nerve-cells also get stirred up and disturbed.
+That impression stays long or short according to its intensity. 
 
-Such agitations give rise, in the mental sphere, to desires similar to the impressions accumulated in the nerve cells. Thus the agitated citta (the subconscious mind) accepts as real the stream of thoughts arising from one or more such impressions. 
+Sometimes even a significant impression loses its previously-acquired permanence when it is compelled to make room for a newer one under the impact of a counter-agitation or restlessness.
 
-The crude organs having stopped functioning, the identical desires arising from the previously-acquired desires do not then seem to be imaginary but appear to be quite real. Such dreams do not often come true as they are pure imaginations or a mere stringing together of different disjointed thoughts. 
 
-That is, such dreams are what we colloquially called confused or inconsistent dreams. Only those whose nerve tissues have become weak due to some ailment of the brain or head or because of some protracted illness, or those whose digestive systems have gone out of order, generally “see” such orectic dreams. Such dreams may be called passionate or sensual dreams. These dreams, I have already said, are the true reproductions of the previously imagined objects or the scattered expressions of previous thoughts. Excessive eating also gives rise to such dreams. Those who have pure thoughts and restraint over their diet are generally less susceptible to such dreams. These dreams never come in deep sleep.
+The nerve-cells also get stirred up and disturbed in sleep if a person’s nerve tissues get agitated due to:
+- some physical cause or
+- cerebral heat caused by vehement thinking.
 
-There is yet another type of dream. Even when a person is in deep slumber, a premonition of a major calamity or some good or bad news may arise in the subconscious mind through a dream. 
+Such agitations give rise, in the mental sphere, to desires similar to the impressions accumulated in the nerve cells. 
 
-The all-knowing causal or unconscious mind cannot give expression to its omniscience due to the fickleness of the conscious and subconscious minds, and due to its own expressional inability. But it can awaken in the calm conscious and subconscious minds of a person in deep slumber those visions and premonitions of past, present or future events which may deeply involve or overwhelm the person. The surging vibrational flow which comes out of the fountain-head of the unconscious mind and vibrates the subconscious mind is also a sort of dream. 
+Thus, the agitated citta accepts as real the stream of thoughts from one or more such impressions. 
+
+<!-- The crude organs having stopped functioning, the identical desires arising from the previously-acquired desires do not then seem to be imaginary but appear to be quite real. -->
+
+Such dreams do not often come true as they are:
+- pure imaginations or
+- a mere stringing together of different disjointed thoughts. 
+
+That is, such dreams are what we colloquially called confused or inconsistent dreams. 
+
+Only those whose nerve tissues have become weak due to some ailment of the brain or head or because of some protracted illness, or those whose digestive systems have gone out of order, generally “see” such orectic dreams. 
+
+Such dreams may be called passionate or sensual dreams. These dreams are the true reproductions of the previously imagined objects or the scattered expressions of previous thoughts. 
+
+Excessive eating also gives rise to such dreams. 
+
+Those who have pure thoughts and restraint over their diet are generally less susceptible to such dreams. These dreams never come in deep sleep.
+
+When a person is in deep slumber, a premonition of a major calamity or some good or bad news may arise in the subconscious mind through a dream.
+
+The all-knowing causal or unconscious mind cannot give expression to its omniscience due to:
+- the fickleness of the conscious and subconscious minds
+- its own expressional inability. 
+
+But it can awaken in the calm conscious and subconscious minds of a person in deep slumber those visions and premonitions of past, present or future events which may deeply involve or overwhelm the person.
+
+The surging vibrational flow which comes out of the fountain-head of the unconscious mind and vibrates the subconscious mind is also a sort of dream. 
 
 Such dreams are not devoid of significance because their cause is the omniscient causal mind. This may be called “supramental vision”.
 
-Sometimes, even in the wakeful state, the cognitive flow of the unconscious mind makes its way into the subtle mind. The result is that even in the wakeful state, with a little concentration, one can grasp and guess events concerning one’s near and dear ones who are far away. This may be called “telepathic vision”.
+Sometimes, even in the wakeful state, the cognitive flow of the unconscious mind makes its way into the subtle mind. 
 
-Through concentrated telepathic vision, that is, when the conscious mind is calm and sedate, one can visualize the external events concerning one’s distant loved ones enacted before one’s eyes in the external world also, or one can feel as if one is seeing them. This may be called “telepathic clairvoyance”.
+The result is that even in the wakeful state, with a little concentration, one can grasp and guess events concerning one’s near and dear ones who are far away. This may be called “telepathic vision”.
 
-If one mistakenly believes such acts to be those of spirits, one may come to believe in spiritualism or spiritology. In fact, such incidents have no connection at all with spirits or ghosts.
+Through concentrated telepathic vision, that is, when the conscious mind is calm and sedate, one can visualize the external events concerning one’s distant loved ones enacted before one’s eyes in the external world also, or one can feel as if one is seeing them. This is “telepathic clairvoyance”.
 
-Telepathic vision and telepathic clairvoyance are intrinsically the same as supramental vision. Indeed, they are born out of the unconscious mind, the knower of the universe, in the form of intuitive feelings or inspirations from it. To believe in ghosts and spirits is nothing but to remain shrouded in the fearful mentality of prehistoric people. Incidents of telepathic vision are rare in comparison with supramental vision, and rarer still are occurrences of telepathic clairvoyance, due to the activity of the conscious mind. Even supramental vision does not usually occur more than eight to ten times in the life of a person. However, the frequency of this experience is wholly dependent on one’s intuitional practices or one’s saḿskáras [mental reactive momenta]. (One must bear in mind that self-acquired telepathy or self-acquired clairvoyance is something different).
-Even in supramental vision, one often does not grasp things correctly, for such cognitive waves generally find expression through the media of one’s personal saḿskáras. Suppose in some country cows are indispensable in various necessary jobs such as cultivation, milling of oil seeds or conveyance. 
+If one mistakenly believes such acts to be those of spirits, one may come to believe in spiritualism or spiritology. 
 
-Normally the people in such a country will have a very great regard for cows. Having lived on cows’ milk since their childhood, they will hold cows in high esteem, and regard healthy, strong cows as noble animals and symbols of good luck and prosperity. These sentiments about cows are the resultant saḿskáras born out of the necessities of daily life. Now, suppose somebody from such a country had a dream about a cow growing lean and thin because it lived on dried straws of the paddy field. Then another cow came and met with more or less the same fate. 
+Such incidents have no connection at all with spirits or ghosts.
 
-Then yet a third cow appeared, and that too fared no better, though such a trend of thought had never before occurred in the person’s mind. From such a dream the person might infer that the next three years would be ominous. Taking cows and paddy as symbols of good luck and prosperity, the dream may be interpreted as a premonition of misfortune due to the lean cows and the dry paddy straw. So to have the prescience of truth through the medium of dreams, it is necessary to have some control over one’s conscious and subconscious minds. Those who have brought both these levels of mind under control through spiritual practices can, with a little effort, visualize pictures of past, present and future events even in their waking state. This accounts for the meditational clairvoyance or internal foresight of distant objects or events demonstrated by many sages.
+Telepathic vision and telepathic clairvoyance are intrinsically the same as supramental vision. 
 
-Some power in visualizing past, future or distant events may be exhibited by an average person through crystal-gazing, fingernail mirrors, mirror-gazing, etc. This is nothing but the expansion of the cognitive field caused by the partial absorption of the conscious and subconscious minds into the unconscious mind as a result of intense concentration on a particular bright object. In the hypnotized condition or in planchette concentration, the activities of the conscious and subconscious minds get stilled, and the range of a particular individual’s knowledge may get slightly expanded, at least for the duration of such a condition. But then, here one must bear well in mind that those who see in a hypnotized state, in fingernail mirrors, or through mirror-gazing, only see the reflection of their own saḿskáras or their own previous mental bias, if any. This happens in almost cent per cent of such cases. That is to say, the hypnotized person goes on uttering words according to his or her own saḿskáras, while those looking at him or her watch aghast with folded hands, taking their utterances as absolute truth.
+They are born out of the unconscious mind, the knower of the universe, in the form of intuitive feelings or inspirations from it. To believe in ghosts and spirits is nothing but to remain shrouded in the fearful mentality of prehistoric people. 
 
-Those who feign theophanic or demoniacal trances are outright fakes; everything they do or say is nothing but trickery and moonshine. But even those who invoke the spirits or gods with devotion (be it out of fear or love), or sit around the planchette – even their statements are almost entirely the expression of their respective saḿskáras and previous bias. One or two per cent of their predictions may even come true due to their mental concentration. But such chance truths are not always expressions of the unconscious mind, for there is nothing unnatural or unusual about one or two predictions out of many coming true. This can also happen to an ordinary person. 
+Telepathic vision is rare compared with supramental vision.
+
+Rarer still are occurrences of telepathic clairvoyance, due to the activity of the conscious mind. 
+
+Even supramental vision does not usually occur more than 8-10 times in a person's life.
+
+However, the frequency of this experience is wholly dependent on one’s intuitional practices or one’s saḿskáras [mental reactive momenta]. 
+
+Self-acquired telepathy or self-acquired clairvoyance is something different.
+
+Even in supramental vision, one often does not grasp things correctly, for such cognitive waves generally find expression through the media of one’s personal saḿskáras. 
+
+Suppose in some country cows are indispensable in various necessary jobs such as cultivation, milling of oil seeds or conveyance. 
+
+Normally the people in such a country will have a very great regard for cows. Having lived on cows’ milk since their childhood, they will hold cows in high esteem, and regard healthy, strong cows as noble animals and symbols of good luck and prosperity. 
+
+These sentiments about cows are the resultant saḿskáras born out of the necessities of daily life. Now, suppose somebody from such a country had a dream about a cow growing lean and thin because it lived on dried straws of the paddy field. 
+
+Then another cow came and met with more or less the same fate. 
+
+Then yet a third cow appeared, and that too fared no better, though such a trend of thought had never before occurred in the person’s mind.
+
+From such a dream, the person might infer that the next three years would be ominous. 
+
+Taking cows and paddy as symbols of good luck and prosperity, the dream may be interpreted as a premonition of misfortune due to the lean cows and the dry paddy straw.
+
+So to have the prescience of truth through the medium of dreams, it is necessary to have some control over one’s conscious and subconscious minds. 
+
+Those who have brought both these levels of mind under control through spiritual practices can, with a little effort, visualize pictures of past, present and future events even in their waking state. 
+
+This accounts for the meditational clairvoyance or internal foresight of distant objects or events demonstrated by many sages.
+
+Some power in visualizing past, future or distant events may be exhibited by an average person through crystal-gazing, fingernail mirrors, mirror-gazing, etc. 
+
+This is nothing but the expansion of the cognitive field caused by the partial absorption of the conscious and subconscious minds into the unconscious mind as a result of intense concentration on a particular bright object. 
+
+In the hypnotized condition or in planchette concentration, the activities of the conscious and subconscious minds get stilled, and the range of a particular individual’s knowledge may get slightly expanded, at least for the duration of such a condition. 
+
+But then, here one must bear well in mind that those who see in a hypnotized state, in fingernail mirrors, or through mirror-gazing, only see the reflection of their own saḿskáras or their own previous mental bias, if any. 
+
+This happens in almost cent per cent of such cases. That is to say, the hypnotized person goes on uttering words according to his or her own saḿskáras, while those looking at him or her watch aghast with folded hands, taking their utterances as absolute truth.
+
+Those who feign theophanic or demoniacal trances are outright fakes. Everything they do or say is nothing but trickery and moonshine. 
+
+But even those who invoke the spirits or gods with devotion (be it out of fear or love), or sit around the planchette – even their statements are almost entirely the expression of their respective saḿskáras and previous bias. 
+
+1-2% of their predictions may even come true due to their mental concentration. 
+
+But such chance truths are not always expressions of the unconscious mind, for there is nothing unnatural or unusual about one or two predictions out of many coming true. This can also happen to an ordinary person. 
 
 <!-- There is a Bengali proverb which says,
 Jhaŕe kák mare
 Phakirer kerámáti báŕe.
 [The crow dies in a storm, The fakir strikes his form.] Yoga Psychology [a compilation]-->
+
 Agraháyańa Púrńimá 1956, Monghyr
-
-
 
 
 ## The Two Human Approaches
@@ -90,7 +165,7 @@ It is a great mystery that whatever you perceive or whatever you conceive – ev
 
 That is why it is said that the entire universe is within you in miniature form. 
 
-You are seeing the psychic projection of the material world. This is why I say that the human entity is more psychic than physical. 
+You are seeing the psychic projection of the material world. This is why I say that the human entity is more psychic than physical.
 
 Your existence is more important in the psychic world than in the physical world.
 
@@ -163,7 +238,9 @@ At that time he maintains no separate identity. Suppose, the name of the man is 
 
 So, Parama Puruśa is one. You, little girl, can you dance? Yes. Can you sing? Yes. Are you an expert in painting? Yes. Can you speak French? No. Now you have one weakness. So everybody has got certain imperfections. Parama Puruśa has got two imperfections. 
 
-One is that He cannot create a second Parama Puruśa. Whoever will be in love with Him, in close contact with Him, will also become Parama Puruśa. But Parama Puruśa remains one. Magnet and iron. When iron comes in contact with the magnet, the iron and magnet become one entity. So, Parama Puruśa remains one. Have you heard the name Huang Ho? What happens when it comes in contact with the Pacific Ocean? 
+One is that He cannot create a second Parama Puruśa. Whoever will be in love with Him, in close contact with Him, will also become Parama Puruśa. 
+
+But Parama Puruśa remains one. Magnet and iron. When iron comes in contact with the magnet, the iron and magnet become one entity. So, Parama Puruśa remains one. Have you heard the name Huang Ho? What happens when it comes in contact with the Pacific Ocean? 
 
 When a person comes in contact with Parama Puruśa, one does not remain a person. One becomes absorbed, just like the Huang Ho.
 
@@ -186,7 +263,9 @@ So the devotees are very intelligent, they are more intelligent than intellectua
 
 ## Mysticism and Yoga
 
-When the aesthetic sense, based on the subtle aesthetic science, comes to touch a certain standard, it is what is called mysticism. And when this mysticism reaches the pinnacle of human glory, or the excellence of human glory, it is called spirituality. What is mysticism? Mysticism is the never-ending endeavour to find out the link between the finite and the infinite. It is a never-ending endeavour to find out a link between the self and the Super-Self, khud and Khudá. This is mysticism.
+When the aesthetic sense, based on the subtle aesthetic science, comes to touch a certain standard, it is what is called mysticism. 
+
+When this mysticism reaches the pinnacle of human glory, or the excellence of human glory, it is called spirituality. What is mysticism? Mysticism is the never-ending endeavour to find out the link between the finite and the infinite. It is a never-ending endeavour to find out a link between the self and the Super-Self, khud and Khudá. This is mysticism.
 
 It is one of the human wonts that human beings are never satisfied with something finite. They are never satisfied with something limited. In Sanskrit it is said, Nalpe sukhamasti bhunaeva sukhamasti [“Human thirst cannot be satisfied with something limited, human hunger cannot be satisfied by something finite”].
 

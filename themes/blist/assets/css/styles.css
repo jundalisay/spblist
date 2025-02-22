@@ -98,8 +98,11 @@
 
 .Dharmavedananda {background-image: url(/avatars/dharma.jpg);}
 
-.Doctor, .Paul {background-image: url(/icons/whit.png);}
+.Disbelievers, .Teacher, .ceph, .Cephalus, .Tsz-Kung, .Zechariah, .Cebes, .Hippias-the-Sage, .Protagoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
+  background-image: url(/icons/g08.png);  
+}
 
+.Doctor, .Paul {background-image: url(/icons/whit.png);}
 
 .ein, .einstein, .Einstein {background-image: url(/icons/ein.png);}
 
@@ -169,8 +172,7 @@
 
 .Leibniz {background-image: url(/avatars/leibniz.jpg);}
 
-
-.lor, .lorentz, .Lorentz {background-image: url(/icons/lor.png);}
+.lorentz, .Lorentz {background-image: url(/icons/lor.png);}
 
 .Locke {background-image: url(/avatars/locke.jpg);}
 
@@ -183,8 +185,6 @@
 .marshall, .Marshall {background-image: url(/avatars/marshall.jpg);}
 
 .marx, .Marx {background-image: url(/icons/marx.png);}
-
-.Saturn, .Mercury {background-image: url(/icons/atom.png);}
 
 .mill, .Mill, .John-Stuart-Mill {background-image: url(/icons/mill.png);}
 
@@ -224,6 +224,8 @@
 
 .Rizal {background-image: url(/icons/rizal.png);}
 
+.roger {background-image: url(/avatars/roger.jpg) !important;}
+
 .Sad {background-image: url(/icons/arab2.png) !important;}
 
 .say, .Say {background-image: url(/avatars/say.png);}
@@ -232,13 +234,13 @@
 
 .Sarkar, .PR-Sarkar, .Baba {background-image: url(/icons/sarkar.png) !important;}
 
+.Saturn, .Mercury {background-image: url(/icons/atom.png);}
+
 .schu, .EF-Schumacher {background-image: url(/avatars/ef.png) !important;}
 
 .smith, .Smith, .Adam-Smith {background-image: url(/avatars/smith.png) !important;}
 
 .Someone, .Blasphemer, .No-photo, .m, .Mohammad, .Mun, .Thomas-Mun {background-image: url(/avatars/blank.png);}
-
-.roger {background-image: url(/avatars/roger.jpg) !important;}
 
 .soc, .Socrates, .socrates, .Philo {background-image: url(/icons/socrates.png);}
 
@@ -283,13 +285,11 @@
 
 .Qian, .Wang-Sun-Ki, .Xiang-Zhuan, .Judas, .Tsz-Lu, .Gauri, .Ignorant {background-image: url(/icons/g07.png) !important;}
 
-.Disbelievers, .Teacher, .ceph, .Cephalus, .Tsz-Kung, .Zechariah, .Cebes, .Hippias-the-Sage, .Protagoras, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
-  background-image: url(/icons/g08.png);  
-}
 
-.Anytus, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung, .Sons {
-  background-image: url(/icons/g09.png) !important;
-}
+.Anytus, .Thomas, .cle, .Cleitophon, .Simmias, .Yuen-Sz, .Chung-Kung, .Sons { background-image: url(/icons/g09.png) !important;}
+
+.Rousseau { background-image: url(/avatars/rousseau.jpg) !important;}
+
 
 .Tsai-Wo, .Matthew, .Duke-Ngai, .Abraham, .Aristoteles, .Companion, .Tsz-Lu, .Crito, .Shopkeeper {background-image: url(/icons/g10.png);  }
 

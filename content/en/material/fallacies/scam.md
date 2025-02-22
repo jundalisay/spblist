@@ -124,7 +124,7 @@ only be "simultaneity" if -->
 
 This mechanism of this scam is to use the ambiguity of the word 'time' which is a mental concept, not a physical one. 
 
-It is because humans measure time so often and most often with physical means that most people think it is a physical concept.
+**It is because humans measure time so often and most often with physical means that most people think it is a physical concept.**
 
 Einstein shows that he is aware of the scam, as "reasoning in a circle". Yet he continues with it anyway so that he can use his scam to measure things i.e. "make empirical decisions".
 
@@ -250,7 +250,7 @@ Compare the results with 3 clocks on the ground where you left and will arrive. 
 
 The demarcation of the 3 Elements re-separates the Conservation of Energy and Mass from the prison or confinement created by `E=mc^2`. 
 
-No longer does one need a huge amount of energy to bypass spacetime and teleport or levitate to other locations. 
+No longer does one need a huge amount of energy to bypass spacetime and teleport or levitate to other locations. This matches non-locality of quantum mechanics. This exposes the nature of the aether which is arbitariness and non-sequentiality. 
 
 More importantly, it restores the aether, via mental spacetime. You can now use this to impose on matter (3rd Element) to change its aetherspace configuration (since atoms are mostly empty space). 
 
@@ -266,6 +266,10 @@ For material bodies, such as vehicles, this can be done by applying Maxwell's 4t
 {{< youtube cJWzBCV0ksc >}}
 
 Lorentz should have done this if he had only focused on the Huygens aether instead of the Fresnel aether. 
+
+Had Cartesian Physics survived, people after Maxwell would have used waves to discover and manipulate the aetherspace to move things by action-at-a-distance. 
+
+
 
 <!-- **It does not reveal and hidden properties that can be used to create new technology**. This is because Einstein never explained why light has the speed of `c`, because he didn't know why. 
 

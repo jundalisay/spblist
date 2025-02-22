@@ -39,12 +39,11 @@ Supereconomic systems must make sure that ice creams and hot coffees will be ava
 The multiple desires that we have at the same time represents a “superposition” of possibilities. Supereconomics aims to realize the best economic possibility for everyone in society, both rich and poor.
 
 
+{{< i s="/graphics/super/right-waves.png" a="" >}}
 
 
 The Four Laws then manifest as the four kinds of prices within the supply and demand model:
 
-{{< i s="/graphics/econ/law4th.jpg" a="" >}}
- 
 
 Law | Meaning
 --- | ---
@@ -53,11 +52,10 @@ Law | Meaning
 3rd (Natural Price) | There must be balance in the creation and spread of value
 4th (Market Price) | Value is transferred through fair exchange
 
+{{< i s="/graphics/econ/law4th.jpg" a="" >}}
 
 
 
-Modern Economics only knows nominal price and market price.
-
-It does not know:
+Modern Economics only knows nominal price and market price. It does not know:
 - real price -- this would have prevented speculative valuation
 - natural price -- this would have prevented economic crises

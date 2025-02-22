@@ -17,6 +17,7 @@ This law is derived from the Third Law of Thermodynamics which says that absolut
 
 Negative prices, such as the waste of resources from overcooking, leading to burnt unsellable food, still contributes to the final product of a sellable dish in the long run, especially if the cook’s self-purpose is to cook.
 
+
 ## Nominal Price: The Purchaser’s Valuation
 
 A purchaser assigns a nominal value to any good or service that he needs or wants after his mind realizes that need or want as an effect of desire. This value can be denoted in 3 forms:
@@ -31,8 +32,10 @@ A purchaser assigns a nominal value to any good or service that he needs or want
 
 
 Nominal price is exchangeable value denoted as a numerical object. 
-· In a money-system this number-object manifests as money
-· In a moneyless system it manifests as points or strings or any system of notation. Strings were used by the Inca Empire to represent nominal value and account balances
+- In a money-system this number-object manifests as money
+- In a moneyless system it manifests as points or strings or any system of notation. Strings were used by the Inca Empire to represent nominal value and account balances
+
+{{< i s="/photos/econ/quipu.jpg" a="String" >}}
 
 Supereconomics uses a moneyless system based on grains where 1 point is based on the retail price of 1 kilogram of basic rice or the common grain of the society. This is similar to how the *Big Mac Index* compares real prices between different countries using the Big Mac as a universal reference.
 
@@ -63,72 +66,32 @@ This removes the rigid and unbending time value of money, and therefore the inte
 In this system, destroying a forest (with so many living beings) to create cash crops will be far less justifiable. 
 
 As a store of value, points do not have a rigid interest rate because everyone has different levels of desire of life itself. 
-· An absolutely lazy person might have assign himself a 0% life-interest rate. He will not be moved to improve himself or use his time productively beyond maintaining his physical existence. In Superphysics-speak, we say he is static or matter-dominated. 
-· A very ambitious person might assign his life a 1,000% interest rate. He would treat his own time as gold, and push himself towards lofty goals with milestones to achieve each day. We say he is aether-dominated.
+- An absolutely lazy person might have assign himself a 0% life-interest rate. He will not be moved to improve himself or use his time productively beyond maintaining his physical existence. In Superphysics-speak, we say he is static or matter-dominated. 
+- A very ambitious person might assign his life a 1,000% interest rate. He would treat his own time as gold, and push himself towards lofty goals with milestones to achieve each day. We say he is aether-dominated.
 
 
 ## The Doctrine of Minimum Needs
 
 Regardless of ambition or drive, each person will need the goods and services of others. Assume that each person on average needs 600 grams of rice daily to live, as 0.6 points, and 1.4 points for water and basic clothing. 
 
-This means that everyone should make 2 points revenue per day. 
-· If 1 kilo of rice costs $1, then everyone would need $2
-· If 1 kilo of rice costs $2, then $4 would be needed
+This means that everyone should make 2 points revenue per day.
+- If 1 kilo of rice costs $1, then everyone would need $2
+- If 1 kilo of rice costs $2, then $4 would be needed
 
 The government would then need to arrange the supereconomy so that everyone could get the daily value of 2 points or $2-$4 either by exchange or employment, or by donation or welfare. We call this the Doctrine of Minimum Needs which replaces the doctrine of profit maximization. It says that a society should take care of its members just like family.
 
-{{< q a=Sismondi c="New Principles of Political Economy" >}}
+{{< q a="Sismondi" c="New Principles of Political Economy" >}}
 “Political economists must always take 2 elements: the increase of happiness and its diffusion among all classes. This makes the political economy a theory of beneficence. Everything which does not concern happiness in the long run does not belong to this science. The human race originated in a single family.” 
 {{< /q >}}
 
+{{< q a="Rousseau" c="Discourse on Political Economy" >}}
 “The word ‘Œconomy’ originally meant the wise government of a house of a family. This was extended to the government of that great family, the State.. There is a close analogy between the State and the family.”
- Rousseau, Discourse on Political Economy
+{{< /q >}}
 
+
+{{< q a="Smith" c="The Wealth of Nations, Book 1, Chapter 8" >}}
 “No society can be flourishing and happy if the majority were poor and miserable. It is but equity that those who feed, clothe and lodge the people should be tolerably well fed, clothed and lodged themselves.”
-Smith, The Wealth of Nations, Book 1, Chapter 8
+{{< /q >}}
+
 
 Supereconomic systems with minimum needs will create a flatter, but still unequal, distribution of wealth, while raising total wealth more than economic systems that follow profit maximization.
-
-
-Gross National Happiness as Alternative to GDP
-The replacement of utility with life will likewise shift the emphasis from the production of utility, as Gross Domestic Product (GDP), into the happiness of life. The Gross National Happiness Centre in Bhutan classifies this happiness into 9 domains which we can integrate into our minimum needs model:
-
-1.  Living Standards 
-2.  Health and Education
-3.  Environment  
-4.  Community
-5.  Vitality
-6.  Time Use
-7.  Mental Health
-8.  Culture
-9.  Good Governance
-
-
-Good governance is on the top, while living standards is at the bottom, matching the physiological needs from Maslow's hierarchy. This is because the policies of the government can make or break the economy, and along with it the happiness of society. This is easily seen in the difference between North and South Korea. Good governance is aethereal in nature, as wisdom with dynamism (this is why we call ambitious people as aether-dominated). This, as well as the top 6 domains, cannot be measured objectively or in material output. Rather they are known through abstract aethereal feelings, as subjective opinion. This is why a national survey is the key tool of the GNH. 
-
-GDP is replaced by Net Domestic Product (NDP) which is GDP without the financial system, measured through the grain index. This is because banking, finance, and insurance do not contribute to real goods or services, but are just enablers. NDP is included in “Living Standards”.
-
-The Downward-Sloping Demand Curve
-
-The previous chapter mentioned the Value of Rarity which says that rare items have higher nominal value than common ones. This can be plotted as the downward-sloping demand curve that is used by both Economics and Supereconomics. As this is already well-known in Economics, we do not need to explain it here.
-
-
-Violations of the First Law
-The violations of the first law lead to the following economic problems that usually involve consumers:
-· personal and national budget deficits and the poverty cycle
-· gambling and speculation
-· counterfeiting and product adulteration
-
-The most common is the poverty cycle which arises from high personal demand not matching one’s productive capacity. People with weak self-control and discipline of body and mind develop too many desires and cravings that might plunge them into debt when they spend more than their means. This often creates a debt trap and a poverty cycle which is very common among the poor i.e. a person’s lack of self-control makes him poor. 
-
-This has 4 phases:
-1.  The worker gets low wages
-2.  Inflation or the lack of discipline makes him spend more than he earns
-3.  Poverty results from the mismatch between revenue and expense
-4.  The lack of empowerment prevents him raising his revenue
-
-
-
-“Capitals are increased by parsimony and decreased by prodigality and misconduct.. The prodigal encroaches on his capital by not confining his expence within his income.. If the prodigality of some was not compensated by the frugality of others, the country would soon be impoverished.”
-       Smith, The Wealth of Nations, Book 2, Chapter 3
-
