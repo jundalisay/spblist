@@ -2,7 +2,7 @@
 heading: Part 5
 title: "The formation of the solid parts"
 date: 2025-01-24
-weight: 4
+weight: 16
 description: "The Description of the Human Body talks about the body"
 image: "/covers/body.jpg"
 writer:

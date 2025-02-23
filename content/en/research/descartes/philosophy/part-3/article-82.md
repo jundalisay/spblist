@@ -1,8 +1,8 @@
 ---
 title: "The Particles of the Sun"
-heading: Articles 82
+heading: Articles 82-87
 weight: 44
-description: "The 1st element flows from the poles of each vortex towards the center, and from the center towards other parts"
+description: "The air-aether near the sun is smaller and faster than those further away"
 writer:
   name: Rene Descartes
   url: https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes

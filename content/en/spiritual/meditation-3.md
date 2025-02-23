@@ -74,6 +74,3 @@ Some spiritual systems are aware that the ego is the cause of problems. And so t
 Unlike Christianity wherein devotess crucigfy themselves to mimic Jesus, or hurt themselves with spikes (such as in the Opus Dei), yoga does not impose self-harm (this is also in line with ahimsa). 
 
 This niyama is the entry point to the next phase which is sense-withdrawal. In fact, sense withdrawal, as sadhana or spiritual practice, is an implementation of Isvara Pranidhana. In other words, if Isvara Pranidhana is a precept or rule, then sadhana is the actual rule-enforcement or physical implementation of that rule. 
-
-
-

@@ -70,3 +70,28 @@ From this we can see how material gravity is from space wanting to reduce the di
 
 
 <!-- It follows that the `G` of the Milky way can be different from the `G` of other galaxies. This gives the diversity of galaxy colors and forms.  -->
+
+
+<!-- Cartesian Spacetime Mechanics: Material Gravity
+
+Space is filled with invisible space particles that are displaced whenever a material body occupies space. 
+
+This causes those particles to go out in a straight line up to a certain distance. 
+
+This creates a gravitational field. 
+
+When 2 gravitational fields meet, the particles go beside each other forming parallel lines.
+
+These lines act as a channel that lets both fields go through each other more easily. 
+
+This creates a low pressure between them and a high pressure behind them. 
+
+This high pressure pushes them together until the channel is removed.
+
+This is the same mechanism for magnetism and the strong force. 
+
+Magnetism is stronger because the channels have lesser pressure.   
+
+The strong force in the center of a proton is the strongest because there is near zero pressure between the quarks 
+
+https://youtu.be/7o5cXV7tDVA -->

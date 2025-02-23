@@ -13,6 +13,11 @@ weight: 93
 ---
 
 
+<!-- 1989-2000 trader privatization
+2005-2021 worker merkel
+2022-     warrior -->
+
+
 The current decline of Germany, made obvious by the collapse of its government, comes from the wrong policies of the Merkel era -- it is strange how Germany wasted away its nuclear energy and heavy industries.
 
 Her strange policies are mistakes that mixed up bad policies:
