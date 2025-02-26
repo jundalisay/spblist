@@ -1,8 +1,8 @@
 ---
-title: "How Nature balances the distribution of prosperity"
+title: "The Reverence for the Rules of Conduct [Karma]"
 heading: "Chapter 5b"
-description: "The general rules which distribute prosperity and adversity are perfectly suited to mankind's situation"
-date: 2015-09-04
+description: "This reverence for the rules of conduct is still further enhanced by an opinion which is first impressed by nature."
+date: 2015-09-06
 image: "/covers/tms.jpg"
 writer:
   name: Adam Smith
@@ -11,184 +11,110 @@ icons: /avatars/smith.png
 ---
 
 
+<sup>105</sup> Our moral faculties were plainly intended to be the governing principles of human nature.
 
-{{< s v="108" >}}  The general rules which distribute prosperity and adversity are perfectly suited to mankind's situation. 
+The rules which they prescribe are to be regarded as the laws of the Deity.
 
-Yet they are not suited to some of our natural feelings.
+<!-- These were promulgated by those deputies he has set up within us. -->
 
-We naturally love some virtues so much , such as magnanimity, generosity, and justice, that we want to give them honours.
+All general rules are called laws.
 
-Those rewards are the natural consequences of prudence, industry, and application.
+The general rules observed by bodies in motion are called the laws of motion.
 
-Prudence, industry, and application are separable from wealth, power, and honours.
+<!-- in judging feelings or actions  -->
 
+The general rules which our moral faculties observe can be more justly called as the laws of morals.
 
-On the contrary, we detest some vices so much that we want to give them every disgrace.
+They are like the laws given by the sovereign to direct his subjects' conduct.
 
+<!-- Like them, they are rules to direct the free actions of men.
 
+They are prescribed most surely by a lawful superior. -->
 
-On the other hand, fraud, falsehood, brutality, and violence excite such scorn and abhorrence.
+They are also attended with rewards and punishments.
 
-Our indignation against them increases whenever we see them gain advantages that come from diligence and industry.
-
-The industrious knave cultivates the soil.
-The indolent good man leaves it uncultivated.
-Who should reap the harvest?
-Who should starve?
-Who should live in plenty?
-Nature decides it in favour of the knave.
-Mankind's natural feelings favours the man of virtue.
-
-Man judges that: 
-- the knave's good qualities are greatly over-recompensed by the advantages he gets.
-- the indolent man's shortcomings are too severely punished by the distress those shortcomings bring on him.
-
-Human laws are the consequences of human feelings.
-
-They forfeit the life and the estate of the industrious and cautious traitor.
-They reward the fidelity and public spirit of the improvident and careless good citizen, by extraordinary recompenses.
-Thus, man is by Nature directed to correct that distribution of things which she herself would otherwise have made.
-
-The rules which she prompts him to follow for this purpose are different from the rules which she herself observes.
-She bestows a reward on every virtue to encourage it.
-She bestows a punishment on every vice to restrain it.
-She is directed by this sole consideration.
-She pays little regard to merit and demerit bestowed by people's feelings.
-On the contrary, man pays regard to merit and demerit only.
-
-He would try to: 
-- render the state of every virtue precisely proportional to that degree of love and esteem, and
-- render the state of every vice proportional to that degree of contempt and abhorrence he conceives for it.
-
-The rules which Nature follows are fit for her.
-Those which man follows are fit for him.
-
-But both are calculated to promote the same great end: 
-- the order of the world, and
-- the perfection and happiness of human nature.
- 
-Humans should always make a moral effort to correc the mistakes of Nature which disregards merit and demerit
+Those deputies of God within us always: 
+- punish their violation by inward shame and self-condemnation, and
+- rewards obedience with peace of mind, and self-satisfaction.
 
 
-{{< s v="109" >}} Man is thus employed to change that distribution of things which natural events would make if left to themselves.
 
-Like the gods of the poets, he is perpetually extraordinarily interposing: 
-- in favour of virtue, and
-- in opposition to vice.
+{{< s v="106" >}} There are innumerable other considerations which serve to confirm the same conclusion.
 
-Like them, he tries to turn away the arrow aimed at the head of the righteous.
-He tries to accelerate the sword of destruction against the wicked.
+The happiness of mankind and all other rational creatures seems to be the original purpose intended by the Author of nature when he brought them into existence.
 
-Yet he is unable to render the fortune of either quite suitable to his own sentiments and wishes.
-The natural course of things cannot be entirely controlled by the impotent endeavours of man.
+No other end seems worthy of that supreme wisdom and divine benignity which we necessarily ascribe to him.
+We are led to this opinion by the abstract consideration of his infinite perfections.
+This opinion is still more confirmed by examining the works of nature.
 
-The current is too rapid and too strong for him to stop it.
-The rules which direct it appear to have been established for the wisest and best purposes.
-But they sometimes produce effects which shock all his natural sentiments.
-The following rule seems necessary and unavoidable in itself.
+They seem all intended to:
+- promote happiness, and
+- guard against misery.
 
-It is even useful and proper for rousing mankind's industry and attention: 
-that a great combination of men should prevail over a small one, and
-that those who engage in an enterprise with forethought and all necessary preparation should prevail over those who oppose them without any.
-that every end should be acquired only by those means only which Nature has established for acquiring it.
+By acting according to the dictates of our moral faculties, we necessarily pursue the most effective means for promoting mankind's happiness.
 
-Yet when because of this rule, violence and artifice prevail over sincerity and justice, it excites: 
-- indignation in the breast of every human spectator
-- sorrow and compassion for the innocent's sufferings
-- furious resentment against the oppressor's success
+We may therefore be said in some sense to:
+- cooperate with the Deity, and
+- advance the plan of Providence as far as we can.
 
-We are equally grieved and enraged at the wrong that is done.
-We are often powerless to redress it.
-We despair of finding any force on earth which can check the triumph of injustice so we naturally appeal to heaven.
+On the contrary, by acting in other ways, we seem to: 
+- obstruct the scheme which the Author of nature established for the world's happiness and perfection, and
+- declare ourselves the enemies of God.
 
-We hope that the great Author of our nature will himself: 
-- execute what all the principles, which he has given us to guide our conduct, prompt us to attempt, and
-- complete the plan which he himself has taught us to begin.
-
-We hope that he will give everyone the works they have performed in this world, in a life to come.
-
-Thus we are led to the belief of a future state by human nature's: 
-- weaknesses,
-- hopes and fears, and
-- noblest principles: 
-  - the love of virtue, and
-  - the abhorrence of vice and injustice.
+Hence we are naturally encouraged to: 
+- hope for his extraordinary favour and reward in the one case, and
+- dread his vengeance and punishment in the other case.
  
 
-{{< s v="110" >}} Jean-Baptiste Massillon was the philosophical bishop of Clermont
+{{< s v="107" >}} There are many other reasons and natural principles which confirm and inculcate the same salutary doctrine.
 
-He says passionately: 
-'Does it suit God's greatness to leave his created world in so universal a disorder?
+Despite the world's disorder, every virtue naturally meets with:
+- its proper reward, and
+- the recompense most fit to encourage and promote it.
 
-To see: 
-- the wicked prevail almost always over the just,
-- the innocent dethroned by the usurper,
-- the father become the victim of an unnatural son's ambition,
-- the husband dying under the stroke of a barbarous and faithless wife?
+A very extraordinary concurrence of circumstances is required to entirely disappoint it.
 
-Should God behold those sad events as a fantastical amusement?
+What is the reward most proper for encouraging industry, prudence, and circumspection?
 
-Because he is great, should he be weak, unjust, or barbarous?
+Success in every sort of business.
 
-Because men are little, should they to be allowed to: 
-- be dissolute without punishment, or
-- be virtuous without reward?
+Can these virtues fail of attaining it in one's whole life?
 
-O God! if this is the character of your Supreme Being,
-If it is you whom we adore under such dreadful ideas, then I can no longer acknowledge you: 
-for my father
-for my protector,
-for the comforter of my sorrow,
-for the support of my weakness, and
-for the rewarder of my fidelity.
-You would then be no more than an indolent and fantastical tyrant, who: 
-sacrifices mankind to his insolent vanity, and
-has brought them out of nothing, only to make them serve for the sport of his leisure and caprice.'
+Wealth and external honours are their proper recompense.
+
+These virtues can seldom fail to acquire the recompense.
+What reward is most proper for promoting the practice of truth, justice, and humanity?
+
+The confidence, the esteem, and love of those we live with.
+
+Humanity does not desire to be great, but to be beloved.
+
+Truth and justice would rejoice in being trusted and believed and not in being rich.
+Truth and justice almost always recompenses with being trusted and believed.
+By some very extraordinary and unlucky circumstance, a good man may be suspected of a crime he was not capable of.
+
+He might be most unjustly exposed to mankind's horror and aversion for the rest of his life.
+
+By this accident, he may lose his all, despite his integrity and justice, in the same way as a cautious man may be ruined by an earthquake or a flood, despite his utmost circumspection.
+
+However, accidents of the first kind are perhaps more rare.
+It is more contrary to the common course of things than those of the second.
+The practice of truth, justice, and humanity chiefly aim at the confidence and love of those we live with.
+
+The practice of such virtues is a certain and almost infallible method of acquiring such confidence and love.
+A person may be very easily misrepresented with regard to a particular action.
+But it impossible that he should be so with regard to the general tenor of his conduct.
+An innocent man may be believed to have done wrong.
+
+However, this will rarely happen.
+
+On the contrary, the established opinion of the innocence of his manners will often lead us to absolve him when he has really been in the fault, despite very strong presumptions.
+
+In the same way, a knave may escape censure or even be applauded for a particular knavery, in which his conduct is not understood.
+
+But no innocent man was ever habitually blamed for a wrong action without being: 
+- almost universally known to be a knave, and
+- frequently suspected of guilt.
+
+Thus, vice and virtue can be commonly met with something more than exact and impartial justice.
  
-
-{{< s v="111" >}} The All-powerful Being: 
-- watches over our conduct
-- will reward the observance of his laws in a life to come
-- punish their breach
-
-When the general rules are regarded as the laws of an All-powerful Being, they necessarily acquire a new sacredness.
-
-Anyone who believes in an All-powerful Being cannot doubt that our regard to the Deity's will should be the supreme rule of our conduct.
-The very thought of disobedience would create the most shocking impropriety.
-How vain, absurd would it be for man to oppose the commands from Infinite Wisdom and Power!
-How unnatural, impiously ungrateful would it be not to revere the precepts prescribed to him by the infinite goodness of his Creator, even though no punishment was to follow their violation.
-
-The sense of propriety here is supported by the strongest motives of self-interest.
-
-However, we may escape men's observations or be placed beyond the reach of human punishment, we are always acting under God's eye and exposed to his punishment.
-
-This motive can restrain the most headstrong passions in people who have constantly reflected and become familiar to them.
- 
-
-{{< s v="112" >}} This is how religion enforces the natural sense of duty.
-
-Hence, mankind generally places great confidence in the probity of religious people.
-They imagine that the religious act under an additional tie, besides those which regulate the conduct of other men.
-
-The following are motives which they suppose have the same influence over the religious man, as over the worldly man: 
-- the regard to: 
-- the propriety of action and reputation, and
-- the applause of his own breast and those of others.
-
-But the religious man lies under another restraint.
-
-He only acts in the presence of that Great Superior who will finally recompense him according to his deeds.
-
-Thus, a greater trust is reposed in his conduct's regularity and exactness.
-
-The world undoubtedly judges right.
-
-It justly places a double confidence in the rectitude of the religious man's behaviour: 
-- wherever the natural principles of religion are not corrupted by the factious and party zeal of some worthless cabal,
-- wherever the first duty required by religion is to fulfill all the obligations of morality, and
-- wherever men are not taught to: 
-  - regard frivolous observances as more immediate duties of religion, than acts of justice and beneficence
-  - imagine they can bargain with the Deity for fraud, and perfidy, and violence through: 
-    - sacrifices
-    - ceremonies
-    - vain supplications
