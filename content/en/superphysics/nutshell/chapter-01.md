@@ -18,9 +18,10 @@ For example, when we are in a crowded restaurant, we can physically hear various
 
 Instead, we lump these perceptions as a single idea of a noisy restarurant. 
 
-When we see a mug, we have both the physical perception of a mug and a metaphysical idea of a mug nearly at the same time. 
+When we see a flower, we have both the physical perception of a flower and a metaphysical idea of a flower nearly at the same time. 
 
-{{< i s="/photos/objects/mugecon.jpg" alt="Mug Economics" c="A physical mug exists in physical reality just as the idea of a mug exists in metaphysical reality">}}
+{{< i s="/photos/bio/flower.jpg" alt="Flower" c="A physical flower exists in physical reality just as the idea of a flower exists in metaphysical reality">}}
+
 
 {{< q a="Spinoza" c="The Ethics Simplified, Part 2, Proposition 7" >}}
 The two are one and the same thing displayed through different attributes:
@@ -31,18 +32,17 @@ The two are one and the same thing displayed through different attributes:
 
 ## The Two Domains
 
-This means that the mug exists in two domains of reality:
+This means that the flower exists in two domains of reality:
 
-1. The physical mug exists in the physical domain, which we see and touch. 
+1. The physical flower exists in the physical domain, which we see and touch. 
 
-This mug is made of glass.
+This flower is made of matter.
 
-2. The metaphysical mug exists in the metaphysical domain, as our idea of what a mug is. 
+2. The metaphysical flower exists in the metaphysical domain, as our idea of what a flower is. 
 
-This mug-idea is made of aether.
+This flower-idea is made of aether.
 
-Unlike the physical mug which we can see and touch, this aethereal mug-idea can only be perceived by our abstract minds.
-
+Unlike the physical flower which we can see and touch, this aethereal flower-idea can only be perceived by our abstract minds.
 
 
 {{< q a="Francis-Bacon" c="Nova Organum, Book 2" >}}
@@ -66,6 +66,11 @@ Invisible and intangible objects are those that **do not let light or space boun
 
 An example is the air which lets light and our hands pass through.  
 
+{{< q a="Sarkar" c="The Faculty of Knowledge" >}}
+Light waves come from the flower and touch your eyes. A similar flower is created in your mind. Actually, you are not seeing the flower. You are seeing the mental image of the flower within. **You never see anything, you never hear anything, you never even touch anything.** Whatever you perceive or whatever you conceive – everything is within you, nothing is outside of you. That is why it is said that the entire universe is within you in miniature form. You are seeing the psychic projection of the material world. This is why I say that the human entity is more psychic than physical.
+{{< /q >}}
+
+
 
 ### The Metaphysical Domain with Metaphysical Objects, as Ideas
 
@@ -80,6 +85,9 @@ This domain exists only because we have abstract minds which have an innate abil
 We are able to conceive an idea, or think of a thought, **if it bounces back in our minds onto our consciousness**.
 
 We are unable to have that idea or thought if it does not bounce back to our consciousness.
+
+
+{{< img src="/graphics/psych/feelings.jpg" alt="Feelings" cap="" >}}
 
 An example of a metaphysical object not bouncing back is when we forget a password to our email. 
 
@@ -122,11 +130,6 @@ Technically, this domain is "aethereal" or made of aether or *akasha* in Hinduis
 
 {{< q c="Timaeus by Plato Simplifed">}}
 These causes generate an inequality which is always maintained, and is continually creating a perpetual motion of the elements... The brightest part is called the aether. The most turbid sort is mist and darkness.
-{{< /q >}}
-
-
-{{< q c="" >}}
-Light waves come from the flower and touch your eyes. A similar flower is created in your mind. Actually, you are not seeing the flower. You are seeing the mental image of the flower within. **You never see anything, you never hear anything, you never even touch anything.** Whatever you perceive or whatever you conceive – everything is within you, nothing is outside of you. That is why it is said that the entire universe is within you in miniature form. You are seeing the psychic projection of the material world. This is why I say that the human entity is more psychic than physical.
 {{< /q >}}
 
 

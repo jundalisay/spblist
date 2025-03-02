@@ -15,7 +15,9 @@ icon: /avatars/smith.png
 ## Our Sympathy with the Sorrow of Others is Stronger than Our Sympathy with their Joy because pain is a stronger sensation than pleasure (which can even be a source of envy)
 
 
-{{< s v="1" >}} Our sympathy with sorrow has been more noticed than our sympathy with joy. In its most proper and primitive signification, the word 'sympathy' denotes our fellow-feeling with the sufferings of others, not with their enjoyments.
+{{< s v="1" >}} Our sympathy with sorrow has been more noticed than our sympathy with joy.
+
+In its most proper and primitive signification, the word 'sympathy' denotes our fellow-feeling with the sufferings of others, not with their enjoyments.
 
 Joseph Butler was an ingenious and subtle philosopher. He thought it necessary to prove that= 
 - we had a real sympathy with joy
@@ -34,7 +36,9 @@ No one else ever thought it necessary to prove that compassion was such.
 Yet we often feel a very sensible concern on his account. But if we do not entirely enter into and go along with another's joy, we have no fellow-feeling for it. We are annoyed at the man who skips and dances with an intemperate and senseless joy that cannot be accompanied by us.
 
 
-{{< s v="3" >}} Besides, pain of mind or body is a more pungent sensation than pleasure. Our sympathy with pain falls greatly short of what is felt by the sufferer. It is more distinct perception than our sympathy with pleasure. Our sympathy with pleasure makes us feel the original pleasure more accurately. 
+{{< s v="3" >}} Besides, pain of mind or body is a more pungent sensation than pleasure. Our sympathy with pain falls greatly short of what is felt by the sufferer. 
+
+It is more distinct perception than our sympathy with pleasure. Our sympathy with pleasure makes us feel the original pleasure more accurately. 
 
 
 {{< s v="4" >}} Over and above all this, we often struggle to keep down our sympathy with the sorrow of others. When the sufferer is not looking, we try to suppress our sorrow as much as we can, for our own sake.
@@ -161,7 +165,9 @@ On the contrary, he:
   - Seneca was that great preacher of insensibility
 
 {{< s v="14" >}}  Whenever we meet any examples of such heroic magnanimity in common life, we are always extremely affected.
+
 We are more apt to weep for those who seem to feel nothing for themselves than for those who give way to all the weakness of sorrow.
+
 The observer's sympathetic grief appears to go beyond the original passion in the person observed.
 
 Socrates' friends wept when he drank the poison, while he himself was cheerfully tranquil.

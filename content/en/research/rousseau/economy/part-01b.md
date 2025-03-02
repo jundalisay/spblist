@@ -41,21 +41,43 @@ This general will:
 
 <!-- , constitutes for all the members of the State, in their relations to one another and to it, the rule of what is just or unjust: a truth which shows, by the way, how idly some writers have treated as theft the subtlety prescribed to children at Sparta for obtaining their frugal repasts, as if everything ordained by the law were not lawful. -->
 
-It is important to observe that this rule of justice may be defective with regard to foreigners. This is because the will of the State, though general in relation to its own members, is no longer so in relation to other States and their members.
 
-But it becomes, for them, a particular and individual will, which has its rule of justice in the law of nature. This, however, enters equally into the principle here laid down; for in such a case, the great city of the world becomes the body politic, whose general will is always the law of nature, and of which the different States and peoples are individual members.
+This rule of justice might be defective with regard to foreigners.
 
-From these distinctions, applied to each political society and its members, are derived the most certain and universal rules, by which we can judge whether a government is good or bad, and in general of the morality of all human actions.
+This is because the will of the State is general relative to its own members.
+- But it is not general relative to other States and their members.
 
-Every political society is composed of other smaller societies of different kinds, each of which has its interests and its rules of conduct: but those societies which everybody perceives, because they have an external and authorised form, are not the only ones that actually exist in the State: all individuals who are united by a common interest compose as many others, either transitory or permanent, whose influence is none the less real because it is less apparent, and the proper observation of whose various relations is the true knowledge of public morals and manners.
+This will is an individual will for foreign States. 
+- This particular and individual will has its rule of justice in the law of nature. 
+
+This, however, enters equally into the principle here laid down; for in such a case, 
+
+This principle can extend into the great city of the world as the body politic. 
+- Its general will is always the law of nature.
+- The different States and peoples are its individual members.
+
+<!-- From these distinctions, applied to each political society and its members, are derived the most certain and universal rules, by which we can judge whether a government is good or bad, and in general of the morality of all human actions. -->
+
+Every political society is composed of other smaller societies of different kinds.
+- Each of which has its interests and its rules of conduct: but those societies which everybody perceives, because they have an external and authorised form, are not the only ones that actually exist in the State: all individuals who are united by a common interest compose as many others, either transitory or permanent, whose influence is none the less real because it is less apparent, and the proper observation of whose various relations is the true knowledge of public morals and manners.
+
 
 The influence of all these tacit or formal associations causes, by the influence of their will, as many different modifications of the public will. 
 
-The will of these particular societies has always two relations; for the members of the association, it is a general will; for the great society, it is a particular will; and it is often right with regard to the first object, and wrong as to the second.
+The will of these particular societies has always 2 relations:
 
-An individual may be a devout priest, a brave soldier, or a zealous senator, and yet a bad citizen. A particular resolution may be advantageous to the smaller community, but pernicious to the greater. 
+1. A general will for the members of the association
+2. A particular will for the great society
 
-Particular societies being always subordinate to the general society in preference to others, the duty of a citizen takes precedence of that of a senator, and a man's duty of that of a citizen: but unhappily personal interest is always found in inverse ratio to duty, and increases in proportion as the association grows narrower, and the engagement less sacred; which irrefragably proves that the most general will is always the must just also, and that the voice of the people is in fact the voice of God.
+Society is often correct with regard to the general will, but wrong with the particular will.
+
+An individual may be a devout priest, a brave soldier, or a zealous senator, and yet a bad citizen. 
+
+A particular resolution may be advantageous to the smaller community, but pernicious to the greater. 
+
+Particular societies being always subordinate to the general society in preference to others, the duty of a citizen takes precedence of that of a senator, and a man's duty of that of a citizen: 
+
+But unhappily personal interest is always found in inverse ratio to duty, and increases in proportion as the association grows narrower, and the engagement less sacred; which irrefragably proves that the most general will is always the must just also, and that the voice of the people is in fact the voice of God.
 
 It does not follow that the public decisions are always equitable; they may possibly, for reasons which I have given, not be so when they have to do with foreigners. 
 
@@ -63,7 +85,12 @@ Thus it is not impossible that a Republic, though in itself well governed, shoul
 
 This is not contradicted by the case of the Athenian Democracy; for Athens was in fact not a Democracy, but a very tyrannical Aristocracy, governed by philosophers and orators. Carefully determine what happens in every public deliberation, and it will be seen that the general will is always for the common good; but very often there is a secret division, a tacit confederacy, which, for particular ends, causes the natural disposition of the assembly to be set at nought. In such a case the body of society is really divided into other bodies, the members of which acquire a general will, which is good and just with respect to these new bodies, but unjust and bad with regard to the whole, from which each is thus dismembered.
 
-We see then how easy it is, by the help of these principles, to explain those apparent contradictions, which are noticed in the conduct of many persons who are scrupulously honest in some respects, and cheats and scoundrels in others, who trample under foot the most sacred duties, and yet are faithful to the death to engagements that are often illegitimate. Thus the most depraved of men always pay some sort of homage to public faith; and even robbers, who are the enemies of virtue in the great society, pay some respect to the shadow of it in their secret caves.
+
+These principles help explain those apparent contradictions, which are noticed in the conduct of many persons who are scrupulously honest in some respects, and cheats and scoundrels in others, who trample under foot the most sacred duties, and yet are faithful to the death to engagements that are often illegitimate.
+
+Thus the most depraved of men always pay some sort of homage to public faith.
+
+Even robbers, who are the enemies of virtue in the great society, pay some respect to the shadow of it in their secret caves.
 
 In establishing the general will as the first principle of public economy, and the fundamental rule of government, I have not thought it necessary to inquire seriously whether the Magistrates belong to the people, or the people to the Magistrates; or whether in public affairs the good of the State should be taken into account, or only that of its rulers. 
 

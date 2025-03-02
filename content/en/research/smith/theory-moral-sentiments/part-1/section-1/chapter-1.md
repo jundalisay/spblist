@@ -34,7 +34,9 @@ If our brother is on the rack, we will never feel his pains exactly. We can only
 
  <!-- as our senses are limited to ourselves. Only by our imagination can we imagine his sensations. -->
 
-Our imagination copies only the impressions that we get from our own senses. By imagination, we: 
+Our imagination copies only the impressions that we get from our own senses. 
+
+By imagination, we: 
 - place ourselves in his situation
 - see ourselves enduring the same torments
 
@@ -44,7 +46,7 @@ Our imagination copies only the impressions that we get from our own senses. By 
 - we even feel something similar, though weaker. -->
 
 <!-- His agonies affect us when we bring them to ourselves and made our own.  -->
-We then shudder at the thought of what he feels.
+<!-- We then shudder at the thought of what he feels. -->
 
 
 <!-- Pain or distress excites the most excessive sorrow. 
@@ -58,18 +60,21 @@ We then shudder at the thought of what he feels.
 {{< s v="3" >}} This is the source of our fellow-feeling for the misery of others. 
 
 We are affected by what he feels by changing places with the sufferer, in imagination.
+
 - When we see a stroke aimed on the leg of another person, we naturally draw back our own leg.
   - When it falls, we feel hurt by it.
 - When a crowd gazes at a dancer on the slack rope, they naturally writhe and twist their own bodies, as they see him do.
   - They feel that they themselves must do if they were in his situation.
 
-Sensitive people feel uneasy when looking at the beggars' sores.
-- They feel their misery which then affects their own bodies.
-- That feeling comes from conceiving what they themselves would suffer if: 
-  - they really were those beggars, and
-  - their body parts actually had those sores
+Sensitive people feel uneasy when looking at the beggar's sores.
+- They feel his misery which then affects their own bodies.
 
-The force of this conception produces that itching or uneasy sensation in their feeble frames.
+That feeling comes from conceiving what they themselves would suffer if: 
+- they really were that beggar, and
+- their body actually had those sores
+
+**The force of this conception produces that itching or uneasy sensation in their feeble frames.**
+
 
 Strong men feel soreness in their own eyes in looking on the sore eyes of others.
 - It comes from the same reason -- the eyes are more delicate in the strongest man.

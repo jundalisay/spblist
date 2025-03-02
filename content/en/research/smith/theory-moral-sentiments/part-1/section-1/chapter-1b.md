@@ -16,7 +16,7 @@ writer:
 
 The feelings are transfused from one man to another instantaneously without knowing what excited them.
 
-For example, when some expresses grief, the other people are instantly affected with a similar emotion.
+For example, when some expresses grief, the other people are also instantly affected with grief.
 
 
 {{< s v="7" >}} However, this is not universal with every feeling.
@@ -83,13 +83,17 @@ Our anguish for him, therefore, cannot be the same anguish that he feels.
 
 The observer's compassion must all arise from his consideration of what he himself would feel if he had the same situation.
 
-{{< s v="12" >}} A mother feels pangs when she hears her baby crying. In her own mind, she joins:
+{{< s v="12" >}} A mother feels pangs when she hears her baby crying. 
+
+In her own mind, she joins:
 - the idea of her baby's helplessness to the baby's actual helplessness
 - that helplessness with her own experience of helplessness
 
 <!-- ![Moral sentiments chart for Baby](/graphics/tms/baby.png) -->
 
-From of all these, she forms the most complete image of misery and distress. The infant, however, feels only some uneasiness.
+From of all these, she creates an image of misery and distress. 
+
+The infant, however, feels only some uneasiness.
 - Its innocence is an antidote against fear and anxiety.
 - When it grows up to be a man, its innocence will be replaced by reason and philosophy which will defend it from fear and anxiety
 

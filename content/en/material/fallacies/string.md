@@ -48,6 +48,15 @@ This is because simultaneity uses light to judge space, when in reality, it is t
 To solve this, **String Theory** was invented.
 - This absurdly converts particles into dimensions which are glued together by an even more absurd 'M-Theory'. 
 
+{{< box >}}
+### The Strong Force as Precursor to Dimensional Strings
+
+String theory began when particles were being collided in colliders for the first time. This led to the idea for a gluon flux tube, which is the aetherspace in Material Superphysics. 
+
+Instead of gluons or the aetherspace, Gabriele Veneziano came up with strings as the Veneziano Amplitude. These strings led to the concept of gravitons or quantum gravity as a spin 2 particle. 
+
+{{< /box >}}
+
 In other words:
 - Supersymmetry converts imaginary objects into 'partner particles'
 - String Theory turns particles into imaginary objects

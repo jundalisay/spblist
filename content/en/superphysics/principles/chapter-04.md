@@ -3,7 +3,7 @@ title: "Everything is an Idea"
 #, Propelled by Feelings
 heading: "Chapter 4"
 date: 2020-01-02
-weight: 16
+weight: 21
 image: /photos/idea.jpg
 description: "Everything is an idea of the Creator of that existence"
 icon: /icons/sp.png

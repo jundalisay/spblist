@@ -53,7 +53,7 @@ Pure being is being [existence] in general.
 <!-- : being, and nothing else, without any further specification and filling. -->
 
 
-{{< s v="98" >}} Here the beginning is made with being which is represented as having come to be through mediation, a mediation which is also a sublating of itself.
+{{< s v="98" >}} Here, the beginning is made with being which is represented as having come to be through mediation, a mediation which is also a sublating of itself.
 
 There is presupposed pure knowing as the outcome of finite knowing, of consciousness. But if no presupposition is to be made and the beginning itself is taken immediately, then its only determination is that it is to be the beginning of logic, of thought as such.
 

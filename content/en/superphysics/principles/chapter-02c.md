@@ -1,12 +1,10 @@
 ---
-heading: "Chapter 2b"
-title: "The Sequence of Creation"
-# date: 2015-09-09
-date: 2024-05-03
-# 2020-01-04
-weight: 8
-image: /photos/physics/whitehole.jpg
-description: "We use the 5 Layers to theorize the sequence of creation"
+heading: Chapter 2c
+title: "Non-Localism: The Independence of Spacetime Slices"
+date: 2025-03-02
+weight: 10
+image: "/photos/objects/clock.jpg"
+description: "We introduce the concept of true motion'"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -14,38 +12,28 @@ icon: /icons/sp.png
 ---
 
 
-The 5 Layers are the journey of an idea of the Supreme from metaphysical into physical reality. In Material Superphysics, this leads to an alternative theory to the Big Bang, which we call the Big Bootup.
+The Wave-Nature of Reality means that one timespan or moment is connected to another timespan. 
 
-{{< img src="/photos/physics/whitehole.jpg" alt="A whitehole" >}}
+The connection of these lead to the concept of time. 
 
-1. The Supreme Entity has an idea in the Aethereal Layer.
-2. It is then deployed through a galaxy in a universe in the Spatial  Layer.
-3. It then spreads as particles through the Radiant (electromagnetic) Layer.
-4. It is then transformed by the Convertible Layer into atoms of the Material Layer.
+But each of these timespans is really caused by 2 perceptions. The gap between these 2 perceptions is what we call timespan.
 
-This is also true for any phenomena:
+This means that timespan and time are effects of perception. 
 
-1. You have an aethereal idea to bake a cake.
-2. You walk to the space in the kitchen where the ingredients are.
-3. You see the ingredients, such as flour, through light.
-4. You put them together to convert the flour into a material cake.
+But perception is merely a disturbance in the pure aether substance which is totally independent of other disturbances. 
 
+This means that each perception is independent. 
 
-This is why “mentality creates reality”, to be explained in Chapter 3. 
+Therefore time and timespan are dependent on the current perception. 
 
-This truth is perpetually challenged by materialists who believe that the Material Layer is superior and so put forth the opposite maxim “seeing is believing” or “matter creates mind”. 
+The error is that people think that the current perception is dependent on the past, just as the future is dependent on the present. 
+
+Cartesian 
 
 
-{{< q a="Marx" c="The German Ideology, Part 1" >}}
-The production of ideas, consciousness, is at first directly interwoven with the material activity of men, the language 
-of real life. Conceiving, thinking appear at this stage as the direct efflux of their material behaviour.
-{{< /q >}}
+
+##  Monty Python Fallac
 
 
-Since this materialist doctrine goes against how Nature works, it is no wonder that Communist and Capitalist systems* collapse by themselves from the inside instead of from any external force:
-- The fall of the Soviet Union was begun by Gorbachev
-- The 2008 Financial Crisis was begun by Wall Street banks 
-
-* Communism is based on dialetical materialism, specifically the dominance of matter. Capitalism is based on economic materialism, specifically the love for money
-
+The same fallacy of treating events as not independent (as if there were a true starting point) is a fallacy of false motion or locality. 
 
