@@ -32,14 +32,18 @@ We cure this materialistic view by creating the a metaphysics-first perspective 
 
 1. The Aethereal Cartesian Plane
 
-2. The Cartesian Plane
+2. The Material Cartesian Plane 
 
+{{< img src="/graphics/physics/determined.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
 
-This view takes:
+This is known as Cartesian Duality. This view takes:
 - the metaphysical domain as the cause (via the Aethereal Cartesian Plane)
-- the physical domain as effect (via the Cartesian Plane)
+- the physical domain as effect (via the Material Cartesian Plane)
 
-Currently, science has only the 'Cartesian plane' which is used to plot movements on paper.
+
+### The Material Cartesian Plane 
+
+Currently, math and science only have the material 'Cartesian plane' which is used to plot movements on paper.
 
 It is a 2-dimensional space that has quality in one axis relative to time in another axis. The movement through time makes the 2D space infinitely long.
 
@@ -47,8 +51,6 @@ Here, the `y` axis represents a quality in different magnitudes of variations.
 
 {{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" cap="The Cartesian Plane (left) plots the changes of an identity through time or relative to time (temporal changes) based on certain quality. The Aethereal Cartesian Plane (right), on the other hand, plots the changes of qualities relative to each other. The latter shows the how different each self is the previous and future self. " >}}
 
-
-{{< img src="/graphics/physics/determined.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
 
 
 We add the **Aethereal Cartesian Plane** which is has the identity as its origin and has multiple axes representing the qualities of that identity that change over time.
@@ -60,15 +62,21 @@ The Aethereal Cartesian Plane reveals more data which can be interpreted as new 
 
 ## There is Only Euclidean Geometry
 
-Modern Physics thinks that Euclid's book, The Elements, is about shapes on a 2D surface. 
+These 2 planes are 2 dimensional, one from the perspective of space, and the other from the perspective of the self in that space.
+
+This leads to a 2 dimensional geometry known as Euclidean Geometry. 
+
+Modern Physics thinks that Euclid's book, *The Elements*, is about shapes on a 2D surface. 
 
 In reality, it is about the dynamics of the 5 Elements (which we call the 5 Layers), and is why Euclid named it as such.
 
-When used with the Cartesian View, Euclid's geometry can describe 3-dimensional surfaces and patterns. 
+When used with the Cartesian View, Euclid's geometry can describe 3-dimensional surfaces and patterns coming from the stitching together of 2-dimensional ones.
 
 The main difference with Physics is that Euclid's Geometry does not focus on the paths that an object would take. 
 
-This is because sequential paths only happen in the 3 Elements (Electromagnetism or 1st, Weak or 4th, and Strong or 3rd Elements). The aether (5th Element) and the aetherspace (2nd Element) are non linear and non sequential. 
+This is because sequential paths only happen in the material cartesian plane. There is no sequential movement in the aethereal cartesian plane at all. For example, a musical composition can suddenly change from being slow and soft to being loud and thundering and back again. But a walking person cannot suddenly reach top running speed instantly nor can a running man stop abruptly without being affected by his momentum.  
+
+ <!-- 3 Elements (Electromagnetism or 1st, Weak or 4th, and Strong or 3rd Elements). The aether (5th Element) and the aetherspace (2nd Element) are non linear and non sequential.  -->
 
 Instead, it focuses on the start and end of that path. This is useful for teleportation where paths are unnecessary.   
 
