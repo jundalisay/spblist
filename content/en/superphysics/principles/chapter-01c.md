@@ -1,88 +1,110 @@
 ---
-heading: "Chapter 1c"
-title: "The 3 Operational Divisions"
-date: 2024-12-28
+heading: "Chapter 1b"
+title: "The Cartesian View and Euclid's Elements"
+# date: 2015-09-09
+date: 2023-03-19
 # 2020-01-04
 weight: 4
-image: /graphics/meta/divisions.jpg
-description: "Reality has 3 Operational Divisions"
+image: /graphics/super/cartesian.png
+description: "The Cartesian View plots the movement in the physical and metaphysical domains"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
+aliases:
+  /material/solutions/cartesian-view/
 ---
 
 
-The 2 domains are static divisions of reality, based on immediate perception.
+{{< dc t="Principles (click to expand)" >}}
+Principles | Assertions
+--- | ---
+There are 2 Domains in Reality | The Cartesian View has both Planes 
+{{< /dc >}}
 
-For example, you can see your mug with your eyes. But you cannot see the idea of that mug in your mind with your eyes. There is no cloud that pops up on top of your head where you can see how that mug is recreated in your mind.
-
-{{< i s="/photos/objects/mugecon.jpg" a="Mug" c="">}}
 
 
-To have a basis for the actual phenomena that is sequential or made up of  successive perceptions, we create the 3 operational divisions of reality as:
+{{< youtube U4JFPWoiSAI >}}
+
+
+Previously, we divided reality into 2 domains:
+
+1. The Metaphysical
+2. The Physical
+
+
+Operationally, reality is divided into 3:
 
 1. Causal
-2. Subtle
+2. Subtle 
 3. Crude
 
 
-{{< i s="/graphics/meta/divisions.jpg" a="3 Operational Divisions" c="">}}
+The current sciences ignore the metaphysical domain, as well as the causal and subtle parts of reality. Instead, they focus solely on the crude physical domain. 
 
 
-{{< q a="Ibn-Khaldun" >}}
-The ability to think has several degrees.
-1. The first degree.. mostly consists of perceptions. 
-2. The experimental intellect
-3. The speculative intellect 
+To explain metaphysical phenomena, humans have invented philosophy, religion, and mysticism. These have been disregarded by science as imaginary. 
+
+Science brands their explanations as pseudo-science, as if science and the physical domain (where matter resides) were superior to the metaphysical (where spirit and the aether reside).
+
+
+{{< q a="Descartes" c="Principles of Philosophy, Part 2, Article 9" >}}
+People who distinguish substance from size or number actually do not know what incorporeal substance means. They think that substance is physical. 
+
+They thus think that a corporeal substance has a [metaphysical] size [when it really is a monad or point-particle]. And so they express something quite different from what they comprehend in their mind.
 {{< /q >}}
 
 
-This is similar to the Freudian:
+We cure this materialistic view by creating the a metaphysics-first perspective which we call the Cartesian View which has 2 parts:
 
-- Unconscious
-- Subconscious
-- Conscious
+1. The Aethereal Cartesian Plane
 
-However, our difference is that the basis for the divisions are not awareness, but the properties of the 2 Forces of Positive and Negative. 
-- This is the same basis of the 2 domains. 
-
-The interaction of different phenomena take place in 3 divisions based on their affinity with either the Positive or Negative Forces.
+2. The Material Cartesian Plane
 
 
-### Basis for the Groupings of Phenomena
+This view takes:
+- the metaphysical domain as the cause (via the Aethereal Cartesian Plane)
+- the physical domain as effect (via the Cartesian Plane)
 
-These divisions are the basis for different groups of phenomena:
+Currently, science has only the 'Cartesian plane' which is used to plot movements on paper.
 
-Division | Phenomena 
---- | --- 
-Causal | Abstract
-Subtle | Living
-Crude | Non-Living 
+It is a 2-dimensional space that has quality in one axis relative to time in another axis. The movement through time makes the 2D space infinitely long.
 
-Each of these divisions have its own subdivisions made up of 5 parts.
+Here, the `y` axis represents a quality in different magnitudes of variations. 
 
-Division | Subdivision 
---- | --- 
-Causal | 5 Strata
-Subtle | 5 Elements
-Crude | 5 Layers 
-
-- The 5 parts of the causal subdivision is called the 5 Strata
-- The 5 parts of the subtle subdivision is called the 5 Elements, with reference to the Asian 5 Elements
-- The 5 parts of the crude subdivision is called the 5 Layers
+{{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" cap="The Cartesian Plane (left) plots the changes of an identity through time or relative to time (temporal changes) based on certain quality. The Aethereal Cartesian Plane (right), on the other hand, plots the changes of qualities relative to each other. The latter shows the how different each self is the previous and future self. " >}}
 
 
-{{< i s="/graphics/meta/layerstrata.jpg" a="3 Operational Divisions" c="">}}
+{{< img src="/graphics/physics/determined.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
 
 
-These phenomena and subdivisions will be studied by the different branhces of Superphysics.
+We add the **Aethereal Cartesian Plane** which is has the identity as its origin and has multiple axes representing the qualities of that identity that change over time.
+
+{{< img src="/graphics/super/viz.jpg" alt="Aethereal Cartesian planes" cap="" >}}
+
+The Aethereal Cartesian Plane reveals more data which can be interpreted as new information which we call the dynamics of the identity. These dynamics are then based on its gravitational signature or dharma. 
 
 
-Subdivision |  Phenomena | Superphysics Branch 
---- | --- | ---
-5 Strata | Abstract | Social and Spiritual 
-5 Elements | Living | Bio
-5 Layers | Non-Living | Material
+## There is Only Euclidean Geometry
+
+Modern Physics thinks that Euclid's book, The Elements, is about shapes on a 2D surface. 
+
+In reality, it is about the dynamics of the 5 Elements (which we call the 5 Layers), and is why Euclid named it as such.
+
+When used with the Cartesian View, Euclid's geometry can describe 3-dimensional surfaces and patterns. 
+
+The main difference with Physics is that Euclid's Geometry does not focus on the paths that an object would take. 
+
+This is because sequential paths only happen in the 3 Elements (Electromagnetism or 1st, Weak or 4th, and Strong or 3rd Elements). The aether (5th Element) and the aetherspace (2nd Element) are non linear and non sequential. 
+
+Instead, it focuses on the start and end of that path. This is useful for teleportation where paths are unnecessary.   
+
+{{< img src="/graphics/physics/geo.jpg" alt="Aethereal Cartesian View of a Geodesic" cap="" >}}
+
+
+Teleportation and other aether-based technologies require knowledge and dynamics of the gravitational signature. This signature is visualized or revealed by the Aethereal Cartesian Plane like how a Fourier Transform makes a wave easier to understand.  
+
+<!-- The movement of a country can be physical or aethereal. The left physical Cartesian plane for example can be made to represent the movement of a country from a population of 1 million to 4 million at year 4. The right aethereal Cartesian plane plots movement of the soul of the same society from tyranny or neoconservatism (tetrahedron) into aristocracy or conservatism (octahedron) based on the Socrates' social cycles. Alternately, the left plane can represent Covid infections from 1,000 to 4,000 at the Day 4. The right plane can plot the evolution of the variants that emerge. Lastly, the left plane can represent a ball at [1,1] rolling to [4,4]. The right plane will then plot the changes in the ball's changing gravitational signature at each point [1,1] [2,2] [3,3] [4,4], as three time intervals. This will then be useful for levitating the ball (forceless movement) -->
+
 
 

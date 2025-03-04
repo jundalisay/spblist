@@ -85,7 +85,7 @@ Light is similar to this. Light is the carrier of a certain movement or a very p
 
 Almost all philosophers admit that there is no void in nature. 
 
-All the bodies which we perceive around us have several pores which are necessarily filled with some very subtle and very fluid matter, which I call the fire-aether. This fire-aether matter extends without interruption from the stars to us. 
+All the bodies which we perceive around us have several pores which are necessarily filled with some very subtle and very fluid matter, which I call the fire-aether. This fire-aether matter extends without interruption from the stars to us.
 
 <!-- Voyez * une cuve -->
 Let us suppose a wooden vat of very mashed grapes and grape juice with 2 holes `A` and `B` through which the juice can flow.

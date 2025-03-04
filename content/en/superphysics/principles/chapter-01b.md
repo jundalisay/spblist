@@ -1,101 +1,176 @@
 ---
-heading: "Chapter 1b"
-title: "The Cartesian View and Euclid's Elements"
-# date: 2015-09-09
-date: 2023-03-19
+heading: "Chapter 1c"
+title: "The 3 Operational Divisions of Reality"
+date: 2024-12-28
 # 2020-01-04
 weight: 3
-image: /graphics/super/cartesian.png
-description: "The Cartesian View plots the movement in the physical and metaphysical domains"
+image: /graphics/meta/divisions.jpg
+description: "Reality has 3 Operational Divisions"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
 icon: /icons/sp.png
-aliases:
-  /material/solutions/cartesian-view/
 ---
 
 
-{{< dc t="Principles (click to expand)" >}}
-Principles | Assertions
---- | ---
-There are 2 Domains in Reality | The Cartesian View has both Planes 
-{{< /dc >}}
+Reality is an effect of perception. 
+
+Perception is a disturbance in a line in the aether or akasha, which is the substance for existence. This is because existence exists as a thought-projection of the Supreme Mind as the Brahman. 
+
+The resulting existence is called Brahma. 
+
+For those who are allergic to religion and think that Brahma is a religious word, we can use the layman term **Totality of Existence**, or Existence with a capital 'e', instead. 
+
+The disturbances in the Supreme Mind manifests as waves. 
+
+These disturbances are caused by the interaction of the 2 Forces of Positive and Negative, called Yang and Yin in Taoism, and Shiva and Shakti in Hinduism. Again, for those who are allergic to religion, we use Positive and Negative instead. 
+
+These waves create Existence.
+
+{{< i s="/graphics/super/reality.jpg" a="Waves" c="Before reality is deployed, existence is perfect without any disurbances nor any variety" >}}
+
+These disturbances creates pockets of void in Existence. These have to be filled for Existence to have no holes or 'bugs' or errors. These are filled by thinner and subtler waves. 
 
 
+{{< q a="Descartes" c="Dioptrique" >}}
+Almost all philosophers admit that there is no void in nature. 
 
-{{< youtube U4JFPWoiSAI >}}
-
-
-Previously, we divided reality into 2 domains:
-
-1. The Metaphysical
-2. The Physical
-
-The current sciences ignore the metaphysical domain and instead focus solely on the physical one. 
-
-To explain metaphysical phenomena, humans have invented philosophy, religion, and mysticism. These have been disregarded by science as imaginary. 
-
-Science brands their explanations as pseudo-science, as if science and the physical domain (where matter resides) were superior to the metaphysical (where spirit and the aether reside).
-
-
-{{< q a="Descartes" c="Principles of Philosophy, Part 2, Article 9" >}}
-People who distinguish substance from size or number actually do not know what incorporeal substance means. They think that substance is physical. 
-
-They thus think that a corporeal substance has a [metaphysical] size [when it really is a monad or point-particle]. And so they express something quite different from what they comprehend in their mind.
+All the bodies which we perceive around us have several pores which are necessarily filled with some very subtle and very fluid matter, which I call the 1st Element. This matter extends without interruption from the stars to us.
 {{< /q >}}
 
 
-We cure this materialistic view by creating the a metaphysics-first perspective which we call the Cartesian View which has 2 parts:
+The phrase "there is no void in Nature" means that God is everywhere and that God is everything. 
 
-1. The Aethereal Cartesian Plane
+For those who are allergic to religion, we can say instead that the aether or 5th Element fills everything. This is consistent with quantum mechanics that says that empty space is not truly empty. 
 
-2. The Cartesian Plane
+- The crude waves collectively are part of the physical domain.
+- The subtle waves collectively are part of the metaphysical domain.
 
+This aether is called substance by 17th century natural philosophy and ancient Greek philosophy. 
 
-This view takes:
-- the metaphysical domain as the cause (via the Aethereal Cartesian Plane)
-- the physical domain as effect (via the Cartesian Plane)
+{{< q a="Descartes" c="The Description of the Human Body" >}}
+We see that our soul is a substance distinct from body. We know our soul solely from the fact that it thinks.
+{{< /q >}}
 
-Currently, science has only the 'Cartesian plane' which is used to plot movements on paper.
+{{< q a="Descartes" c="Meditations on First Philosophy" >}}
+These external ideas and causes are made of substance. A substance is a thing capable of existing independently.
 
-It is a 2-dimensional space that has quality in one axis relative to time in another axis. The movement through time makes the 2D space infinitely long.
-
-Here, the `y` axis represents a quality in different magnitudes of variations. 
-
-{{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" cap="The Cartesian Plane (left) plots the changes of an identity through time or relative to time (temporal changes) based on certain quality. The Aethereal Cartesian Plane (right), on the other hand, plots the changes of qualities relative to each other. The latter shows the how different each self is the previous and future self. " >}}
-
-
-{{< img src="/graphics/physics/determined.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
+For example, I think that a stone is a substance, and that I am a substance.
+{{< /q >}}
 
 
-We add the **Aethereal Cartesian Plane** which is has the identity as its origin and has multiple axes representing the qualities of that identity that change over time.
+{{< q a="Spinoza" c="The Principles of Cartesian Philosophy, Part 1" >}}
+"Substance" is everything in which there is something that we perceive as immediately inhering in a subject, or through which there exists something that we perceive (i.e., some property, quality or attribute whose real idea is in us).
 
-{{< img src="/graphics/super/viz.jpg" alt="Aethereal Cartesian planes" cap="" >}}
+Substance is a thing in which there exists formally that something which we perceive (i.e., that something which is objectively in one of our ideas).
 
-The Aethereal Cartesian Plane reveals more data which can be interpreted as new information which we call the dynamics of the identity. These dynamics are then based on its gravitational signature or dharma. 
-
-
-## There is Only Euclidean Geometry
-
-Modern Physics thinks that Euclid's book, The Elements, is about shapes on a 2D surface. 
-
-In reality, it is about the dynamics of the 5 Elements (which we call the 5 Layers), and is why Euclid named it as such.
-
-When used with the Cartesian View, Euclid's geometry can describe 3-dimensional surfaces and patterns. 
-
-The main difference with Physics is that Euclid's Geometry does not focus on the paths that an object would take. 
-
-This is because sequential paths only happen in the 3 Elements (Electromagnetism or 1st, Weak or 4th, and Strong or 3rd Elements). The aether (5th Element) and the aetherspace (2nd Element) are non linear and non sequential. 
-
-Instead, it focuses on the start and end of that path. This is useful for teleportation where paths are unnecessary.   
-
-{{< img src="/graphics/physics/geo.jpg" alt="Aethereal Cartesian View of a Geodesic" cap="" >}}
+Mind is substance in which thought immediately inheres.
+{{< /q >}}
 
 
-Teleportation and other aether-based technologies require knowledge and dynamics of the gravitational signature. This signature is visualized or revealed by the Aethereal Cartesian Plane like how a Fourier Transform makes a wave easier to understand.  
+## The Superiority of the Metaphysical over the Physical
 
-<!-- The movement of a country can be physical or aethereal. The left physical Cartesian plane for example can be made to represent the movement of a country from a population of 1 million to 4 million at year 4. The right aethereal Cartesian plane plots movement of the soul of the same society from tyranny or neoconservatism (tetrahedron) into aristocracy or conservatism (octahedron) based on the Socrates' social cycles. Alternately, the left plane can represent Covid infections from 1,000 to 4,000 at the Day 4. The right plane can plot the evolution of the variants that emerge. Lastly, the left plane can represent a ball at [1,1] rolling to [4,4]. The right plane will then plot the changes in the ball's changing gravitational signature at each point [1,1] [2,2] [3,3] [4,4], as three time intervals. This will then be useful for levitating the ball (forceless movement) -->
+The subtle waves wrap around and penetrate the cruder waves in order to fill the void. This is why the subtle metaphysical domain is superior to the physical. 
+
+In some places in the aether, there arises a concentration of waves, as nodes. 
+- The cruder nodes become ideas. 
+- The subtler nodes become minds. 
+
+Perception occurs when these nodes of minds interact with each other and with other ideas. 
+
+<!-- A perceiving mind within that Supreme Mind is also a disturbance, as a node, that encounters other disturbances.  -->
+
+{{< i s="/graphics/super/waves.jpg" a="Waves and Nodes" >}}
+
+In Cartesian Physics, these are called vortices instead of nodes. 
+
+{{< q a="Descartes" c="Principia Philosophia, Part 3" >}}
+The Earth and the other planets are carried along by a common vortex, with the Sun at its center and move in the motion of the vortex.
+{{< /q >}}
+
+The stars and planets are therefore concentrations of crude and subtle waves. 
+
+
+A richer perception therefore is made up of multiple waves of disturbance hitting a disturbance that is also more complex than others. 
+
+Having no perception is perceiving no disturbance and therefore no mind. 
+
+Emtpy space has no nodes or few disturbances, while a rich galaxy has a lot of them. 
+
+
+
+## Causal, Subtle, Crude within Physical and Metaphysical
+
+The 2 domains are static divisions of reality, based on immediate perception as physical or metaphysical.
+
+But waves are never static. 
+
+To have a basis for the actual phenomena that is sequential or made up of successive perceptions, we create the 3 operational divisions of reality as:
+
+1. Causal
+2. Subtle
+3. Crude
+
+
+{{< i s="/graphics/meta/divisions.jpg" a="3 Operational Divisions" c="">}}
+
+
+{{< q a="Ibn-Khaldun" >}}
+The ability to think has several degrees.
+1. The first degree.. mostly consists of perceptions. 
+2. The experimental intellect
+3. The speculative intellect 
+{{< /q >}}
+
+
+This is similar to the Freudian:
+
+- Unconscious
+- Subconscious
+- Conscious
+
+However, our difference is that the basis for the divisions are not awareness, but the properties of the 2 Forces of Positive and Negative. 
+- This is the same basis of the 2 domains. 
+
+The interaction of different phenomena take place in 3 divisions based on their affinity with either the Positive or Negative Forces.
+
+
+### Basis for the Groupings of Phenomena
+
+These divisions are the basis for different groups of phenomena:
+
+Division | Phenomena 
+--- | --- 
+Causal | Abstract
+Subtle | Living
+Crude | Non-Living 
+
+Each of these divisions have its own subdivisions made up of 5 parts.
+
+Division | Subdivision 
+--- | --- 
+Causal | 5 Strata
+Subtle | 5 Elements
+Crude | 5 Layers 
+
+- The 5 parts of the causal subdivision is called the 5 Strata
+- The 5 parts of the subtle subdivision is called the 5 Elements, with reference to the Asian 5 Elements
+- The 5 parts of the crude subdivision is called the 5 Layers
+
+
+{{< i s="/graphics/meta/layerstrata.jpg" a="3 Operational Divisions" c="">}}
+
+
+These phenomena and subdivisions will be studied by the different branches of Superphysics.
+
+
+Subdivision |  Phenomena | Superphysics Branch 
+--- | --- | ---
+5 Strata | Abstract | Social and Spiritual 
+5 Elements | Living | Bio
+5 Layers | Non-Living | Material
+
+
 
 
 
