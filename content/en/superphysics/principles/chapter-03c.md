@@ -77,3 +77,12 @@ Every part always has these two parts because existence always involves one, and
 {{< /q >}}
 
 
+
+
+<!-- The Negetive confined cofnition as to have 1 object The origin of tradeoffs: consciousness has one object at a time 
+
+If a nation excels in producing butter, then it will naturally produce more butter, and the tradeoff question becomes less important.
+
+flexible
+In Eastern metaphysics, this deception is called Maya, and its job is to maintain dualism. This dualism, in turn, creates existence and existence adds value to Whatever created existence.
+that the universe is generated in real-time. -->

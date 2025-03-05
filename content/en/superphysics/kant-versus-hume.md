@@ -11,6 +11,9 @@ icon: /icons/sp.png
 ---
 
 
+<!-- Hume did not create epistemology. It was created by James Frederick Ferrier in 1854 long after Hume died. -->
+
+
 Hume was very much against shallow, unenlightened philosophers who wrote a lot of nonsense.
 
 Kant is one such philosopher.

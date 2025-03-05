@@ -14,7 +14,9 @@ writer:
 
 Chapter 5 gave 3 qost types. Here, we match them to their spatial territories or the space around each type:
 
-<!-- Atom | Nucleaon | Inner Shells | Outer Shells |   -->
+<!-- Atom | Nucleaon | Inner Shells | Outer Shells |  
+
+galaxy as society of stars  -->
 
 Qost | Concept
 --- | --- 

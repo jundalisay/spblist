@@ -15,37 +15,60 @@ The invention of prepositions was more difficult.
 
 Every preposition denotes some relation considered in concrete with the co-relative object. 
 
-The preposition "above"  denotes the relation of superiority, not in abstract, as it is expressed by the word superiority, but in concrete with some co-relative object. 
+The preposition "above" denotes the concrete relation of superiority.
 
-In this phrase, for example, the tree above the cave, the word above expresses a certain relation between the tree and the cave, and it expresses this relation in concrete with the co-relative object, the cave. 
+<!-- , not in abstract, as it is expressed by the word superiority, but in concrete with some co-relative object.  -->
 
-A preposition always requires, in order to complete the sense, some other word to come after it; as may be observed in this particular instance.
+In "the tree above the cave", the word "above" expresses a concrete relation between the tree and the cave.
+
+<!-- , and it expresses this relation in concrete with the co-relative object, the cave.  -->
+
+A preposition always requires some other word to come after it in order to complete the sense.
+
+<!-- ; as may be observed in this particular instance. -->
 
 The original invention of such words would require a yet greater effort of abstraction and generalization, than that of nouns adjective. 
 
 1. The relation is, in itself, a more metaphysical object than a quality. 
 
-Nobody can be at a loss to explain what is meant by a quality; but few people will find themselves able to express, very distinctly, what is understood by a relation. 
+<!-- Nobody can be at a loss to explain what is meant by a quality; but  -->
 
-Qualities are almost always the objects of our external senses; relations never are. 
+Few people are able to express what is a relation. 
 
-No wonder therefore, that the one set of objects should be so much more comprehensible than the other. 
+Qualities are almost always the objects of our external senses. But relations never are. 
 
-2. Prepositions always express the relation which they stand for, in concrete with the co-relative object. But they could not have originally been formed without a considerable effort of abstraction. 
+This is why qualities are so much more comprehensible than relations. 
 
-A preposition denotes a relation, and nothing but a relation. 
+<!-- No wonder therefore, that the one set of objects should be the other.  -->
 
-But before men could institute a word, which signified a relation, and nothing but a relation, they must have been able, in some measure, to consider this relation abstractedly from the related objects; since the idea of those objects does not, in any respect, enter into the signification of the preposition. 
 
-The invention of such a word, therefore, must have required a considerable degree of abstraction.
+2. Prepositions always express the relation which they stand for, in concrete with the co-relative object. 
 
-3. A preposition is from its nature a general word, which, from its very first institution, must have been considered as equally applicable to denote any other similar relation. 
+Their invention needed a considerable effort of abstraction. 
 
-The man who first invented the word above, must not only have distinguished, in some measure, the relation of superiority from the objects which were so related, but he must also have distinguished this relation from other relations, such as, from the relation of inferiority denoted by the word below, from the relation of juxta-position, expressed by the word beside, and the like. He must have conceived this word, therefore, as expressive of a particular sort or species of relation distinct from every other, which could not be done without a considerable effort of comparison and generalization.
+A preposition denotes only a relation. 
 
-Whatever were the difficulties, therefore, which embarrassed the first invention of nouns adjective, the same, and many more, must have embarrassed that of prepositions. 
+Before men could invent a word which signified only a relation, they must have been able to consider this relation abstractedly from the related objects.
 
-If mankind, therefore, in the first formation of languages, seem to have, for some time, evaded the necessity of nouns adjective, by varying the termination of the names of substances, according as these varied in some of their most important qualities, they would much more find themselves under the necessity of evading, by some similar contrivance, the yet more difficult invention of prepositions. 
+ <!-- since the idea of those objects does not, in any respect, enter into the signification of the preposition.  -->
+
+<!-- The invention of such a word, therefore, must have required a considerable degree of abstraction. -->
+
+
+3. A preposition is a general word which equally applicable to denote any other similar relation. 
+
+The man who first invented the word "above", must have distinguished:
+- the relation of superiority of related objects
+- this relation of superiority from other relations
+  - For example, above is different from the relation of inferiority denoted by the word "below", juxta-position as the word "beside", and the like. 
+
+<!-- He must have conceived this word, therefore, as expressive of a particular sort or species of relation distinct from every other, which could not be done without -->
+
+This needed a considerable effort of comparison and generalization.
+
+The difficulties of invention of nouns adjective would have made the invention of prepositions more difficult. 
+
+<!-- If mankind, therefore, in the first formation of languages, seem to have, for some time, evaded the necessity of nouns adjective, by varying the termination of the names of substances, according as these varied in some of their most important qualities, they would much more find themselves under the necessity of evading, by some similar contrivance, the yet more difficult invention of prepositions.  -->
 
 The different cases in the ancient languages is a contrivance of precisely the same kind. 
 
@@ -111,7 +134,9 @@ The relations at the same time which those prepositions express, are, of all oth
 
 The prepositions above, below, near, within, without, against, &c., are much more rarely made use of, in modern languages, than the prepositions of, to, for, with, from, by. 
 
-A preposition of the former kind will not occur twice in a page; we can scarce compose a single sentence without the assistance of one or two of the latter. If these latter prepositions, therefore, which supply the place of the cases, would be of such difficult invention on account of their abstractedness, some expedient to supply their place must have been of indispensable necessity, on account of the frequent occasion which men have to take notice of the relations which they denote.
+A preposition of the former kind will not occur twice in a page; we can scarce compose a single sentence without the assistance of one or two of the latter.
+
+If these latter prepositions, therefore, which supply the place of the cases, would be of such difficult invention on account of their abstractedness, some expedient to supply their place must have been of indispensable necessity, on account of the frequent occasion which men have to take notice of the relations which they denote.
 
 But there is no expedient so obvious, as that of varying the termination of one of the principal words.
 
@@ -162,5 +187,3 @@ The difference of termination in the noun adjective is accompanied with no sort 
 But the different relations in which that noun substantive may occasionally stand, can make no sort of difference upon its qualification. 
 
 If the declensions of the ancient languages are so very complex, their conjugations are infinitely more so. And the complexness of the one is founded upon the same principle with that of the other, the difficulty of forming, in the beginnings of language, abstract and general terms.
-
-

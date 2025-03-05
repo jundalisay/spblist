@@ -22,6 +22,13 @@ There are 5 Layers in Reality | Each Layer has a sound
 {{< youtube QzftMDjhV6M >}}
 
 
+<!-- Cartesian Physics is a MODEL based on the aether. Cartesians then make THEORIES within that model. 
+
+Bernoulli used it for pressure. Huygens used it for light. These have been proven. 
+
+Newton and Einstein's Theories are not models.  -->
+
+
 
 The universe is a reality that is made up of waves that can be neatly integrated and categorized into 5 Layers.
 

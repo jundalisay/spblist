@@ -13,6 +13,10 @@ weight: 209
 ---
 
 
+<!-- Venezuela is poor because it chose Marxism. Sweden is rich because it chose Nordic capitalism. It is not because one is federal and the other is not. 
+Venezuela chose federalism because Bolivar’s vision was Gran Colombia which is supposed to be a huge country in North East South America. Sweden did not choose federalism because its population is homogenous (mostly white) and lives in urban centers.  -->
+
+
 
 The DCTI tool can diagnose the economic health of societies according the maxims of Adam Smith. 
 

@@ -53,3 +53,12 @@ Stamp-duties
 Customs duties
 Excise duties
  -->
+
+
+### Solution to Equity bubbles
+
+Instead of using monetary easing and interest rates to drive up the stock market, the proper solution is for the government to buy the failed companies. 
+
+These will then create employment and gain market share. After those companies are back to normal, they can be sold back to the market. 
+
+Keynes' solution is to flood the market with money. This merely recapitalizes those companies. But instead of overhauling their systems, they merely use the money to grow stock price and not the economy.

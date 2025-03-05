@@ -51,16 +51,22 @@ Even if each man could sell himself, he could not his children.*
 {{< n n="This is false, as humans have been known to sell their children" >}}
 
 
-Before they come to years of discretion, the father can, in their name, lay down conditions for their preservation and well-being, but he cannot give them, irrevocably and without conditions: such a gift is contrary to the ends of nature, and exceeds the rights of paternity.
+Before they come to years of discretion, the father can, in their name, lay down conditions for their well-being.
+
+But he cannot give them, irrevocably and without conditions. Such a gift is contrary to the ends of nature, and exceeds the rights of paternity.
 
 
-It would therefore be necessary, in order to legitimise an arbitrary government, that in every generation the people should be in a position to accept or reject it; but, were this so, the government would be no longer arbitrary.
+It would therefore be necessary, in order to legitimise an arbitrary government, that in every generation the people should be in a position to accept or reject it. But if so, then the government would be no longer arbitrary.
 
-To renounce liberty is to renounce being a man, to surrender the rights of humanity and even its duties. For him who renounces everything no indemnity is possible.
+To renounce liberty is to renounce being a man, to surrender the rights of humanity and even its duties. 
 
-Such a renunciation is incompatible with man's nature; to remove all liberty from his will is to remove all morality from his acts.
+For him who renounces everything no indemnity is possible.
 
-Finally, it is an empty and contradictory convention that sets up, on the one side, absolute authority, and, on the other, unlimited obedience. Is it not clear that we can be under no obligation to a person from whom we have the right to exact everything? 
+Such a renunciation is incompatible with man's nature. To remove all liberty from his will is to remove all morality from his acts.
+
+Finally, it is an empty and contradictory convention that sets up, on the one side, absolute authority, and, on the other, unlimited obedience. 
+
+We can be under no obligation to a person from whom we have the right to exact everything.
 
 Does not this condition alone, in the absence of equivalence or exchange, in itself involve the nullity of the act? For what right can my slave have against me, when all that he has belongs to me, and, his right being mine, this right of mine against myself is a phrase devoid of meaning?
 

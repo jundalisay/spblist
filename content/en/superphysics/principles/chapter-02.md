@@ -227,4 +227,28 @@ Level of Mind | Behavior | Layer | Chakra
 3. Mind of the single way | realizes that all worlds are contained in a single thought within mind | Aethereal | Ajna
 2. Mind of ultimate no-self-nature | penetrates all things but still dualistic | Aethereal | Ajna
 1. Secret sublime mind | breaks through duality | Aethereal | Top
+
+wood / air - spacetime  - benevolence - liver??
+water / aether - the most yin. Its motion is downward and inward, and its energy is stillness and conserving. wisdom
+earth / water - patience stability 
+metal / earth - yang
  -->
+
+### The 5 Layers is Atheist Yet Theist
+
+Bacon and Descartes clearly did not believe in a dominating personal God, as proven by Bacon's own essay: 
+
+{{< q a="Bacon" >}}
+"For it is a thousand times more credible, that four mutable elements, and one immutable fifth essence, duly and eternally placed, need no God, than that an army of infinite small portions, or seeds unplaced, should have produced this order and beauty, without a divine marshal"
+{{< /q >}}
+
+The 5 Layers are Atheist in the sense that all layers and particles are 'programmed' and do not need an overseer. 
+
+However, they are Theist in the sense that a program needs a programmer. 
+
+
+This is opposite of the Theist Universe of Isaac Newton:
+
+{{< q a="Newton" >}}
+"This most beautiful system [of the universe] can only come from an intelligent and powerful Being.. This Being governs all things, not as the soul of the universe, but as Lord overall. I call Him Lord God or Universal Ruler"
+{{< /q >}}

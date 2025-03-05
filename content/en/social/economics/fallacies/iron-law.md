@@ -51,3 +51,15 @@ For example, the British government might have protectionist policies for wheat,
 - a collapse of British wheat can be solved by imports of rice and corn
 - a collapse of foreign rice and corn will not affect British food supply so much
 
+
+<!-- Adam Smith said that the differences in wages are due to 5 factors (agreeableness, trust, constancy, risk, cost of learning, ) and 3 states (backward, stationary, advancing). 
+
+In contrast, Ricardo simplistically said that wages are based on the supply and demand of workers and the cost of goods and services which wages are spent on. 
+
+Because of this simplicity, Ricardo concludes that wages must fall (Iron Law of Wages). So he advocates that the poor should not be supported by government, opposite of Malthus who advocated government intervention. 
+
+By deregulating the poor Ricardo says the poor will work and improve productivity to get out of low wages. Malthus says the poor should be controlled so that they don’t become so many in the first place. 
+
+This was fully tested in the Corn Laws and Irish Famine. Malthus’ won in the beginning when the Irish were fed by the government. But in time, they got tired and went Ricardian so they decided to just import food from the US. The World Wars exposed the flaws of Ricardo’s theory when German U-boats nearly starved Britain. So they reversed and went Malthusian with the EU Common Agricultural Policy which put British agriculture under oppressive controls. Eventually the farmers got tired and opted for Ricardo’s laissez faire by pushing Brexit. 
+
+All the while, no one consulted Smith who would’ve gone on the middle path — there would be government intervention to prevent society from going backwards by funding education and reducing risk, but there still would be a lot of freedom in enterprise. This is actually somewhat implemented as the Nordic model.  -->

@@ -72,6 +72,22 @@ Policies based on such slogans lead to the creation of a petit bourgeois class.
 
 
 
+{{< box >}}
+### Superphysics Note
+
+One of the reasons PROUT Principles do not spread is because the first principle starts with a negative. 
+
+"No individual can accumulate any physical wealth without the clear approval of the collective body"
+
+This is not very encouraging. We solve this by making it positive.
+
+"Individuals are free to accumulate physical wealth upon clear approval of the collective body."
+
+Adjusting things according to time, place, and person is an example of being non-dogmatic and non-rigid.
+{{< /box >}}
+
+
+
 ## Agrarian Revolution
 
 In the first phase of agrarian revolution in PROUT, private land ownership within the cooperative system will be recognized.
@@ -123,3 +139,6 @@ date not known
 ## Footnotes
 
 (1) China has approximately eleven percent arable land, whereas India has about eighty-nine percent arable land.
+
+
+<!-- Superphysics thinks that Prout cannot move anywhere because no one has developed or even tested it and so it is merely a blind belief or dogma.  What is happening is other socially-minded people are pushing forward with their own ideas naturally. For example, the Valhalla movement begins with an Earthship as the center of its socioeconomic zone, which is similar to a master unit. Because they are not bound by dogma, they are free to experiment. The downside is that it has no real direction. https://www.youtube.com/watch?v=BTvVabFBekI -->

@@ -291,4 +291,19 @@ electromagentic time for sunrise
 
 sunrise mechanical time
 
-mental time oh its our anivesary -->
+mental time oh its our anivesary 
+
+
+We already KNOW all the mechanisms behind all the Relativity Theories whether from Descartes, Galileo, Newton, Poincare, Mach, or Einstein. 
+
+This is because we already know how the universe works through the 5 Elements. 
+
+The big problem is that materialists don't know how the universe works. This makes them regard Einstein as some genuis instead of some scammer.
+
+This is similar to how investors don't know how blockchain works and so they thought that the FTX founder was some genuis instead of some scammer.
+
+Blockchain then collapsed but merely reconstituted itself because the ignorance was never eliminated. 
+
+This is similar to how the financial system always reconstitutes itself after it collapses after a financial crisis. This is because humans have been taught that its solution, which is barter, is obsolete. And so the solution is never implemented and the scam financial system rebuilds itself with the same junk ideas. 
+
+-->

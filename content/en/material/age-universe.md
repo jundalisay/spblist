@@ -245,4 +245,26 @@ This means that [the speed of the data from those distant galaxies is different 
 
 It follows that those distant galaxies are at **the same age** as current galaxies and so there is no need to change the physics of star-formation.
    
-So with that problem solved, then I assume that physicists do not reject the Big Bang, even if JWST is screaming it to their faces, is because its their best theory and it is better to have a wrong theory than to have no theory at all.  -->
+So with that problem solved, then I assume that physicists do not reject the Big Bang, even if JWST is screaming it to their faces, is because its their best theory and it is better to have a wrong theory than to have no theory at all. 
+
+
+Distant galaxies are considered older because of a mind-bending concept in cosmology called the "look-back time." Here's the reasoning:
+
+Speed of Light: Light travels at a finite speed, roughly 300,000 kilometers per second. This means when we observe a distant object, we are seeing it not as it is now, but as it was when the light left it.
+
+Expanding Universe: The Universe is constantly expanding. As a result, the farther away an object is, the longer it takes for its light to reach us.
+
+Looking Back in Time: Imagine the Universe as an expanding balloon with galaxies like dots on its surface. As the balloon inflates, the dots (galaxies) move further apart. When we look at a very distant galaxy, the light we see has traveled a vast distance, taking billions of years to reach us. So, we are essentially seeing that galaxy as it existed billions of years ago, in a much younger state.
+
+Here's an analogy:
+
+Imagine a historical reenactment happening far away. If you see the light from the event now, it would be like seeing the reenactment happening in the past, even though it's actually occurring now.
+
+Therefore, by observing distant galaxies, we are essentially peering back in time and seeing them at an earlier stage in their evolution. Since the Universe itself is estimated to be around 13.8 billion years old, galaxies farther away must have formed billions of years ago, making them older than galaxies closer to us.
+
+Additional points to consider:
+
+This "look-back time" concept allows astronomers to study how galaxies have changed and evolved over time by observing galaxies at different distances.
+Studying these distant galaxies helps us understand the formation and development of galaxies in the early Universe.
+
+ -->

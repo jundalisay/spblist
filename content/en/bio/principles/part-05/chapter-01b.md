@@ -41,3 +41,7 @@ pre-0 | |
 64-66 | |
 67-69 | |
 
+
+The female body attains maturity at the age of eighteen years, while the male physique attains maturity between twenty-two and twenty-six years of age. No marriage should be performed below these years. The gland secretions are diminished after 39 years in hot countries and 50 years in cold countries and this marks the human beings gradual advancement towards death.
+
+All the human vices are acquired during the age of 5-15 years.

@@ -33,7 +33,7 @@ This creation was done through genetic engineering by mixing parts of the Anunna
 
 ### The Four Races
 
-After some trial and error with the first batches, the Anunnaki finally made the [four proper races](/research/ancient/mayan/popol/part-3/chapter-02/) 
+After some trial and error with the first batches, [the Anunnaki](https://etcsl.orinst.ox.ac.uk/edition2/etcslbycat.php) finally made the [four proper races](/research/ancient/mayan/popol/part-3/chapter-02/) 
 
 
 {{< q a="Popol Vu, Part 3, Chapter 2" >}}

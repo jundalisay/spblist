@@ -213,5 +213,18 @@ Weakness of the Manipura chakra. Weakness of the liver from
 - Hard to digest food
 - Non-vegetarian food
 - Acidic vegetable proteins
-- Rice, wheat flour
+- Rice, wheat flour\
+
+web:
+Diabetes is a chronic condition that affects the way the body processes blood sugar (glucose). There are two main types of diabetes: type 1 and type 2. Here are the causes and symptoms of both types:
+
+Type 1 diabetes:
+Cause: Type 1 diabetes is an autoimmune disease where the immune system attacks and destroys the insulin-producing cells in the pancreas, leading to a lack of insulin.
+Symptoms: Symptoms of type 1 diabetes usually appear suddenly and include increased thirst, frequent urination, extreme hunger, unintended weight loss, fatigue, and blurred vision.
+Type 2 diabetes:
+
+Cause: Type 2 diabetes occurs when the body becomes resistant to insulin or doesn't produce enough insulin to maintain normal blood sugar levels.
+Symptoms: Symptoms of type 2 diabetes may develop gradually and include increased thirst, frequent urination, increased hunger, blurred vision, fatigue, slow healing of wounds, and tingling or numbness in the hands or feet.
+It's important to note that some people with type 2 diabetes may not experience any symptoms initially. That's why it's important to get regular check-ups and blood sugar tests if you're at risk for diabetes.
+
  -->

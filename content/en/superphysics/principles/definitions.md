@@ -12,6 +12,9 @@ aliases:
 ---
 
 
+<!-- A soul is a mind separated from the body or brain. A mind is consciousness in active form made of three parts: ego (Sanskrit aham), mental field (Sanskrit citta) and its object (thought). ‘Cogito ergo sum’ has all three. Plants and animals have all three too and therefore have a soul, but most humans are just unable to put their egos into the ego of a plant or animal to verify this.  -->
+
+
 
 ## Superphysics
 

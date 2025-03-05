@@ -24,6 +24,11 @@ There are 5 Layers in Reality | In the physical body, the layers are called elem
 
 
 
+<!-- Bio Superphysics uses the five elements of Hindu and Taoist Sciences to explain the dynamics of life. These elements manifest as the vortices or chakras in the body which are associated with specific propensities, personalities, and diseases.  -->
+
+{{< youtube yhD-Kb_bRBY >}}
+
+
 
 Bio Superphysics splits up the living organisms into:
 - physical body

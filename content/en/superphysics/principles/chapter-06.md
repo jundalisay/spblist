@@ -168,4 +168,54 @@ With the goal defined, the next step is to explain the mechanism that our moral 
 The holocaust was caused by Nazi ego, not feeling for the Jews
 The Mongol conquest and the resulting Black Death was caused by the ego of the Mongols
 World War I was caused by German ego
-The conquest by Japan in World War II was caused by the ego of the Japanese imperial government -->
+The conquest by Japan in World War II was caused by the ego of the Japanese imperial government
+
+
+
+In our proposed paradigm of Superphyscis, karma is action-reaction.
+
+Past karma is really samskara (potential reaction). 
+
+Samskara is neither good nor bad just as reaction is not good or bad. 
+
+Actions done in physicality take time to manifest their reactions.
+
+For example:
+- pumping lots of CO2 into the atmosphere takes time to produce supertyphoons  
+- depositing $1 a day to a bank account takes a thousand days to produce $1,000 
+- if you insult your classmate at 12 years old, it takes many years for him to exact revenge at you when you, as an adult, start to apply for your dream job where he, unknown to you, is the hiring staff. 
+
+These samskaras are really energy (whether physical or metaphysical) from the first action that did not have time to express itself immediately due to the nature of things. 
+
+So it is pent up energy that is waiting to be expressed, or explode (if the energy is a lot). 
+
+We can physically relieve the pent up energy for the actions mentioned through counter-actions (counterkarma):
+- sequester CO2 from the atmosphere to reduce supertyphoons
+- withdrawing your bank balance so you can use the money now
+- saying sorry to your classmate and treating him out to prove your sincerity
+
+Humans are limited and we cannot keep track of all our actions that have potential side effects. 
+
+So the general metapyhsical solution is to raise your frequency so that:
+
+1. The reaction comes earlier. We can call this a medium-level upgrade that affects spacetime
+
+- In the typhoon analogy, it would be making the typhoon come before it becomes a supertyphoon. 
+- In the deposit analogy, it would be closing the bank account after 500 days instead of 1,000. 
+- In the insult analogy, it would be your 12 year old classmate getting revenge at 17 in a party instead of at 24 at your dream job application.  
+
+2. The reaction becomes irrelevant. We can call this a high-level upgrade that affects the aether
+
+- In the typhoon analogy, it would be moving to a safe place away from the supertyphoon.
+- In the deposit analogy, it would be getting the $1,000 and then having some bills out of nowhere that needs that $1,000. 
+- In the insult analogy, it would be being rejected by your classmate for your dream job that then allowed you to find a better dream job in another company (because of the positive mentality from the upgrade).
+
+
+The metaphysical upgrades are done by mental techniques such as meditation and ideation. 
+
+Meditation is the quieting of the lower or physical mind so that the higher mind can be accessed. 
+- To make meditation more effective, there are techniques such as moral rules for mental purity, diet control, hygiene, sense-withdrawal, yoga poses, etc. 
+
+Ideation is the higher mind imposing an idea on the lower mind, making that lower mind change its shape or mentality to match that idea. 
+- To make ideation more effective, there are techniques such as study of spiritual (high-minded works), concentration, repetition of mantras, etc. 
+ -->

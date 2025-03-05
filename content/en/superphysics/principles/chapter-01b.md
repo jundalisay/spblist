@@ -70,7 +70,13 @@ Mind is substance in which thought immediately inheres.
 
 ## The Superiority of the Metaphysical over the Physical
 
-The subtle waves wrap around and penetrate the cruder waves in order to fill the void. This is why the subtle metaphysical domain is superior to the physical. 
+The subtle waves wrap around and penetrate the cruder waves in order to fill the void. In other words, metaphysical subtle waves can pass through physical crude waves. 
+
+But physical waves cannot pass through subtle ones. This is why speed in our physical reality is limited to 300,000 kilometers per second. It is because the crude physical waves are unable to breach that subtle limitation.
+
+This is why the subtle metaphysical domain is superior to the physical. 
+
+Huge amounts of energy is not needed to breach the physical barrier. Subtletly is needed. 
 
 In some places in the aether, there arises a concentration of waves, as nodes. 
 - The cruder nodes become ideas. 
@@ -90,12 +96,25 @@ The Earth and the other planets are carried along by a common vortex, with the S
 
 The stars and planets are therefore concentrations of crude and subtle waves. 
 
+### The Purpose of Reality and the Illusion of Physicality
 
-A richer perception therefore is made up of multiple waves of disturbance hitting a disturbance that is also more complex than others. 
+The base of Existence is the possibility of having disturbances. Reality is when those disturbances actually occur. 
 
-Having no perception is perceiving no disturbance and therefore no mind. 
+A richer reality-perception therefore is made up of multiple waves of disturbance hitting a disturbance that is also more complex than others. 
 
-Emtpy space has no nodes or few disturbances, while a rich galaxy has a lot of them. 
+Having no perception is perceiving no disturbance and therefore no mind, rather the mind is in potential form. 
+
+Empty space has no nodes or few disturbances, while a rich galaxy has a lot of them. 
+
+The purpose of Existence is to go back to pure Existence where there we no disturbances by getting a flat wave. This means finding the flatness from all the disturbance.
+- The Abolute Entity is flat Existence. 
+- The Supreme Entity is disturbed Existence. 
+
+Our experience of reality is a small portion of all the disturbances in the aether. Physical reality is a crudified version of this aether. 
+
+The distubances are caused by 2 Forces of Positive and Negative. Free will and spirit is associated with the Positive. Determinism and force is associated with the Negative. 
+
+Life is an effect of the Positive Force and is real. It is physical reality that is an illusion. 
 
 
 

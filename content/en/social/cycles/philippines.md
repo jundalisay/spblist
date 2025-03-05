@@ -391,20 +391,16 @@ Strabo says that the northern parts of Spain are ill inhabited because of the gr
 <cite>Essay 11: The Populousness Of Ancient Nations</cite>
 {{< /q >}}
 
-<!--  General Goal: Sustainable Industrialization -->
+
+<!--  ## Openness and Sense of Humor
+
+Filipinos are expressive in their emotions and this manifests as being open and frank about most things (keeping it real). Most commonly, it manifests as the sense of humor but on the negative side, as talkativeness. Its warmth is the opposite of Swedish coolness and Japanese controlled emotions.
+
+Generally, the Filipino family is not so strong or united compared to the Chinese Confucian family. Proof is the prevalence of the barkada or gang of friends.
+-->
 
 
 
-<!-- ## Long Term Goal: Colonization of Mars
-
-Our advocacy for science and math, under the system of Superphysics, is for the exploration of outer space and the colonization of Mars. 
- -->
-
-<!-- 
-## Recapitalize Semi-State-Owned Corporations
-
-According to Adam Smith, public utilities should be state owned because these serve the essential needs of the people.  represent 
- -->
 
 
 ## How It Can Be Implemeted in 5 Phases

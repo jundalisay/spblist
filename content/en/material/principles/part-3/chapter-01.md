@@ -66,3 +66,11 @@ Magnetism takes place in the spatial layer just like gravity, but is facilitated
 
 This unifies magnetism with gravity, allowing Cartesian Relationality on both. 
 
+
+
+Electromagnetism was already known from the time of William Gilbert in 1600. The main difference was that they proposed to derive it from amber and not from copper. This is why Descartes proposed to prove electromagnetism by creating friction from "amber, wax, resin, glass, and similar substances". His magnetic field shows electrons with particle spin as corkscrews. 
+
+Descartes knew that lightning was electricity. His cause for lightning is the sudden shift of light and heavy air masses. This shift causes a spark just like rubbing causes static electricity.  
+
+It's alarming how little people know about all of Physics. They only know from Newton to Einstein which is a very small part of history and the world. Yet somehow, people are proud of that smallness.
+

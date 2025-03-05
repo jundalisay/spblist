@@ -68,4 +68,55 @@ The watery particles, being cold and slow, compose the phlegmatic humor.
 
 7. Pungent (Bone marrow in Bio Superphysics)
 
-These are compact and dense, compose the melancholic humor and the serous particles, which are permeated by the acidic particles, change into acids. -->
+These are compact and dense, compose the melancholic humor and the serous particles, which are permeated by the acidic particles, change into acids. 
+
+
+
+In Treatise on Man, Descartes introduced the concept of animal spirits which is known as chi in China and vayu in India. 
+
+Instead of "life force" or "vital energy", it would be better to call them as "life-waves" in order to match quantum field theory which believes that particles are excitations in an all-pervading field.
+
+Instead of fields, we use the aether substance, which has liquid dynamics.
+
+Instead of excitations, we use vortices, called chakras, which are formed from the intersection of so many waves.
+
+We combine the principles of Descartes, Chinese medicine and Hinduism to explain life. 
+
+It begins when the Supreme Entity has an idea for an organism. 
+
+This creates a metaphysical soul-idea made up of a chain of excitations or vortices in the aether as the 7 chakras (for humans), representing the 5 Elements.
+
+This then transfers to a physical fetus.
+
+These life-waves are the cause of nerve impulses, ideas, and memory.
+
+And so the creation of nerves in the fetus is a sign that it has gotten a soul.  
+
+An organism needs more life-energy in order to grow in size (occupy more space) and to live longer (occupy more time).
+
+A complex organism needs more life-waves for better expression of its soul-idea. 
+
+It gets life-energy from food, which is matter with life-energy. 
+
+It gets life-waves from its own chakras which interface the all-pervading aether just as electrons interface with virtual photons to create magnetism. 
+
+These life-waves go to the brain where they branch out through the nerves, and to the blood where they spread to the body. 
+
+The heart is the powerplant for the life-waves. The brain is the command center. 
+
+The brain has the pineal gland which has the blueprint of the soul-idea. The life-waves get the data from it to code into each DNA as it goes around the body.
+
+Any bodily damage or diesease goes against this blueprint. And so the life-waves instruct the cells to correct such anomalies, leading to the healing process.
+
+
+ and are a more sophisticated kind of prana or aethereal living energy. 
+
+The creation of these spirits begin with digestion when food supplies this initial prana to the heart and lungs. In a fetus, this energy is from the mother's blood. 
+
+The lungs then give more physical energy as oxygen, while the heart gives the aethereal energy from the chakras, as vayus or chi.
+
+
+
+In the Asian sciences, the vayu is a version of prana just as electrocity 
+
+-->

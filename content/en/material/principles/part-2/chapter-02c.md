@@ -17,7 +17,7 @@ We define:
 - "time" as the gap within perceptions in general
 
 
-A perception is new or different from a pervious perception if it has something different in it. So we can say that time is an effect of change.
+A perception is new or different from a pervious perception if it has something different in it. So we can say that time is an effect of change that is perceived by the mind.
 
 
 ### 3 Kinds of Time
@@ -102,13 +102,13 @@ Therefore, our spacetime model makes the unity of space and time easier to under
 - This unity is really the unity of subject and object, or of perceiver and perception.
 
 
-## Time Always Moves Forward
+## ~~Time~~ Cognition Always Moves Forward
 
 Both space and time are products of perception which always moved outward or forward from the **self** as the lower mind. This is why time always moves forward whether externally or internally.
 
 This is because main purpose of the aethereal layer is to facilitate perception. 
 
-A consciousness that moves backwards will be deleting its own mind its its own ideas and feelings.
+**A cognition that flows backwards will be deleting its own mind its its own ideas and feelings.**
 
 {{< img src="/graphics/physics/soul.jpg" alt="The Direction of Perception" cap="Time always moves forward from the perspective of the lower mind." >}}
 
@@ -260,5 +260,20 @@ Kepler | The universe is confined to a fixed firmament | Limited observations | 
 Descartes | Gravity is caused by the aether which creates spinning vortices | Imposing the aethereal layer directly onto the physical layer | The aether is in a separate layer that affects the physical layer indirectly. This leads to the spinning of galaxies and orbital movements | 7/10
 Newton | Gravity comes from mass | No observations of galactic movements | Mass comes from gravity, gravity comes from the aether | 5/10
 Einstein | Gravity comes from mass through the distortions of the spacetime fabric or field | Using light as the measuring rod | Use sound as the measuring rod, in line with Kepler and Pythagoras | 3/10
+
+
+The sequence of falling of dominoes that you call the time dimension is physical time of the physical domain. But the dominoes themselves do not care about any sequence and therefore physical time is irrelevant even to physical dominoes. The dominoes only care that they will stay as dominoes regardless of time. If domino 1 vaporizes upon touching domino 2, then the whole event becomes irrelevant just as if domino 1 vanished by itself -- it would have no physical effect on Domino 2 at all.   
+
+Therefore physical time has no relevance to physical objects.
+
+A human observer, as a metaphysical mind, on the other hand, will physically see the dominoes falling in a sequence of physical time. From here, it will assign reality and importance to physical time. 
+
+This physical time is again made irrelevant, its true form, when the human mind sleeps and physical sensations from the physical brain are temporarily stopped from reaching the metaphysical mind. 
+
+Therefore even metaphysical time has no relevance to a purely metaphysical object like a mind separated from the physical brain.
+
+Thus, both physical and metaphysical time are irrelevant. 
+
+Its relevance only comes from the blending of the metaphysical mind in a physical environment which produces physical sensations in sequence which then creates the vectors that you mentioned.
  -->
 
