@@ -14,16 +14,14 @@ weight: 6
 
 Nuclear fusion is done by heating hydrogen into a plasma as to create energy. This is done in stars, creating natural heat and light.
 
-In our Superphysics paradigm, this plasma is confined by the intense gravitational field from the star's vortex. This allows the hydrogen to get so compressed and confined that it fuses, releasing energy.  
+In our Material Superphysics paradigm, this plasma is confined by the intense gravitational field from the star's vortex. This allows the hydrogen to get so compressed and confined that it fuses, releasing energy.  
 
 Without this confinement, the star would dissipate immediately. And so, **the extreme sustained confinement and compression** are the keys to fusion.
 
-This vortex idea is from the Physics of the aethrealist Rene Descartes, which was rejected by the materialist*  Isaac Newton. 
+This vortex idea is from the Physics of the aethrealist Rene Descartes, which was rejected by the materialist*  Isaac Newton. And so, it never made its way into Modern Physics.
 
 {{< n n="*Newton invested in the stock market and lost most of his wealth. Descartes did not." >}}
  
-
-And so, it never made its way into Modern Physics.
 
 {{< img src="/graphics/physics/vortex.jpg" alt="Vortex" cap="The description of Rene Descartes about star formation matches the findings from modern telescopes. Unlike Newtonian Physics which is matter-based, Cartesian Physics is aether-based, usually manifesting as rotating vortices, helixes, or chakras" >}}
 
@@ -57,7 +55,7 @@ The proper solution is to think one level, or one Element, higher than the probl
 
 The proper confining mechanism, as mentioned earlier, is through gravity via spacetime vortices. This is because spacetime is naturally superior to the Radiant or Electromagnetic Layer or Element* (heat, light, electricity). 
 
-(The true economic solution to price inflation is to use barter, which is on a different level from money. The problem is that people think that barter is obsolete and so they shoot the true solution to financial crises. Likewise, people think that Cartesian vortices are obsolete and so shoot the true solution to fusion, and everyone stays stuck).
+<!-- (The true economic solution to price inflation is to use barter, which is on a different level from money. The problem is that people think that barter is obsolete and so they shoot the true solution to financial crises. Likewise, people think that Cartesian vortices are obsolete and so shoot the true solution to fusion, and everyone stays stuck). -->
 
 {{< n n="*Descartes calls Electromagnetism as the 1st Element" >}}
 
@@ -107,7 +105,7 @@ This has already been done by Buddhist monks who can levitate at will.
 
 ### Active and Passive Anti-Gravity
 
-In this case, they use sound, as a mantra, to manipulate the vortices (chakras) in their body in order to allow qosts to pass through. We call this the passive version. We made this inference after a monk taught us how levitation works -- we combined Buddhist principles with those of Descartes*. 
+In this case, they use sound, as a mantra, to manipulate the vortices (chakras) in their body in order to allow qosts, as chi, to pass through. We call this the passive version. We made this inference after a monk taught us how levitation works -- we combined Buddhist principles with those of Descartes*. 
 
 
 {{< n n="*We couldn't find any modern Western theory for this, so we went backwards to Aristotle, Socrates, Avicenna, etc. until we encountered Cartesian Physics which thankfully had everything that we were looking for.  Rene Descartes saved us **A LOT of time** because he already explained all the basic principles. We just had to build on them and fix some minor mistakes (such as him having only 3 Elements instead of the traditional 5). This made us realize that Einstein was a genius **[scammer](/material/fallacies/scam)** and that is why no one is able to unify General Relativity and Quantum Mechanics." >}}
@@ -118,9 +116,10 @@ An alternative way is to use the qosts directly to propel a mass. In the video b
 
 {{< youtube QdBN3iN6pi4 >}}
 
-{{< img src="/graphics/physics/bob.jpg" alt="Bob Lazar UFO" >}}
 
 This is used by Bob Lazar's UFO design which utilizes 'gravity amplifiers' to emit gravity 'waves' through the ship's bottom. This makes the ship move top-forward towards its destination similar to how the levitator moves in a 'top-up' direction instead of a sideways direction. 
+
+{{< img src="/graphics/physics/bob.jpg" alt="Bob Lazar UFO" >}}
 
 This is in contrast to the passive version where monks can travel sideways by blocking/unblocking the qosts that pass through instead of funneling them.    
 
@@ -246,7 +245,7 @@ So the steps towards sustainable fusion are:
 {{< d t="Update: February 2024" >}}
 We have done baby steps with Step 1 by making a 1 kilogram mass lighter by 2 grams, and a 300 gram mass lighter by 1 gram. But more specialized equipment, which we do not have, is needed to reduce the weight more.
 
-So for now, we switch to more practical and useful Cartesian experiments, such as a [top-down fire setup](https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac/?trackingId=gS8C5O58Ru6A40bi5D2mPA%3D%3D) which might be useful for people who are affected by high gas prices from the War in Ukraine and Gaza. 
+So for now, we switch to more practical and useful Cartesian experiments, such as a [top-down fire setup](https://www.linkedin.com/pulse/combustion-spacetime-particles-end-nuclear-war-juan-dalisay-jr--ri3ac) which might be useful for people who are affected by high gas prices from the War in Ukraine and Gaza. 
 {{< /d >}}
 
 
