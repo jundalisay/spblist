@@ -65,9 +65,11 @@ Hiero acted with great wisdom and prudence when he retained his dominions in Sic
 <cite>Polybius</cite>
 {{< /q >}}
 
-Putin's war in Ukraine is exactly his attempt to preserve the balance of power to secure the existence of Russia. This balance has been alarming for him after NATO destroyed Iraq and Libya, and nearly destroyed Syria had he not interfered. 
+Putin's war in Ukraine is exactly his attempt to preserve the balance of power to secure the existence of Russia. This balance has been alarming for him after NATO destroyed Iraq and Libya, and nearly destroyed Syria had he not interfered*. 
 
-
+{{< d t="Update Dec 2024" >}}
+The fall of Syria to Islamists, indirectly supported by Israel's attacks on Syria, proves that Putin's fears are valid. The current war is really between the 2 Negative Forces as the financial industry (Trader Class) and autocratic leaders (Warrior Class). The Negative Worker Class gets mixed is as populists, along with some Negative Thinker class as Islamists.  
+{{< /d >}}
 
 
 ### The Modern Balance of Liberalism Versus Non-Liberalism
@@ -158,7 +160,7 @@ It clearly has an identity crisis, which we can only trace to the fall of Kiev i
 
 A barabarian would treat such non-surrendering as an affront. He would then deal with it severely. This explains the harsh measures done by the Soviets against Ukraine.  
 
-Instead of acting like its barbarian neighbors, Ukraine was urged on by the love of liberty and wealth which is not common in that part of the world. This violates the Law of Nature, leading to the probelms that afflicts those that go against Nature. 
+Instead of acting like its barbarian neighbors, Ukraine was urged on by the love of liberty and wealth which is not common in that part of the world. This violates the Law of Nature, leading to the problems that afflicts those that go against Nature. 
 
 Two solutions would've nipped the problem at the bud:
 
@@ -227,7 +229,12 @@ If Biden were consistent in wanting to stamp out nonliberalism from the planet, 
 
 
 
-In reality, the West just liberalizes places which have resources to feed its own materialism. This is like a shrewd parent who only supports the children who can bring in money or some benefit eventually. 
+In reality, the West just liberalizes places which have resources to feed its own materialism. This is like a shrewd parent who only supports the children who can bring in money or some benefit eventually.*
+
+{{< d t="Update Feb 2025" >}} 
+This is proven by the victory of Trump under the 'Make America Great Again' MAGA ideology wherein he wants allied countries to pay up. 
+{{< /d >}} 
+
 
 Therefore, democracy is just a cover for greed to spread its tentacles, just as autocracy is a cover for the spread of simple-mindedness.
 

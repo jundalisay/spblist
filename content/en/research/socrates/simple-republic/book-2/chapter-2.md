@@ -153,6 +153,7 @@ They will feed on barley-meal and flour of wheat, baking and kneading them, maki
 These they will serve up on a mat of reeds or on clean leaves, themselves reclining the while upon beds strewn with yew or myrtle.
 
 They and their children will feast, drinking of the wine which they have made, wearing garlands on their heads, and hymning the praises of the gods, in happy converse with one another.
+
 They will take care that their families do not exceed their means; having an eye to poverty or war.
 {{< /l >}}
 

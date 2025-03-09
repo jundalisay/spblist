@@ -48,7 +48,12 @@ The mess left behind by Western policy in Libya, Syria, and Iraq are further pro
 
 ## The Mongol Vision 
 
-We foresee that the military aid to Ukraine will start to be questioned in the West by 2024 as it falls short of expectations. With superior Western weapons, Ukraine might win its tactical objectives. But Russia will keep clawing its way back to mute or nullify those victories. 
+We foresee that the military aid to Ukraine will start to be questioned in the West by 2024 as it falls short of expectations*. With superior Western weapons, Ukraine might win its tactical objectives. But Russia will keep clawing its way back to mute or nullify those victories. 
+
+{{< d t="Update March 2025">}}
+This has actually become true with Trump halting aid to Ukraine. 
+{{< /d >}}
+
 
 This is because Russia has the moral cause, as:
 - self-preservation
@@ -58,15 +63,15 @@ This is similar to North Vietnam engaging in a long war against US-supported Sou
 
 China will then take a more prominent role in the peace negotiations, as well as the reconstruction of Ukraine which will have its eastern part going to Russia. 
 
-After many years, after Ukraine gets accepted into the EU and NATO, the usual problems will arise such as:
+After many years, Western Ukraine gets accepted into the EU and NATO, the usual problems will arise such as:
 - regulatory issues
 - corruption
 - exodus of Ukrainiains, and
-- cultural differences. 
+- cultural differences
 
 Instead of the Western mentality affecting and improving the Slavic mentality, it will be the Slavic spreading onto the Western or Roman mentality.
 
-The greater role of China, as Confucian mentality, and the spread of Slavic culture are consequences of the decline of Western civilzation. We had called this "[The Mongol Vision](/social/cycles/russia)"*. The massacre at Bucha is proof of the Mongol mentality within the soul of Russian society. 
+The greater role of China, as Confucian mentality, and the spread of Slavic culture are consequences of **the decline of Western civilzation**. We had called this "[The Mongol Vision](/social/cycles/russia)"*. The massacre at Bucha is proof of the Mongol mentality within the soul of Russian society. 
 
 
 {{< f f="*The Ukrainians, as the Kievan Rus, made a fatal mistake of not surrendering to the Mongols in 1240. This led to their destruction. The Russians, on the other hand, surrendered. This allowed Russia to survive and be the leader of the Rus. Modern Ukraine had a chance to avoid the mistake that their ancestors made, only to blow that chance in 2014-2022. The root of the problem in Ukraine is that it is a fertile country in a barren neighborhood." >}}
@@ -91,9 +96,29 @@ PBS has a good documentary on the civil war in Ukraine:
 {{< youtube urg1NTAo53k >}}
 
 
+## Update March 2025: The Oval Office Argument
 
+The strategy of Ukraine is to drag other countries into their private conflict with Russia. 
 
-### Recent Ukraine History
+Zelensky used this in the Oval Office in March where he said that the Russian invasion is a problem of the US and that the Americans will feel the problem had it not been separated by an ocean.
+
+Trump then correctly interjects and says "You don't know that. Don't tell us what we're gonna feel. You're in no position to dictate that. You're gambling with World War 3."
+
+Zelensky is using a sophistical argument that Russia's invasion is somehow a part of a big plan to take over Europe and the US and that the invasion of Ukraine is just its first step. 
+
+This is to drag other countries into defending it so that a simple problem between 2 countries becomes the problem of the  whole world. 
+
+But this is absurd since the losses of Russia in taking the Donbass has been so huge. It would need full mobilization, and total support from China and North Korea just to be able to march to the Polish border. The Soviet Army couldn't even win in Afghanistan in 10 years. 
+
+In reality, the Russian invasion of Ukraine is a defensive move of self-preservation to protect non-liberalism after the fall of Iraq, Libya, Gaza, Syria, and threats to Iran.
+
+The best policy would have been for Biden to ban Ukraine from entering the EU and NATO. 
+
+The next best policy would have been for Zelensky's government to exile itself to Poland or somehwhere in the EU. This is in case Russia decides to eradicate Ukrainian culture and language. 
+
+This is similar to how the Dalai Lama is in exile in India to preserve Tibet's traditions after China's invasion in 1950. 
+
+<!-- ### Recent Ukraine History
 
 Year | Event
 --- | ---
@@ -106,3 +131,4 @@ Year | Event
 2004 | Orange Revolution
 2014 | Euromaiden
 2022 | Russian Invasion
+ -->
