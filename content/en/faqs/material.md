@@ -54,7 +54,7 @@ What is the aether? How is it different from the ether of 19th century Physics?
 
 
 {{< l a="Material-Superphysics" >}}
-The 19th century aether is the luminiferous aether of Hugyens which he derived from Descartes. 
+The 19th century aether is the luminiferous aether of Huygens which he derived from Descartes. 
 
 If you actually read his book, he is actually talking about the 2nd Element (spacetime) and not the pure aether. So the luminiferous aether naturally leads to Einstein's spacetime through the Michelson-Morley eperiment. 
 
@@ -212,12 +212,7 @@ A lot. For now, we have listed:
 - Room temperature superconductors through the aether
 - Crystal computers (to overcome Moore's law limitations)
 - Metallurgy and precision metals fabrication through the aether
-- UFO Technology
-  - Anti-gravity (which Descartes calls 'levity') and semi-levity (making things lighter)
-  - Fusion power from levity
-  - Transparency and Teleportation of masses through the aetherspace  
-  - Anti-matter via reversed vortices
-  - Solar eye observatory (getting the gravitational signature of heavenly bodies)
+- UFO Technology as Anti-gravity (which Descartes calls 'levity') and semi-levity (making things lighter), Fusion power from levity, Transparency and Teleportation of masses through the aetherspace, Anti-matter via reversed vortices, Solar eye observatory (getting the gravitational signature of heavenly bodies)
 {{< /l >}}
 
 
