@@ -76,7 +76,9 @@ These sustained reactions manifest as a star's heat and light.
 
 In our 5 Layer model, these spacetime vortices are part of the Spatial Layer, which is superior to the Electromagnetic or Radiant Layer. Their superiority is why they can confine the immense amount of heat and energy produced from fusion.  -->
 
-{{< youtube e7rRQEq9C60 >}}
+<!-- youtube e7rRQEq9C60 -->
+
+{{< youtube ANmq24cJFc0 >}}
 
 
 ## Descartes' Gravity
@@ -123,6 +125,7 @@ This is used by Bob Lazar's UFO design which utilizes 'gravity amplifiers' to em
 
 This is in contrast to the passive version where monks can travel sideways by blocking/unblocking the qosts that pass through instead of funneling them.    
 
+{{< youtube 0dXvYASaIx4 >}}
 
 {{< d t="Note for Future Generations" >}}
 Of course, all of this is just the *mechanistic* explanation of gravity, and not the true *aethereal* explanation of gravitation signatures or svadharma which would be too unrelatable to most people. The true explanation is that gravity is the aethereal link or ratio between identities. But this is too abstract and probably understandable only to Zen Buddhists or Vedantists. So we say instead that it is a pushing force from a vortex to make these dynamic links relatable to people who are used to material pull or push forces coming from high-low pressure differences. 

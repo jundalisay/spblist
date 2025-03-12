@@ -8,21 +8,26 @@ weight: 120
 ---
 
 
-Arithmetic is divided into two parts. The first is based on
-the decimal system of notation and on the manner of arranging
-numeral characters to express numbers. This first part comprises
-the four common operations of addition, subtraction, multipli-
-cation, and division,—operations which, as you know, would be
-different if a different system were adopted, but, which it would
-not be difficult to transform from one system to another, if a
-change of systems were desirable.
-The second part is independent of the system of numeration.
-It is based on the consideration of quantities and on the general
-properties of numbers. The theory of fractions, the theory of
-powers and of roots, the theory of arithmetical and geometrical
-progressions, and, lastly, the theory of logarithms, fall under this
-head. I purpose to advance, here, some remarks on the different
-branches of this part of arithmetic.
+Arithmetic is divided into 2 parts.
+
+1. The first is based on the decimal system and on the manner of arranging numeral characters to express numbers. 
+
+This first part comprises the 4 common operations of addition, subtraction, multiplication, and division.
+
+These operations which would be different if a different system were adopted, but, which it would not be difficult to transform from one system to another, if a change of systems were desirable.
+
+2. The second is based on the consideration of quantities and on the general properties of numbers.
+
+This is independent of the system of numeration.
+
+
+
+The theory of fractions, the theory of powers and of roots, the theory of arithmetical and geometrical
+progressions, and, lastly, the theory of logarithms, fall under this head.
+
+<!-- I purpose to advance, here, some remarks on the different
+branches of this part of arithmetic. -->
+
 It may be regarded as universal arithmetic, having an inti-
 mate affinity to algebra. For, if instead of particularising the
 quantities considered, if instead of assigning them numerically,
