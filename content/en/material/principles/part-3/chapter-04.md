@@ -8,7 +8,7 @@ description: "The substance of radiance are spectra, electricity, and fir"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 13
+weight: 12
 icon: /icons/spmat.png
 ---
 

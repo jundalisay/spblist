@@ -12,7 +12,9 @@ description: "Hertz proposed to supplement Ampere's theory by asserting that the
 
 ## Hertz 
 
-In 1884, however, the theory was established[44] on a different basis by a pupil of Helmholtz', Heinrich Hertz (b. 1857, d. 1894).
+Heinrich Hertz (b. 1857, d. 1894) was a pupil of Helmholtz.
+
+In 1884, he established a differnt theory.
 
 <!-- The train of Hertz' ideas resembles that by which  -->
 
@@ -38,9 +40,13 @@ The magnetic force `H1` is the curl of `a1` while the electric force `E1`, at an
 
 The electric force so produced is assumed indistinguishable from the electric force which would be set up by electrostatic charges. 
 
-Therefore that the system of varying currents exerts ponderomotive forces on electrostatic charges; the principle of action and reaction then requires that electrostatic charges should exert ponderomotive forces on a system of varying currents, and consequently (again appealing to the principle of the unity of electric force) that two systems of varying currents should exert on each other ponderomotive forces due to the variations.
+Therefore that the system of varying currents exerts ponderomotive forces on electrostatic charges; the principle of action and reaction then requires that electrostatic charges should exert ponderomotive forces on a system of varying currents.
 
-But just as Helmholtz,[46] by aid of the principle of conservation of energy, deduced the existence of an electromotive force of induction from the existence of the ponderomotive forces between electric currents (i.e. variable electric systems), so from the existence of ponderomotive forces between variable systems of currents (i.e. variable magnetic systems) we may infer that variations in the rate of change of a variable magnetic system give rise to induced magnetic forces in the surrounding space. 
+Consequently, (again appealing to the principle of the unity of electric force) 2 systems of varying currents should exert on each other ponderomotive forces due to the variations.
+
+Helmholtz,[46] by aid of the conservation of energy, deduced an electromotive force of induction from the ponderomotive forces between electric currents (i.e. variable electric systems).
+
+This means that the ponderomotive forces between variable systems of currents (i.e. variable magnetic systems) lead to  variations in the rate of change of a variable magnetic system leading to induced magnetic forces in the surrounding space. 
 
 The analytical formulae which determine these forces will be of the same kind as in the electric case; so that the induced magnetic force H′ is given by an equation of the form
 

@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 3d"
-title: "Action at a Distance"
+title: "Principle of Least Action or Effort"
 # # date: 2020-01-31
-image: "/graphics/physics/francis.jpg"
-description: "Action at a Distance is possible because there is no void in nature."
+image: "/graphics/physics/action2.jpg"
+description: "The Action of Physics is Effort to Material Superphysics"
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
@@ -13,13 +13,100 @@ icon: /icons/spmat.png
 
 
 
-The Media of the Aether are:
+Material Superphysics is based on Cartesian and Asian Physics which says that energy and forces come from outside that work through the internal configuration of an identity. 
 
-1. Physical Existence
-2. Sounds 
-3. Identities 
+This internal configuration is called the gravitational signature. 
 
-These move everything in the physical and metaphysical domains. These 3 are made up of waves and are not particles. These do not even have size, shape, age, or timespan because they are above the spatial layer. 
+An analogy is:
+- a quantum of identity as a washer
+- a medium is a screw
+
+{{< i s="/graphics/physics/config.png" a="Identities with holes" >}}
+
+The energetic screw fits into the washer transferring the energy to it. This allows the identity to act, as spin. 
+
+This means that all energies come from space which flow into each particle. More energy can be obtained by matching the internal configuration with the desired energy or force external. 
+
+For example, electricity is able to get energy from space around the wire through the presence of electrons which act as a  channel for the virtual photons in space. 
+
+So the sequence is:
+
+1. Identity settles on a configuration 
+2. This configuration allows energy to go through the identity
+3. The energy causes the identity to spin or act based on its nature or layer and sublayer
+
+We call this process as "Effort".
+
+This is the meaning of our equation for everything, which we call the Eagle:
+
+{{< i s="/graphics/super/egl.jpg" a="The Eagle" >}}
+
+
+### Action is Effort
+
+In Physics, the concept of Action is most similar to Effort, which is different from Energy and Force.
+- Energy is the medium before it enters the identity
+- Force is the effect of the effort on the identity
+
+So the sequence is:
+
+1. Energy
+2. Effort
+3. Force (if there is another object to move or be moved, or act on or be acted on)
+
+
+### How Physics Came Up With Action
+
+The concept of action was realized by Descartes from the phenomena of colors. 
+
+Colors are created whenever:
+- light bounces off an object
+- colored light is emitted from an object
+
+For example, a dark room will have all its objects as black. But when you turn on a light bulb:
+- the aetherspace in the atoms of the filament causes light to have a yellow or white color depending on the spin of the electrons
+- the light bouncing off from the objects causes the photons to spin differently, revealing different colors. 
+
+{{< i s="/photos/buy.jpg" a="Store" c="The light bounces off of objects, revealing their color" >}}
+
+
+In this example:
+- the spin of the electron in the light bulb determines the color of the light
+- the spin of the reflected photons determines the color of the object.
+
+Here, the spin dictates colors which is an effort or action of the photon. Light has other efforts or actions:
+- information-carrier as pulses
+- force-carrier as brightness
+- spread as invariance
+
+{{< i s="/graphics/physics/action.jpg" a="Action" >}}
+
+
+Maupertuis denoted this action as `S = mvs`. 
+
+The path that the light will take is then determined as the one that takes the least time. This creates the Principle of Least Action. 
+
+Euler then converts this into integrals, while Lagrange adds multipliers. This creates Lagrangian mechanics.
+
+Unlike F = ma which uses external forces to explain motion, Euler-Lagrange uses internal action or effort.
+
+Descartes calls this **true motion** which is sourced from the relation of an object's action (based on its spin) to the actions of other objects (and their spin). This relation is what we see as force.
+
+- Planck used the energy of light (which is one action) to create Planck's constant. 
+- Einstein used the the invariance of light (another action) to create Relativity.
+- Feynman used probability of path integrals (which is actually the action of the aether instead of light) to create quantum mechanics.
+
+Feynman wrongly used relativistic time (which is an action of light instead of the aether) in path integrals. This created infinities which people tried to solve with Supersymmetry and String Theory. 
+
+Descartes already solved this by adding the aether and its actions. 
+
+But this was unsolved by Einstein who only knew light actions and so he made time an action of light instead of the aether through his scam simultaneity of time. This has set back Physics by over 100 years.
+
+
+
+
+
+<!-- These move everything in the physical and metaphysical domains. These 3 are made up of waves and are not particles. These do not even have size, shape, age, or timespan because they are above the spatial layer. 
 
 Instead, they create movement or non-movement by engaging or disengaging from the perceived waves. This leads to action-at-a-distance, which is the opposite of material contact forces.
 
@@ -29,63 +116,12 @@ Action-at-a-distance is possible because, in the paradign of Descartes, Aristotl
 
 Newtonian Mechanics embraces Democritus' matter-based philosophy which is the opposite that of Descartes. 
 
-{{< q a="Epicurus" >}}
+q a="Epicurus" >}}
 Therefore the first-beginnings are of solid singleness
-{{< /q >}}
+/q >}}
 
 Instead of space being filled:
 - Newton ascribed gravity to an invisible gravitational force coming from matter
 - Einstein ascribed gravity to an invisible spacetime that warps
-
-
-### Action at a Distance through Aethereal Effort
-
-The most natural and historical proof the the aether as a motive force is the levitation of Buddhist monks. 
-- This violates the `F = ma` by Neweton since there is no contact force being applied 
-- This violates Einstein's warping since there is no warping of space above the monk 
-
-<!-- According to Newton's Second Law, net force equals mass times acceleration. This is fine for ordinary things like a ball (mass) which is pushed (force) to start rolling (acceleration).  -->
-
-Assume that a 50 kilogram yogini woman floats and stays up 1 meter off the ground for 10 seconds. 
-
- <!-- consi accelerates 1 meter/second {{< s v="2" >}} without any force? How can `0 = 50 1m/s^2`?    -->
-
-{{< img src="/graphics/physics/francis.jpg" alt="A monk levitating" cap="In Cartesian Physics, dark energy is the constant division of spacetime. Gravity is the relationality of sub-mass to a main mass. In this image, the monk is the sub-mass and the Earth is the main mass. Gravity is the metaphysical elastic band between the two." >}}
-
-To account for this, we modify Newton's `F = ma` into our Eagle as `E::Gl`. 
-
-{{< i s="/graphics/super/egl.jpg" a="The Eagle" >}}
-
-We then convert that Eagle with Cartesian Relationality by splitting the 2 identities apart: 
-
-`1E Woman : 6,371,001 m : 0E Earth`
-
-- E Woman represents the effort of the woman to change its aethereal relation with the Earth 
-- E Earth represents the effort of the Earth to change its aethereal relation with the woman
-- The number in the middle represents the distance between the 2 identities 
-
-
-{{< i s="/graphics/physics/effort.jpg" a="Effort" >}}
-
-
-<!-- A 2D limiter that splits perceptions into seconds will convert `F = ma` on Earth into `Gm^1 [GP second] : Gm^2 [GP second]` based on the Earth's perspective `GP`*
- ![Newton's second law of motion](/graphics/physics/fma.png) -->
-
-The woman changes her distance from the center of the Earth by 1 meter by changing her aethereal relation with the Earth.
-
-Unlike Newtonian contact forces which are applied at the exterior of the body, the aethereal forces are triggered internally. 
-
-<!-- monk `m` in location `x1` floats to location `x2` by successfully changing its state or perspective `Gm` relative to that of the Earth `GP`. The new force, as a **Aethereal Effort**, then results or is derived from the difference between the two states, which may be larger or smaller than the old physical Force.  E = Gm2 [GP second] - Gm1 [GP second] -->
-
-This is the same principle used by the UFO as mentioned by Bob Lazar which we assume can levitate 100 meters off the ground with 1 unit of Effort.
-
-`1E UFO : 6,371,100 m : 0E Earth`
-
-The main difference between the woman and the UFO is that the woman uses chi, as the spatial strata in Bio SUperphysics, whereas the UFO uses the aetherspace which Bob Lazar calls Gravity-A waves. The Effort of the UFO is really the harnessing and increase of this aetherspace to violate or re-render the spacetime slices that it is in
-
-<!-- Thus, it took 1 unit of effort to levitate 1 meter/second^2 with zero physical force. 
-
-Note that this quantified effort is relevant only to the monk himself and cannot be used for comparison with the effort of other monks. It can only be compared to the past and future effort of that monk, where he compares himself with himself since the effort is metaphysical and bound to his own mind*.
-
-{{< n n="*His mind is necessarily attached to his body which he moves by this kind of effort, without any force." >}}
  -->
+

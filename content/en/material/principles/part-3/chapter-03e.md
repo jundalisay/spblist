@@ -4,7 +4,7 @@ linkTitle: Heat
 title: "Heat: Entropy as Deconcentration"
 # date: 2023-03-01
 date: 2024-12-29
-weight: 12
+weight: 10
 draft: true
 description: "Magnetism is facilitated by virtual photons which have a columnar shape"
 image: /graphics/physics/vmagnet.jpg

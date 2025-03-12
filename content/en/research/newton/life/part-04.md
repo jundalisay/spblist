@@ -8,7 +8,6 @@ date: 2024-12-02
 ---
 
 
-
 When he was attending a meeting of the Royal Society in June 1682, the conversation fell upon the subject of the 
 
 
@@ -108,4 +107,14 @@ From these principles, Book 3 is deduced as Of the System of the World written i
 
 "I had composed the third Book in a popular method, that it might be read by many. 
 
-But afterwards, considering that such as had not sufficently entered into the principles could not easily discover the strength of the consequences, nor lay aside the prejudices to which they had been many years accustomed, therefore, to prevent disputes which might be raised upon such accounts, I chose to reduce the substance of this Book into the form of Propositions (in the mathematical way), which should be read by those only who had first made themselves masters of the principles established in the preceding Books: not that I would advise any one to the previous study of every Proposition of those Books."—"It is enough it one carefully reads the Definitions, the Laws of Motion, and the three first Sections of the first Book. He may then pass on to this Book, and consult such of the remaining Propositions of the first two Books, as the references in this, and his occasions shall require." So that "The System of the World" is composed both "in a popular method," and in the form of mathematical Propositions.
+But afterwards, considering that such as had not sufficently entered into the principles could not easily discover the strength of the consequences, nor lay aside the prejudices to which they had been many years accustomed, therefore, to prevent disputes which might be raised upon such accounts,
+
+So I chose to write the book as as mathematical Propositions. These should be read by those who had mastered the principles in the preceding Books.
+
+ <!-- not that I would advise any one to the previous study of every Proposition of those Books." -->
+
+One umust read the Definitions, the Laws of Motion, and the first 3 Sections of Book 1. 
+
+He may then pass on to Book 3. He can consult the remaining Propositions of Book 1 and 2. 
+
+"The System of the World" is written "in a popular method" and  as mathematical Propositions.

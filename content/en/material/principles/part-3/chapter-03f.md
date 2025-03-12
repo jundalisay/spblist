@@ -5,7 +5,7 @@ title: "Electromagnetism or Vortex Magnetism"
 linkTitle: Electromagnetism
 # date: 2023-03-01
 date: 2024-12-29
-weight: 12
+weight: 11
 draft: true
 description: "Magnetism is facilitated by virtual photons which have a columnar shape"
 image: /graphics/physics/vmagnet.jpg

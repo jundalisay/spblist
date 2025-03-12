@@ -1,10 +1,10 @@
 ---
-heading: "Chapter 6"
-title: "The Conservation of Idea or Identity"
+heading: "Chapter 6b"
+title: "The Principle of Least Action or Effort"
 # date: 2024-08-01
-weight: 40
-image: /graphics/physics/layers.png
-description: "Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe"
+weight: 42
+image: /graphics/physics/action.jpg
+description: "The Principle of Least Action or Effort"
 icon: /icons/spmat.png
 writer:
   name: Juan

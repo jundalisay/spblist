@@ -25,7 +25,10 @@ But 6 or 7 years after its first publication, he came across a work purporting t
 
 Franklin tells us in his Autobiography:
 
-"Nollet could not at first believe that such a work came from America. He said it must have been fabricated by his enemies at Paris to decry his system. After he was assured that  Franklin did do it at Philadelphia, he published a volume of letters, chiefly addressed to me, defending his theory. He denied the verity of my experiments, and of the positions deduced from them."
+{{< q a="Franklin" >}}
+Nollet could not at first believe that such a work came from America. He said it must have been fabricated by his enemies at Paris to decry his system. After he was assured that  Franklin did do it at Philadelphia, he published a volume of letters, chiefly addressed to me, defending his theory. He denied the verity of my experiments, and of the positions deduced from them.
+{{< /q >}}
+
 
 <!-- We must now trace the events which led up to the discovery which so perturbed Nollet. -->
 
@@ -71,5 +74,7 @@ Some curiosity will naturally be felt as to the considerations which induced Fra
 
 They seem to have been founded on a comparison of the brush discharges from conductors charged with the two electricities; when the electricity was resinous, the discharge was observed to spread over the surface of the opposite conductor "as if it flowed from it." 
 
-If a Leyden jar whose inner coating is electrified vitreously is discharged silently by a conductor, of whose pointed ends one is near the knob and the other near the outer coating, the point which is near the knob is seen in the dark to be illuminated with a star or globule, while the point which is near the outer coating is illuminated with a pencil of rays; which suggested to Franklin that the electric fluid, going from the inside to the outside of the jar, enters at the former point and issues from the latter. And yet again, in some cases the flame of a wax taper is blown away from a brass ball which is discharging vitreous electricity, and towards one which is discharging resinous electricity. But Franklin remarks that the interpretation of these observations is somewhat conjectural, and that whether vitreous or resinous electricity is the actual electric fluid is not certainly known.
+If a Leyden jar whose inner coating is electrified vitreously is discharged silently by a conductor, of whose pointed ends one is near the knob and the other near the outer coating, the point which is near the knob is seen in the dark to be illuminated with a star or globule, while the point which is near the outer coating is illuminated with a pencil of rays; which suggested to Franklin that the electric fluid, going from the inside to the outside of the jar, enters at the former point and issues from the latter. 
+
+And yet again, in some cases the flame of a wax taper is blown away from a brass ball which is discharging vitreous electricity, and towards one which is discharging resinous electricity. But Franklin remarks that the interpretation of these observations is somewhat conjectural, and that whether vitreous or resinous electricity is the actual electric fluid is not certainly known.
 

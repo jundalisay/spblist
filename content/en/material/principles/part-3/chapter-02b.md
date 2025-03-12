@@ -8,7 +8,7 @@ description: "The Inter-Radiant Boundary is known as the Higgs Field in Modern P
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 7
+weight: 4
 icon: /icons/spmat.png
 toc: false
 draft: true

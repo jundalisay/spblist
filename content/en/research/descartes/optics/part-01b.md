@@ -95,7 +95,7 @@ When the inequality of its motion is only in them being bent in various ways, th
 
 #### Refraction as Bending
 
-But the surfaces can also cause them to gain a circular motion in varous proportions. 
+But the surfaces can also cause them to gain a circular motion in various proportions. 
 
  <!-- it can also consist in several other things and, by this means, cause these balls, if they have previously had only a simple straight motion, to lose part of it, and acquire instead a circular one, which can have various proportions with what they retain of the straight one, according to the way in which the surface of the body which they encounter can be variously arranged.  -->
 
@@ -140,7 +140,9 @@ The rays, which fall on bodies that are colored and not polished, are usually re
 
 {{< img src="/graphics/physics/torch.jpg" alt="Torch" >}}
 
-For example, light that falls on the surface of the white body `AB` come only from the torch `C`. They reflect so much on all sides that, wherever the eye is placed, as for example towards `D`, there are always several coming from each part of this surface `AB`, tending towards it.
+For example, light that falls on the white body `AB` come only from the torch `C`.
+
+The light reflects on all sides. Wherever the eye is placed, light comes from this surface `AB` towards it, such as when it is at `D`.
 
 If `AB` is very thin like paper, the light passes through it. If the eye is at `E`, then the paper will still reflect some of the light to `E`.
 

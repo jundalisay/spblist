@@ -21,7 +21,9 @@ The permanence of magnets was accounted for by supposing the fluid to be entangl
 
 Subsequently two imponderable magnetic fluids, to which the names boreal and austral were assigned, were postulated by the Hollander Anton Brugmans (b. 1732, d. 1789) and by Wilcke. These fluids were supposed to have properties of mutual attraction and repulsion similar to those possessed by vitreous and resinous electricity.
 
-The writer who next claims our attention for his services both to magnetism and to electricity is the French physicist, Charles Augustin Coulomb[68] (b. 1736, d. 1806). By aid of the torsion-balance, which was independently invented by Michell and himself, he verified in 1785 Priestley's fundamental law that the repulsive force between two small globes charged with the same kind of electricity is in the inverse ratio of the square of the distance of their centres. In the second memoir he extended this law to the attraction of opposite electricities.
+The writer who next claims our attention for his services both to magnetism and to electricity is the French physicist, Charles Augustin Coulomb[68] (b. 1736, d. 1806). 
+
+By aid of the torsion-balance, which was independently invented by Michell and himself, he verified in 1785 Priestley's fundamental law that the repulsive force between two small globes charged with the same kind of electricity is in the inverse ratio of the square of the distance of their centres. In the second memoir he extended this law to the attraction of opposite electricities.
 
 Coulomb did not accept the one-fluid theory of Franklin, Aepinus, and Cavendish, but preferred a rival hypothesis which had been proposed in 1759 by Robert Symmer.[69] 
 

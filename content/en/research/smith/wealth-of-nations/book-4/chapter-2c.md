@@ -202,16 +202,20 @@ Yet it continues to prosper despite of them and not because of them.
 {{< s v="38" >}} It may be deliberated how proper it is to continue the free importation of certain foreign goods, when a foreign nation restrains their importation of some of our manufactures by high duties or prohibitions.
 
 In this case, revenge naturally dictates retaliation.
-It dictates that we should impose the like duties and prohibitions on our importation of their manufactures.
-Nations seldom fail to retaliate in this way.
+
+<!-- It dictates that we should impose the like duties and prohibitions on our importation of their manufactures.
+Nations seldom fail to retaliate in this way. -->
+
 The French openly favoured their own manufactures by restraining the importation of foreign goods that compete with them.
 
 This was most of Mr. Colbert's policy.
 
-Despite his great abilities, he seems to have been imposed upon by the sophistry of merchants and manufacturers..
+Despite his great abilities, he seems to have been imposed upon by the sophistry of merchants and manufacturers.
 
 Most French intellectuals think that his policies were not beneficial to France.
+
 He imposed very high duties on many foreign manufactures through the tariff of 1667.
+
 He refused to moderate them in favour of the Dutch.
 
 In 1671, the Dutch banned the importation of French wines, brandies, and manufactures.
@@ -227,28 +231,32 @@ However, the French set the first example.
 The hostility between the two nations ever since has hindered them from being moderated on either side.
 
 In 1697, the English banned the importation of bonelace from Belgium.
+
 At that time, the government of Belgium was under Spain.
 
 In return, it banned the importation of English woollens.
 
 In 1700, the ban on bonelace imports into England was removed on condition that the English woollens importation into Belgium should be restored.
 
+
 {{< s v="39" >}} There may be good policy in retaliations of this kind, when there is a chance that they will repeal the high duties or prohibitions by other countries.
 
 The recovery of a great foreign market will more than compensate the temporary inconvenience of paying dearer for those goods in a short time.
 
 Perhaps judging whether such retaliations will produce a good effect does not belong to the science of a legislator.
-The legislator's deliberations should be governed by unchanging principles.
+- The legislator's deliberations should be governed by unchanging principles.
 
 It also does not belong to the skill of the insidious and crafty politician.
-His councils are directed by the fluctuations of affairs.
+- His councils are directed by the fluctuations of affairs.
 
 When there is no chance of any such repeal, it seems a bad method of compensating the injury done to our people to do another injury ourselves.
 
 When our neighbours ban our products, we generally ban more of their products.
+
 Banning the same products would seldom affect our neighbours very much.
 
 This may give encouragement to some of our workers.
+
 By excluding some of their rivals, our workers might raise their price in the home-market.
 
 Those workers who suffered by our neighbour's ban will not be benefited by our ban on foreign goods.

@@ -18,15 +18,16 @@ writer:
 These interrupt France's interior commerce.
 
 Some provinces are allowed to compound for the gabelle or salt-tax.
-Others are exempted from it altogether.
+- Others are exempted from it altogether.
 
 Some provinces are exempted from the exclusive sale of tobacco
 
-The farmers-general enjoy this exemption through most of France.
-The aides correspond to our excise.
+The farmers-general enjoy this exemption through most of France. 
+- The aides correspond to our excise.
 
 These are very different in different provinces.
-Some provinces are exempted from them, and pay a composition or equivalent.
+- Some provinces are exempted from them, and pay a composition or equivalent.
+
 
 In provinces where they are collected, there are many local duties which do not extend beyond a particular town or district.
 
@@ -37,17 +38,23 @@ These divide France into 3 great parts:
 1. The provinces subject to the tariff of 1664 or the provinces of the five great farms
 
 These include Picardy, Normandy, and most of France's interior provinces.
+
 The five great farms are called such because the ancient customs duties were divided into five big branches.
+
 Each branch was the subject of a particular farm, though they are all united as one.
+
 
 2. The provinces subject to the tariff of 1667 or the provinces reckoned foreign
 
 These include most of the frontier provinces
 
+
 3. The provinces treated as foreign
 
 These can have a free commerce with foreign countries.
+
 In their commerce with other French provinces, they are subject to the same duties as foreign countries.
+
 These include Alsace, the three bishoprics of Metz, Toul, and Verdun, and the three cities of Dunkirk, Bayonne, and Marseilles.
 
 There are many duties confined to a particular town of the provinces of:
@@ -62,7 +69,9 @@ Some of such duties are even in foreign-treated provinces, particularly in Marse
 {{< s v="216" >}} Wine is perhaps the most important produce of France after corn.
 
 In most provinces, wine is subject to particular restraints, over and above the general restraints from its complicated tax system.
+
 These particular restraints arise from the favour shown to the vineyards of particular provinces over those of others.
+
 The fewest particular restraints are given to the provinces most famous for their wines.
 
 The extensive market which such provinces enjoy, encourages good management in:
@@ -73,12 +82,14 @@ The extensive market which such provinces enjoy, encourages good management in:
 {{< s v="217" >}} Such various and complicated revenue laws are not peculiar to France.
 
 The little duchy of Milan is divided into six provinces.
+
 Each province has a different tax system for different kinds of consumable goods.
 
 Smaller territories of the Duke of Parma are divided into three or four.
 Each territory also has a system of its own.
 
 Under such absurd management, only the great soil fertility and happy climate could preserve such countries from relapsing into poverty and barbarism.
+
 
 {{< s v="218" >}} Taxes on consumable commodities may be levied by: 
 - the government directly,

@@ -1,104 +1,94 @@
 ---
-heading: "Chapter 4d"
-linkTitle: Fire
-title: "Fire and Combustion Through Heat Particles"
-# date: 2024-02-13
-image: /graphics/physics/friction.jpg
-description: "Fire is part of the Radiant Element and is ignited from matter whenever qosts are ejected from matter instantly in large amounts"
+heading: "Chapter 4c"
+title: "Electricity"
+# date: 2023-11-10
+weight: 15
+image: /photos/physics/light.jpg
+description: "Electricity is the main substance of radiance"
+icon: /icons/spmat.png
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-weight: 16
-icon: /icons/spmat.png
 ---
 
 
+In Superphysics, we call electricity as electric-fluid in reference to the liquid nature of spacetime and the aether.
 
-### How Fire Forms
-
-Fire is the 3rd substance of radiance. It is ignited from matter whenever qosts are ejected from matter instantly in large amounts.
-
-This forces the mixture to have 2 factors only:
-
-1. mom
-2. sor3
-
-Fire begins when the ratio of the latter becomes superior to the other. 
-- The mom then submits to the sor3 by burning (i.e. taking on the movement of the sor3).
-
-Flammable and fissile materials therefore naturally have a high ratio of sor3 relative to mom.
-
-For example:
-- A flammable thing burns when the sun's rays are focused on it through a glass or mirror. This increases the thing's sor3 ratio relative to mom and qost.
-- Striking a flint or volcanic rock creates sparks because it already has few qosts on their surfaces
-- Dry leaves burn better than fresh leaves because they have less channels for the qosts 
-
-Striking wood does not create fire because wood still has a lot of qosts.
-
-Rubbing woods aggresively eliminates the qosts quickly, increasing the ratio of sor3 over mom. This creates heat by liberating heat particles.
-
-{{< i s="/graphics/physics/friction.jpg" a="Heat Particles" c="Rene Descartes visualized how friction liberates heat and light particles called the 1st ELement. Here we superimpose our updated version using the Law of Conservation of Aether" >}}
+This is the main substance of radiance as it is responsible for many phenomena associated with the Radiant Layer.
 
 
-Thus, there are 2 general ways to create fire from matter.
+### Coulomb's Law: Netwon's G in Radiance
 
-1. Reducing the qost space particles in matter
+Augustin de Coulomb first did experiments with electricity using a torsion balance in 1834. It showed that the magnetic force* between 2 charged spheres was affected by:
+- the amount of charge in the spheres
+- the distance between them 
 
-This is done through constant friction or sudden compression. 
+{{< n n="We call it magnetic force under Cartesian Physics because our basis for magnetism is the virtual photon which only acts on male and female charges" >}}
 
-Rapid compression is seen in "fire piston" experiments wherein a piece of cotton in a glass tube is ignited by compressing the cotton rapidly.
+This is consistent with the inverse square law for gravity and light:
+- Gravity is the spread of displaced space particles
+- Light is the spread of photons
+- Magnetic attraction and repulsion is from the flow of virtual photons 
 
-Physicists claim that the ignition is caused by the air being compressed, which then generates heat. This error of this is exposed in slow motion videos of the fire piston which clearly shows the fire starting more commonly at the bottom of the cotton, the part with the most compression.
-
-Space has the inverse ratio to time. This is why the speed of the compression has to be unified and as instantaneous as possible (i.e. use up a lot of space for the least amount of time).
-
-In everyday life, this principle is used in diesel engines wherein a piston compresses the diesel vapors to create explosions without the need for a spark (addition of sor3).
-
-
-2. Increase the sor3 heat particles in Matter
-
-Another way is to increase the heat directly in matter. Our earlier example was that of sunlight heating a flammable object, like wood.
-
-In nuclear fission, the increase is done through enrichment wherein fissile Uranium-235 is separated from non-fissile Uranium-238 through a centrifuge. 
-
-We can say that Uranium-235 is more fissile because it has less neutrons (soc in Superphysics) and therefore has a better fire-earth ratio. 
+This is why we can regard Coulomb's Law as Netwon's `G` in the Radiant Layer.
 
 
-### Suppressing Fire By Adding Qosts
+### Conductors and Insulators
 
-Since the ejection of spacetime particles in flammable materials is one of the two mechanisms for heat and explosions, then it follows that the addition of space particles will retard or extinguish fire. 
+The main mechanism for electricity, magnetism, and light transparency require channels.
+- Conductors are materials that have these channels
+- Insulators are materials that do not have them
 
-The most common way to add qosts is by adding water to a flame.
+{{< i s="/graphics/physics/vmagnet.jpg" a="Magnet" >}}
 
-This is because water is always surrounded by space particles. 
+Electricity happens when there is a flow of eletrons from space that has many electrons (high volume) to a space that has few electrons. This is because the electrons, as the nature of the Radiant particles, try to fill up all the void. 
 
-In fact, it is space that makes water droplets round. So, adding water to a flame necessarily adds the space particles that goes with it. 
+This is also why light spreads in a 360 degree sphere from the source to fill all spaces as quickly as possible.  
 
-Another way to add space is seen in sonic fire extinguishers which use a low frequency of 30-60 Hertz to put out flames. 
-- This is because sound is a property of the pure aether, which is superior to the spatial layer. 
-
-
-#### Experiment
-
-On a flame, we pass dried fig twigs (control) and fig twigs compressed by hammering (variable) to see which ones will light more easily and can stay lit longer. 
-
-We find that the compressed ones do. This matches the findings of Hometown Acres. 
-
-We then pass the flame through 3 speakers to see which one can extinguish it:
-- 60Hz
-- 300Hz
-- 600Hz
-
-We find that the 60Hz extinguishes it, corroborating the experiment by Robertson and Tran. 
+current is charge amount (quantity)
+voltage is energy per charge (quality)
+power is quality and quantity 
 
 
-### Using Superphysics to Disable Nuclear War 
 
-Superphysics uses the principles of Nature to solve both small and big problems. One of the biggest problems regarding explosions is the one from nuclear weapons.
+### Electrical Energy Comes from Virtual Photons, Not Electrons
 
-In theory, the imposition or rapid addition of spacetime particles can disable a nuclear chain reaction just as sound can extinguish a fire. This could be tested first in nuclear reactors and then in nuclear explosions. 
+A common misconception is that electrical energy comes from electrons. People think that a light bulb is powered by the electrons from the battery or powerplant. 
+
+In reality, the energy comes from the virtual photons that exist just outside the lightbulb. 
+
+These virtual photons need a channel to transfer and focus their energy to be converted into motion, heat, or light.  
+
+These channels are provided by the electrons that flow through the wire. 
+
+A generator or battery gathers a lot of electrons, compressing them. These then naturally flow to a wire which has less electrons. 
+- In chemistry, this is called oxidation.
 
 
-If successful, the technology could be the last and cheapest line of defense against nuclear warheads, since interceptors like the THAAD cost from $800m to over $1b per battery. 
+This flow creates a channel needed by the surrounding virtual photons which then spins the electrons as they travel through the wire as electricity. 
 
-At the terminal phase of warhead entry, the target can be identified and the solution can be deployed on the location, ready to anticipate the nuclear reaction. 
+{{< i s="/graphics/physics/poynting.jpg" a="Electricity" >}}
+
+
+
+The electricity passes through the filament of the light bulb which then seprates the 3D virtual photons into 3D heat and 2D light particles out of the electricity, releasing them into the vacuum tube. 
+
+The electrons lose energy and are no longer compressed. This prevents them from creating channels to get more virtual photons. 
+- In a DC circuit, the electrons flow 1-way and are reduced at the end to let keep the electrons flowing
+- In an AC circuit, they flow back an forth, like a larger 2-way freight train.    
+
+As we can see, the DC battery and AC generator do not supply the energy. 
+- Instead, they supply the freight trains that get the energy from space and crudify them for physical purposes. 
+
+  energy onstead, all the energy is already in the field. The battery merely supplies the way to harvest that energy.
+
+
+## Free Energy From Spacetime
+
+The proper configuration of electrons to harness the virtual photons from space is the key to electricity and therefore free energy. 
+
+Nikola Tesla knew that space had infinite energy and is why he tried to develop free energy generation and wireless power transmission. But he didn’t know Cartesian Physics and how to harvest those energies
+
+<!-- - Electrical interactions
+- Electric Field and Field Lines
+- Gauss Law  -->

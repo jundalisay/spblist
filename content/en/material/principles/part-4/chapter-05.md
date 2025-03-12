@@ -82,3 +82,11 @@ An advanced alien species might create a Dyson sphere, not to harvest energy fro
 
 This would make sense if the species has already spread to the habitable planets and moons in that system. This would reduce the uncertainty in that solar system and make life more stable for all. 
 
+<!-- 1930 neutrino. 
+
+A neutrino goes through matter because it is very small and flexible. This allows it to go with the aetherspace and pass through, staying unnoticed. 
+
+The spacetime around liquids are also flexible 
+
+The Pauli Exclusion 
+ -->

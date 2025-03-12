@@ -23,23 +23,28 @@ Five months later, this hypothesis was adopted by Lorentz and was generally acce
 
 Let us first see how it explains Michelson's result. On the supposition that the aether is motionless, 
 
-One of the two portions of the divided beam of light completes its journey in less time than the other by w2l/c2:
+One of the 2 portions of the divided beam of light completes its journey in less time than the other by `w2l/c2`:
 - w is the velocity of the earth
 - c the velocity of light
 - l the length of each arm. 
 
-This would be exactly compensated if the arm which is pointed in the direction of the terrestrial motion were shorter than the other by an amount w2l/2c2; as would be the case if the linear dimensions of moving bodies were always contracted in the direction of their motion in the ratio of (1 - w2/2c2) to unity. This is FitzGerald's hypothesis of contraction. 
+This would be exactly compensated if the arm which is pointed in the direction of the terrestrial motion were shorter than the other by an amount `w2l/2c2`.
+- This would be the case if the linear dimensions of moving bodies were always contracted in the direction of their motion in the ratio of `(1 - w2/2c2)`` to unity.
+- This is FitzGerald's hypothesis of contraction. 
 
 Since for the earth the ratio w/c is only
 
-30
+...
+
+<!-- 30
 km./sec.
 300
 ,
 000
 km./sec.
 ,
-{\displaystyle {\frac {30{\text{km./sec.}}}{300,000{\text{km./sec.}}}},}
+{\displaystyle {\frac {30{\text{km./sec.}}}{300,000{\text{km./sec.}}}},} -->
+
 
 the fraction w2/c2 is only one hundred-millionth.
 

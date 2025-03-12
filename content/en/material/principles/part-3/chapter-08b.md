@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8"
+heading: "Chapter 8b"
 title: "Particle Spin: Rotation Orientation"
 date: 2024-12-28
 image: /photos/physics/whitehole.jpg

@@ -39,12 +39,19 @@ This is communicated to the Atmosphere above-mentioned. Therefore, that Atmosphe
 
 The English translator of s'Gravesando's work played a considerable part in the history of electrical science. 
 
-Jean Théophile Desaguliers (b. 1683, d. 1744) was an Englishman only by adoption. His father had been a Huguenot pastor who escaped France after the revocation of the Edict of Nantes. He brought away the boy from La Rochelle concealed in a tub. 
+Jean Théophile Desaguliers (b. 1683, d. 1744) was an Englishman only by adoption. 
 
-The young Desaguliers was afterwards ordained, and became chaplain to that Duke of Chandos who was so ungratefully ridiculed by Lope. 
-- He formed friendships with some of the natural philosophers of the capital such as Stephen Gray, an experimenter and pensioner of the Charterhouse of whom little is known.
+<!-- His father had been a Huguenot pastor who escaped France after the revocation of the Edict of Nantes. He brought away the boy from La Rochelle concealed in a tub. 
 
-In 1729, Gray wrote to Dr. Desaguliers his recent discovery "that the Electrick Vertue of a Glass Tube may be conveyed to  other Bodies so as to give them the same Property of attracting and repelling light Bodies when excited by rubbing. This attractive Vertue might be carried to Bodies that were many Feet distant from the Tube."
+The young Desaguliers was afterwards ordained, and became chaplain to that Duke of Chandos who was so ungratefully ridiculed by Lope.  -->
+
+He made friends with some of the natural philosophers of the capital such as Stephen Gray, an experimenter and pensioner of the Charterhouse of whom little is known.
+
+In 1729, Gray wrote to Dr. Desaguliers his recent discovery:
+
+{{< q a="Gray" >}}
+The Electrick Vertue of a Glass Tube may be conveyed to  other Bodies so as to give them the same Property of attracting and repelling light Bodies when excited by rubbing. This attractive Vertue might be carried to Bodies that were many Feet distant from the Tube.
+{{< /q >}}
 
 This was very important. Previous workers had known of no other way of producing the attractive emanations than by rubbing the body.[21]
 
@@ -78,9 +85,18 @@ Thus while heat is disseminated throughout the substance of a body, the electric
 
 In the mid-18th century it was generally compared to an enveloping atmosphere. 
 
-“The electricity which a non-electric of great length (for example, a hempen string 800 or 900 feet long) "receives, runs from one end to the other in a sphere of electrical Effluvia," says Desaguliers in 1740[25] and a report of the French Academy in 1733 says:[26] 
+
+{{< q a="Desaguliers" >}}
+The electricity which a non-electric of great length (for example, a hempen string 800 or 900 feet long) receives, runs from one end to the other in a sphere of electrical Effluvia
+{{< /q >}}
+
+ <!-- says  in 1740[25] and  -->
+
+A report of the French Academy in 1733 says:[26] 
+
 
 "Around an electrified body there is formed a vortex of exceedingly fine matter in a state of agitation, which urges towards the body such light substances as lie within its sphere of activity. The existence of this vortex is more than a mere conjecture; for when an electrified body is brought close to the face it causes a sensation like that of encountering a cobweb."[27]
+
 
 The report from which this is quoted was prepared in connexion with the discoveries of Charles-François du Fay (b. 1698, d. 1739), superintendent of gardens to the King of France. 
 

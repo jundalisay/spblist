@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 8c"
+heading: "Chapter 9b"
 title: "The Hall Effect"
 date: 2024-12-28
 image: /photos/physics/whitehole.jpg

@@ -18,17 +18,23 @@ But 2 years later[57], he showed that stability was ensured at any rate when spa
 
 FitzGerald[58] subsequently determined the energy per unit-volume in a turbulent liquid which is transmitting laminar waves. Writing for brevity
 
+...
 
 the equations are
 
+...
 
 If the quantity
 
+...
 
 is integrated throughout space, and the variations of the integral with respect to time are determined, it is found that
 
+...
+
 Integrating the second term under the integral by parts, and omitting the superficial terms (which may be at infinity, or wherever energy enters the space under consideration), we have
 
+...
 
 Hence it appears that the quantity Σ, which is of the dimensions of energy, must be proportional to the energy per unit-volume of the medium—a result which shows that there is a pronounced similarity between the dynamics of a vortex-sponge and of Maxwell's elastic aether.
 
@@ -42,7 +48,7 @@ In each of the six adjoining elements the motion is similar to this, but in the 
 
 The rotational motion in the elements confers on them the power of resisting distortion, so that waves may be propagated through the medium as through an elastic solid; but the rotations are without effect on irrotational motions of the fluid, provided the velocities in the irrotational motion are slow compared with the velocity of propagation of distortional vibrations.
 
-A different model was described four years later by FitzGerald.[60] 
+A different model was described 4 years later by FitzGerald.[60] 
 
 The distribution of velocity of a fluid in the neighbourhood of a vortex filament is the same as the distribution of magnetic force around a wire of identical form carrying an electric current. Therefore, the fluid has more energy when the filament has the form of a helix than when it is straight. 
 
@@ -54,9 +60,12 @@ If now a single spiral vortex is surrounded by parallel straight ones, the latte
 
 Its magnitude will depend on the rate at which spirality is being lost by the original spiral, and can be taken such that its square is equal to the mean energy of this new motion. The vectors E and H will then represent the electric and magnetic vectors; the vortex spirals representing tubes of electric force.
 
-FitzGerald's spirality is essentially similar to the laminar motion investigated by Lord Kelvin, since it involves a flow in the direction of the axis of the spiral, and such a flow cannot take place along the direction of a vortex filament without a spiral deformation of a filament.
+FitzGerald's spirality is essentially similar to the laminar motion investigated by Lord Kelvin.
+- It involves a flow in the direction of the axis of the spiral, and such a flow cannot take place along the direction of a vortex filament without a spiral deformation of a filament.
 
-Other vortex analogues have been devised for electrostatical systems. Ono such, which was described in 1888 by W. M. Hicks,[61] depends on the circumstance that if two bodies in contact in an infinite fluid are separated from each other, and if there be a vortex filament which terminates on the bodies, there will be formed at the point where they separate a hollow vortex filament[62] stretching from one to the other, with rotation equal and opposite to that of the original filament. 
+Other vortex analogues have been devised for electrostatical systems. 
+
+On such, which was described in 1888 by W. M. Hicks,[61] depends on the circumstance that if two bodies in contact in an infinite fluid are separated from each other, and if there be a vortex filament which terminates on the bodies, there will be formed at the point where they separate a hollow vortex filament[62] stretching from one to the other, with rotation equal and opposite to that of the original filament. 
 
 As the bodies are moved apart, the hollow vortex may, through failure of stability, dissociate into a number of smaller ones; and if the resulting number be very large, they will ultimately take up a position of stable equilibrium. The two sets of filaments—the original filaments and their hollow companions—will be intermingled, and each will distribute itself according to the same law as the lines of force between the two bodies which are equally and oppositely electrified.
 
