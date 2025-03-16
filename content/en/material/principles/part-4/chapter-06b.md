@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 6b"
-title: "The Actions of the Spatial Layer"
+heading: "Chapter 6"
+title: "The Actions of the Convertible Layer"
 date: 2025-03-14
 image: /graphics/physics/waveflow.jpg
-description: "The actions of the c Layer are 3"
+description: "The actions of the Convertible Layer are 3"
 # . Here, we explain how reality reflects our feelings through the Physics concept of particle-spin
 writer:
   name: Juan
@@ -14,12 +14,10 @@ toc: false
 ---
 
 
-The Spatial Layer has actions for each sublayer
+The Convertible Layer has actions for each sublayer
 
 Sublayer | Action
 --- | ---
-Higher | separation 
-Middle | time
-Lower | distance
-
-
+Higher | ?
+Middle | Conversion
+Lower | Explosion

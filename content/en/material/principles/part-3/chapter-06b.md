@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 6b"
-title: "The Actions of the Spatial Layer"
+heading: "Chapter 6"
+title: "The Actions of the Radiant Layer"
 date: 2025-03-14
 image: /graphics/physics/waveflow.jpg
-description: "The actions of the c Layer are 3"
+description: "The actions of the Radiant Layer are "
 # . Here, we explain how reality reflects our feelings through the Physics concept of particle-spin
 writer:
   name: Juan
@@ -14,12 +14,12 @@ toc: false
 ---
 
 
-The Spatial Layer has actions for each sublayer
+The Radiant Layer has actions for each sublayer
 
 Sublayer | Action
 --- | ---
-Higher | separation 
-Middle | time
-Lower | distance
+Higher | Information
+Middle | Spread, entanglement
+Lower | Movement (straight, bending, bouncing, stopping or polarization)
 
 

@@ -15,11 +15,11 @@ icon: /icons/sp.png
 Chapter | Topic
 --- | ---
 1 | Basic Info
-2 | Layers and SUblayers
+2 | Layers and Sublayers
 3 | Medium
 4 | Substance
 5 | Quantum 
-6 | Signature, Conservation
+6 | Signature, Conservation, Actions
 7 | Territory (Field)
 8 | Polarity (Vortex, Pressure)
 9 | Relation and Movement and Effects
