@@ -17,15 +17,27 @@ One subject must either affirm or deny any one predicate.
 
 This is clear if we define what the true and the false are. 
 
-To say of what is that it is not, or of what is not that it is, is false, 
+False is saying of something:
+- that is, that it is not, or
+- that is not, that it is
 
-while to say of what is that it is, and of what is not that it is not, is true 
+True is saying of something:
+- that is, that it is, and
+- that is not, that it is not
 
 So that he who says of anything that it is, or that it is not, will say either what is true or what is false; 
 
-but neither what is nor what is not is said to be or not to be.-Again, the intermediate between the contradictories will be so either in the way in which grey is between black and white, or as that which is neither man nor horse is between man and horse. 
+but neither what is nor what is not is said to be or not to be.
 
-- (a) If it were of the latter kind, it could not change into the extremes (for change is from not-good to good, or from good to not-good), but as a matter of fact when there is an intermediate it is always observed to change into the extremes. For there is no change except to opposites and to their intermediates. (b) But if it is really intermediate, in this way too there would have to be a change to white, which was not from not-white; but as it is, this is never seen.-Again, every object of understanding or reason the understanding either affirms or denies-this is obvious from the definition-whenever it says what is true or false. When it connects in one way by assertion or negation, it says what is true, and when it does so in another way, what is false.-
+The intermediate between the contradictories will be so either in the way in which grey is between black and white, or as that which is neither man nor horse is between man and horse. 
+
+- (a) If it were of the latter kind, it could not change into the extremes (for change is from not-good to good, or from good to not-good), but as a matter of fact when there is an intermediate it is always observed to change into the extremes. For there is no change except to opposites and to their intermediates. 
+
+(b) But if it is really intermediate, in this way too there would have to be a change to white, which was not from not-white; but as it is, this is never seen.
+
+Again, every object of understanding or reason the understanding either affirms or denies-this is obvious from the definition-whenever it says what is true or false. 
+
+When it connects in one way by assertion or negation, it says what is true, and when it does so in another way, what is false.
 
 There must be an intermediate between all contradictories, if one is not arguing merely for the sake of argument; so that it will be possible for a man to say what is neither true nor untrue.
 

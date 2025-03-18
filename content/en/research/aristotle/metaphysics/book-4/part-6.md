@@ -49,7 +49,7 @@ Thus:
 - what consequences follow from the assertion that they are
 - why people do assert this. 
 
-Now since it is impossible that contradictories should be at the same time true of the same thing, obviously contraries also cannot belong at the same time to the same thing. For of contraries, one is a privation no less than it is a contrary-and a privation of the essential nature; and privation is the denial of a predicate to a determinate genus. 
+Since it is impossible that contradictories should be at the same time true of the same thing, obviously contraries also cannot belong at the same time to the same thing. For of contraries, one is a privation no less than it is a contrary-and a privation of the essential nature; and privation is the denial of a predicate to a determinate genus. 
 
 If, then, it is impossible to affirm and deny truly at the same time, it is also impossible that contraries should belong to a subject at the same time, unless both belong to it in particular relations, or one in a particular relation and one without qualification.
 

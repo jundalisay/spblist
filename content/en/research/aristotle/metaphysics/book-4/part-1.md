@@ -73,15 +73,19 @@ Being is immediately under genera. Thus, the sciences too correspond to these ge
 
 The philosopher is like the mathematician because mathematics also has parts. There is a first and a second science and other successive ones within the sphere of mathematics.
 
-Plurality is opposed to unity
+Plurality is opposed to unity.
 
 The work of one science to investigate opposites. Thus, the one science should investigate the negation and the privation because in both cases we are really investigating the one thing. <!--  of which the negation or the privation is a negation or privation (for we either say simply that that thing is not present, or that it is not present in some particular class; --> 
 
-in the latter case difference is present over and above what is implied in negation; for negation means just the absence of the thing in question, while in privation there is also employed an underlying nature of which the privation is asserted):-in view of all these facts, the contraries of the concepts we named above, the other and the dissimilar and the unequal, and everything else which is derived either from these or from plurality and unity, must fall within the province of the science above named.
+In privation, difference is present over and above what is implied in negation.
+- Negation is the absence of the thing
+- Privation has an underlying nature of which the privation is asserted
+
+The contraries of the concepts we named above, the other and the dissimilar and the unequal, and everything else which is derived either from these or from plurality and unity, must fall within the province of the science above named.
 
 Contrariety is one of these concepts. Contrariety is a kind of difference. Difference is a kind of otherness. 
 
-Therefore, since there are many senses in which a thing is said to be one, these terms also will have many senses, but yet it belongs to one science to know them all. 
+A thing is one in many senses. And so, these terms also will have many senses. But it belongs to one science to know them all. 
 
 A term belongs to different sciences not if it has different senses, but if it has not one meaning and its definitions cannot be referred to one central meaning. 
 
@@ -113,7 +117,9 @@ For sophistic and dialectic turn on the same class of things as philosophy, but 
 
 In the list of contraries, one of the two columns is privative. All contraries are reducible to being and non-being, and to unity and plurality, as for instance rest belongs to unity and movement to plurality. 
 
-And nearly all thinkers agree that being and substance are composed of contraries; at least all name contraries as their first principles-some name odd and even, some hot and cold, some limit and the unlimited, some love and strife. And all the others as well are evidently reducible to unity and plurality (this reduction we must take for granted), and the principles stated by other thinkers fall entirely under these as their genera. 
+And nearly all thinkers agree that being and substance are composed of contraries; at least all name contraries as their first principles-some name odd and even, some hot and cold, some limit and the unlimited, some love and strife.
+
+All the others as well are evidently reducible to unity and plurality (this reduction we must take for granted), and the principles stated by other thinkers fall entirely under these as their genera. 
 
 One science can examine being qua being. 
 
@@ -128,5 +134,10 @@ Yet even if 'one' has several meanings.
 
 The other meanings will be related to the primary meaning (and similarly in the case of the contraries), even if being or unity is not a universal and the same in every instance or is not separable from the particular instances (as in fact it probably is not; the unity is in some cases that of common reference, in some cases that of serial succession). 
 
-This is why it does not belong to the geometer to inquire what is contrariety or completeness or unity or being or the same or the other, but only to presuppose these concepts and reason from this starting-point.--Obviously then it is the work of one science to examine being qua being, and the attributes which belong to it qua being, and the same science will examine not only substances but also their attributes, both those above named and the concepts 'prior' and 'posterior', 'genus' and 'species', 'whole' and 'part', and the others of this sort.
+This is why it does not belong to the geometer to inquire what is contrariety or completeness or unity or being or the same or the other, but only to presuppose these concepts and reason from this starting-point.
 
+It is the work of one science to examine being qua being, and the attributes which belong to it qua being. That science will examine substances and their attributes, both those above named and the concepts:
+- 'prior' and 'posterior'
+- 'genus' and 'species'
+- 'whole' and 'part'
+- etc

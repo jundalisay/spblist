@@ -14,8 +14,10 @@ icon: "/icons/aris.png"
 
 "Things are 'relative'
 
-1. as double to half, and treble to a third, and in general that which contains something else many times to that which is contained many times in something else, and that which exceeds to that which is exceeded; 
+1. as double to half, and treble to a third, and in general that which contains something else many times to that which is contained many times in something else, and that which exceeds to that which is exceeded
+
 2. as that which can heat to that which can be heated, and that which can cut to that which can be cut, and in general the active to the passive
+
 3. as the measurable to the measure, and the knowable to knowledge, and the perceptible to perception.
 
 
