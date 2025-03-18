@@ -210,7 +210,7 @@ paginate = 12
     [languages.en.params.tricon8]
       heading = "The Waves in the Economy"
       title = "Supereconomics"
-      sub = "Based on the 4 Law so"
+      sub = "Based on the 4 Laws of Value"
       # A sub-science of Social Superphysics, since Economics comes after Politics"
       youtube = "AfByl9Mywi4"
       icon = "/icons/specon.png"
@@ -413,6 +413,16 @@ paginate = 12
 
 
     [languages.en.params.tricon6.items.o]
+      url = "/superphysics/principles/chapter-04b/"
+      img = "/graphics/physics/qualimath.jpg"
+      title = "Superphysics: Qualimath"
+      sub = "Mathematics that applies the operations of mind onto qualities (2022-current)"
+    [languages.en.params.tricon6.items.r]
+      url = "/superphysics/principles/chapter-04b/"
+      img = "/graphics/physics/qualimath.jpg"
+      title = "Superphysics: Qualimath"
+      sub = "Mathematics that applies the operations of mind onto qualities (2022-current)"
+    [languages.en.params.tricon6.items.s]
       url = "/superphysics/principles/chapter-04b/"
       img = "/graphics/physics/qualimath.jpg"
       title = "Superphysics: Qualimath"

@@ -49,7 +49,7 @@ World | 2019 | A global financial crisis will emerge in a certain year between 2
 ![France flag](/flags/fr.png) | 2022 | Macron will win | {{< color val="Correct" >}}
 ![Japan flag](/flags/jp.png) | 2017 | Softbank's Vision Fund will lose on its biggest bets | {{< color val="Correct" >}}
 ![Myannmar flag](/flags/mm.png) | 2017 | Rohingya crisis will remain | {{< color val="Correct" >}}
-![Venezuela flag](/flags/ve.png) | 2017 | The economic crisis in Venezuela will remain until a certain future year | {{< color color="Navy" val="Null (no way to prove or disprove)" >}}
+![Venezuela flag](/flags/ve.png) | 2017 | The economic crisis in Venezuela will remain until a certain future year | {{< color color="Navy" val="Null (No way to prove or disprove. For example, Maduro lost the 2024 elections but still won) " >}}
 ![Philippines flag](/flags/ph.png) | 2017 | Duterte allies will win in 2018 | {{< color val="Correct" >}}
 ![Israel flag](/flags/il.png) | 2017 | Israeli Crypto Bancor will crash | {{< color val="Correct" >}}
 ![Philippine flag](/flags/ph.png) | 2016 | Roxas will win the elections | {{< color color="red" val="Wrong" >}}

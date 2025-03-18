@@ -174,5 +174,6 @@ The worst would be the CDU which created the problem in the first place.
 
 The SPD and the AfD, via Alice Weidel, will neither be effective as Elon Musk claims, since they also do not strike at the root cause.
 
+In any way, the best policy for Germany is to switch to the Nordic model by choosing a party that has a plan for it. 
 
 

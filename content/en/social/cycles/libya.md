@@ -5,12 +5,12 @@ title: "Libya"
 # date: 2021-08-16
 date: 2016-09-06
 weight: 100
-image: "/flags/cn.png"
-description : "The coming China-Taiwan war is a natural consequence of the wrong policies of Nixon"
+image: "/flags/ly.png" 
+description : ""
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/
-icon: "/flags/cn.png"
+icon: "/flags/ly.png"
 ---
 
 

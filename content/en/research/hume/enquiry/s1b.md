@@ -29,13 +29,37 @@ For, besides, that many persons find too sensible an interest in perpetually rec
 
 We must submit to this fatigue, in order to live at ease ever after: And must cultivate true metaphysics with some care, in order to destroy the false and adulterate. Indolence, which, to some persons, affords a safeguard against this deceitful philosophy, is, with others, overbalanced by curiosity; and despair, which, at some moments, prevails, may give place afterwards to sanguine hopes and expectations. Accurate and just reasoning is the only catholic remedy, fitted for all persons and all dispositions; and is alone able to subvert that abstruse philosophy and metaphysical jargon, which, being mixed up with popular superstition, renders it in a manner impenetrable to careless reasoners, and gives it the air of science and wisdom. 8. Besides this advantage of rejecting, after deliberate enquiry, the most uncertain and disagreeable part of learning, there are many positive advantages, which result from an accurate scrutiny into the powers and faculties of human nature. 
 
-It is remarkable concerning the operations of the mind, that, though most intimately present to us, yet, whenever they become the object of reflexion, they seem involved in obscurity; nor can the eye readily find those lines and boundaries, which discriminate and distinguish them. The objects are too fine to remain long in the same aspect or situation; and must be apprehended in an instant, by a superior penetration, derived from nature, and improved by habit and reflexion. It becomes, therefore, no inconsiderable part of science barely to know the different operations of the mind, to separate them from each other, to class them under their proper heads, and to correct all that seeming disorder, in which they lie involved, when made the object of reflexion and enquiry. 
+
+It is remarkable concerning the operations of the mind, that, though most intimately present to us, yet, whenever they become the object of reflexion, they seem obscure.
+- The eye cannot readily find those lines and boundaries, which discriminate and distinguish them. 
+
+The objects:
+- are too fine to remain long in the same aspect or situation
+- must be apprehended in an instant, by a superior penetration, derived from nature, and improved by habit and reflexion. 
+
+It becomes, therefore, no inconsiderable part of science barely:
+- to know the different operations of the mind
+- to separate them from each other
+- to class them under their proper heads
+- to correct all that seeming disorder, in which they lie involved, when made the object of reflexion and enquiry. 
 
 This talk of ordering and distinguishing, which has no merit, when performed with regard to external bodies, the objects of our senses, rises in its value, when directed towards the operations of the mind, in proportion to the difficulty and labour, which we meet with in performing it.
 
-If we can go no farther than this mental geography, or delineation of the distinct parts and powers of the mind, it is at least a satisfaction to go so far; and the more obvious this science may appear (and it is by no means obvious) the more contemptible still must the ignorance of it be esteemed, in all pretenders to learning and philosophy. Nor can there remain any suspicion, that this science is uncertain and chimerical; unless we should entertain such a scepticism as is entirely subversive of all speculation, and even action. It cannot be doubted, that the mind is endowed with several powers and faculties, that these powers are distinct from each other, that what is really distinct to the immediate perception may be distinguished by reflexion; and consequently, that there is a truth and falsehood in all propositions on this subject, and a truth and falsehood, which lie not beyond the compass of human understanding. 
+If we can go no farther than this mental geography, or delineation of the distinct parts and powers of the mind, it is at least a satisfaction to go so far;
 
-There are many obvious distinctions of this kind, such as those between the will and understanding, the imagination and passions, which fall within the comprehension of every human creature; and the finer and more philosophical distinctions are no less real and certain, though more difficult to be comprehended. Some instances, especially late ones, of success in these enquiries, may give us a juster notion of the certainty and solidity of this branch of learning. And shall we esteem it worthy the labour of a philosopher to give us a true system of the planets, and adjust the position and order of those remote bodies; while we affect to overlook those, who, with so much success, delineate the parts of the mind, in which we are so intimately concerned? 
+The more obvious this science may appear (and it is by no means obvious) the more contemptible still must the ignorance of it be esteemed, in all pretenders to learning and philosophy.
+
+Nor can there remain any suspicion, that this science is uncertain and chimerical; unless we should entertain such a scepticism as is entirely subversive of all speculation, and even action. 
+
+The mind has several powers and faculties that are distinct from each other.
+
+What is really distinct to the immediate perception may be distinguished by reflexion.
+
+Consequently, that there is a truth and falsehood in all propositions on this subject, and a truth and falsehood, which lie not beyond the compass of human understanding. 
+
+There are many obvious distinctions of this kind, such as those between the will and understanding, the imagination and passions, which fall within the comprehension of every human creature; 
+
+The finer and more philosophical distinctions are no less real and certain, though more difficult to be comprehended. Some instances, especially late ones, of success in these enquiries, may give us a juster notion of the certainty and solidity of this branch of learning. And shall we esteem it worthy the labour of a philosopher to give us a true system of the planets, and adjust the position and order of those remote bodies; while we affect to overlook those, who, with so much success, delineate the parts of the mind, in which we are so intimately concerned? 
 
 <!-- 9.  -->
 
