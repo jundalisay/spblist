@@ -2,7 +2,7 @@
 title: Who Supervises The Conduct Of Society?
 image: "/covers/green.jpg"
 heading: "Chapter 8"
-weight: 22
+weight: 20
 description: ""
 ---
 

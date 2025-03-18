@@ -2,7 +2,7 @@
 title: Need, Housing, Income, Transportation, Land
 image: "/covers/green.jpg"
 heading: "Chapters 12-16"
-weight: 22
+weight: 24
 description: ""
 ---
 

@@ -20,15 +20,7 @@ and dies as man lives and dies.
 But why are there men and women? Human society is composed neither of men alone nor of women alone. It is made up
 naturally of men and women. Why were not only men created?
 
-Why were not only women created? After all, what is the difference between men and women or man and woman? Why
-was it necessary to create men and women? There must be a
-natural necessity for the existence of man and woman, rather
-than man only or woman only. It follows that neither of them is
-exactly like the other, and the fact that a natural difference exists between men and women is proved by the created existence of men and women. This necessarily means that there is a role
-for each one of them corresponding to the difference between
-them. Accordingly, there must be different prevailing conditions for each one in order that they perform their naturally different roles. To comprehend these roles, we must understand the
-difference in the created nature of man and woman, that is, the
-natural difference between the two.
+Why were not only women created? After all, what is the difference between men and women or man and woman? Why was it necessary to create men and women? There must be a natural necessity for the existence of man and woman, rather than man only or woman only. It follows that neither of them is exactly like the other, and the fact that a natural difference exists between men and women is proved by the created existence of men and women. This necessarily means that there is a role for each one of them corresponding to the difference between them. Accordingly, there must be different prevailing conditions for each one in order that they perform their naturally different roles. To comprehend these roles, we must understand the difference in the created nature of man and woman, that is, the natural difference between the two.
 
 Women are females and men are males. According to gynaecologists, women menstruate every month or so, while men, being male, do not menstruate or suffer during the monthly period. A woman, being a female, is naturally subject to monthly
 bleeding. When a woman does not menstruate, she is pregnant.
@@ -48,11 +40,9 @@ in themselves are the realities that define male and female, men
 and women; they assign to each of them a different role or function in life. This means that men cannot replace women in carrying out these functions. It is worthy of consideration that these
 biological functions are a heavy burden, causing women great effort and suffering. However, without these functions which
 women perform, human life would come to an end. It follows
-that it is a natural function which is neither voluntary nor compulsory. It is an essential function, without which human life
-would come to a complete halt.
+that it is a natural function which is neither voluntary nor compulsory. It is an essential function, without which human life would come to a complete halt.
 
-Deliberate interventions against conception form an alternative to human life. In addition to that, there exists partial deliberate intervention against conception, as well as against breastfeeding. All these are links in a chain of actions in contradiction
-to natural life, which is tantamount to murder. For a woman to
+Deliberate interventions against conception form an alternative to human life. In addition to that, there exists partial deliberate intervention against conception, as well as against breastfeeding. All these are links in a chain of actions in contradiction to natural life, which is tantamount to murder. For a woman to
 kill herself in order not to conceive, deliver and breast-feed is
 within the realm of deliberate, artificial interventions, in contradiction with the nature of life epitomized by marriage, conception, breast-feeding, and maternity. They differ only in degree.
 To dispense with the natural role of woman in maternity –
@@ -62,7 +52,9 @@ their mothers and to cram them into nurseries is a process by
 which they are transformed into something very close to chicks,
 for nurseries are similar to poultry farms into which chicks are
 crammed after they are hatched. Nothing else would be as appropriate and suitable to the human being and his dignity as
-natural motherhood. Children should be raised by their mothers
+natural motherhood. 
+
+Children should be raised by their mothers
 in a family where the true principles of motherhood, fatherhood
 and comradeship of brothers and sisters prevail, and not in an
 institution resembling a poultry farm. Even poultry, like the rest
@@ -85,7 +77,9 @@ coercive and oppressive and against its free and natural tendencies.
 Natural growth for all living things is free and healthy
 growth. To substitute a nursery for a mother is coercive action against free and sound growth. Children who are shipped
 off to a nursery are consigned compulsorily or by exploitation
-and simple-mindedness. They are driven to nurseries purely
+and simple-mindedness. 
+
+They are driven to nurseries purely
 by materialistic, and not by social, considerations. If coercion
 and childish simple-mindedness were removed, they would certainly reject the nursery and cling to their mothers. The only
 justification for such an unnatural and inhuman process is the
@@ -136,6 +130,7 @@ between them in any dirty work which stains her beauty and
 detracts from her femininity is unjust and cruel. Education that
 leads to work unsuitable for her nature is unjust and cruel as
 well.
+
 There is no difference between men and women in all that
 concerns humanity. None of them should marry the other
 against his or her will, or divorce without a just trial or mutual agreement. Neither should a woman remarry without such
@@ -241,6 +236,7 @@ woman, the child and the adult, but there is no absolute identity
 between them as regards their duties, effort and suffering. However, without these functions which
 women perform, human life would come to an end. It follows
 that it is a natural function which is neither voluntary nor compulsory. It is an essential function, without which human life would come to a complete halt.
+
 Deliberate interventions against conception form an alternative to human life. In addition to that, there exists partial deliberate intervention against conception, as well as against breastfeeding. All these are links in a chain of actions in contradiction
 to natural life, which is tantamount to murder. For a woman to
 kill herself in order not to conceive, deliver and breast-feed is
@@ -258,10 +254,7 @@ and comradeship of brothers and sisters prevail, and not in an
 institution resembling a poultry farm. Even poultry, like the rest
 of the members of the animal kingdom, need motherhood as
 a natural phase. Therefore, breeding them on farms similar to
-nurseries is against their natural growth. Even their meat is arti87
-CHAPTER 23. WOMAN
-ficial rather than natural. Meat from mechanized poultry farms
-is not tasty and may not be nourishing because the chicks are
+nurseries is against their natural growth. Even their meat is artificial rather than natural. Meat from mechanized poultry farms is not tasty and may not be nourishing because the chicks are
 not naturally bred and are not raised in the protective shade of
 natural motherhood. The meat of wild birds is more tasty and
 nourishing because they are naturally fed. As for children who
@@ -315,6 +308,7 @@ the conditions of that society, even though she may think that
 she works of her own accord. In fact, the alleged basis that “there
 is no difference in any way between men and women”, deprives
 woman of her freedom.
+
 The phrase “in any way” is a monstrous deception. This idea
 will destroy the appropriate and necessary conditions which
 constitute the privilege which women ought to enjoy apart from
@@ -419,6 +413,7 @@ the case. Work should be provided by the society to all able
 members who need work – men and women on the condition
 that individuals work in their own fields and not be coerced into
 carrying out unsuitable work.
+
 For children to find themselves under adult working conditions is unjust and dictatorial. It is equally unjust and dictatorial
 for women to find themselves under the working conditions of
 men.

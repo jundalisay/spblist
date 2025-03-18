@@ -2,7 +2,7 @@
 title: Wages
 image: "/covers/green.jpg"
 heading: "Chapters 16b"
-weight: 22
+weight: 28
 description: ""
 ---
 
@@ -74,7 +74,9 @@ The industrious and skilful in a society have no right, as a result of this adva
 
 The wealth of a society may be likened to a supply establishment or a store providing a certain number of people with daily rations satisfying their needs. Each person has a right to save from such provisions what he wants, i.e., to consume or save whatever portions of his share he decides, utilizing his talents and skill for such purposes. However, those who use their talents to acquire excessively from the “supply establishment” are undoubtedly thieves. Therefore, those using their skill to acquire wealth exceeding the satisfaction of their needs are, in fact, infringing upon the public right, namely, the wealth of society which is like the store in the said example.
 
-Disparity in the wealth of individuals in the new socialist society is not tolerated, save for those rendering certain services to the society for which they are accorded an amount congruent with their services. Individual shares only differ relative to the amount of production or public service rendered in excess. Hence, human experiences through history have produced a new experiment in a unique attempt to culminate the struggle of persons to complete their freedom, to achieve happiness through satisfying their needs, to ward off exploitation by others, to put an end to tyranny, and to find a method to distribute the wealth of the society equitably, without exploiting others or compromising their needs. It is the theory of the fulfilment of needs for the emancipation of humanity.
+Disparity in the wealth of individuals in the new socialist society is not tolerated, save for those rendering certain services to the society for which they are accorded an amount congruent with their services.
+
+Individual shares only differ relative to the amount of production or public service rendered in excess. Hence, human experiences through history have produced a new experiment in a unique attempt to culminate the struggle of persons to complete their freedom, to achieve happiness through satisfying their needs, to ward off exploitation by others, to put an end to tyranny, and to find a method to distribute the wealth of the society equitably, without exploiting others or compromising their needs. It is the theory of the fulfilment of needs for the emancipation of humanity.
 
 The new socialist society is but a dialectical outcome of the unjust relationships prevailing in the world today. The new socialist society will introduce the natural solution – privatelyowned property to satisfy one’s needs without exploitation, and collective property in which the producers are partners replacing private enterprise, which is based on the production of others without recognizing their right to a just share of the product. Whoever possesses the house in which you dwell, the vehicle in which you ride or the income on which you live, possesses your freedom, or part of it. Freedom is indivisible. For people to be happy, they must be free, and to be free, they must possess the possibility of satisfying their own needs. Whoever possesses the means of fulfilling your needs controls or exploits you, and may enslave you despite any legislation to the contrary. The material needs of people that are basic and personal start with food, housing, clothing and transport and must be regarded as private and sacred and their satisfaction should not depend on hire.
 

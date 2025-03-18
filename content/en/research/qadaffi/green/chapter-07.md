@@ -2,7 +2,7 @@
 title: The Law Of Society
 image: "/covers/green.jpg"
 heading: "Chapter 7"
-weight: 22
+weight: 18
 description: ""
 ---
 

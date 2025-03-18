@@ -2,7 +2,7 @@
 title: The Social Basis Of The Third Universal Theory
 image: "/covers/green.jpg"
 heading: "Chapter 18"
-weight: 42
+weight: 34
 description: ""
 ---
 
