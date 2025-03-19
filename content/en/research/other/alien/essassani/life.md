@@ -8,62 +8,6 @@ author: Consolidated from Bashar
 
 
 
-## Five Forms of Abundance
-
-Abundance is the ability to do what you need to do, when you need to do it. 
-- Money is only one of many valid tools to achieve this abundance. 
-  - It is not always the most direct tool to use for doing what you need to do when you need to do it.
-
-Abundance comes in 5 forms:
-
-1. Money: This is the most common form now
-2. Barter: This was common in the past
-3. Gifts: Do not reject gifts
-4. Synchronicity
-5. Inspiration
-
-
-## Seven Neutral Needs
-
-### Immediate-Term Needs
-
-These are needs that will kill you shortly if you don't have them
-
-1. Air
-
-2. Water
-
-3. Sleep (Regenerate, Re-energize)
-
-This includes dreaming which reconnects you to Spirit. Without sleep, humans last only 11 days.
-
-4. Food
-
-There are exceptions, such as some breatharians who can survive without food. You will die in 2-3 weeks without food. 
-
-
-### Non-Immediate-Term Needs
-
-These are needs that will kill you if you don't have them for months or years.
-
-5. Shelter and Good Environment 
-
-This does not need to be a house. It has to be beneficial. You have to be able to thrive in this environment. Examples are a tropical island. 
-
-
-6. Connections
-
-You need to have a relationship with someone or something. This something can be animals, plant, a rock, etc. There should be connection with it.  
-
-The Essassani no longer need to eat or sleep because they are always connected to everything. You connect with whatever helps you who you really are. 
-
-
-7. Creative Expression 
-
-This is an expression of your unique purpose or identity. This is where acting on your passions come in.  This expresses your energy. 
-
-
-
 ## The Uniqueness of Each Incarnation
 
 Each Soul extends portions of itself into time & space as particular incarnations. 
@@ -80,55 +24,6 @@ This incarnation or version of you will never occur again. So:
 
 That is the fulfillment of your purpose.
 
-
-
-### Judgment and Preference
-
-Judgment is invalidating what you do not prefer. 
-
-Whenever you judge anything, you exchange energies with it by focusing your attention on it.
-- You then "become" that vibration. 
-- You automatically become the very thing you disapprove of.
-- You become that which you invalidate.  
-
-Preference, on the other hand, is not judgment.
-- Preference is exercising your ability to discern what is really "you", what excites you, and then making choices aligned with the real "you".  
-- To prefer one thing does not necessitate invalidating those other things you do not prefer.
-
-So the recommendation is:
-
-**Select what you prefer, WITHOUT judging (invalidating) what you do NOT prefer.**
-
-You become whatever you focus your attention on. To assign any meaning to anything, either a positive or negative meaning, is to invite that into your life. 
-
-Being neutral about something - assigning it no meaning - is the way to not attract that reality into your life.
-
-"That's terrible!" --> You are attracting that reality. 
-"That's wonderful!" --> You are attracting that reality. 
-"I feel neutral about that." --> You are not attracting that reality.
-
-Cease to invalidate yourself, because you are all you have to work with in your universe. You are the representation, in your own way, of the Infinite. 
-
-If you invalidate that, or any part of that, then you do not allow yourself to function as a whole being capable of using information coming to you from others in a constructive way.   When you invalidate yourself, you are seriously handicapping your only reality-creation-engine.
-
-
-### Love, Guilt, and Hate
-
-Love is knowing the deservability and worthiness of all.
-
-Guilt is the belief in one's total lack of deservability and the belief in one's worthlessness.
-
-Therefore, Guilt is the opposite of Love.
-Hate is not the opposite of Love.
-
-Hate is Love processed through judgment.
-Hate is the polarized opposite of Love, but still implies deservability.
-
-Co-Creating an Experience
-
-Any experience that is shared by two or more people is the result of all the people involved agreeing to co-create that experience.    Even conflict can only occur if both parties agree to be in conflict.   You can only experience that which is resonant with the vibrations you are currently choosing to be.    
-
-If you "believe" you need to be protected, you are attracting into your reality the very thing you "believe" you need to be protected from.    If war is "not of your vibration", there is no way you can experience war.   You can only experience that which you have - on some level - already agreed to experience.
 
 
 ### The Death Transition
@@ -202,18 +97,3 @@ And, like a mirror, when you change your internal Beliefs, Thoughts, & Feelings,
 HOW is all this occurring?    It is your Higher Mind that is functioning as a holographic mirror, to create a holographic bubble around you, that is your "perceived external reality".
 
 
-### Visualization
-
-The recommended way to use Visualization, to get some preferred reality, is= 
-
-1. Visualize the preferred reality within your Visualization intently.
-2. This gets you into an EXCITED STATE   (from imagining you already have it).
-3. Then totally DROP that visaulization and absolutely do not insist that it manifest in that particular form.
-4. Your Higher Self then tunes into your EXCITED STATE and your desire,
-     and then begins working on getting for you a WAY BETTER outcome than anything you could have ever imagined.
-
-By hanging on to your Visualization and insisting that the outcome be in that form, you are:
-- LIMITING the optimum outcome
-- preventing your Higher Self from bringing you an outcome that is FAR SUPERIOR to anything that you could have ever imagined
-
-Your higher mind can bring it to you in an easier and faster way, than the particular outcome you were insisting on.

@@ -32,9 +32,21 @@ This is why we say the species are parts of the genus.
 
 "'A whole' means 
 
-(1) that from which is absent none of the parts of which it is said to be naturally a whole, and (2) that which so contains the things it contains that they form a unity; and this in two senses-either as being each severally one single thing, or as making up the unity between them. For (a) that which is true of a whole class and is said to hold good as a whole (which implies that it is a kind whole) is true of a whole in the sense that it contains many things by being predicated of each, and by all of them, e.g. man, horse, god, being severally one single thing, because all are living things. But (b) the continuous and limited is a whole, when it is a unity consisting of several parts, especially if they are present only potentially, but, failing this, even if they are present actually. Of these things themselves, those which are so by nature are wholes in a higher degree than those which are so by art, as we said in the case of unity also, wholeness being in fact a sort of oneness.
+1. that from which is absent none of the parts of which it is said to be naturally a whole
 
-"Again (3) of quanta that have a beginning and a middle and an end, those to which the position does not make a difference are called totals, and those to which it does, wholes. Those which admit of both descriptions are both wholes and totals. These are the things whose nature remains the same after transposition, but whose form does not, e.g. wax or a coat; they are called both wholes and totals; for they have both characteristics. Water and all liquids and number are called totals, but 'the whole number' or 'the whole water' one does not speak of, except by an extension of meaning. To things, to which qua one the term 'total' is applied, the term 'all' is applied when they are treated as separate; 'this total number,' 'all these units.'
+2. that which so contains the things it contains that they form a unity; and this in two senses-either as being each severally one single thing, or as making up the unity between them. 
+
+a. That which is true of a whole class and is said to hold good as a whole (which implies that it is a kind whole) is true of a whole in the sense that it contains many things by being predicated of each, and by all of them, e.g. man, horse, god, being severally one single thing, because all are living things. 
+
+b. But the continuous and limited is a whole, when it is a unity consisting of several parts, especially if they are present only potentially, but, failing this, even if they are present actually. Of these things themselves, those which are so by nature are wholes in a higher degree than those which are so by art, as we said in the case of unity also, wholeness being in fact a sort of oneness.
+
+3. Of quanta that have a beginning and a middle and an end, those to which the position does not make a difference are called totals, and those to which it does, wholes.
+
+Those which admit of both descriptions are both wholes and totals.
+
+These are the things whose nature remains the same after transposition, but whose form does not, e.g. wax or a coat; they are called both wholes and totals; for they have both characteristics.
+
+Water and all liquids and number are called totals, but 'the whole number' or 'the whole water' one does not speak of, except by an extension of meaning. To things, to which qua one the term 'total' is applied, the term 'all' is applied when they are treated as separate; 'this total number,' 'all these units.'
 
 
 ## Part 27: Mutilated
@@ -43,7 +55,9 @@ It is not any chance quantitative thing that can be said to be 'mutilated'; it m
 
 but the number is no longer the same. Further, even if things consist of unlike parts, not even these things can all be said to be mutilated, for in a sense a number has unlike parts (e.g. two and three) as well as like; but in general of the things to which their position makes no difference, e.g. water or fire, none can be mutilated; to be mutilated, things must be such as in virtue of their essence have a certain position. 
 
-Again, they must be continuous; for a musical scale consists of unlike parts and has position, but cannot become mutilated. Besides, not even the things that are wholes are mutilated by the privation of any part. For the parts removed must be neither those which determine the essence nor any chance parts, irrespective of their position; e.g. a cup is not mutilated if it is bored through, but only if the handle or a projecting part is removed, and a man is mutilated not if the flesh or the spleen is removed, but if an extremity is, and that not every extremity but one which when completely removed cannot grow again. Therefore baldness is not a mutilation.
+Again, they must be continuous; for a musical scale consists of unlike parts and has position, but cannot become mutilated. 
+
+Besides, not even the things that are wholes are mutilated by the privation of any part. For the parts removed must be neither those which determine the essence nor any chance parts, irrespective of their position; e.g. a cup is not mutilated if it is bored through, but only if the handle or a projecting part is removed, and a man is mutilated not if the flesh or the spleen is removed, but if an extremity is, and that not every extremity but one which when completely removed cannot grow again. Therefore baldness is not a mutilation.
 
 
 ## Part 28: Genus
@@ -56,8 +70,13 @@ Again, they must be continuous; for a musical scale consists of unlike parts and
 
 3. There is genus in the sense in which 'plane' is the genus of plane figures and solid' of solids; for each of the figures is in the one case a plane of such and such a kind, and in the other a solid of such and such a kind; and this is what underlies the differentiae. 
 
-4. in definitions the first constituent element, which is included in the 'what', is the genus, whose differentiae the qualities are said to be 'Genus' then is used in all these ways, 
+4. in definitions the first constituent element, which is included in the 'what', is the genus, whose differentiae the qualities are said to be 'Genus' then is used in all these ways.
 
-(1) in reference to continuous generation of the same kind, (2) in reference to the first mover which is of the same kind as the things it moves, (3) as matter; for that to which the differentia or quality belongs is the substratum, which we call matter.
+1. in reference to continuous generation of the same kind
 
-"Those things are said to be 'other in genus' whose proximate substratum is different, and which are not analysed the one into the other nor both into the same thing (e.g. form and matter are different in genus); and things which belong to different categories of being (for some of the things that are said to 'be' signify essence, others a quality, others the other categories we have before distinguished); these also are not analysed either into one another or into some one thing.
+2. in reference to the first mover which is of the same kind as the things it moves
+
+3. as matter; for that to which the differentia or quality belongs is the substratum, which we call matter.
+
+
+Those things are said to be 'other in genus' whose proximate substratum is different, and which are not analysed the one into the other nor both into the same thing (e.g. form and matter are different in genus); and things which belong to different categories of being (for some of the things that are said to 'be' signify essence, others a quality, others the other categories we have before distinguished); these also are not analysed either into one another or into some one thing.

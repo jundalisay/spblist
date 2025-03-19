@@ -79,3 +79,21 @@ This will put you in a state of positive appreciation.
 ### 3. Allow What Will Happen Next
 
 Be open to what the universe will give. 
+
+
+
+## Visualization
+
+The recommended way to use Visualization, to get some preferred reality, is:
+
+1. Visualize the preferred reality within your Visualization intently.
+2. This gets you into an EXCITED STATE   (from imagining you already have it).
+3. Then totally DROP that visaulization and absolutely do not insist that it manifest in that particular form.
+4. Your Higher Self then tunes into your EXCITED STATE and your desire,
+     and then begins working on getting for you a WAY BETTER outcome than anything you could have ever imagined.
+
+By hanging on to your Visualization and insisting that the outcome be in that form, you are:
+- LIMITING the optimum outcome
+- preventing your Higher Self from bringing you an outcome that is FAR SUPERIOR to anything that you could have ever imagined
+
+Your higher mind can bring it to you in an easier and faster way, than the particular outcome you were insisting on.

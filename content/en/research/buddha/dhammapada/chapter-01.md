@@ -10,11 +10,11 @@ image: "/photos/meta/buddhism.jpg"
 
 1. Mind precedes all mental states.
 
-Mind is their chief. They are all mind-wrought.
+Mind is their chief. They are all made by the mind.
 
-If with an impure mind a person speaks or acts suffering follows him like the wheel that follows the foot of the ox.
+If one speaks or acts with a corrupt mind, suffering follows, just as the wheel follows the foot of the ox that pulls the cart.
 
-2. If with a pure mind a person speaks or acts happiness follows him like his never-departing shadow.
+2. If one speaks or acts with a pure mind, happiness follows, like a shadow that never leaves.
 
 3. "He abused me, he struck me, he overpowered me, he robbed me." 
 
@@ -24,11 +24,11 @@ Those who harbor such thoughts do not still their hatred.
 
 5. Hatred is never appeased by hatred in this world.
 
-By non-hatred alone is hatred appeased. This is a law eternal.
+**Hatred appeased by non-hatred alone. This is a law eternal.**
 
 6. There are those who do not realize that one day we all must die.
 
-But those who do realize this settle their quarrels.
+**But those who do realize this settle their quarrels.**
 
 7. Just as a storm throws down a weak tree, so does Mara overpower the man who lives for the pursuit of pleasures, who is uncontrolled in his senses, immoderate in eating, indolent, and dissipated. [1]
 
