@@ -1,17 +1,13 @@
 ---
-title: "The Conondrum"
+title: "Before The Big Bang: An Outrageous New Perspective And Its Implications For Particle Physics"
 heading: "Part 1"
-weight: 1
+weight: 4
 image: /covers/penrose.jpg"
 description: ""
 ---
 
-
-
-BEFORE THE BIG BANG: AN OUTRAGEOUS NEW PERSPECTIVE AND ITS IMPLICATIONS FOR PARTICLE PHYSICS
-
-Roger Penrose
-Mathematical Institute, 24-29 St Giles’, Oxford OX1 3LB, U.K.
+<!-- Roger Penrose
+Mathematical Institute, 24-29 St Giles’, Oxford OX1 3LB, U.K. -->
 
 
 ## THE BASIC CONUNDRUM
