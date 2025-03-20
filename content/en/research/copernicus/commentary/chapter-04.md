@@ -1,7 +1,7 @@
 ---
 title: "The Uniformity of Motions Should Be Referenced to the Fixed Stars Not to the Equinoxes"
 heading: Chapter 3
-weight: 4
+weight: 16
 date: 2025-03-08
 image: "/covers/copernicus.jpg"
 ---

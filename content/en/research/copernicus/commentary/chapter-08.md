@@ -1,14 +1,16 @@
 ---
 title: "Venus"
 heading: Chapter 7
-weight: 24
+weight: 34
 date: 2025-03-08
 image: "/covers/copernicus.jpg"
 ---
 
 
 
-Venus has a system of circles similar to those of the superior planets, but with different characteristics of motion. The orbit, along with its larger epicycle, completes equal revolutions in **nine months**, as previously mentioned. Through this combined motion, the smaller epicycle is consistently aligned with the firmament, establishing its greatest **apse** at the point where we have stated that the Sun is directed.  
+Venus has a system of circles similar to those of the superior planets, but with different characteristics of motion. The orbit, along with its larger epicycle, completes equal revolutions in **nine months**, as previously mentioned. 
+
+Through this combined motion, the smaller epicycle is consistently aligned with the firmament, establishing its greatest **apse** at the point where we have stated that the Sun is directed.  
 
 However, the smaller epicycle, completing **unequal** revolutions relative to these, maintains an irregularity in its motion with respect to the great orbit. With respect to this revolution, it completes exactly **two full circuits**, so that whenever the Earth is aligned along the diameter extending to the apse, the planet is then nearest to the center of the larger epicycle, and in the transverse quadrants, it is at its farthest distance—somewhat similarly to how the smaller epicycle of the Moon aligns with the Sun.  
 

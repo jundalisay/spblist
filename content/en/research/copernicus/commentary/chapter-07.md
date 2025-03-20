@@ -1,7 +1,7 @@
 ---
 title: "The 3 Superior Planets: Saturn, Jupiter, and Mars"
 heading: Chapter 7
-weight: 24
+weight: 32
 date: 2025-03-08
 image: "/covers/copernicus.jpg"
 ---

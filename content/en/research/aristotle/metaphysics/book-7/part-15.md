@@ -1,5 +1,5 @@
 ---
-title: "Are Ideas Substances?"
+title: "Substance as Thing and Formula"
 heading: "Part 15"
 writer:
   name: Aristotle 
@@ -15,7 +15,15 @@ Substance is of two kinds:
 - the concrete thing
 - the formula 
 
-(I mean that one kind of substance is the formula taken with the matter, while another kind is the formula in its generality), substances in the former sense are capable of destruction (for they are capable also of generation), but there is no destruction of the formula in the sense that it is ever in course of being destroyed (for there is no generation of it either; the being of house is not generated, but only the being of this house), but without generation and destruction formulae are and are not; for it has been shown that no one begets nor makes these. 
+One kind of substance is the formula taken with the matter.
+
+Another kind is the formula in its generality.
+
+Substances in the former sense are capable of destruction, since they are capable also of generation.
+
+But there is no destruction of the formula in the sense that it is ever in course of being destroyed (for there is no generation of it either.
+
+The being of house is not generated, but only the being of this house), but without generation and destruction formulae are and are not; for it has been shown that no one begets nor makes these. 
 
 This is why there is neither definition of nor demonstration about sensible individual substances, because they have matter whose nature is such that they are capable both of being and of not being; for which reason all the individual instances of them are destructible. 
 

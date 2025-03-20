@@ -1,3 +1,10 @@
+---
+heading: Chapter 4
+title: "EQUILIBRIUM OF NORMAL DEMAND AND SUPPLY"
+description: ""
+image: "/covers/marshall.jpg"
+weight: 9
+---
 
 
 

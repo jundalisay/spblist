@@ -1,7 +1,7 @@
 ---
-title: "Machiavelli, Niccolo"
-heading: Very Unenlightened
-description: Right wing at its extreme
-image: "/covers/mach.jpg"
+title: "Mach, Ernst"
+heading: Unenlightened
+description: German Relativity
+image: "/covers/ernst.jpg"
 weight: 58
 ---
