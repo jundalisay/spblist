@@ -332,11 +332,11 @@ paginate = 12
       sub = "We propose to implement the principles of Superphysics to solve modern problems"
       # youtube = "AfByl9Mywi4"
       # icon = "/icons/sp.png"
-    [languages.en.params.tricon6.items.a]
-      url = "/material/solutions/millennium/"
-      img= "/graphics/physics/prize.jpg"
-      title = "Material Superphysics: Solutions to Millennium Prize Problems"
-      sub = "We will use Qualimath and the Physics of Rene Descartes on all Millennium Prize Problems (2030)"
+    # [languages.en.params.tricon6.items.a]
+    #   url = "/material/solutions/millennium/"
+    #   img= "/graphics/physics/prize.jpg"
+    #   title = "Material Superphysics: Solutions to Millennium Prize Problems"
+    #   sub = "We will use Qualimath and the Physics of Rene Descartes on all Millennium Prize Problems (2030)"
     # [languages.en.params.tricon6.items.e]
     #   # url = "/social/cycles/"
     #   img= "/photos/objects/gold.jpg"
@@ -413,20 +413,15 @@ paginate = 12
 
 
     [languages.en.params.tricon6.items.o]
-      url = "/superphysics/principles/chapter-04b/"
+      url = "/superphysics/principles/chapter-07/"
       img = "/graphics/physics/qualimath.jpg"
       title = "Superphysics: Qualimath"
       sub = "Mathematics that applies the operations of mind onto qualities (2022-current)"
     [languages.en.params.tricon6.items.r]
-      url = "/superphysics/principles/chapter-04b/"
-      img = "/graphics/physics/qualimath.jpg"
-      title = "Superphysics: Qualimath"
-      sub = "Mathematics that applies the operations of mind onto qualities (2022-current)"
-    [languages.en.params.tricon6.items.s]
-      url = "/superphysics/principles/chapter-04b/"
-      img = "/graphics/physics/qualimath.jpg"
-      title = "Superphysics: Qualimath"
-      sub = "Mathematics that applies the operations of mind onto qualities (2022-current)"
+      url = "/supermath/chapter-02/"
+      img = "/graphics/super/vortex.jpg"
+      title = "Superphysics: Vortex Numbers"
+      sub = "Base-5 Numbers to make geometry less irrational"
     [languages.en.params.tricon6.items.y]
       url = "/superphysics/solutions/bullet-style-writing/"
       img = "/photos/econ/writer.jpg"
