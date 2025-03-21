@@ -1,9 +1,9 @@
 ---
 heading: "Chapter 6b"
-title: "The Principle of Least Action or Effort"
+title: "Vortex Spin"
 # date: 2024-08-01
 weight: 42
-image: /graphics/physics/action.jpg
+image: /photos/physics/sparks.jpg
 description: "The Principle of Least Action or Effort"
 icon: /icons/spmat.png
 writer:
@@ -12,18 +12,16 @@ writer:
 ---
 
 
-Each of the 5 Layers implements a Conservation Law in order to maintain the balance in the universe.
 
-The Conservation Law for the Aethereal Layer is called:
-- the Conservation of Identity in Material Superphysics
-- the Conservation of Idea in Superphysics
+The constant belligerence of the 2 Forces creates vortices in the 5 Layers which is called spin by Modern Physics. 
 
-The Pauli Exclusion Principle for material particles is one of the manifestations of this law.
-- It says that matter particles cannot occupy the same energy levels, but media particles can
+This has the following characteristics:
 
-Material Superphysics explains that this is because matter particles are meant to be receivers for the media particles. 
+1. Rotation Direction
+2. Rotation Speed
+3. Rotation Strength
+4. Momentum (within the Spatial Layer)
+5. Momentum Strength 
 
-Matter particles accept the energy from force or media particles based on the their receiving-configuration. 
-
-This configuration is their svadharma or gravitational signature which must be unique, as opposed to media particles which are one unit and have dharma instead of svadharma. 
+All of these are in relation to other spins. 
 
