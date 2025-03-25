@@ -1,6 +1,6 @@
 ---
 title: "The Proofs of God's Existence"
-weight: 2
+weight: 6
 date: 2025-03-16
 description: ""
 image: "/covers/mau.jpg"

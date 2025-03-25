@@ -1,5 +1,5 @@
 ---
-# heading: Chapter 1
+# heading: Unenlightened
 title: "Pareto, Vilfredo"
 weight: 161
 description: "By Pareto"
