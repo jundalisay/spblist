@@ -86,16 +86,10 @@ The two bodies do not remain touching each other.
 
 The restoration of their former shape causes them to rebound from one another, separating from one another at the same speed with which they approached. 
 
-Their relative speed was the sole cause of their initial collision.
+**Their relative speed was the sole cause of their initial collision.**
 
 The rebounding should produce an effect equal to that which caused the collision.
 
 Thus, the final relative speed of the 2 bodies should equal the initial relative speed, albeit with opposite direction. 
 
 Hence, the final relative speed of 2 elastic bodies after the collision should be the same as the initial relative speed.
-
-Let us now seek the laws that govern the distribution of motion among colliding bodies, whether they be elastic
-or inelastic.
-
-We will derive these laws from only one principle and, from the same principle, we will derive the laws of
-mechanical equilibrium.

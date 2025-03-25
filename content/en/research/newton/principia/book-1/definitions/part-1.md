@@ -83,7 +83,8 @@ Magnetism is less in a small magnet than a bigger magnet.
 - Magnetism is less when far from a magnet and stronger when near a magnet. 
 - Gravity is stronger in the bottom of valleys, less on mountaintops, and even less away from Earth.
 
-At equal distances, it is the same everywhere; because (taking away, or allowing for, the resistance of the air), it equally accelerates all falling bodies, whether heavy or light, great or small.
+At equal distances, it is the same everywhere because (taking away, or allowing for, air resistance), it equally accelerates all falling bodies, whether heavy or light, great or small.
+
 
 ### 8. The motive quantity of a centripetal force, is the measure of the same, proportional to the motion which it generates in a given time
 
