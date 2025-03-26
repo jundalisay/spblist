@@ -2,7 +2,7 @@
 heading: Part 8
 title: General Principle
 #"Certain Laws of Motion and Equilibrium"
-weight: 23
+weight: 38
 date: 2025-03-16
 description: ""
 image: "/covers/mau.jpg"

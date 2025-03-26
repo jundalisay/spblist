@@ -1,6 +1,8 @@
 art 133-187 for magnetism
 
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}" />
 
+  
 # master links:
 /material/motion Descartes rules of motion
 /material/charges male female

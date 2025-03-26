@@ -1,6 +1,6 @@
 ---
-title: "Motion iin General"
+title: "Euler, Leonhard"
 date: 2025-03-20
-weight: 2
-image: /covers/franklin.jpg
+weight: 30
+image: /covers/mecha.jpg
 ---

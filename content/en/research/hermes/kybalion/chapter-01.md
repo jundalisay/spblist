@@ -3,8 +3,7 @@ heading: "Chapter 1"
 title: The Hermetic Philosophy Simplified
 description: In the early days, the Basic Hermetic Doctrines, passed on from teacher to student, was compiled into as The Kybalion
 image: /covers/kybalion.jpg
-
-weight: 2
+weight: 4
 ---
 
 

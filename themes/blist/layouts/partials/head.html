@@ -22,7 +22,7 @@
 
   <link rel="icon" type="image/x-icon" href="{{ .Site.Params.favicon }}">
 
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}" />
+  <meta name="description" content="{{ .Description }}" />
   
   {{- with .Params.Author }}
     <meta name="author" content="{{ . }}" />

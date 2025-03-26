@@ -1,7 +1,7 @@
 ---
 heading: Part 6
 title: "Certain Laws of Motion and Equilibrium"
-weight: 23
+weight: 33
 date: 2025-03-16
 description: ""
 image: "/covers/mau.jpg"

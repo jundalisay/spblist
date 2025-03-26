@@ -28,7 +28,7 @@
     {{ end }}
 
 
-    {{ if .Site.IsMultiLingual }}
+    <!-- if .Site.IsMultiLingual -->
     {{ if ge (len .Site.Languages) 3 }}
     <li class="relative cursor-pointer">
       <span class="language-switcher flex items-center gap-2">
@@ -76,7 +76,7 @@
       {{ end }}
     </li>
     {{ end }}
-    {{ end }}
+    <!-- end -->
 
     {{ if .Site.Params.enableSearch }}
     <li class="grid place-items-center">

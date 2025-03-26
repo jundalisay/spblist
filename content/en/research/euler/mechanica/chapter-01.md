@@ -1,48 +1,46 @@
 ---
-title: "Motion iin General"
+title: "Motion in General"
 date: 2025-03-20
-weight: 2
-image: /covers/franklin.jpg
+weight: 4
+image: /covers/mecha.jpg
 ---
 
 
 EULER'S MECHANICA VOL. 1.
 
-Chapter one.
-
-Concerning Motion In General.
-
 DEFINITION 1.
 
-1. Motion is the translation of a body from the place it occupies to another place. Truly rest
-is a body remaining at the same place.
+1. Motion is the translation of a body from the place it occupies to another place. Truly rest is a body remaining at the same place. 
+
 Corollary 1.
-2. Therefore the ideas of the body remaining at rest and of moving to other places cannot
-be entertained together, except that they occupy a place. Whereby the place or position
-the body occupies shall be a property of the body, that can be said to be possible only for
-that body, and that the body is either moving or at rest.
+
+2. Therefore the ideas of the body remaining at rest and of moving to other places cannot be entertained together, except that they occupy a place. Whereby the place or position the body occupies shall be a property of the body, that can be said to be possible only for that body, and that the body is either moving or at rest.
+
 Corollary 2.
-3. And this idea of moving or of being at rest is a property of a body that relates to all
-bodies. For no body is able to exist that is neither moving nor at rest.
+
+3. And this idea of moving or of being at rest is a property of a body that relates to all bodies. For no body is able to exist that is neither moving nor at rest.
+
+
 DEFINITION 2.
-4. The place [occupied by a body] is a part of the immense or boundless space which
-constitutes the whole world. In this sense the accepted place is accustomed to be called
-the absolute place [p. 2], in order that it may be distinguished from a relative place, of
-which mention will soon be made.
+
+4. The place [occupied by a body] is a part of the immense or boundless space which constitutes the whole world. In this sense the accepted place is accustomed to be called the absolute place [p. 2], in order that it may be distinguished from a relative place, of which mention will soon be made.
+
 Corollary 1.
+
 5. Therefore, when a body occupies successively one part and then another, of this
 immense space, then it is said to be moving ; but if it continues to be present at the same
 place always, then it is said to be at rest.
+
 Corollary 2.
+
 6. Moreover, it is customery to consider fixed boundaries of this space, to which bodies
 can be referred. And the relation with those is what is called the position [of the body].
 Therefore bodies that maintain the same positions with respect to these boundaries are
 said to be at rest. On the other hand, those that change their positions are said to be
-moving.EULER'S MECHANICA VOL. 1.
-Chapter one.
+moving.
 
-page 2
 Scholium 1.
+
 7. If you are in agreement with these definitions, then the motion is usually called
 absolute, and the state of rest absolute. And these are taken to be the true and genuine
 definitions of these quantities, since they are compliant with the laws of motion, which
@@ -1032,11 +1030,7 @@ Truly in the sixth case the motion of fluids will be the agenda.
 For these bodies we will not only see, how the remainder of the motion is to be
 continued [p. 38]; but in addition we will inquire, how these are affected by the external
 causes or forces. Finally from all these inquiries the large scale variation of the whole
-body can be inferred, whether it is free or not. For a non-free state, I understand this :EULER'S MECHANICA VOL. 1.
-Chapter one.
-
-page 25
-when bodies are impeded, by which they are unable to progress in that direction, and
+body can be inferred, whether it is free or not. For a non-free state, I understand this : when bodies are impeded, by which they are unable to progress in that direction, and
 which they try to overcome ; the motion of pendular bodies is of this kind which, since
 the are unable to descent directly, as they try, and so make oscillations. For the free state
 is to be understood : when bodies are progressing and which come upon no impediments

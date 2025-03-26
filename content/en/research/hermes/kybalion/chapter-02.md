@@ -4,7 +4,7 @@ title: The 7 Hermetic Principles Simplified
 description: There are 7 Principles of Truth. The knower of these has the Magic Key before whose touch all the Doors of the Temple fly open
 image: /covers/kybalion.jpg
 
-weight: 4
+weight: 5
 ---
 
 
