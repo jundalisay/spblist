@@ -94,7 +94,9 @@ But there were always a few faithful and fearless souls who kept alive the Flame
 
 When it was written down, its meaning was veiled in terms of alchemy and astrology so that only those with the key could read it. This was to avoid the persecutions of Church <!-- the theologians of the Middle Ages, --> who fought the Secret Doctrine with fire and sword<!-- ; stake, gibbet and cross -->. 
 
-Even today, there are only a few reliable books on Hermetic Philosophy, although there are many references to it in books on Occultism. The Hermetic Philosophy is the only Master Key which will open all the doors of the Occult Teachings!
+Even today, there are only a few reliable books on Hermetic Philosophy, although there are many references to it in books on Occultism. 
+
+The Hermetic Philosophy is the only Master Key which will open all the doors of the Occult Teachings!
 
 In the early days, the Basic Hermetic Doctrines, passed on from teacher to student, was compiled into as "THE KYBALION". <!--  the exact significance and meaning of the term having been lost for several centuries.  -->
 
@@ -104,9 +106,13 @@ In the early days, the Basic Hermetic Doctrines, passed on from teacher to stude
 
 It was merely a collection of maxims, axioms, and precepts, which were only understandable to  students. <!-- , after the axioms, maxims, and precepts had been explained and exemplified by the Hermetic Initiates to their Neophytes.  -->
 
-These formed the basic principles of "The Art of Hermetic Alchemy" which dealt in the mastery of Mental Forces, rather than Material Elements. It was the Transmutation of one kind of Mental Vibrations into others, instead of the changing of one kind of metal into another. 
+These formed the basic principles of "The Art of Hermetic Alchemy" which dealt in the mastery of Mental Forces, rather than Material Elements.
 
-The legends of the "Philosopher's Stone" which would turn base metal into Gold, was an allegory relating to Hermetic Philosophy<!-- , readily understood by all students of true Hermeticism -->.
+It was the Transmutation of one kind of Mental Vibrations into others, instead of the changing of one kind of metal into another. 
+
+The legends of the "Philosopher's Stone" which would turn base metal into Gold, was an allegory relating to Hermetic Philosophy.
+
+<!-- , readily understood by all students of true Hermeticism -->
 
 <!-- In this little book, of which this is the First Lesson, we invite our students to examine into the Hermetic Teachings, as set forth in THE KYBALION, and as explained by ourselves, humble students of the Teachings, who, while bearing the title of Initiates, are still students at the feet of HERMES, the Master. We herein give you many of the maxims, axioms and precepts of THE KYBALION, accompanied by explanations and illustrations which we deem likely to render the teachings more easily comprehended by the modern student, particularly as the original text is purposely veiled in obscure terms. -->
 

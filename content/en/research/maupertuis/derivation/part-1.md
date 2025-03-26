@@ -1,8 +1,9 @@
 ---
+heading: Part 1
 title: "The Proofs of God's Existence"
 weight: 6
 date: 2025-03-16
-description: ""
+description: "Assessment of the Proofs of God's Existence that are Based on the Marvels of Nature"
 image: "/covers/mau.jpg"
 ---
 
@@ -60,9 +61,7 @@ mind derived other arguments as well.
 
 He believed (Opticks III. Book. Query 31) that the motion of celestial bodies demonstrated the existence of Him that governs them. Six planets — Mercury, Venus, Earth, Mars, Jupiter and Saturn — revolve about the Sun. All the planets rotate in the same direction in orbits that are more-or-less concentric. 
 
-(Nevertheless, there are other bodies, the comets, that follow totally different orbits, moving in all directions and
-in every region of Heaven.) Newton believed that such uniformity of motion could only result from the will of a
-supreme Being.
+(Nevertheless, there are other bodies, the comets, that follow totally different orbits, moving in all directions and in every region of Heaven.) Newton believed that such uniformity of motion could only result from the will of a supreme Being.
 
 Newton also found strong arguments in less exalted objects. For him, the obvious similarity in the construction
 of animals, their organization and suitability for their purpose, were convincing arguments for the existence of

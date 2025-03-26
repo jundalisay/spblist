@@ -12,6 +12,8 @@ enableEmoji = true
 [pagination]
 pagerSize = 12
 
+
+
 [languages]
   [languages.en]
     contentDir = "content/en/" #English

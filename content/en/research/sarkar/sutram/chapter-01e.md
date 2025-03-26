@@ -12,7 +12,7 @@ weight: 10
 
 <!-- Guńaprabhávena bhútasaungharśádbalam. -->
 
-The firmer the binding factor on the object body, the greater the internal friction in it. 
+**The firmer the binding factor on the object body, the greater the internal friction in it.** 
 
 This clash or play of forces is called bala or práńa [power or energy]. 
 
@@ -34,25 +34,36 @@ The word práńáh is plural because it stands for 10 váyus [vital forces i
 
 <!-- Tiivrasaungharśeńa cúrńiibhútáni jad́áni cittáńu mánasadhátuh vá. -->
 
-If the manifestation of energy is too great in the object-body, some portion of the crude entity gets pulverized as the result of excessive friction in the object-body and gets metamorphosed into cittáńu [mind-stuff], which is subtler than ether. That is to say, mind is born out of matter.
+If the manifestation of energy is too great in the object-body, some portion of the crude entity gets pulverized as the result of excessive friction in the object-body.
+
+It gets metamorphosed into cittáńu [mind-stuff], which is subtler than ether. 
+
+That is to say, mind is born out of matter.
 
 
 ### 1-13. Through the combination of ectoplasmic particles in the unit structure, the feeling of citta (objective mind) evolves
 
 <!-- Vyaśt́idehe cittáńusamaváyena cittabodhah. -->
 
-The coordinated totality of all the cittáńus [ectoplasmic particles] that remain in the individual object-body centring round its totality constitute the sense of citta of that body. 
+The sense of citta of that body is made up of the coordinated totality [brahma?] of all the cittáńus [ectoplasmic particles] that remain in the individual object-body centering around its totality.
 
 This citta is the done “I”, or objective “I”, of the unit mind.
 
-Unperceived shall remain all the perceptions, whether seen or heard, of an individual, unless the citta identifies itself with their reflections on itself.
+ <!-- shall remain all the perceptions, whether seen or heard, of  -->
+
+An individual's perceptions remain unperceived, unless the citta identifies itself with their reflections on itself.
+
 
 
 ### 1-14. As the influence of the guńas wanes and rajoguńa becomes dominant, the aham (sense of doership) evolves out of the citta
 
 <!-- Cittát guńávakśaye rajoguńaprábalye aham. -->
 
-When, by the attraction of Puruśottama [the Cosmic Nucleus], the mind-stuff is gradually goaded forward under the influence of vidyá shakti [the introversial force], the predominance of tamoguńa gradually wanes and the increasing influence of rajoguńa becomes evident.
+The attraction of Puruśottama [the Cosmic Nucleus] gradually makes the mind-stuff goaded forward under the influence of vidyá shakti [the introversial force].
+
+THis makes:
+- the predominance of tamoguńa gradually wane
+- the increasing influence of rajoguńa become evident
 
 The part of the mind-body where the predominance of rajoguńa is noticeable, is called the ahaḿtattva [doer “I” or owner “I”].
 
@@ -61,6 +72,7 @@ The part of the mind-body where the predominance of rajoguńa is noticeable, is
 
 <!-- Súkśmábhimukhinii gatirudaye ahaḿtattvánmahat. -->
 
-By the attraction of vidyá shakti, even the influence of rajoguńa over the ahaḿtattva gradually starts shedding, indicating the predominance of sattvaguńa.
+By the attraction of vidyá shakti, even the influence of rajoguńa over the ahaḿtattva gradually starts shedding.
+- This indicates the predominance of sattvaguńa.
 
 The part of the ahaḿtattva where the predominance of sattvaguńa is established, is called the mahattattva [pure “I” feeling].
