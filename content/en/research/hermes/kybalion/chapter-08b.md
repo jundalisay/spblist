@@ -76,9 +76,9 @@ In our consideration of the Seven Minor Mental Planes, we have merely referred t
 We do not wish to go into this subject in detail in this work, for it does not belong to this part of the general philosophy and teachings. 
 
 
-## Piano 
+## Piano Keys Analogy
 
-In order to give you a little clearer idea, of the relations of these planes to the more familiar ones, we can say that the Elementary Planes bear the same relation to the Planes of Mineral, Plant, Animal and Human Mentality and Life, that the black keys on the piano do to the white keys.
+The Elementary Planes bear the same relation to the Planes of Mineral, Plant, Animal and Human Mentality and Life, that the black keys on the piano do to the white keys.
 
 The white keys are sufficient to produce music, but there are certain scales, melodies, and harmonies, in which the black keys play their part, and in which their presence is necessary. 
 

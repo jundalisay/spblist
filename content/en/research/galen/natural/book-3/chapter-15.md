@@ -44,7 +44,14 @@ The veins will become empty along with the arteries.
 
 This could never occur if there were not anastomoses between them. 
 
-Similarly, also, in the heart itself, the thinnest portion of the blood is drawn from the right ventricle into the left, owing to there being perforations in the septum between them: these can be seen for a great part [of their length]; they are like a kind of fossae [pits] with wide mouths, and they get constantly narrower; it is not possible, however, actually to observe their extreme terminations, owing both to the smallness of these and to the fact that when the animal is dead all the parts are chilled and shrunken.396 
+Similarly, in the heart itself, the thinnest portion of the blood is drawn from the right ventricle into the left, owing to the perforations in the septum between them.
+- These can be seen for a great part [of their length].
+- They are like a kind of fossae [pits] with wide mouths.
+- They get constantly narrower.
+
+But it is not possible to observe their extreme terminations due to:
+- the smallness of these and
+- the fact that when the animal is dead all the parts are chilled and shrunken.396 
 
 <!-- Here, too, however, our argument,397 starting from  -->
 
@@ -68,9 +75,13 @@ This suggests that not all the blood which the vena cava gives to the heart is d
 
 <!-- Nor can it be said that any of the blood is expended in the nourishment of the actual body of the heart, since there is another vein401 which breaks up in it and which does not take its origin nor get its share of blood from the heart itself.  -->
 
-And even if a certain amount is so expended, still the vein leading to the lungs is not to such a slight extent smaller than that inserted into the heart as to make it likely that the blood is used as nutriment for the heart: the disparity is much too great for such an explanation. It is, therefore, clear that something is taken over into the left ventricle.402
+Even if a certain amount is so expended, still the vein leading to the lungs does not become smaller than that inserted into the heart as to make it likely that the blood is used as nutriment for the heart.
 
-Moreover, of the two vessels connected with it, that which brings pneuma into it from the lungs403 is much smaller than the great outgrowing artery404 from which the arteries all over the body originate; 
+The disparity is much too great for such an explanation.
+
+Therefore, something is taken over into the left ventricle.402
+
+Moreover, of the two vessels connected with it, that which brings pneuma into it from the lungs403 is much smaller than the great outgrowing artery404 from which the arteries all over the body originate.
 
 This suggests that it not merely gets pneuma from the lungs, but that it also gets blood from the right ventricle through the anastomoses mentioned.
 
@@ -144,37 +155,62 @@ Nature has provided a kind of storehouse, either in the form of:
 
 Thus the flesh of the viscera and of the muscles is nourished from the blood directly, this having undergone merely a slight alteration.
 
-The bones, however, in order to be nourished, require very great change, and what blood is to flesh marrow is to bone; 
+The bones, however, in order to be nourished, require very great change.
 
-The small bones do not have central cavities. This marrow is distributed in their caverns, whereas in the larger bones which do contain central cavities the marrow is all concentrated in these.
+What blood is to flesh, marrow is to bone.
 
-For, as was pointed out in the first book,408 things having a similar substance can easily change into one another. 
+The small bones do not have central cavities. This marrow is distributed in their caverns. 
+
+Whereas in the larger bones which do contain central cavities, the marrow is all concentrated in these.
+
+<!-- For, as was pointed out in the first book,408  -->
+
+Things having a similar substance can easily change into one another (Book 1). 
 
 But it is impossible for those which are very different to be assimilated to one another without intermediate stages. 
 
-Such a one in respect to cartilage is the myxoid substance which surrounds it, and in respect to ligaments, membranes, and nerves the viscous liquid dispersed inside them.
+- In cartilage, this is the myxoid substance which surrounds it.
+- In ligaments, membranes, and nerves, this is the viscous liquid dispersed inside them.
 
-for each of these consists of numerous fibres, which are homogeneous409—in fact, actual sensible elements; 
+Each of these consists of numerous fibres, which are homogeneous409—in fact, actual sensible elements.
 
-In the intervals between these fibres is dispersed the humour most suited for nutrition; this they have drawn from the blood in the veins, choosing the most appropriate possible, and now they are assimilating it step by step and changing it into their own substance.
+In the intervals between these fibres is dispersed the humour most suited for nutrition.
+
+They get this nutrition from the blood in the veins, choosing the most appropriate possible. They assimilate it step by step, changing it into their own substance.
 
 All these considerations agree with one another.
 
  <!-- and bear sufficient witness to the truth of what has been already demonstrated; there is thus no need to prolong the discussion further. -->
 
-For, from what has been said, anyone can readily discover in what way all the particular [vital activities] come about. For instance, we could in this way ascertain why it is that in the case of many people who are partaking freely of wine, the fluid which they have drunk is rapidly absorbed410 through the body and almost the whole of it is passed by the kidneys within a very short time. 
+<!-- For, from what has been said, anyone can readily discover in what way all the particular [vital activities] come about.  -->
 
-For here, too, the rapidity with which the fluid is absorbed depends on appropriateness of quality, on the thinness of the fluid, on the width of the vessels and their mouths, and on the efficiency of the attractive faculty. 
+For instance, this is why, in those who drink a lot of wine, the wine is rapidly absorbed410 through the body into the kidneys within a very short time. 
 
-The parts situated near the alimentary canal, by virtue of their appropriateness of quality, draw in the imbibed food for their own purposes, then the parts next to them in their turn snatch it away, then those next again take it from these, until it reaches the vena cava, whence finally the kidneys attract that part of it which is proper to them. 
+The speed of fluid absorption depends on:
+- appropriateness of quality
+- the thinness of the fluid
+- the width of the vessels and their mouths
+- the efficiency of the attractive faculty
+
+The parts near the alimentary canal draw in the imbibed food for their own purposes by virtue of their appropriateness of quality.
+
+Then the parts next to them in their turn snatch it away.
+
+Then those next again take it from these, until it reaches the vena cava. 
+
+Finally, the kidneys attract that part of it which is proper to them. 
 
 This is why wine is taken up more rapidly than water due to its appropriateness of quality.
 - Clear white wine is absorbed more rapidly due to its thinness.
 - Black turbid wine is retarded on the way because of its thickness.
 
-These facts, also, will afford abundant proof of what has already been said about the arteries; 
+These facts will afford abundant proof of what has already been said about the arteries.
 
-Everywhere, such blood as is both specifically appropriate and at the same time thin in consistency answers more readily to their traction than does blood which is not so; this is why the arteries which, in their diastole, absorb vapour, pneuma, and thin blood attract either none at all or very little of the juices contained in the stomach and intestines.
+Everywhere, such blood as is both specifically appropriate and at the same time thin in consistency answers more readily to their traction than does blood which is not so.
+
+This is why the arteries which, in their diastole, absorb vapour, pneuma, and thin blood attract either none at all or very little of the juices contained in the stomach and intestines.
+
+
 
 <!-- 299 “Of food to feeder,” i.e. of the environment to the organism. cf. p. 39, chap. xi.
 

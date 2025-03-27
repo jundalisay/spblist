@@ -12,15 +12,30 @@ icon: "/icons/aris.png"
 
 
 
-'Being' has several senses. One is 'being by accident'. <!-- , we must consider first that which 'is' in this sense. Evidently none of the traditional sciences busies itself about the accidental. --> 
+'Being' has several senses. 
 
-For neither does architecture consider what will happen to those who are to use the house (e.g. whether they have a painful life in it or not), nor does weaving, or shoemaking, or the confectioner's art, do the like; but each of these sciences considers only what is peculiar to it, i.e. its proper end. And as for the argument that 'when he who is musical becomes lettered he'll be both at once, not having been both before; 
 
-That which is, not always having been, must have come to be; therefore he must have at once become musical and lettered',-this none of the recognized sciences considers, but only sophistic; for this alone busies itself about the accidental, so that Plato is not far wrong when he says that the sophist spends his time on non-being.
+One is 'being by accident'. <!-- , we must consider first that which 'is' in this sense. Evidently none of the traditional sciences busies itself about the accidental. --> 
 
-A science of the accidental is not even possible. 
+Architecture does not consider what will happen to those who are to use the house (e.g. whether they have a painful life in it or not).
 
-Everything either is always and of necessity 
+Nor does weaving, shoemaking, or the confectioner's art.
+
+But each of these sciences considers only what is peculiar to it, i.e. its proper end. 
+
+Some say that when a musical person becomes lettered, he will be both musical and lettered at once, not having been both before.
+
+They say that that which is, not always having been, must have come to be.
+
+Therefore he must have at once become musical and lettered'.
+
+This is from the sophistical sciences which busies itself about the accidental.
+
+Plato is not far wrong when he says that the sophist spends his time on non-being.
+
+**A science of the accidental is not even possible.** 
+
+Everything either is always and of necessity. 
 
 Necessity here is not in the sense of violence, but that which we appeal to in demonstrations. 
 
@@ -54,10 +69,13 @@ If the cause be supposed not to exist but to be coming to be, the same results w
 
 Tomorrow's eclipse will occur if `A` occurs, and `A` if `B` occurs, and `B` if `C` occurs.
 
-In this way, if we subtract time from the limited time between now and to-morrow we shall come sometime to the already existing condition. Therefore since this exists, everything after this will occur of necessity, so that all things occur of necessity.
+In this way, if we subtract time from the limited time between now and to-morrow we shall come sometime to the already existing condition. 
 
+Therefore since this exists, everything after this will occur of necessity, so that all things occur of necessity.
 
-As to that which 'is' in the sense of being true or of being by accident, the former depends on a combination in thought and is an affection of thought (which is the reason why it is the principles, not of that which 'is' in this sense, but of that which is outside and can exist apart, that are sought); and the latter is not necessary but indeterminate (I mean the accidental); and of such a thing the causes are unordered and indefinite.
+As to that which 'is' in the sense of being true or of being by accident, the former depends on a combination in thought and is an affection of thought (which is the reason why it is the principles, not of that which 'is' in this sense, but of that which is outside and can exist apart, that are sought).
+
+The latter is not necessary but indeterminate (I mean the accidental); and of such a thing the causes are unordered and indefinite.
 
 
 ## Luck

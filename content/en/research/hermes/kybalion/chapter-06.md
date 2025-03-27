@@ -130,25 +130,38 @@ In fact, science merely corroborates the Hermetic Teachings. The latter merely t
 
 ### Herbert Spencer
 
-Herbert Spencer had a basic principle of an "Infinite and Eternal Energy from which all things proceed." 
+Herbert Spencer had a basic principle of an "Infinite and Eternal Energy from which all things proceed."*
 
-The Hermetics recognize in Spencer's philosophy the highest outside statement of the workings of the Natural Laws that have ever been promulgated. They believe Spencer was a reincarnation of an ancient philosopher who lived in ancient Egypt thousands of years ago, and who later incarnated as Heraclitus, the Grecian philosopher who lived B. C. 500. 
+
+The Hermetics recognize in Spencer's philosophy the highest outside statement of the workings of the Natural Laws that have ever been promulgated. 
+
+They believe Spencer was a reincarnation of an ancient philosopher who lived in ancient Egypt thousands of years ago, and who later incarnated as Heraclitus, the Grecian philosopher who lived B. C. 500. 
 
 - His concept of "Infinite and Eternal Energy" is the same as <!-- as directly in the line of the Hermetic Teachings, always with the addition of their own doctrine that his "Energy" is --> the Energy of the Mind of THE ALL. 
 - His teachings on Evolution and Rhythm almost perfectly agree with the Hermetic Teachings regarding the Principle of Rhythm.
 <!-- With the Master-Key of the Hermetic Philosophy, the student of Spencer will be able to unlock many doors of the inner philosophical conceptions of the great English philosopher, whose work shows the results of the preparation of his previous incarnations.  -->
 
-So the student of Hermetics does need to abandon scientific views on the Universe. He should understand that "THE ALL is Mind; the Universe is Mental—held in the mind of THE ALL."  The other 6 Principles will "fit into" his scientific knowledge and clarify obscure points.
+<!-- So the student of Hermetics does need to abandon scientific views on the Universe. He should understand that "THE ALL is Mind; the Universe is Mental—held in the mind of THE ALL."   -->
 
-This is not to be wondered at, when we realize the influence of the Hermetic thought of the early philosophers of Greece, upon whose foundations of thought the theories of modern science largely rest. 
+The other 6 Principles will "fit into" his scientific knowledge and clarify obscure points.
 
-The acceptance of the First Hermetic Principle (Mentalism) is the only great point of difference between Modern Science and Hermetic students, and Science is gradually moving toward the Hermetic position in its groping in the dark for a way out of the Labyrinth into which it has wandered in its search for Reality.
+<!-- This is not to be wondered at, when we realize the influence of the Hermetic thought of the early philosophers of Greece, upon whose foundations of thought the theories of modern science largely rest.  -->
 
-The purpose of this lesson is to impress upon the minds of our students the fact that, to all intents and purposes, 
+The First Hermetic Principle (Mentalism) is the only great difference between Modern Science and Hermetic students.
 
-The Universe and its laws. Its phenomena are REAL. <!-- , so far as Man is concerned, as they would be under the hypotheses of Materialism or Energism. Under any hypothesis the Universe in its outer aspect is changing, ever-flowing, and transitory—and therefore devoid of substantiality and reality.  -->
+Science is gradually moving toward the Hermetic position in its groping in the dark.
 
-But (note the other pole of the truth) under the same hypotheses, we are compelled to ACT AND LIVE as if the fleeting things were real and substantial. With this difference, always, between the various hypotheses—that under the old views Mental Power was ignored as a Natural Force, while under Mentalism it becomes the Greatest Natural Force. 
+ <!-- for a way out of the Labyrinth into which it has wandered in its search for Reality. -->
+
+<!-- The purpose of this lesson is to impress upon the minds of our students the fact that, to all intents and purposes,  -->
+
+The Universe and its laws, its phenomena are REAL. 
+
+<!-- , so far as Man is concerned, as they would be under the hypotheses of Materialism or Energism. Under any hypothesis the Universe in its outer aspect is changing, ever-flowing, and transitory—and therefore devoid of substantiality and reality.  -->
+
+But (note the other pole of the truth) under the same hypotheses, we are compelled to ACT AND LIVE as if the fleeting things were real and substantial. 
+
+With this difference, always, between the various hypotheses—that under the old views Mental Power was ignored as a Natural Force, while under Mentalism it becomes the Greatest Natural Force. 
 
 This one difference revolutionizes Life, to those who understand the Principle and its resulting laws and practice.
 

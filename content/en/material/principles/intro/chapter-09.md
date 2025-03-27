@@ -51,6 +51,15 @@ The differences between gravitational signatures create movement between identit
 - repulsion
 - stasis
 
+
+
+{{< q a="Galen" c="The Natural Faculties, Chapter 6" >}}
+There exists in almost all parts of the animal a certain inclination or appetite for their own special quality, and an aversion to the foreign quality. When they feel an inclination they should attract. When they feel aversion they should expel. Both the attractive and the propulsive faculties have been demonstrated to exist in everything.
+{{< /q >}}
+
+
+
+
 <!-- The addition or splitting of signatures is from the Negative Force, while the resulting stability is from the Positive. 
 
 It follows that the energy or driving force is from the Positive and Negative Forces that exert themselves through the gravitational signature. -->

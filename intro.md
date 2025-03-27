@@ -1,5 +1,5 @@
 art 133-187 for magnetism
-
+--disableFastRender
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}" />
 
   

@@ -63,4 +63,8 @@ Thus too, the coat of a vein, being single, consists of various kinds of fibres;
 
 Alone of all organs the intestines consist of two coats of which both have their fibres transverse.357 
 
-Now the proof that it was for the best that all the organs should be naturally such as they are (that, for instance, the intestines should be composed of two coats) belongs to the subject of the use of parts358; thus we must not now desire to hear about matters of this kind nor why the anatomists are at variance regarding the number of coats in each organ. For these questions have been sufficiently discussed in the treatise “On Disagreement in Anatomy.” And the problem as to why each organ has such and such a character will be discussed in the treatise “On the Use of Parts.”
+Now the proof that it was for the best that all the organs should be naturally such as they are (that, for instance, the intestines should be composed of two coats) belongs to the subject of the use of parts358; 
+
+Thus we must not now desire to hear about matters of this kind nor why the anatomists are at variance regarding the number of coats in each organ.
+
+These questions have been sufficiently discussed in the treatise “On Disagreement in Anatomy.” And the problem as to why each organ has such and such a character will be discussed in the treatise “On the Use of Parts.”

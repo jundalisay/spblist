@@ -68,7 +68,9 @@ Nevertheless, his original truths have been kept intact in their original purity
 - They followed the Hermetic custom and reserved their truth for the few who were ready to comprehend and master it.
 
 
-There have always been a few Initiates in each generation who kept alive the sacred flame of the Hermetic Teachings. These men devoted their lives to the labor of love:
+There have always been a few Initiates in each generation who kept alive the sacred flame of the Hermetic Teachings. 
+
+<!-- These men devoted their lives to the labor of love: -->
 
 <!-- and such have always been willing to use their lamps to re-light the lesser lamps of the outside world, when the light of truth grew dim, and clouded by reason of neglect, and when the wicks became clogged with foreign matter. 
 
@@ -90,14 +92,18 @@ But their customary attitude has always been strictly in accordance with the oth
 
 There are those who have criticized this attitude of the Hermetists. They have claimed that they did not manifest the proper spirit in their policy of seclusion and reticence.
 
-But these show the wisdom of the Masters, who knew the folly of teaching to the world that which it was neither ready or willing to receive. 
+But these show the wisdom of the Masters, who knew the folly of teaching to the world that which it was neither ready or willing to receive.
 
-The Hermetists have never sought to be martyrs. They have, instead, sat silently aside while the "heathen raged noisily about them" in their customary amusement of putting to death and torture the honest but misguided enthusiasts who imagined that they could force upon barbarians the truth.
+The Hermetists have never sought to be martyrs.
+
+They have, instead, sat silently aside while the "heathen raged noisily about them" in their customary amusement of putting to death and torture the honest but misguided enthusiasts who imagined that they could force upon barbarians the truth.
 
  <!-- capable of being understood only by the elect who had advanced along The Path. -->
 
 <!-- The spirit of persecution has not as yet died out in the land.  -->
 
-There are certain Hermetic Teachings, which, if publicly promulgated, would bring down upon the teachers a great cry of scorn and revilement from the multitude, who would again raise the cry of "Crucify! Crucify."
+There are certain Hermetic Teachings, which, if publicly promulgated, would bring scorn on the teachers.
+
+ <!-- a great cry of scorn and revilement from the multitude, who would again raise the cry of "Crucify! Crucify." -->
 
 <!-- In this little work we have endeavored to give you an idea of the fundamental teachings of The Kybalion, striving to give you the working Principles, leaving you to apply therm yourselves, rather than attempting to work out the teaching in detail. If you are a true student, you will be able to work out and apply these Principles—if not, then you must develop yourself into one, for otherwise the Hermetic Teachings will be as "words, words, words" to you. -->

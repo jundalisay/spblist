@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: Mental Transmutation Simplified
 description: The Hermetists were the original alchemists, astrologers, and psychologists, with Hermes as the founder of these schools
 image: /covers/kybalion.jpg
-weight: 6
+weight: 8
 ---
 
 

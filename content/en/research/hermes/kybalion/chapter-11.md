@@ -28,20 +28,30 @@ This Principle* is closely connected with the Principle of Polarity.
 {{< n n="This is karma in Hinduism and Buddhism" >}}
 
 
-Rhythm manifests between the two poles. This does not mean, however, that the pendulum of Rhythm swings to the extreme poles, for this rarely happens. In fact, it is difficult to establish the extreme polar opposites in the majority of cases. But the swing is ever "toward" first one pole and then the other.
+Rhythm manifests between the two poles. 
+
+This does not mean, however, that the pendulum of Rhythm swings to the extreme poles, for this rarely happens. 
+
+In fact, it is difficult to establish the extreme polar opposites in the majority of cases. But the swing is ever "toward" first one pole and then the other.
 
 There is always:
 - an action and reaction
 - an advance and a retreat
 - a rising and a sinking
 
-This manifested in all of the airs and phenomena of the Universe. Suns, worlds, men, animals, plants, minerals, forces, energy, mind and matter, yes, even Spirit, manifests this Principle. The Principle manifests in the creation and destruction of worlds; in the rise and fall of nations; in the life history of all things; and finally in the mental states of Man.
+This manifested in all of the airs and phenomena of the Universe. Suns, worlds, men, animals, plants, minerals, forces, energy, mind and matter, yes, even Spirit, manifests this Principle.
+
+The Principle manifests in the creation and destruction of worlds; in the rise and fall of nations; in the life history of all things; and finally in the mental states of Man.
 
 Beginning with the manifestations of Spirit—of THE ALL—it will be noticed that there is ever the Outpouring and the Indrawing; the "Outbreathing and Inbreathing of Brahm," as the Brahmans word it. 
 
-Universes are created; reach their extreme low point of materiality; and then begin in their upward swing. Suns spring into being, and then their height of power being reached, the process of retrogression begins, and after aeons they become dead masses of matter, awaiting another impulse which starts again their inner energies into activity and a new solar life cycle is begun. 
+Universes are created; reach their extreme low point of materiality; and then begin in their upward swing. 
 
-Thus, it is with all the worlds; they are born, grow and die; only to be reborn. And thus it is with all the things of shape and form; they swing from action to reaction; from birth to death; from activity to inactivity—and then back again. Thus it is with all living things; they are born, grow, and die—and then are reborn. 
+Suns spring into being, and then their height of power being reached, the process of retrogression begins, and after aeons they become dead masses of matter, awaiting another impulse which starts again their inner energies into activity and a new solar life cycle is begun. 
+
+Thus, it is with all the worlds; they are born, grow and die; only to be reborn. And thus it is with all the things of shape and form; they swing from action to reaction; from birth to death; from activity to inactivity—and then back again.
+
+Thus it is with all living things; they are born, grow, and die—and then are reborn. 
 
 So it is with all great movements, philosophies, creeds, fashions, governments, nations, and all else-birth, growth, maturity, decadence, death-and then new-birth. The swing of the pendulum is ever in evidence.
 
@@ -137,4 +147,3 @@ The millionaire may have the inclination toward feasting, and the wealth wherewi
 He envies the appetite of the poor laborer who gets more pleasure from his plain food. <!--  than the millionaire could obtain even if his appetite were not jaded, nor his digestion ruined, for the wants, habits and inclinations differ. And so it is through life.  -->
 
 The Law of Compensation is ever in operation, striving to balance and counter-balance. It always succeeds eventually, even though several lives may be required for the return swing of the Pendulum of Rhythm.
-

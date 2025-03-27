@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 8"
-title: Planes Of Correspondence
+title: "Principle 2: Planes Of Correspondence"
 description: The Second Hermetic Principle says that there is a harmony, agreement, and correspondence between the several planes of Manifestation, Life and Being
 image: /covers/kybalion.jpg
 weight: 16
@@ -16,23 +16,29 @@ The Second Hermetic Principle says that there is a harmony, agreement, and corre
 
 The Universe may be divided into 3 great classes of phenomena, as the Three Great Planes with artificial and arbitrary divisions:
 
-1. The Great Physical Plane. 
-2. The Great Mental Plane. 
-3. The Great Spiritual Plane.
+1. The Great Physical Plane
+2. The Great Mental Plane
+3. The Great Spiritual Plane
 
-These are but ascending degrees of the great scale of Life, the lowest point of which is undifferentiated Matter, and the highest point that of Spirit.
+These are but ascending degrees of the great scale of Life.
+- The lowest point is undifferentiated Matter
+- The highest point is Spirit
 
-The different Planes shade into each other, so that no hard and fast division may be made between the higher phenomena of the Physical and the lower of the Mental; or between the higher of the Mental and the lower of the Physical.
+The different Planes shade into each other. No hard and fast division may be made between:
+- the higher phenomena of the Physical and the lower of the Mental or
+- the higher of the Mental and the lower of the Physical.
 
-In short, the Three Great Planes may be regarded as three great groups of degrees of Life Manifestation. 
+The Three Great Planes are three great groups of degrees of Life Manifestation. 
 
-While the purposes of this little book do not allow us to enter into an extended discussion of, or explanation of, the subject of these different planes, still we think it well to give a general description of the same at this point.
+<!-- While the purposes of this little book do not allow us to enter into an extended discussion of, or explanation of, the subject of these different planes, still we think it well to give a general description of the same at this point. -->
 
 <!-- At the beginning we may as well consider the question so often asked by the neophyte, who desires to be informed regarding the meaning of the word "Plane", which term has been very freely used, and very poorly explained, in many recent works upon the subject of occultism. The question is generally about as follows:  -->
 
 "Is a Plane a place having dimensions? Or is it merely a condition or state?" 
 
-We answer: "No, not a place, nor ordinary dimension of space; and yet more than a state or condition. It may be considered as a state or condition, and yet the state or condition is a degree of dimension, in a scale subject to measurement." Somewhat paradoxical, is it not? But let us examine the matter. 
+We answer: "It is not a place, nor ordinary dimension of space. It is more than a state or condition. It is a state or condition. But a state or condition is a degree of dimension, in a scale subject to measurement."
+
+This is somewhat paradoxical.
 
 A "dimension" is "a measure in a straight line, relating to measure," etc. 
 
@@ -40,25 +46,52 @@ The ordinary dimensions of space are length, width, and height.
 
 <!-- , or perhaps length, breadth, height, thickness or circumference.  -->
 
-But there is another dimension of "created things" or "measure in a straight line," known to occultists, and to scientists as well, although the latter have not as yet applied the term "dimension" to it. 
+But there is another dimension of "created things" or "measure in a straight line," known to occultists and scientists.
+- Scientists have not as yet applied the term "dimension" to it. 
 
-This new dimension, which, by the way, is the much speculated -about "Fourth Dimension," is the standard used in determining the degrees or "planes."
+
+## The Fourth Dimension
+
+This new dimension is the "Fourth Dimension". It is the standard used in determining the degrees or "planes."
 
 This Fourth Dimension may be called "The Dimension of Vibration". 
 
-It is a fact well known to modern science, as well as to the Hermetists who have embodied the truth in their "Third Hermetic Principle," that "everything is in motion; everything vibrates; nothing is at rest." 
+It is a fact well known to modern science, as well as to the Hermetists who have embodied the truth in their 
 
-From the highest manifestation, to the lowest, everything and all things Vibrate. Not only do they vibrate at different rates of motion, but as in different directions and in a different manner. The degrees of the rate of vibrations constitute the degrees of measurement on the Scale of Vibrations—in other words the degrees of the Fourth Dimension. 
+The "Third Hermetic Principle [of Vibration]" is that "everything is in motion; everything vibrates; nothing is at rest." 
 
-And these degrees form what occultists call "Planes" The higher the degree of rate of vibration, the higher the plane, and the higher the manifestation of Life occupying that plane. 
+<!-- From the highest manifestation, to the lowest, everything and all things Vibrate. Not only do  -->
 
-So that while a plane is not "a place," nor yet "a state or condition," yet it possesses qualities common to both. We shall have more to say regarding the subject of the scale of Vibrations in our next lessons, in which we shall consider the Hermetic Principle of Vibration.
+Everything vibrates at:
+- different rates of motion
+- different directions
+- different ways
 
-You will kindly remember, however, that the Three Great Planes are not actual divisions of the phenomena of the Universe, but merely arbitrary terms used by the Hermetists in order to aid in the thought and study of the various degrees and Forms of universal activity and life. 
+The rate of vibrations constitute the degrees of measurement on the Scale of Vibrations—in other words the degrees of the Fourth Dimension. 
 
-The atom of matter, the unit of force, the mind of man, and the being of the arch -angel are all but degrees in one scale, and all fundamentally the same, the difference between solely a matter of degree, and rate of vibration—all are creations of THE ALL, and have their existence solely within the Infinite Mind of THE ALL.
+These degrees form what occultists call "Planes".
 
-The Hermetists sub-divide each of the Three Great Planes into Seven Minor Planes, and each of these latter are also sub-divided into seven sub-planes, all divisions being more or less arbitrary, shading into each other, and adopted merely for convenience of scientific study and thought.
+The higher the degree of rate of vibration, the higher the plane, and the higher the manifestation of Life occupying that plane. 
+
+A plane is not "a place" nor yet "a state or condition".
+
+Yet it possesses qualities common to both.
+
+<!-- We shall have more to say regarding the subject of the scale of Vibrations in our next lessons, in which we shall consider the Hermetic Principle of Vibration. -->
+
+The Three Great Planes are not actual divisions of the phenomena of the Universe. 
+
+They are merely arbitrary terms used to aid in the study of the various degrees and Forms of universal activity and life. 
+
+The atom of matter, the unit of force, the mind of man, and the being of the archangel are all but degrees in one scale.
+
+They are all fundamentally the same. The difference is in their degree and rate of vibration.
+
+<!-- —all are creations of THE ALL, and have their existence solely within the Infinite Mind of THE ALL. -->
+
+The Hermetists sub-divide each of the Three Great Planes into Seven Minor Planes.
+
+Each of these latter are also sub-divided into seven sub-planes, all divisions being more or less arbitrary, shading into each other, and adopted merely for convenience of scientific study and thought.
 
 The Great Physical Plane, and its Seven Minor Planes, is that division of the phenomena of the Universe which includes all that relates to physics, or material things, forces, and manifestations.
 
@@ -79,7 +112,10 @@ This comprises the forms of Matter in its form of solids, liquids, and gases.
 
 2. The Plane of Matter (B) 
 
-This comprises higher and more subtle forms of Matter of which modern science is now recognizing. An example is the phenomena of Radiant Matter, in its phases of radium, etc., belonging to the lower sub-division of this Minor Plane.
+This comprises higher and more subtle forms of Matter of which modern science is now recognizing. 
+
+An example is the phenomena of Radiant Matter, in its phases of radium, etc., belonging to the lower sub-division of this Minor Plane.
+
 
 3. The Plane of Matter (C) 
 
@@ -92,7 +128,10 @@ This comprises "The Ether" of science*. It is a substance of extreme tenuity and
 {{< n n="The planes of the Kybalion are mixed up and confused." >}}
 
 
-This Ethereal Substance forms a connecting link between Matter (so-called) and Energy, and partakes of the nature of each. The Hermetic Teachings, however, instruct that this plane has seven sub-divisions (as have all of the Minor Planes), and that in fact there are seven ethers, instead of but one.
+This Ethereal Substance forms a connecting link between Matter (so-called) and Energy, and partakes of the nature of each. 
+
+The Hermetic Teachings, however, instruct that this plane has seven sub-divisions (as have all of the Minor Planes), and that in fact there are seven ethers, instead of but one.
+
 
 5. The Plane of Energy (A) 
 
@@ -114,7 +153,9 @@ This comprises 7 subplanes of higher forms of energy not as yet discovered by sc
 
 7. The Plane of Energy (C)
 
-This comprises 7 sub-planes of energy so highly organized that it bears many of the characteristics of "life". But it is not recognized by the minds of ordinary men. It is available for the use of beings of the Spiritual Plane alone and is considered as "the divine power"*.
+This comprises 7 sub-planes of energy so highly organized that it bears many of the characteristics of "life". 
+
+But it is not recognized by the minds of ordinary men. It is available for the use of beings of the Spiritual Plane alone and is considered as "the divine power"*.
 
 
 {{< n n="In Superphysics, the divine power comes from the nature of the aether." >}}

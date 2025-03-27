@@ -1,7 +1,7 @@
 ---
 title: "12 Strands of DNA"
 weight: 4
-image: "/photos/med/sperm.jpg"
+image: "/graphics/bio/dna.jpg"
 description: "3 strands of DNA are for physical reality"
 ---
 
@@ -9,6 +9,9 @@ description: "3 strands of DNA are for physical reality"
 ### Part of Reality Generation 
 
 2 or 3 strands of DNA are for physical reality.
+
+
+{{< i s="/graphics/bio/dna.jpg" a="DNA" >}}
 
 9 are for higher dimensional planes. These are energy strands that represent the soul blueprint that are then connected to the physical DNA.  
 

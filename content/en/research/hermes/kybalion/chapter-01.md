@@ -40,20 +40,24 @@ Since the days of Hermes, ancient Egypt had the great Adepts and Masters who hav
 
 <!-- , during the centuries that have taken their processional flight .  -->
 
-Egypt had the Great Lodge of Lodges of the Mystics. Her Temples accepted the Neophytes who later became Hierophants, Adepts, and Masters. They traveled to the world bringing precious knowledge willing to pass on to those who were ready to receive them. 
+Egypt had the Great Lodge of Lodges of the Mystics. Her Temples accepted the Neophytes who later became Hierophants, Adepts, and Masters. 
+
+<!-- They traveled to the world bringing precious knowledge willing to pass on to those who were ready to receive them.  -->
 
 All students of the Occult recognize the debt that they owe to these venerable Masters of that ancient land.
 
-But among these great Masters of Ancient Egypt there once dwelt one of whom Masters hailed as "The ." This man, if "man" indeed he was, dwelt in Egypt in the earliest days. 
+<!-- But among these great Masters of Ancient Egypt there once dwelt one of whom Masters hailed as "The ." This man, if "man" indeed he was, dwelt in Egypt in the earliest days.  -->
 
 The Master of Masters was Hermes Trismegistus who lived in Egypt. He was:
 - the father of the Occult Wisdom
 - the founder of Astrology
 - the discoverer of Alchemy. 
 
-The details of his life story are lost to history, owing to the lapse of the years, though several of the ancient countries disputed with each other in their claims to the honor of having furnished his birthplace—and this thousands of years ago. 
+The details of his life story are lost to history.
 
-The date of his sojourn in Egypt, in that his last incarnation on this planet, is not now known, but it has been fixed at the early days of the oldest dynasties of Egypt—long before the days of Moses. 
+<!-- , owing to the lapse of the years, though several of the ancient countries disputed with each other in their claims to the honor of having furnished his birthplace—and this thousands of years ago.  -->
+
+The date of his sojourn in Egypt, in that his last incarnation on this planet, is not now known. But it has been fixed at the early days of the oldest dynasties of Egypt—long before the days of Moses. 
 
 The best authorities call him as a contemporary of Abraham. Some Jewish traditions go so far as to claim that Abraham learned mysticism from Hermes.
 
@@ -83,7 +87,7 @@ This because of the warning of the ancient teachers against allowing the Secret 
 The ancient occultism of India and Persia degenerated and was largely lost because the teachers became priests and mixed theology with philosophy. This caused occultism to be lost amidst religious superstition, cults, creeds and "gods". 
 
 This was also true with:
-- Ancient Greece and Rome.
+- Ancient Greece and Rome
 - the Hermetic Teachings of the Gnostics and Early Christians, which were lost at the time of Constantine
 
 <!-- , whose iron hand smothered philosophy with the blanket of theology, losing to the Christian Church that which was its very essence and spirit, and causing it to grope throughout several centuries before it found the way back to its ancient faith, the indications apparent to all careful observers in this Twentieth Century being that the Church is now struggling to get back to its ancient mystic teachings. -->

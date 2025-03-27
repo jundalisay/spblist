@@ -16,15 +16,19 @@ THE ALL is SPIRIT! But what is Spirit?
 
 <!-- This question cannot be answered, for the reason that its definition is practically that of  -->
 
-THE ALL cannot be explained or defined. Spirit is simply a name that men give to the highest conception of Infinite Living Mind. It means:
+THE ALL cannot be explained or defined. Spirit is the highest conception of Infinite Living Mind. It means:
 - "the Real Essence"
 - Living Mind, much superior to Life and Mind as we know them, just as the latter are superior to mechanical Energy and Matter. 
 
-Spirit transcends our understanding. We use the term "Spirit" so we can think of THE ALL. 
+Spirit transcends our understanding. We use the term "Spirit" so we can think of THE ALL.*
+
+{{< n n="The author's defintion of Spirit is the same as Deity. So it is still unscientific." >}}
 
 <!-- For the purposes of thought and understanding, we are justified in  -->
 
-We think of Spirit as Infinite Living Mind to be able to think of It, at the same time acknowledging that we cannot fully understand it. We must either do this or stop thinking of the matter at all.
+We think of Spirit as Infinite Living Mind. We acknowledge that we cannot fully understand it. 
+
+We must either do this or stop thinking of the matter at all.
 
 
 ## What is the Universe? 
@@ -48,8 +52,6 @@ Some philosophers say that THE ALL created the Universe from ITSELF*. But this w
 
 
 {{< n n="This is the answer of Buddhism and Hinduism which Superphysics adopts. This leads to the two forces of Yin-Yang" >}}
-
-
 
 
 Some people realize this and shout <!--  men, indeed, realizing that THE ALL is indeed ALL, and also recognizing that they, the men, existed, have jumped to the conclusion that they and THE ALL were identical, and they have filled the air with shouts of --> "I AM GOD," to the amusement of sages. It would be similar to an object saying: "I am Man!"

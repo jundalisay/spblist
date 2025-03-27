@@ -10,13 +10,30 @@ image: /covers/natural.jpg
 
 
 
-It is through the same channel that both attraction and discharge take place at different times. For obviously the inlet to the stomach does not merely conduct food and drink into this organ, but in the condition of nausea it performs the opposite service. Further, the neck of the bladder which is beside the liver, albeit single, both fills and empties the bladder. Similarly the canal of the uterus affords an entrance to the semen and an exit to the foetus.
+It is through the same channel that both attraction and discharge take place at different times.
 
-But in this latter case, again, whilst the eliminative faculty is evident, the attractive faculty is not so obvious to most people. It is, however, the cervix which Hippocrates blames for inertia of the uterus when he says:—“Its orifice has no power of attracting semen.”361
+The inlet to the stomach does not merely conduct food and drink into this organ, but in the condition of nausea it performs the opposite service.
 
-Erasistratus, however, and Asclepiades reached such heights of wisdom that they deprived not merely the stomach and the womb of this faculty but also the bladder by the liver, and the kidneys as well. I have, however, pointed out in the first book that it is impossible to assign any other cause for the secretion of urine or bile.362
+The neck of the bladder which is beside the liver, albeit single, both fills and empties the bladder. Similarly the canal of the uterus affords an entrance to the semen and an exit to the foetus.
 
-Now, when we find that the uterus, the stomach and the bladder by the liver carry out attraction and expulsion through one and the same duct, we need no longer feel surprised that Nature should also frequently discharge waste-substances into the stomach through the veins. Still less need we be astonished if a certain amount of the food should, during long fasts, be drawn back from the liver into the stomach through the same veins363 by which it was yielded up to the liver during absorption of nutriment.364 To disbelieve such things would of course be like refusing to believe that purgative drugs draw their appropriate humours from all over the body by the same stomata through which absorption previously takes place, and to look for separate stomata for absorption and purgation respectively. 
+But in this latter case, again, whilst the eliminative faculty is evident, the attractive faculty is not so obvious to most people.
+
+Hippocrates blames the cervix for inertia of the uterus:
+
+{{< q a="Hippocrates" >}}
+“Its orifice has no power of attracting semen.”361
+{{< /q >}}
+
+
+Erasistratus, however, and Asclepiades reached such heights of wisdom that they deprived not merely the stomach and the womb of this faculty but also the bladder by the liver, and the kidneys as well.
+
+Book 1 explained that it is impossible to assign any other cause for the secretion of urine or bile.362
+
+Now, when we find that the uterus, the stomach and the bladder by the liver carry out attraction and expulsion through one and the same duct, we need no longer feel surprised that Nature should also frequently discharge waste-substances into the stomach through the veins. 
+
+Still less need we be astonished if a certain amount of the food should, during long fasts, be drawn back from the liver into the stomach through the same veins363 by which it was yielded up to the liver during absorption of nutriment.364 
+
+To disbelieve such things would of course be like refusing to believe that purgative drugs draw their appropriate humours from all over the body by the same stomata through which absorption previously takes place, and to look for separate stomata for absorption and purgation respectively. 
 
 One and the same stoma subserves two distinct faculties, and these exercise their pull at different times in opposite directions—first it subserves the pull of the liver and, during catharsis, that of the drug. What is there surprising, then, in the fact that the veins situated between the liver and the region of the stomach365 fulfil a double service or purpose?
 
@@ -99,4 +116,3 @@ How and in what manner this takes place will be stated in my work “On the Use 
 Thus it is inevitable that the reflux into the venous artery388 (as will also be made clear in the work mentioned) should be much greater than through the other openings. 
 
 But what it is important for our present purpose to recognise is that every thing possessing a large and appreciable cavity must, when it dilates, abstract matter from all its neighbours, and, when it contracts, must squeeze matter back into them. This should all be clear from what has already been said in this treatise and from what Erasistratus and I myself have demonstrated elsewhere respecting the tendency of a vacuum to become refilled.389
-
