@@ -31,12 +31,38 @@ There are an infinite number of instances, and so the mind would have to assign 
 
 Since the mind's memory capacity is infinite, it groups the identities into repeatable patterns using the same base identities. 
 
-Humans have settled for base-10 as its grouping. For example, instead of writing arbitrary symbols up to infinity such as 1, 2, 3, 4, 5, 6, 7, 8, 9, 𝄞, 𝄢, 𝄬, 𝄮, 𝅘𝅥, 
+Humans have settled for base-10 as its grouping. For example, instead of writing arbitrary symbols up to infinity such as:
+
+```
+1, 2, 3, 4, 5, 6, 7, 8, 9, 𝄞, 𝄢, 𝄬, 𝄮, 𝅘𝅥,..
+```
+
+We could simply reuse the names of the identities by grouping them into 10:
+
+```
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15..
+```
+
+This makes sense since humans have 10 fingers. So each finger represents an instance of identity.
 
 
-simply repeats the names of the identities. 
+### Base 5
 
+But since there are 5 Elements and not 10, it's better to use base-5:
 
-### The Base
+```
+1, 2, 3, 4, 10, 11, 12, 13, 14, 20, 21..
+```
+
+But this is confusing to people who have been used to base-10. So we use totally different symbols for the numbers based on the keyboard:
+
+```
+!, @, #, $, 0, !0, !@, !#, !$, @0, @1..
+```
+
+In this way, `! + ! = @`. More properly, it is `! + ! :: @`.
 
 Vortex numbers are base-5 instances that can make geometry easier and less irrational.
+
+It helps explain the relationship between the constants. 
+

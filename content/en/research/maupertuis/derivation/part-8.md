@@ -9,11 +9,9 @@ image: "/covers/mau.jpg"
 ---
 
 
-What are the laws that govern the distribution of motion among colliding bodies, whether elastic
-or inelastic?
+What are the laws that govern the distribution of motion among colliding bodies, whether elastic or inelastic [static or energetic]?
 
-We will derive these laws from only one principle. From the same principle, we will derive the laws of
-mechanical equilibrium.
+We will derive these laws from only one principle. From the same principle, we will derive the laws of mechanical equilibrium.
 
 
 ## General Principle
@@ -22,7 +20,8 @@ mechanical equilibrium.
 
 The quantity of action is the product of the mass of the bodies times their speed and the distance they travel.
 
-<!-- jun: 1 kg x 1 m/s x 1m = 1 kg/s -->
+{{< n n="Assuming a 1 kg mass travels 1 meter in a second, then `1 kg * 1 m/s * 1m = 1 kg/s`. So state 1 is static or potential and state 2 is dynamic, which an action expresses as `1 kg / s`. The speed of light is therefore ">}}
+
 
 
 When a body is transported from one place to another, the action is proportional to:
