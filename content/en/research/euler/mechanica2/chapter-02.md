@@ -1,5 +1,5 @@
 ---
-heading: Chapter 3
+heading: Chapter 2
 title: "The Rectilinear Motion Of A Free Point Acted On By Absolute Forces"
 date: 2025-03-20
 weight: 4
