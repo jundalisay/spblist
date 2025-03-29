@@ -1,6 +1,6 @@
 ---
 heading: Chapter 6d
-title: "The Effect Of Forces Acting On A Free Point"
+title: "THE CURVILINEAR MOTION OF A FREE POINT IN A RESISTIVE MEDIUM"
 date: 2025-03-20
 weight: 4
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
@@ -8,9 +8,6 @@ author: "Euler"
 image: /covers/mecha.jpg
 ---
 
-
-
-THE CURVILINEAR MOTION OF A FREE POINT IN A RESISTIVE MEDIUM
 
 PROPOSITION 126.
 PROBLEM.
