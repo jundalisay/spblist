@@ -1,3 +1,14 @@
+---
+heading: Chapter 1b
+title: "Motion in General"
+date: 2025-03-20
+weight: 4
+description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+author: "Euler"
+image: /covers/mecha.jpg
+---
+
+
 PROPOSITION 1. Theorem.
 
 13. Every body, that is carried from one place to another place by relative or absolute
@@ -1054,4 +1065,3 @@ the First Volume to be concerned with the motion of free points, and the followi
 Volume truly set up to explore the motion of points which are not in free motion ; in both
 of which, and which will occur, as with these already dealt with, so likewise for these that
 follow, I shall derive the motions from first principles using the analytical method.
-

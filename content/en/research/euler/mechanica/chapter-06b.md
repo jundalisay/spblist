@@ -1,5 +1,5 @@
 ---
-heading: Chapter 6a
+heading: Chapter 6b
 title: "The Curvilinear Motion Of A Free Point In A Resistive Medium"
 date: 2025-03-20
 weight: 4

@@ -1,6 +1,7 @@
 baseurl = "https://www.superphysics.org"
 metaDataFormat = "yaml"
-title = "Superphysics"
+title = "Superphysics: A New Science"
+description = "Superphysics is science merged with metaphysics for solving problems"
 theme = "blist"
 
 DefaultContentLanguage = "en"

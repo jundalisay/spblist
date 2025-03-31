@@ -1,5 +1,5 @@
 ---
-heading: Chapter 2
+heading: Chapter 2c
 title: "THE MOTION OF A POINT ON A GIVEN LINE IN A VACUUM"
 date: 2025-03-20
 weight: 4
@@ -9,12 +9,7 @@ image: /covers/mecha.jpg
 ---
 
 
-
-THE MOTION OF A POINT ON A GIVEN LINE IN A VACUUM
-
-
-PROPOSITION 25.
-Problem.
+PROPOSITION 25. Problem.
 
 224. If a body is drawn downwards by some constant force, to find the curve AM (Fig.
 32), that a body descending on that curve presses upon equally everywhere.

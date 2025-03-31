@@ -1,6 +1,6 @@
 ---
 heading: Chapter 3e
-title: "The Rectilinear Motion Of A Free Point Acted On By Absolute Forces"
+title: "THE MOTION OF A POINT ON A GIVEN LINE IN A MEDIUM WITH RESISTANCE"
 date: 2025-03-20
 weight: 4
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
@@ -9,11 +9,8 @@ image: /covers/mecha.jpg
 ---
 
 
-CONCERNING THE MOTION OF A POINT ON A GIVEN LINE IN A MEDIUM WITH RESISTANCE.
 
-
-PROPOSITION 73.
-Problem.
+PROPOSITION 73. Problem.
 
 649. If the force is uniform and acting downwards and the medium resists according to
 some power of the ratio of the speed, to determine the curve AM (Fig.73), upon which
@@ -432,17 +429,16 @@ questions of this kind [p. 365]. However, in this work I will examine the questi
 brachistochrone curve, since that, even if the condition of the time has to be prescribed,
 cannot be reduced to ratios of the speeds, and to which we will now attend. Whereby I
 will use the same premises as in the above treatment of the brachistochrone in vacuo (361
-– 366).EULER'S MECHANICA VOL. 2.
-Chapter 3e.
-Translated and annotated by Ian Bruce.
-page 524
-PROPOSITION 76.
-Theorem.
+– 366).
+
+PROPOSITION 76. Theorem.
+
 673. In a medium with any kind of resistance and under the hypothesis of absolute forces
 of any kind, that curve AMC is a brachistochrone or that produces the shortest time of
 descent between A and C; in which the centrifugal force is equal to the normal force,
 and directed in the same plane.
 Demonstration.
+
 Whatever the absolute forces should be acting on the
 body at M , these can be resolved into two forces
 normal to each other, of which the one is ML = P,
@@ -475,11 +471,10 @@ Pdy −Qdx
 is the normal force acting along MO and arises from
 ds
 each force P and Q. Whereby if the centrifugal force is equal to the normal force and
-along the same direction in the same plane, then the curve is a brachistochrone. Q.E.D.EULER'S MECHANICA VOL. 2.
-Chapter 3e.
-page 525
-Translated and annotated by Ian Bruce.
+along the same direction in the same plane, then the curve is a brachistochrone. Q.E.D.
+
 Corollary 1.
+
 674. If the normal force, which arises from the resolution of the absolute forces acting on
 the body, is called N and the tangential force arising from the same resolution is put as T,
 then [the basic equations become] :
@@ -503,22 +498,25 @@ have accepted r = dxddy
 dxddy
 3
 3
+
 Corollary 3.
+
 677. Since v = Nr
 is produced naturally from the formula of the brachistochrone, if this
 2
 value is substituted in place of v everywhere in the other equation dv = (T-R)ds , then
 equation showing the nature of the brachistochrone curve is obtained.
+
 Corollary 4.
+
 678. Therefore in whatever the resisting medium and for whatever the forces acting on
 the body, these curves are all brachistochrones, in which the total force sustained by the
 curve exerts a force which is twice as great as either the centrifugal force alone or the
-forces acting alone that arise from the resolution of the normal force. [p. 368]EULER'S MECHANICA VOL. 2.
-Chapter 3e.
-Translated and annotated by Ian Bruce.
-page 526
-PROPOSITION 77.
-Problem.
+forces acting alone that arise from the resolution of the normal force.
+
+
+PROPOSITION 77. Problem.
+
 679. In a uniform medium, which resists in some ratio of the powers of the speeds, and
 with the absolute force present uniform and directed downwards, to determine the
 brachistochrone AM (Fig.74) upon which the descending body arrives at A from M in the
@@ -578,7 +576,9 @@ Chapter 3e.
 Translated and annotated by Ian Bruce.
 page 528
 Hence the construction of the brachistochrone curve follows. Q.E.I.
+
 Corollary 1.
+
 680. Let the point A, at which the motion begins and the speed is zero; then there we have
 v = 0 or
 gdsdy 2
@@ -586,12 +586,16 @@ gdsdy 2
 2 dxdds
 hence dy = 0, since it is not possible for ds to vanish. The curve therefore has a vertical
 tangent at the point A.
+
 Corollary 2.
+
 681. Because in the initial motion, the motion in a resisting medium does not disagree
 with the motion in a vacuum, then the start A of the curve AM does not disagree with the
 cusp of the cycloid, which is the brachistochrone in vacuo. And thus at A not only is the
 tangent vertical, but also the radius of osculation at that location is infinitely small.
+
 Corollary 3.
+
 682. Because dy = 0 at A and also dy = dx ( p 2 − 1) , then at the point A, p = 1. Therefore
 from the given construction of the curve the point A is obtained on making p = 1.
 Therefore that integral must be taken, so that x, s and y vanish on putting p = 1.
@@ -611,22 +615,26 @@ gpq ( pp −1) gP ( pp −1)
 2
 2 p2
 Thus it is apparent that v vanishes if we put p = 1.
+
 Corollary 5.
+
 684. The radius of osculation at some point M is equal to
 2
 ds 3 = ds dy .
 dxddy dxdds
 Whereby on account of ds = pdx the radius of osculation becomes :
-Therefore at the point A, where p = 1, the radius of osculation r = 0.EULER'S MECHANICA VOL. 2.
-Chapter 3e.
-page 529
-Translated and annotated by Ian Bruce.
+Therefore at the point A, where p = 1, the radius of osculation r = 0.
+
+
 Corollary 6.
+
 685. Let B be the point of the brachistochrone, at which the tangent is horizontal; then
 there dy =∝ and thus p =∝ . Therefore the point B is found on putting p =∝ . Hence at
 gP
 this point v = 2 and the radius of osculation r = P.
+
 Example 1.
+
 686. We can put the resistance to be vanishing, thus so that the motion becomes that in a
 vacuum; then k =∝ and thus the equation is obtained :
 dsds3 − 3dds 2 = 0 .
@@ -698,18 +706,19 @@ curve has cusps at A and C or the points of return, thus so that both AD and CE 
 diameters of the curve; that which is understood from this, is that
 where
 ( p 2 − 1) takes positive values as well as negative ones.
+
 Scholium 1.
+
 688. Below it is observed that this brachistochrone curve is congruent with the
 tautochrone curve for the same hypothesis of the resistance. Now there is a difference
 between tautochronous and brachistochronous motions, as according to tautochronous
 motion being obtained, the body must descend on the branch CNB and ascend on the
 other; while the opposite is true for the brachistochrone motion, as it must descend along
 AMB. Yet meanwhile each of these curves certainly is worthy of attention, and since in
-vacuo the same agreement is observed. [p. 374]EULER'S MECHANICA VOL. 2.
-Chapter 3e.
-Translated and annotated by Ian Bruce.
-page 532
+vacuo the same agreement is observed. 
+
 Example 3.
+
 689. The medium resists in the ratio of the square of the speeds, thus so that m = 2. This
 equation is obtained for the curve sought :
 now in constructing the curve :
@@ -725,13 +734,13 @@ the reduction made by Euler. Thus also neither can the following formulas be put
 place. Note by P. St. in the Opera Omnia]
 Now p =∝ gives the applied line
 Moreover,
-andEULER'S MECHANICA VOL. 2.
-Chapter 3e.
-Translated and annotated by Ian Bruce.
-page 533
+and
+
 From which it follows
 which is the equation between the coordinates x and y for the curve sought.
+
 Scholium 2. [p. 375]
+
 690. In a medium, which resists in the simple ratio of the speeds, it is not possible to
 determine the simpler brachistochrone, as follows at once from the general construction.
 On account of which we do not describe this case in detail by an example. Moreover that
@@ -747,4 +756,3 @@ these curves the isochronous arcs or [the corresponding] arcs which the descendi
 completes in equal intervals of time. And all these are obtained in the same way,
 whatever should be the resistance and whatever the absolute forces. But now we will set
 out most generally an understanding of the brachistochrone problem.
-

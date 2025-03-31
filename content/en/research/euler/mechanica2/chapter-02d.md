@@ -1,5 +1,5 @@
 ---
-heading: Chapter 2
+heading: Chapter 2d
 title: "The Rectilinear Motion Of A Free Point Acted On By Absolute Forces"
 date: 2025-03-20
 weight: 4
@@ -10,13 +10,16 @@ image: /covers/mecha.jpg
 
 
 THE MOTION OF A POINT ON A GIVEN LINE IN A VACUUM.
+ 
+PROPOSITION 31. Problem.
 
-PROPOSITION 31.
-Problem.
+
 282. With a uniform force present acting downwards, to find the curve AM (Fig. 36),
 upon which a body with a given initial speed moves thus, so that in equal times equal
 angles are completed about a fixed point C.
+ 
 Solution.
+
 The beginning of the curve is taken at a certain place A,
 at which the line CA is normal to the curve itself, and let the
 speed at A corresponding to the height b and let AC = a ;
