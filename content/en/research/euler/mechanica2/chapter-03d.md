@@ -11,8 +11,7 @@ image: /covers/mecha.jpg
 
 THE MOTION OF A POINT ON A GIVEN LINE IN A MEDIUM WITH RESISTANCE.
 
-PROPOSITIO 68.
-Problem.
+PROPOSITION 68. Problem.
 
 602. In a uniform medium, which resists in the ratio of the quadruple of the speeds, so to
 determine any ascent or descent of the body on the cycloid ACB (Fig.66).
@@ -672,11 +671,11 @@ Corollary 7.
 tangent at A. Hence as long as the radius of osculation at A is of finite magnitude, the
 body never descends. But if the radius of osculation becomes infinitely small, which
 eventuates if m < 12 , then the body can descend; from which it is understood that the time
-is finite.EULER'S MECHANICA VOL. 2.
-Chapter 3d.
-page 480
-Translated and annotated by Ian Bruce.
+is finite.
+
+
 Scholium 2.
+
 632. If the body starts to descend from A and the tangent to the curve AM at A is not
 horizontal, then the initial resistance of the motion is zero; hence there dv = gdx. On
 which account at the place where the curve AM is produced does not have a horizontal
@@ -692,7 +691,9 @@ exposed to the least action of the resistance. On this account in a resisting me
 curve BL thus must be prepared, so that everywhere v is less than the height
 corresponding to the speed that is acquired by a body falling through the same resistive
 medium along AP. For where v surpasses this height, there the curve AM is imaginary.
+
 Scholium 3.
+
 633. In like manner the situation arises, if the curve BLD
 (Fig. 70) is given for the ascent, the applied lines of which
 PL are the heights corresponding to the speeds upon the
@@ -725,17 +726,17 @@ traversed, the body suffers the smallest decrease of speed from the resistance. 
 at the point D the angle ADB has to be of such a size, that the tangent of this is equal to g,
 since near the point E, at which the speed is zero, the effect of the resistance vanishes; but
 now if this angle should be greater, then the curve AME has a horizontal tangent at E, as
-we cautioned in the preceding scholium regarding the descent.EULER'S MECHANICA VOL. 2.
-Chapter 3d.
-Translated and annotated by Ian Bruce.
-page 481
-PROPOSITION 72.
-Problem. [p. 341]
+we cautioned in the preceding scholium regarding the descent.
+
+PROPOSITION 72. Problem
+
 634. If the curve AM (Fig.71) is given, upon which the body is moving in vacuo, to find
 the curve am, upon which the body moves in a medium with resistance thus descends, so
 that the speed at a is equal to the speed at A and with equal arcs AM and am taken, so
 that the speeds at individual points M and m are also equal.
+
 Solution.
+
 With the vertical axes AP and ap drawn, and with the horizontal lines MP, mp let AM
 = am = s, AP = t and ap = x; the given curve AM
 is given by means of the equation between s et t.
@@ -763,18 +764,21 @@ gk m
 Since moreover the equation is given between t and s, if in place of t the value of this in
 terms of s is substituted, the equation is obtained between x and s for the curve sought
 am. Q.E.I.
+
 Corollary 1. [p. 342]
+
 635. If on the curve AM the point B is the start of the descent and thus the height of this
 above A = bg , there is also obtained the start of the descent b on the curve am, on taking
 the arc amb = AMB.
+
 Corollary 2.
+
 636. From the solution it is apparent that dx > dt always; whereby the height ap is
 greater than the height AP; for in the medium with the resistance there is a need for more
-height to generate the same speed as in vacuo.EULER'S MECHANICA VOL. 2.
-Chapter 3d.
-page 482
-Translated and annotated by Ian Bruce.
+height to generate the same speed as in vacuo.
+
 Corollary 3.
+
 637. Because on the curves AM and am taken with equal arcs the speeds at these places
 are the same, the times too are equal, in which the equal arcs AM et am are described.
 And thus the time of the descent in the medium with resistance along bma is equal to the
@@ -810,14 +814,15 @@ dx = ds
 α
 k m ; then at this point a
 Therefore in this case the curve am has a vertical tangent at a.
+
 Corollary 7.
+
 641. At the start of the motion at B let b = gt or t = bg . Therefore for the point b, dx = dt
 with the elements of the curves taken equal. Whereby the tangents at the points B and b
-are equally inclined.EULER'S MECHANICA VOL. 2.
-Chapter 3d.
-Translated and annotated by Ian Bruce.
-page 483
+are equally inclined.
+
 Scholion 1. [p. 344]
+
 642. Since it is not possible to completely construct the curve am from the curve AM, for
 besides it is necessary to know the speed at the point A or at the start of the descent B, if
 another starting point of the descent is taken on the curve AM then another curve am is
@@ -865,14 +870,18 @@ x = s − 2ss
 αk
 Which is the equation for a cycloid described on a horizontal base, the diameter of the
 generating circle of which is α2k .
+
 Corollary 8.
+
 644. Therefore let the cycloid AMB be described on the horizontal base CB (Fig. 72) by
 the generating circle ANC, and let the medium be resisting in the ratio of the square of the
 speeds, the exponent of which is equal to k. If now in the circle ANC the chord AN = k2 is
 taken, and the horizontal PNM is drawn and from M the tangent MT and the two bodies
 are placed to descend, the one on MT in vacuo and the other on the curve MB in the
 resisting medium, both these bodies complete equal distances in equal times. [p. 346]
+
 Example 2.
+
 645. Let AMB (Fig. 71) be a cycloid considered downwards, the diameter of the
 generating circle of which is α2 ; then we have ss =2at , t = 2ssa and dt = sds
 . Hence with
@@ -880,10 +889,8 @@ a
 these substituted there is produced the following equation for the curve amb :
 or if the whole arc AMB, which in vacuo is put for the completed descent, is called c, then
 gcc
-b = 2a and thus for the curve amb this equation arises :EULER'S MECHANICA VOL. 2.
-Chapter 3d.
-Translated and annotated by Ian Bruce.
-page 485
+b = 2a and thus for the curve amb this equation arises :
+
 Therefore lest this curve becomes imaginary at the point a, it is necessary that
 g m−1 < 2m a m k m or the height of the arc AB must be less than kg m g ; for if the height of
 the arc AB = kg m g , then the tangent of the curve amb is vertical at b. Therefore if B is
@@ -896,13 +903,17 @@ accelerations of this body are proportional to the distances traversed, then des
 curve amb in the resisting medium have the same the same property in place, if the start
 of the descent is taken at the point b, that is determined through the equation to the curve
 amb; clearly it is amb = c.
+
 Corollary 10.
+
 647. If another starting point is taken at B on the curve AMB, another whole curve amb is
 found, since the length of the arc AMB = c is contained in the equation of this. Whereby,
 even if the cycloid is a tautochronous curve in vacuo, yet such a curve amb is not [a
 tautochrone] in a medium with resistance, since for several descents on the same curve
 AMB as many different curves correspond in the resisting medium.
+
 Scholium 2.
+
 648. In this example the curves have been elicited that the Cel. Hermann in Comm. Book
 II found for tautochrones in resisting mediums [Jacob Hermann, General theory of the
 motion that arises with forces acting constantly on bodies. Commen. acad. sc. Petrop. 2
@@ -915,10 +926,8 @@ and let the initial speed correspond to the height b; this equation is obtained 
 amb :
 from which equation it is understood that the curve amb does not become imaginary,
 unless the curve itself AMB were such. For because, lest the curve amb is imaginary, it
-must be that dx < ds, here dx is less than dt, that per se must be less than ds. As if the lineEULER'S MECHANICA VOL. 2.
-Chapter 3d.
-Translated and annotated by Ian Bruce.
-page 486
+must be that dx < ds, here dx is less than dt, that per se must be less than ds. As if the line
+
 AMB is a vertical line, the other amb is possible to be assigned; for on putting AB = c
 then b = gc and s = t; wherefore for the curve amb this equation is found :
 the integral of which is :

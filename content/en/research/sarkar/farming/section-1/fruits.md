@@ -473,9 +473,17 @@ In olden times, Buddhist Tantrics used to take a drink which was made from the g
 
 The beverage kept them warm and gave them instant energy. These Tantrics generally lived in the area of Assam. Modern tea originated in Assam from this beverage.
 
-In Chinese tea the green leaves are generally boiled and taken with butter, but in India the boiled leaves are taken with sugar and milk. The Saḿskrta name for tea is “kamal” and the Chinese name is “cinyá.” In India various black teas are grown and are commonly called “chá.”
+In Chinese tea the green leaves are generally boiled and taken with butter. But in India the boiled leaves are taken with sugar and milk. 
 
-The British took tea from India and popularized it throughout the world. Tea is more popular than coffee in England, but not as popular as coffee in South America. Tea requires more water than coffee to grow properly, but it cannot tolerate waterlogging. It grows well on the slopes of Assam. Tea does not require special soil or a lot of rainfall, but the rainwater should not be allowed to accumulate around the plant.
+The Saḿskrta name for tea is “kamal” and the Chinese name is “cinyá.” In India various black teas are grown and are commonly called “chá.”
+
+The British took tea from India and popularized it throughout the world.
+
+Tea is more popular than coffee in England, but not as popular as coffee in South America. 
+
+Tea requires more water than coffee to grow properly, but it cannot tolerate waterlogging. 
+
+It grows well on the slopes of Assam. Tea does not require special soil or a lot of rainfall, but the rainwater should not be allowed to accumulate around the plant.
 
 There are three main varieties of tea grown in India:
 - Assam
@@ -486,14 +494,30 @@ Assam tea is the most tasty.
 
 Darjeeling tea has the most flavour but the least taste. 
 
-The tea from Ghana is less tasty than Indian tea, but is more popular in the world market. The main reason for this is that some Indian businessmen adulterate the tea with tannin. Consequently, it has lost its popularity. In French tea is called “te.”
-Once upon a time, a shepherd in an Arab country observed some thieves frequently going to a certain place at a fixed time. On their return, he noticed that the thieves always looked sleepy. The next time they came he decided to follow them. Undetected, he watched them eat the leaves of a particular plant. Later he also ate the leaves, but they did not taste very good. So he took some of the leaves, fried and boiled them, after which they became tasty. This is how coffee developed.
+The tea from Ghana is less tasty than Indian tea, but is more popular in the world market. 
+
+This is because some Indian businessmen adulterate Indian tea with tannin. Consequently, it has lost its popularity. 
+
+In French tea is called “te.”
+
+Once upon a time, a shepherd in an Arab country observed some thieves frequently going to a certain place at a fixed time. On their return, he noticed that they always looked sleepy.
+
+So the next time they came, he decided to follow them. 
+
+Undetected, he watched them eat the leaves of a particular plant. Later he also ate the leaves, but they did not taste very good. 
+
+So he took some of the leaves, fried and boiled them, after which they became tasty. This is how coffee developed.
 
 Black coffee is coffee which has been fried a lot. 
 
 This type of coffee is intoxicating and injurious to health. 
 
-If you take it you will feel sleepy, but you will not be able to sleep. Sometimes students take black coffee during their examinations to enable them to study better. **But because the coffee makes them feel sleepy, they cannot assimilate what they have read.**
+If you take it you will feel sleepy, but you will not be able to sleep. 
+
+Sometimes students take black coffee during their examinations to enable them to study better. 
+
+**But because the coffee makes them feel sleepy, they cannot assimilate what they have read.**
 
 Cocoa is less intoxicating than coffee and tea, but if it is taken daily it will become addictive.
+
 

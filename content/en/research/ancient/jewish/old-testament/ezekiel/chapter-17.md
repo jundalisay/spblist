@@ -1,8 +1,8 @@
 ---
-heading: Ezekiel 9
-title: "The Anunnaki Speak"
+heading: Ezekiel 17
+title: "The Parable of the Eagle"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
-weight: 4
+weight: 40
 image: "/covers/old.jpg"
 ---
 
@@ -52,17 +52,14 @@ to cut off many persons:
 and will plead with him there for his trespass that he hath
 trespassed against me. 
 
-21 All his fugitives with all his bands shall fall by the sword, and they that remain shall
-be scattered toward all winds: and you shall know that I the
-LORD have spoken [it.]
+21 All his fugitives with all his bands shall fall by the sword, and they that remain shall be scattered toward all winds: and you shall know that I Enki have spoken [it.]
 {{< /l >}}
 
 
 {{< l a="Enki" >}}
-22 I will also take of the highest branch of the high cedar, and will set [it;] I will crop off from the top of his young twigs a tender one, and will plant [it] upon an high mountain and eminent: 23} In the mountain of the height of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shadow of the branches thereof shall they dwell. 
+22 I will also take of the highest branch of the high cedar, and will set [it;] I will crop off from the top of his young twigs a tender one, and will plant [it] upon an high mountain and eminent: 
 
-24 All the trees of the field shall know that I Enki have brought down the high tree, have exalted the low tree,
-have dried up the green tree, and have made the dry tree to flourish: I Enki have brought down the high tree, have
-exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I Enki have spoken and
-have done it.
+23 In the mountain of the height of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shadow of the branches thereof shall they dwell. 
+
+24 All the trees of the field shall know that I Enki have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I Enki have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I Enki have spoken and have done it.
 {{< /l >}}

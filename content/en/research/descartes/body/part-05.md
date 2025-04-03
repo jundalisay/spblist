@@ -2,7 +2,7 @@
 heading: Part 5
 title: "The formation of the solid parts"
 date: 2025-01-24
-weight: 16
+weight: 60
 description: "The Description of the Human Body talks about the body"
 image: "/covers/body.jpg"
 writer:
@@ -11,7 +11,9 @@ writer:
 ---
 
 
-These veins and arteries in mammals, together with the epigastrics, seem to be the last of the internal parts of the seed to be formed before the external parts, and because of this the blood from the womb comes through the navel to the heart. For the agitation of the spirits causes the parts of the seed which are at the places where they pass, rather than the others, to go to the heart.
+These veins and arteries in mammals, together with the epigastrics, seem to be the last of the internal parts of the seed to be formed before the external parts, and because of this the blood from the womb comes through the navel to the heart. 
+
+For the agitation of the spirits causes the parts of the seed which are at the places where they pass, rather than the others, to go to the heart.
 
 And because they pass from the brain through the spinal column to several sides at the same time, they finally come together again in the same place, which is that where the navel will be formed. But before I pause to describe this, I shall explain how the heart, the brain, the flesh of the muscles, and the majority of skins or membranes come to be formed, because this does not depend on the nourishment that the animal being formed receives from the womb.
 

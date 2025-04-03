@@ -2,7 +2,7 @@
 heading: Ezekiel 14
 title: "The Anunnaki Speak"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
-weight: 4
+weight: 36
 image: "/covers/old.jpg"
 ---
 
@@ -13,7 +13,10 @@ image: "/covers/old.jpg"
 
 Should I be enquired of at all by them? 
 
-4 Every man of the Israelites that sets up his idols in his heart, and puts the stumblingblock of his iniquity before his face, and comes to the prophet, I Enki will answer him that comes according to the multitude of his idols; 5} That I may take the Israelites in their own heart, because they are all estranged from me through their idols. 22} Yet, behold, therein shall be left a remnant that shall be brought forth, [both] sons and daughters: behold, they shall come forth unto you, and you shall see their way and their doings: and you shall be comforted concerning the evil that I have brought upon Jerusalem, [even] concerning all that I have brought upon it. 
+4 Every man of the Israelites that sets up his idols in his heart, and puts the stumblingblock of his iniquity before his face, and comes to the prophet, I Enki will answer him that comes according to the multitude of his idols
+
+
+5 I may take the Israelites in their own heart, because they are all estranged from me through their idols. 22} Yet, behold, therein shall be left a remnant that shall be brought forth, [both] sons and daughters: behold, they shall come forth unto you, and you shall see their way and their doings: and you shall be comforted concerning the evil that I have brought upon Jerusalem, [even] concerning all that I have brought upon it. 
 
 23 They shall comfort you, when you see their ways and their doings: and
 you shall know that I have not done without cause all that I

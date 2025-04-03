@@ -9,8 +9,7 @@ image: /covers/mecha.jpg
 ---
 
 
-PROPOSITION 126.
-PROBLEM.
+PROPOSITION 126. PROBLEM.
 
 1063. If the curve AM is given (Fig.93), on which the body is moving, and the angular
 motion about the centre of force C, to find both the centripetal force attracting the body
@@ -661,4 +660,3 @@ curve described by the body can be constructed.
 and on account of this the body moves in the plane through A normally to AP and is
 attracted to A in the ratio of the distances. Moreover the curve, which the body describes
 in this case, can also be constructed (1027) along with the others.
-

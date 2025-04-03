@@ -1,5 +1,5 @@
 ---
-heading: Chapter 2
+heading: Chapter 2b
 title: "THE MOTION OF A POINT ON A GIVEN LINE IN A VACUUM"
 date: 2025-03-20
 weight: 4

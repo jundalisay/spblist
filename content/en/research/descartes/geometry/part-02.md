@@ -30,9 +30,15 @@ Et si le cercle, qui ayant son centre au point N, passe par le point L, ne coupp
 
 
 
-As for the same roots, they can be found by an infinite number of other means, and I have only wanted to put these here, as very simple, in order to show that one can construct all the Problems of ordinary Geometry, without doing anything else but the little that is contained in the four figures that I have explained. Which I do not believe the ancients have noticed. 
+The same roots can be found by an infinite number of other means.
 
-For otherwise they would not have taken the trouble to write so many large books, where the mere order of their propositions makes us realize that they did not have the true method to find them all, but that they have only collected those they have encountered.
+We can construct all the Problems of ordinary Geometry by using only the 4 shapes that I have explained. I do not think the ancients have noticed this. 
+
+Otherwise, they would not have needed to write so many large books. 
+
+The mere order of their propositions makes us realize that they did not have the true method to find them all.
+
+Instead, they have only collected those they have encountered.
 
 An example is from Pappus at the beginning of his book 7 where he enumerated all that had been written in Geometry by those who had preceded him.
 
@@ -41,7 +47,7 @@ He the asks a question, which he says that neither Euclid, nor Apollonius, nor a
 {{< q a="Pappus" >}}
 "The place to 3 and 4 lines which Apollonius says in the third book was not completed by Euclid, nor could he complete it himself, nor anyone else: but not even to add a little to what Euclid wrote, by those conic [sections] which were demonstrated up to Euclid's time, etc."
 
-"But the place to three and four lines, in which (Apollonius) boasts magnificently and shows off, without any thanks to him who had written before, is of this kind. 
+"But the place to 3 and 4 lines, in which (Apollonius) boasts magnificently and shows off, without any thanks to him who had written before, is of this kind. 
 
 If 3 straight lines given in position are drawn from one and the same point to the 3 lines at given angles, and the ratio of the rectangle contained by the two drawn [lines] to the square of the remaining [line] is given: the point touches a solid locus, that is one of the 3 conic sections.
 
@@ -58,19 +64,29 @@ But if to six, and the ratio of the solid contained by the three lines to the so
 {{< /q >}}
 
 
-Where I beg you to remark in passing, that the scruple which the ancients made of using the terms of Arithmetic in Geometry, which could only proceed from the fact that they did not see their relationship clearly enough, caused much obscurity and embarrassment in the way they explained themselves. 
+The scruple which the ancients made of using the terms of Arithmetic in Geometry, which could only proceed from the fact that they did not see their relationship clearly enough, caused much obscurity and embarrassment in the way they explained themselves. 
 
 Pappus continues:
 
 
 {{< q a="Pappus" >}}
-"They acquiesce in those who have interpreted such things a little earlier. Not signifying in any way one comprehensible thing that is contained in these. But it will be possible through combined proportions to both say and demonstrate these universally in the said proportions, and in this way. If from some point straight lines are drawn to the straight lines given in position at given angles, and the combined ratio is given of that which one of the drawn [lines] has to one, and another to another, and another to another, and the remainder to a given line, if there are seven; but if eight, and the remainder to the remainder: the point will touch the lines given in position. And similarly however many they may be, odd or even in number, since these, as I said, correspond to the place to four lines, they have therefore placed none so that the line is known, etc."
+"They acquiesce in those who have interpreted such things a little earlier. Not signifying in any way one comprehensible thing that is contained in these. 
+
+But it will be possible through combined proportions to both say and demonstrate these universally in the said proportions, and in this way. 
+
+If from some point straight lines are drawn to the straight lines given in position at given angles, and the combined ratio is given of that which one of the drawn [lines] has to one, and another to another, and another to another, and the remainder to a given line, if there are seven; but if eight, and the remainder to the remainder: the point will touch the lines given in position. 
+
+Similarly however many they may be, odd or even in number, since these, as I said, correspond to the place to four lines, they have therefore placed none so that the line is known, etc."
 {{< /q >}}
 
 
-The question therefore, which had been begun to be solved by Euclid, and pursued by Apollonius, without having been completed by anyone, was as follows. 
+The question which had been begun to be solved by Euclid, and pursued by Apollonius, without having been completed by anyone, was as follows. 
 
-Having three or four or a greater number of straight lines given by position; first a point is asked, from which one can draw as many other straight lines, one on each of the given ones, which make given angles with them, and that the rectangle contained by two of those which will thus be drawn from the same point, have the given ratio with the square of the third, if there are only three; or with the rectangle of the other two, if there are four; or, if there are five, that the parallelepiped composed of three have the given ratio with the parallelepiped composed of the two that remain, and of another given line.
+
+Having 3 or 4 or more straight lines given by position; first a point is asked, from which one can draw as many other straight lines, one on each of the given ones, which make given angles with them, and that the rectangle contained by two of those which will thus be drawn from the same point, have the given ratio with the square of the third, if there are only three; or with the rectangle of the other two, if there are four; 
+
+or, if there are five, that the parallelepiped composed of three have the given ratio with the parallelepiped composed of the two that remain, and of another given line.
+
 
 <!-- Au reste ces mesmes racines se peuuent trouuer par vne infinité d’autres moyens, et i’ay seulement voulu mettre ceux cy, comme fort simples, affin de faire voir qu’on peut construire tous les Problesmes de la Geometrie ordinaire, sans faire autre chose que le peu qui est compris dans les quatre figures que i’ay expliquées. Ce que ie ne croy pas que les anciens ayent remarqué. car autrement ils n’eussent pas pris la peine d’en escrire tant de gros liures, où le seul ordre de leurs propositions nous fait connoistre qu’ils n’ont point eu la vraye methode pour les trouuer toutes, mais qu’ils ont seulement ramassé celles qu’ils ont rencontrées.
 

@@ -2,7 +2,7 @@
 heading: Part 4
 title: "The bodily parts that are formed in the seed"
 date: 2025-01-24
-weight: 14
+weight: 40
 description: "The Description of the Human Body talks about the body"
 image: "/covers/body.jpg"
 writer:

@@ -1,140 +1,162 @@
-PROPOSITION 1. Theorem.
+---
+heading: Chapter 1b
+title: "Motion in General"
+date: 2025-03-20
+weight: 4
+description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
+author: "Euler"
+image: /covers/mecha.jpg
+---
 
-13. Every body, that is carried from one place to another place by relative or absolute
-motion, passes through all the intermediate positions, and it is not able to suddenly
-arrive at the final place.
-Demonstration.
 
-For absolute motion: if the body were suddenly able to arrive at the final place from
-the first place, it would be necessary for the body to be annihilated at the first place and
-suddenly produced in the final place, and which cannot be done according to the laws of
-nature, except by agreeing to a miracle. Therefore it proceeds from place to place until
-finally it arrives at the final place. For relative motion : if the body truly remains at rest
-on being substituted from the infinite space into the relative space, then the above
-reasoning prevails (10). But if it should move in the relative space, then it must pass
-through the individual intermediate places, and therefore the relative motion will be
-successive, and it will again be made through the intermediate positions. Q. E. D.
+## PROPOSITION 1. Theorem.
+
+13. Every body that is carried from one place to another place by relative or absolute motion, passes through all the intermediate positions.
+
+It is not able to suddenly arrive at the final place.
+
+### Demonstration for absolute motion
+
+If the body were suddenly able to arrive at the final place from the first place, it would be necessary for the body to be annihilated at the first place and suddenly produced in the final place.
+
+{{< n n="This is done in teleportation" >}}
+
+This cannot be done according to the laws of nature, except by agreeing to a miracle.
+
+Therefore it proceeds from place to place until finally it arrives at the final place. 
+
+### Demonstration for relative motion
+
+<!-- If the body truly remains at rest on being substituted from the infinite space into the relative space, then the above reasoning prevails (10).  -->
+
+A body moving in relative space must pass through the individual intermediate places.
+
+Therefore the relative motion will be successive through the intermediate positions. Q. E. D.
 
 
 Corollary 1.
 
-14. From these it follows that a motion cannot be immediate [in time], but to need time
-for the body to arrive at some place from some previous place [p. 6.]. Since indeed it has
-to pass through the individual intermediate places, this cannot be consistent with
-instantaneous motion.
+14. It follows that a motion cannot be immediate. Time is needed for the body to arrive at some place from some previous place.
+
+Since it has to pass through the individual intermediate places, this cannot be consistent with instantaneous motion.
+
 
 Corollary 2.
 
-15. Therefore it is necessary for the path to be assigned, by which the body moves, and
-with that known, there will be no point on that path from the first to the last that the body
-does not pass through in its progression. Moreover this is usually called the path that the
-body runs through or traverses.
+15. Therefore it is necessary for the path to be assigned.
+
+The body moves through this path. The body then passes through all the points on that path from the first to the last  through in its progression. 
+
+This is usually called the path that the body runs through or traverses.
+
 
 Scholium.
 
-16. This view is readily adapted too for bodies rotating about an axis. Since indeed the
-position of the body itself does not change: yet the motion belonging to the parts of this
-motion are to be understood, if the individual parts of the motion are considered to arise
-from just as many different parts. Indeed the individual parts with respect to infinite
-space are taken to change their position, and no parts are at rest except those which are
-placed on the axis itself. And in a like manner it is necessary for bodies to be considered
-in every respect, so that not only a whole body, but also the situation of the individual
-parts of the body, needs to be examined for change.
+16. This view is readily adapted too for bodies rotating around an axis because the position of the body itself does not change.
+
+This motion is made up of many different motions. 
+
+<!-- Yet the motion belonging to the parts of this motion are to be understood, if the individual parts of the motion are considered to arise from just as many different parts. -->
+
+The individual parts with respect to infinite space change their position, 
+
+The only parts that are at rest are those on the axis itself. 
+
+Similarly, bodies to be considered in every respect, so that not only a whole body, but also the situation of the individual parts of the body, needs to be examined for change.
+
 
 DEFINITION 4
 
-17. A body is said to be moving equably or uniformly, that in equal intervals of time
-traverses equal distances. A motion is truly not equable that in equal times travels
-through unequal distances, or in traveling through equal distances are resolved by
-unequal intervals of time. [p. 7; Euler uses the word 'equable' throughout his
-descriptions, where the modern equivalent word is 'uniform', which we use here for
-convenience, and which Euler also uses as a synonym.]
+17. A body is moving uniformly if it traverses equal intervals of time at equal distances. 
+
+A motion is truly not equable that in equal times travels through unequal distances, or in traveling through equal distances are resolved by unequal intervals of time. 
+
+<!-- [p. 7; Euler uses the word 'equable' throughout his descriptions, where the modern equivalent word is 'uniform', which we use here for convenience, and which Euler also uses as a synonym.] -->
+
 
 Corollary 1.
 
-18. Therefore a body with a uniform motion extended by twice the time completes twice
-the distance, three times as long results in three times as far, and in general the distances
-traveled through are in proportion to the times, and in turn the times with the distances.
-As a ship at sea begins with an uniform motion, if in one hour it travels through two
-miles, then in two hours the distance completed is four miles, in three hours six miles,
-and in n hours, 2n miles.
+18. Therefore a body with a uniform motion extended by twice the time completes twice the distance, three times as long results in three times as far, and in general the distances traveled through are in proportion to the times, and in turn the times with the distances. 
+
+As a ship at sea begins with an uniform motion, if in one hour it travels through two miles, then in two hours the distance completed is four miles, in three hours six miles, and in n hours, 2n miles.
+
 
 Corollary 2.
 
-19. On account of which, if a uniform motion is given, then from that there is obtained an
-accurate measurement of the time, [in circumstances where that] cannot be known except
-from the motion. For the ratio of the distances measured that the body traverses with a
-uniform motion, is noted to be the same as of the times in the same intervals.EULER'S MECHANICA VOL. 1.
-Chapter one.
+19. Uniform motion can give an accurate measurement of the time.
 
+<!-- , [in circumstances where that] cannot be known except
+from the motion. -->
+
+For the ratio of the distances measured that the body traverses with a uniform motion, is noted to be the same as of the times in the same intervals.
 
 
 Scholium
 
-20. Neither truly do we have from elsewhere the division of time into years, days, and
-hours other than from a motion that we consider as being regular. For with the earth taken
-as being at rest, the ancients believed that the sun was carried round in a regular motion,
-and the time it took to revolve around the earth they called a day. Again, they had taken
-the motion of the fixed stars around the earth to be regular too, and the time it took for the
-sunrise to return to its original position with respect to the fixed stars they called a year.
-Then these times were divided into equal parts, and in this way the hours, minutes, and
-seconds were arrived at. [p.8]. But it is readily apparent, if the uniform motion there, as
-they believed, was not really uniform, then there would be an error in the measurement of
-time too. And recently astronomers have detected an irregularity in these motions, and
-they have found that not all days are of the same length, on account of which they are
-accustomed to give a correction from other more regular motions; that they call the
-equalisation of times, from which the unequal lengths of the days are known.
+20. Neither truly do we have from elsewhere the division of time into years, days, and hours other than from a motion that we consider as being regular. 
+
+In the geocentric theory, the ancients believed that the sun was carried around in a regular motion. 
+
+The time it took to revolve around the earth they called a day. 
+
+They had taken the motion of the fixed stars around the earth to be regular too.
+
+The time it took for the sunrise to return to its original position with respect to the fixed stars they called a year.
+
+Then these times were divided into equal parts, and in this way the hours, minutes, and seconds were arrived at.
+
+But those motions were not really uniform. 
+
+This caused errors in the measurement of time too.
+
+Recently, astronomers have detected an irregularity in these motions. They have found that not all days are of the same length.
+
+<!--  on account of which they are accustomed to give a correction from other more regular motions; that they call the
+equalisation of times, from which the unequal lengths of the days are known. -->
 
 DEFINITION 5.
 
-21. Every body that is moving is said to have a speed or velocity, and this is measured by
-the distance that body traverses in equal intervals of time, with a uniform motion. Clearly
-when body B travels twice the distance at a uniform speed that body A travels through in
-the same time, also moving uniformly, then body B is said to have a speed twice as great
-as body A.
+21. Every body that is moving has a speed or velocity.
+
+This is measured by the distance that body traverses in equal intervals of time, with a uniform motion.
+
+When body B travels twice the distance at a uniform speed that body A travels through in the same time, also moving uniformly, then body B is said to have a speed twice as great as body A.
+
 
 Corollary 1.
 
-22. Therefore since a body in uniform motion will traverse equal distances in equal
-intervals of time (17), the body that has moved uniformly will have the same speed or
-velocity always. Truly in non-uniform motion, the body adopts one speed after another in
-succession.
+22. A body in uniform motion will traverse equal distances in equal intervals of time (17).
 
+And so, the body that has moved uniformly will have the same speed or velocity always.
+
+<!--  Truly in non-uniform motion, the body adopts one speed after another in
+succession. -->
 
 Corollary 2.
 
-23. Moreover the [variable] speed that a body has at some point in the distance traversed
-with a non-uniform motion, [p.9] is to be measured by the distance that the body would
-traverse in a given time with that uniform speed.
+23. a. The [variable] speed that a body has at some point in the distance traversed with a non-uniform motion, is to be measured by the distance that the body would traverse in a given time with that uniform speed.
 
 Corollary 3.
 
-23 [a; (There are two sections 23)]. Again the speed of a body with absolute uniform
-motion can be measured from the distance that the body traverses, for example, in a
-single second. And the speed of the same perfectly well-known body is agreed upon,
-which prevails to be defined as the distance which that body travels through in a time of
-one second.
+b. The speed of a body with absolute uniform motion can be measured from the distance that the body traverses, for example, in a single second.
+
+The speed of the same perfectly well-known body is agreed upon, which prevails to be defined as the distance which that body travels through in a time of one second.
 
 Scholium.
 
-24. This ratio is also especially useful in the measurement of speed. For we see sailors
-finding the speed of the ship by measuring the distance that the ship travels in a given
-time. Commonly they take a quarter of an hour interval, and they find how many miles
-the ship has traveled in this time. From which is understood at the same time, how many feet the ship has traversed in the same time, if indeed the ship should progress with a
-uniform motion.
+24. This ratio is also especially useful in the measurement of speed. For we see sailors finding the speed of the ship by measuring the distance that the ship travels in a given time.
 
-PROPOSITION 2.
-Theorem.
-25. For two bodies progressing with uniform motion, the speeds vary directly with the
-distances traveled, and inversely with the time with which these distances are
-traversed. 
+Commonly they take a quarter of an hour interval, and they find how many miles the ship has traveled in this time. From which is understood at the same time, how many feet the ship has traversed in the same time, if indeed the ship should progress with a uniform motion.
 
+PROPOSITION 2. Theorem.
 
-Demonstration.
+25. For two bodies progressing with uniform motion, the speeds vary directly with the distances traveled, and inversely with the time with which these distances are traversed. 
 
-Let the two bodies be A and a, and the speeds of these are C and c ; that body A
-travels through a distance S in time T, truly the body a a distance s in time t. Now since
-they are in uniform motion, the distances are in proportion to the times (18), the distance
+Demonstration
+
+Let the 2 bodies be A and a, and the speeds of these are C and c ; that body A travels through a distance S in time T, truly the body a a distance s in time t. 
+
+Since they are in uniform motion, the distances are in proportion to the times (18), the distance
 sT
 that body a completes in time T can be determined from the proportion t : T = s : t :
 sT
@@ -147,104 +169,90 @@ and inversely as the times, with which these are traversed. Q. E. D.
 Corollary 1.
 CT
 ct
-26. The equation S = s is produced from the final ratio. In any uniform motion
-therefore the product of the speed and the time, if divided by the distance traveled in that
-time, always gives the same quotient.
+
+26. The equation S = s is produced from the final ratio. In any uniform motion therefore the product of the speed and the time, if divided by the distance traveled in that time, always gives the same quotient.
 
 Corollary 2
 
-27. Also there is the ratio T : t = CS : cs . From which it follows that the times are in the ratio
-of the direct proportions of the distances and in the inverse ratio of the speeds, or to be as
-the distance divided by the speed.
+27. Also there is the ratio T : t = CS : cs . 
+
+It follows that the times are in the ratio of the direct proportions of the distances and in the inverse ratio of the speeds, or to be as the distance divided by the speed.
+
 Corollary 3
 
-28. Then the proportion found can also be changed into this S : s = CT : ct. From which
-the distances traversed with the uniform motion are gathered together to be in a ratio
-composed from the ratio of the speeds and from the ratio of the times. 
+28. Then the proportion found can also be changed into this S : s = CT : ct. From which the distances traversed with the uniform motion are gathered together to be in a ratio composed from the ratio of the speeds and from the ratio of the times. 
 
 
 Corollary 4
 
-29. Therefore with the speed of the body given, moving uniformly, together with some
-distance described, the time can be noted in which this distance has been traversed;
-clearly by dividing the distance by the speed. Since indeed we have shown that this
-amount is always in proportion to the time, we can take the same as a measure of time.
+29. Therefore with the speed of the body given, moving uniformly, together with some distance described, the time can be noted in which this distance has been traversed; clearly by dividing the distance by the speed. Since indeed we have shown that this amount is always in proportion to the time, we can take the same as a measure of time. 
+
 Corollary 5.
 
 30. Similarly the speed can be expressed by the distance traveled through divided by the
 time, and the distance also by the product of the time and the speed.
-Scholium I.
 
-31. For if the speed is such that, in order that the moving body completes three feet in one
-second, and therefore we can call the speed by the number 3; we will try to find the time
-in which for example 60 feet in the same motion are completed. For 60 divided by 3 and
-the quotient is 20 will show that it takes 20 seconds for the motion to be traversed. And if
-the distance is sought for the time of 12 seconds to be traversed, the product will be 36
-feet. And also for a body traveling 4.8 feet in 6 seconds, the speed that arises is 8, which
-shows that this body travels 8 in one second.
+Scholium 1.
+
+31. For if the speed is such that, in order that the moving body completes three feet in one second, and therefore we can call the speed by the number 3; we will try to find the time in which for example 60 feet in the same motion are completed. For 60 divided by 3 and the quotient is 20 will show that it takes 20 seconds for the motion to be traversed. 
+
+If the distance is sought for the time of 12 seconds to be traversed, the product will be 36 feet. And also for a body traveling 4.8 feet in 6 seconds, the speed that arises is 8, which shows that this body travels 8 in one second.
+
 Scholium 2.
 
-32. And hence the times, the distances, and the speeds are to be measured in the
-following ratios [i. e. units] that we will always adhere to.[p. 12] For we will always
-express the time in seconds, and the distance in feet, and these will be Rhenish feet. The
-speed truly, as it is now made, we will specify by the number of feet traversed per
-second. Below indeed it is more convenient for the speed to be determined from the units
+32. Hence, the times, the distances, and the speeds are to be measured in the following ratios that we will always adhere to.
+
+We will always express:
+- time in seconds
+- distance in Rhenish feet
+- speed is in the number of feet traversed per second
+
+Below indeed it is more convenient for the speed to be determined from the units
 that it will encounter, which henceforth we will be using, but these units arises from
 those, and the former can easily be recalled.
 
-PROPOSITION 3.
-Theorem.
+PROPOSITION 3. Theorem
 
-33. In motion with any non-uniformity, the smallest elements of the distance are
-considered to be traversed by uniform motions.
+33. In motion with any non-uniformity, the smallest elements of the distance are considered to be traversed by uniform motions.
+
 Demonstration.
-As indeed in geometry the elements of curved lines are considered to be the elements
-of small straight lines, thus also in a similar way in mechanics non-uniform motion is
-resolved into an infinite number of uniform motions. For either the elements are actually
-traversed in a uniform motion, or with the change of the speed by an element of this kind
-is so small, that the increment or decrement can be ignored without error. In either case
-the truth of the proposition is therefore apparent. Q. E. D.
+
+In geometry, curved lines are made up of small straight lines.
+
+Similarly in mechanics, non-uniform motion is resolved into an infinite number of uniform motions.
+
+For either the elements are actually traversed in a uniform motion, or with the change of the speed by an element of this kind is so small, that the increment or decrement can be ignored without error. 
+
+In either case the truth of the proposition is therefore apparent. Q. E. D.
 
 
 Corollary 1
 
-34. Therefore all the change of the speed of the non-uniform motion is considered to
-occur upon entering the individual elements, since the whole elements are placed to be
-traversed with a uniform motion. [p. 13]
+34. Therefore all the change of the speed of the non-uniform motion is considered to occur upon entering the individual elements, since the whole elements are placed to be traversed with a uniform motion.
+
+
 Corollary 2.
 
-35. Whereby after the manner of the analysis of the very small to be observed, if the
-speed in the first element were c, the speed in the following element will be c + dc, in
-the third c + 2dc + ddc, and thus henceforth. [Thus, each new speed is the old speed plus
-the increment of the old speed.]
+35. Whereby after the manner of the analysis of the very small to be observed, if the speed in the first element were c, the speed in the following element will be c + dc, in the third c + 2dc + ddc, and thus henceforth. [Thus, each new speed is the old speed plus the increment of the old speed.]
+
+
 Scholium.
 
-36. This corollary depends on the basis of the demonstration of the given force, that the
-change of the speed possible, while an infinitely small element is traversed, ought to be
-infinitely small and that this force should vanish at the start of the interval, with the body
-having attained its speed ; except for this to be the case, a finite motion would have to be
-generated immediately, which would be absurd. From which it is seen that the
-proposition is admitted not to be possible, nevertheless if the motion and the speed itself
-is infinitely small, in which case the momentary increase or decrease can have a finite
-ratio to that initial speed. But we will say more about that below, when the motion to be
-produced will examined.
+36. This corollary depends on the basis of the demonstration of the given force, that the change of the speed possible, while an infinitely small element is traversed, ought to be infinitely small and that this force should vanish at the start of the interval, with the body having attained its speed ; except for this to be the case, a finite motion would have to be generated immediately, which would be absurd. From which it is seen that the proposition is admitted not to be possible, nevertheless if the motion and the speed itself is infinitely small, in which case the momentary increase or decrease can have a finite ratio to that initial speed. But we will say more about that below, when the motion to be produced will examined.
 
-PROPOSITION 4.
-PROBLEM.
 
-37. A body moves with some kind of motion along the line AM (Fig. 1), with the speed
-of the body given at some point; it is necessary to determine the time in which the arc
-AM is completed.
+PROPOSITION 4. PROBLEM
 
-SOLUTION.
+37. A body moves with some kind of motion along the line AM (Fig. 1), with the speed of the body given at some point; it is necessary to determine the time in which the arc AM is completed.
 
-AM shall be the distance, either of the straight line or the
-curve equal to s, and the speed, that the body has at M shall be
-c, which will be some function of s. The element Mm is taken
-from M, that has been considered to be traversed with the
+
+SOLUTION
+
+AM shall be the distance, either of the straight line or the curve equal to s, and the speed, that the body has at M shall be c, which will be some function of s.
+
+The element Mm is taken from M, that has been considered to be traversed with the
 uniform speed c [p.14]. With the element Mm to be called ds,
-ds
-the time in which the element is traversed is equal to c (29).
+ds the time in which the element is traversed is equal to c (29).
 Therefore by integration, the time is obtained in which the
 ds
 whole arc is completed, to equal ∫ c . To the integral a
@@ -284,21 +292,7 @@ the body, even from the beginning, are traversed as powers of the distance of an
 exponent that is less than one.
 Corollary 2.
 
-40. The body is to progress along the straight line
-AM (Fig. 2),and the speed of the body at any point
-shall correspond to the line MN connected to the
-curve AN, which meets the straight line AM at A,
-thus, in order that the speed of the body at the
-beginning shall be zero. It is seen from the
-preceding, where the time to travel along AM is
-made finite, that it is necessary for the tangent AB
-at A to be perpendicular to AM. For with M
-coinciding with A, MN should be made equal to
-AM n and with the number n smaller than one, a fraction as it were, from which the
-normality of the tangent follows. [For a small increment AM, the tangent to the curve is
-approx. MN/AM = AM n −1 , and as n < 1, this quantity diverges; hence AB is
-perpendicular to AM]. For if the tangent AB makes an acute angle or an angle infinitely
-small with AM, then the time to pass along will be made infinite.
+40. The body is to progress along the straight line AM (Fig. 2),and the speed of the body at any point shall correspond to the line MN connected to the curve AN, which meets the straight line AM at A, thus, in order that the speed of the body at the beginning shall be zero. It is seen from the preceding, where the time to travel along AM is made finite, that it is necessary for the tangent AB at A to be perpendicular to AM. For with M coinciding with A, MN should be made equal to AM n and with the number n smaller than one, a fraction as it were, from which the normality of the tangent follows. [For a small increment AM, the tangent to the curve is approx. MN/AM = AM n −1 , and as n < 1, this quantity diverges; hence AB is perpendicular to AM]. For if the tangent AB makes an acute angle or an angle infinitely small with AM, then the time to pass along will be made infinite.
 
 
 EXAMPLE 2
@@ -339,7 +333,9 @@ translator, the angle dθ is the increment in the arc length/radius, and sin θ 
 ds/NN', where NN' is an increment of the order of ds.] In accordance with this, the time in
 which the body travels through the distance AM will be AN seconds. Thus the time, in
 m. AC
-sec. Indeed since ANB = 22
+sec. 
+
+Indeed since ANB = 22
 which the body moves from A to B will be mANB
 . AC
 AC
@@ -361,6 +357,7 @@ Corollary 3
 42. It appears from the solution of the problem that the body arrives at A from M in the
 same time (Fig. 1), from the backwards motion from M to A, but only if the motion has
 the same speeds at the same locations.
+
 Corollary 4.
 
 43. The applied line MN [that is, the y co-
@@ -378,9 +375,7 @@ M towards A , the length of time afterwards is finally infinite, i. e. the body 
 A, even though at all points other than A the body has a finite speed.
 
 
-PROPOSITION 5.
-
-Theorem.
+PROPOSITION 5. Theorem.
 
 44. Two bodies are moving on the right lines AM and am (Fig. 5), and the speeds of
 these bodies are to be expressed by the similar lines attached to the curves AN and
@@ -412,8 +407,6 @@ m
 ∫ . From this product there is again
 ds
 c
-
-
 ∫
 ds
 c : whereby each time to travel through AM and am will be
@@ -422,6 +415,7 @@ produced
 ∫
 ds
 c , and
+
 Corollary 1.
 
 45. Hence it is also understood that (41) is included; for all the curves of circles are
@@ -436,7 +430,9 @@ distance a itself, s expresses the homologous distances, whether are taken to eq
 a or na. Therefore according to what factor c is increased or decreased [p. 18] by an
 equation of this kind, so also are the proportional distances na, or how much larger or
 smaller a value is put in place for a, resulting in equal times for the distances traversed.
+
 Scholium.
+
 47. For this to be so, if c is equal to a function of a and s of one dimension, then the times
 for a or na are all equal, whatever the value of a : thus also if we were to consider c to be
 equal to a function of a and s which had m dimensions, then the times for a or na, for
@@ -564,28 +560,9 @@ external cause.
 
 DEMONSTRATION
 
-We consider this body to exist in infinite and empty space, and it is seen that there is
-no reason why the body should be made to move from one place to another rather than
-stay at rest. Consequently on account of the lack of sufficient reason why it should move,
-it must remain at rest for ever. Nor indeed does this reason ever change in the universe;
-although it is possible to object that in the universe, there is sufficient reason that it might
-fall in one place or another. And indeed it cannot be believed that in that empty infinite
-space, the failure of sufficient reason for a single motion to occur [by this mechanism], is
-taken as the cause of the body remaining in a single place ; as there is no doubt that the
-nature of the body itself is the cause of this phenomenon [i. e., of staying at rest; Euler is
-touching on the idea of inertia : the innate tendency of a body to remain in its present
-state]. Clearly, the failure to move due to any insufficient reason, cannot give the true
-and essential cause of the event, but rather it rigorously demonstrates the true cause; and
-that likewise it shows that the hidden nature of the thing is the true essential cause, and this cause does not cease, from the failure of that other insufficient cause to move [the
-first explanation that Euler rejects]. Thus, the demonstration of ARCHIMEDES illustrates
-the principle with the equilibrium of two balances each similar to the other, that the truth
-of the matter can be shown not only in empty space, but also in the world. [Here two
-bodies cancel out each other's turning effects in the earth's gravity.] Moreover each is
-given a natural reason for this equilibrium [p. 22], and which is located on the earth also.
-In empty space a body should therefore be able to remain in a state of rest, since it is in
-the nature of the body for the reason given, and on that account for a body on the earth
-too, that once it is at rest, except by some other cause acting on it, it can be considered to
-remain at rest. Q. E. D.
+We consider this body to exist in infinite and empty space, and it is seen that there is no reason why the body should be made to move from one place to another rather than stay at rest. Consequently on account of the lack of sufficient reason why it should move, it must remain at rest for ever. Nor indeed does this reason ever change in the universe; although it is possible to object that in the universe, there is sufficient reason that it might fall in one place or another. And indeed it cannot be believed that in that empty infinite space, the failure of sufficient reason for a single motion to occur [by this mechanism], is taken as the cause of the body remaining in a single place ; as there is no doubt that the nature of the body itself is the cause of this phenomenon [i. e., of staying at rest; Euler is touching on the idea of inertia : the innate tendency of a body to remain in its present state]. 
+
+The failure to move due to any insufficient reason, cannot give the true and essential cause of the event, but rather it rigorously demonstrates the true cause; and that likewise it shows that the hidden nature of the thing is the true essential cause, and this cause does not cease, from the failure of that other insufficient cause to move [the first explanation that Euler rejects]. Thus, the demonstration of ARCHIMEDES illustrates the principle with the equilibrium of two balances each similar to the other, that the truth of the matter can be shown not only in empty space, but also in the world. [Here two bodies cancel out each other's turning effects in the earth's gravity.] Moreover each is given a natural reason for this equilibrium [p. 22], and which is located on the earth also. In empty space a body should therefore be able to remain in a state of rest, since it is in the nature of the body for the reason given, and on that account for a body on the earth too, that once it is at rest, except by some other cause acting on it, it can be considered to remain at rest. Q. E. D.
 
 
 Corollary 1.
@@ -1054,4 +1031,3 @@ the First Volume to be concerned with the motion of free points, and the followi
 Volume truly set up to explore the motion of points which are not in free motion ; in both
 of which, and which will occur, as with these already dealt with, so likewise for these that
 follow, I shall derive the motions from first principles using the analytical method.
-

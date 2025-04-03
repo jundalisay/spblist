@@ -1,14 +1,14 @@
 ---
-heading: Ezekiel 18
-title: "The Anunnaki Speak"
-description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
-weight: 4
+heading: Ezekiel 37
+title: "Writing on Sticks"
+description: "The hand of Enki carried me out in the spirit of Enki, and set me down in the midst of the valley which was full of bones"
+weight: 114
 image: "/covers/old.jpg"
 ---
 
 
-<sup>1</sup> The hand of Enki carried me out in the spirit of Enki, and set me down in the midst of the valley which [was] full of bones, <sup>2</sup> and caused me to pass by them round about: and, behold, [there were] very many in the open valley; and, lo, [they were]
-very dry.
+
+<sup>1</sup> The hand of Enki carried me out in the spirit of Enki, and set me down in the midst of the valley which was full of bones, <sup>2</sup> and caused me to pass by them round about: and, behold, [there were] very many in the open valley; and, lo, they were very dry.
 
 
 {{< l a="Enki" >}}
@@ -35,59 +35,26 @@ word of Enki.
 {37:10} So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
 
 {{< l a="Enki" >}}
-11 [To Ezekiel]  Son of man, these bones are the whole Israelites: behold, they say, Our bones
-are dried, and our hope is lost: we are cut off for our parts. 12} Therefore prophesy and say unto them: Behold, O my people, I will open your graves, and cause you to come up out of your graves, and
-bring you into the land of Israel. {37:13} And you shall know
-that I [am] Enki, when I have opened your graves, O
-my people, and brought you up out of your graves, {37:14}
-And shall put my spirit in you, and you shall live, and I shall
-place you in your own land: then shall you know that I the
-LORD have spoken [it,] and performed [it,]
+11 [To Ezekiel]  Son of man, these bones are the whole Israelites: behold, they say, Our bones are dried, and our hope is lost: we are cut off for our parts. 12} Therefore prophesy and say unto them: Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel. {37:13} And you shall know that I [am] Enki, when I have opened your graves, O my people, and brought you up out of your graves, {37:14} And shall put my spirit in you, and you shall live, and I shall place you in your own land: then shall you know that I the LORD have spoken [it,] and performed [it,]
 {{< /l >}}
+
 
 {{< l a="Enki" >}}
-15-16 Son of man, take you one stick, and write upon it, For Judah, and for the children of
-Israel his companions: then take another stick, and write
-upon it, For Joseph, the stick of Ephraim, and [for] all the
-Israelites his companions: {37:17} And join them one
-to another into one stick; and they shall become one in thine
-hand. {37:18} And when the children of your people shall speak unto you, saying, Wilt you not shew us what you [meanest] by these? {37:19} Say unto them, Thus saith the
-Lord GOD; Behold, I will take the stick of Joseph, which
-[is] in the hand of Ephraim, and the tribes of Israel his
-fellows, and will put them with him, [even] with the stick of
-Judah, and make them one stick, and they shall be one in
-mine hand.
+15-16 Son of man, take you one stick, and write upon it, For Judah, and for the children of Israel his companions.
+
+Then take another stick, and write upon it, For Joseph, the stick of Ephraim, and [for] all the Israelites his companions: 
+
+17} Join them one to another into one stick; and they shall become one in thine hand. {37:18} And when the children of your people shall speak unto you, saying, Wilt you not shew us what you [meanest] by these? {37:19} Say unto them, Thus saith the Lord GOD; Behold, I will take the stick of Joseph, which [is] in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, [even] with the stick of Judah, and make them one stick, and they shall be one in mine hand.
 {{< /l >}}
 
 
-{37:20} And the sticks whereon you writest shall be in
-thine hand before their eyes. {37:21} And say unto them,
-Thus saith Enki; Behold, I will take the children
-of Israel from among the heathen, whither they be gone, and
-will gather them on every side, and bring them into their
-own land: {37:22} And I will make them one nation in the
-land upon the mountains of Israel; and one king shall be
-king to them all: and they shall be no more two nations,
-neither shall they be divided into two kingdoms any more at
-all: {37:23} Neither shall they defile themselves any more
-with their idols, nor with their detestable things, nor with
-any of their transgressions: but I will save them out of all
-their dwellingplaces, wherein they have sinned, and will
-cleanse them: so shall they be my people, and I will be their
-God. {37:24} And David my servant [shall be] king over
-them; and they all shall have one shepherd: they shall also
-walk in my judgments, and observe my statutes, and do
-them. 
+20} The sticks whereon you writest shall be in thine hand before their eyes. {37:21} And say unto them, Thus saith Enki; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land: {37:22} And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all: 
 
-{37:25} And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, [even] they, and their
-children, and their children’s children for ever: and my
-servant David [shall be] their prince for ever. {37:26}
-Moreover I will make a covenant of peace with them; it
-shall be an everlasting covenant with them: and I will place
-them, and multiply them, and will set my sanctuary in the
-midst of them for evermore.
+23} Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God. {37:24} And David my servant [shall be] king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them.
 
-{37:27} My tabernacle also  shall be with them: yea, I will be their God, and they shall be my people. {37:28} And the heathen shall know that I
-Enki do sanctify Israel, when my sanctuary shall be in
-the midst of them for evermore.
+25} They shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, [even] they, and their children, and their children’s children for ever: and my servant David [shall be] their prince for ever.
+
+26 Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore.
+
+27 My tabernacle also  shall be with them: yea, I will be their God, and they shall be my people. {37:28} And the heathen shall know that I Enki do sanctify Israel, when my sanctuary shall be in the midst of them for evermore.
 

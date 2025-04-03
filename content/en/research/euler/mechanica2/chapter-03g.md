@@ -1,6 +1,6 @@
 ---
-heading: Chapter 3
-title: "The Rectilinear Motion Of A Free Point Acted On By Absolute Forces"
+heading: Chapter 3g
+title: "THE MOTION OF A POINT ON A GIVEN LINE IN A MEDIUM WITH RESISTANCE"
 date: 2025-03-20
 weight: 4
 description: "Motion is the translation of a body from the place it occupies to another place. True rest is a body remaining at the same place."
@@ -9,21 +9,15 @@ image: /covers/mecha.jpg
 ---
 
 
-EULER'S MECHANICA VOL. 2.
-Chapter 3g.
-page 600
-Translated and annotated by Ian Bruce.
-CHAPTER THREE
-CONCERNING THE MOTION OF A POINT
-ON A GIVEN LINE IN A MEDIUM WITH RESISTANCE.
-[p. 402]
-PROPOSITION 82.
-Problem.
+PROPOSITION 82. Problem.
+
 738. In the rarest medium, which resists in some ratio of the powers of the speeds,
 and according to the hypothesis of a uniform force acting downwards, to determine
 the tautochrone curve AM (Fig. 80), upon which either all the descents or all the
 ascents are completed in equal times.
+
 Solution.
+
 With the abscissa AP = x and the arc AM = s let
 the whole arc of some descent be equal to f. The
 force acting downwards is equal to g, the height

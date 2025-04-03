@@ -78,14 +78,21 @@ Scholium 2.
 
 These can be summoned to establish our correct understanding because metaphysical speculations contradict it.
 
-if we do not assert to give fixed and motionless boundaries to infinite space; but instead assert that space may have or may not have attending boundaries, then we can still postulate that such absolute motion and absolute rest may be represented in such a space, such as we are about to contemplate; and that such a finite space may indicate the state of motion or of rest of a body.
+It is irrelevant whether infinite space has fixed and motionless boundaries or not. 
 
+<!-- if we do not assert to give fixed and motionless boundaries to infinite space; but instead assert that space may have or may not have attending boundaries, then  -->
+
+This is because we can still postulate that space can have absolute motion and absolute rest in it.
+
+ <!-- , such as we are about to contemplate; and that such a finite space may indicate the state of motion or of rest of a body. -->
 
 The mind can abstract for us from the universe a void of infinite extend.
 
-We can consider bodies to be arranged in that space so that, if they retain the same position, then they are in a state of absolute rest.
+<!-- We can consider bodies to be arranged in that space so that, if they , then they are  -->
 
-But if on the other hand they are passing from one part of space to another then this indicates that they are moving.
+Bodies are in a state of:
+- absolute rest if they retain the same position in space
+- motion if they are passing from one part of space to another
 
 
 DEFINITION 3.
@@ -94,11 +101,17 @@ DEFINITION 3.
 
 Relative rest means that the body stays in the same place with respect to the same space. 
 
-Thus taking the earth for this space, we say that those bodies are at rest that maintain their own unchanging places on the earth.
+Let us take the earth for this space.
 
-We are accustomed to say only those to be moving that proceed [p. 4] from one place to another with respect to the earth. 
+Those bodies are at rest if they maintain their own unchanging places on [relative to] the earth.
 
-In a similar manner for a ship's movement, those bodies that remain relatively at rest stay in the same place on the ship, while these are relatively moving that change their position on the ship.
+<!-- We are accustomed to say only those to be moving that proceed [p. 4] from one place to another with respect to the earth.  -->
+
+In a similar way, bodies remain relatively at rest on the same place on the ship, even if they are relatively moving as the ship changes its position.*
+
+{{< n nn="This is exactly Descartes' explanation of relative motion in Principie Philosophia" >}}
+
+<!-- that change their position on the ship. -->
 
 <!-- [The view of the universe from the 17th century onwards was thus one of an immense
 almost empty void in which there were fixed bodies or stars that acted as reference
@@ -111,24 +124,45 @@ Corollary 1
 
 10. Relative motion and relative rest agree with absolute motion and rest, when the space and the body, with respect to which the motion and the state of rest are indicated, actually are at rest with respect to the immense and infinite space.
 
-For if the earth is actually considered at rest [in the absolute sense], these things which are at rest and these things which are moving, are also at rest or are moving in the absolute sense.
+If the earth is actually at rest, then the things which are at rest and those which are moving are also at rest or are moving in the absolute sense.
 
 
 Corollary 2.
 
-11. But relative motion and relative rest disagree [with their absolute counterparts] if that space is moving. 
+11. But if the earth is moving, then relative motion and relative rest disagree.
 
-For if the earth is not at rest with respect to the infinite space, neither those bodies which are at rest with respect to the earth are in a state of absolute rest, and also the absolute motions of bodies are different from their relative motion. 
+ <!-- [with their absolute counterparts] if that space is moving.  -->
 
-A body moving relative to the earth can be in a state of absolute rest.
+<!-- For if the earth is not at rest with respect to the infinite space, neither  -->
+
+It would mean that:
+- those bodies at rest on the earth are in a state of absolute rest, and
+- the absolute motions of bodies are different from their relative motion
+- a body moving relative to the earth can be in a state of absolute rest.
 
 
 Scholium.
 
-12. There are innumerable different states of relative motion or rest of bodies: indeed as one or another space is assumed, the relative motion and the state of rest are decided in that space, and all will produce relative motion from the state of rest of another. 
+12. There are innumerable different states of relative motion or rest of bodies.
 
-Thus the fixed stars are moving with respect to the earth, while any one of these is at rest with respect to the others. 
+<!-- indeed as one or another space is assumed,  -->
 
-As the fixed stars move with respect to the earth, so also do the planets [p. 5]. Moreover in the following derivations I wish both absolute motion and rest to be understood [to be the reference frame], unless I advise that relative motion is to be considered, and that will be brought to your attention.
+The relative motion and the state of rest are decided in the space considered.
+
+All will produce relative motion from the state of rest of another. 
+
+Thus, the fixed stars:
+- are moving with respect to the earth
+- are at rest with respect with the other fixed stars
+
+The fixed stars move with respect to the earth.
+
+Likewise, the planets move. 
+
+When I speak of motion and rest, I mean absolute motion and rest.
+
+I will explicitly mention when I mean relative motion. 
+
+ <!-- [to be the reference frame], unless I advise that relative motion is to be considered, and that will be brought to your attention. -->
 
 

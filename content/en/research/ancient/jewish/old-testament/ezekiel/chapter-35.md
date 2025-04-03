@@ -2,7 +2,7 @@
 heading: Ezekiel 18
 title: "The Anunnaki Speak"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
-weight: 4
+weight: 104
 image: "/covers/old.jpg"
 ---
 

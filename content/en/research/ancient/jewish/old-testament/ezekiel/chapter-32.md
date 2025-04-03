@@ -1,8 +1,8 @@
 ---
-heading: Ezekiel 18
+heading: Ezekiel 32
 title: "Instructions Against Egypt"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
-weight: 4
+weight: 94
 image: "/covers/old.jpg"
 ---
 

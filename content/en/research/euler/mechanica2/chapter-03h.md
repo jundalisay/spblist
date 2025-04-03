@@ -9,10 +9,7 @@ image: /covers/mecha.jpg
 ---
 
 
-
-
-PROPOSITIO 86.
-Problem.
+PROPOSITION  86. Problem.
 
 782. With everything put in place as before, to find the case in which the two curves
 MA and AN (Fig. 84) constitute a single continuous curve, upon which the descent and
@@ -614,7 +611,9 @@ putting AP = x and AM = s, there is obtained :
 or conversely,
 From which then the curve AM can be constructed easily from the equation to be
 found for that.
-Scholium 2.
+
+Scholium 2
+
 819. In this problem we have determined the curve of the descent in the resisting
 medium from the curve of the descent in vacuo. Moreover it is readily apparent in turn
 from the given curve AM for the resisting medium the other am for the vacuum can be
@@ -629,7 +628,7 @@ descents, likewise is valid for the ascents, but only if k is put negative, as w
 advised in scholium 1.
 
 
-Scholium 3.
+Scholium 3
 
 820. The devising of one curve from the other of two given curves am and AM also
 has a place and is treated here, if the equation of the
@@ -650,8 +649,7 @@ solution of this problem a like curve can be found composed for the resisting me
 Clearly from ac by the method proposed the curve AC is defined; which is found on
 putting bp = t, cm = r and BP = x and also CM = s and besides ab = a, ac = c ; AB =
 A, and AC = C, for then, since the equation between t and r is given, then
-and
-[p. 455] But if for the resisting medium the curve AC is given and there is required for
+and [p. 455] But if for the resisting medium the curve AC is given and there is required for
 the other part of this CM the property, in order that all the descents on MCA are
 completed in equal times, the solution can be effected in a not dissimilar manner. For
 from the given curve AC for the resisting medium there is found the curve with the
@@ -664,4 +662,3 @@ defined. Hence likewise the problem, in which in vacuo there was some difficulty
 the resisting medium too can be resolved. Hence finally the chapter ends and I ask the
 benevolent Reader, that before progressing to the following chapter, it may be wished
 to repeat what has been presented in chapter I from § 58 to the end of the chapter.
-

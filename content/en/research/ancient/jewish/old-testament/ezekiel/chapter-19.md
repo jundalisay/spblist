@@ -1,23 +1,26 @@
 ---
-heading: Ezekiel 18
-title: "The Anunnaki Speak"
+heading: Ezekiel 19
+title: "The Mother of Israel"
 description: "In year 30, month 4, day 5, I was among the captives by the river of Chebar"
-weight: 4
+weight: 46
 image: "/covers/old.jpg"
 ---
 
 
 <sup>1</sup> Moreover take you up a lamentation for the princes of Israel, 2} And say, What [is] your mother? 
 
-A lioness: she lay down among lions, she nourished her whelps among young lions. 3} And she brought up one of her whelps: it became a young lion, and it learned to
-catch the prey; it devoured men.
+A lioness: she lay down among lions, she nourished her whelps among young lions. 
 
-4} The nations also heard of him; he was taken in their pit, and they brought
-him with chains unto the land of Egypt. 5} Now when she saw that she had waited, [and] her hope was lost, then she took another of her whelps, [and] made him a young
-lion.
+3} She brought up one of her whelps: it became a young lion, and it learned to catch the prey; it devoured men.
+
+4} The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt. 
+
+5} When she saw that she had waited, [and] her hope was lost, then she took another of her whelps, [and] made him a young lion.
 
 6 He went up and down among the lions, he became a young lion, and learned to catch the prey, [and]
-devoured men. 7} And he knew their desolate palaces, and he laid waste their cities; and the land was desolate, and
+devoured men. 
+
+7} And he knew their desolate palaces, and he laid waste their cities; and the land was desolate, and
 the fulness thereof, by the noise of his roaring. 
 
 8} Then the nations set against him on every side from the provinces, and spread their net over him: he was taken in

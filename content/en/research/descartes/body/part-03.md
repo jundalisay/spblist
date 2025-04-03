@@ -2,7 +2,7 @@
 heading: Part 3
 title: "Nutrition"
 date: 2025-01-24
-weight: 12
+weight: 14
 description: "The Description of the Human Body talks about the body"
 image: "/covers/body.jpg"
 writer:

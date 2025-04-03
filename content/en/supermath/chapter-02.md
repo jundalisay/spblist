@@ -46,23 +46,46 @@ We could simply reuse the names of the identities by grouping them into 10:
 This makes sense since humans have 10 fingers. So each finger represents an instance of identity.
 
 
-### Base 5
+### Base 6
 
-But since there are 5 Elements and not 10, it's better to use base-5:
+But since there are 5 Elements and not 10, it's better to use base-6
 
 ```
-1, 2, 3, 4, 10, 11, 12, 13, 14, 20, 21..
+1, 2, 3, 4, 5, 10, 11, 12, 13, 14, 15, 20, 21..
 ```
 
 But this is confusing to people who have been used to base-10. So we use totally different symbols for the numbers based on the keyboard:
 
 ```
-!, @, #, $, 0, !0, !@, !#, !$, @0, @1..
+!, @, #, $, %, !0, !@, !#, !$, !%, @0, @1..
 ```
 
 In this way, `! + ! = @`. More properly, it is `! + ! :: @`.
 
-Vortex numbers are base-5 instances that can make geometry easier and less irrational.
+Vortex numbers are base-6 instances that can make geometry easier and less irrational.
 
 It helps explain the relationship between the constants. 
+
+
+## Constants
+
+Constants are fixed ratios in our current universe.
+
+Constant | Value (base 6)
+--- | ---
+circle | 100
+pi | 3.0555..
+aetherspace to spacetime | 50.355135..
+Newton's G (spacetime to matter) | ..00510505
+Fine Structure | 0.00132431545..
+
+
+
+## Elements
+
+Base-6 also explains the differences of the Elements
+
+- Element 6 is carbon which is very important
+- Element 12 Magnesium is different from Element 13 Aluminum
+- The unstable elements begin at Element 84 Polonium which is 220 in base-6
 
