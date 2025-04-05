@@ -7,12 +7,7 @@ description: "Motion is the translation of a body from the place it occupies to 
 author: "Euler"
 image: /covers/mecha.jpg
 ---
-<<<<<<< HEAD
-=======
 
-
-PROPOSITION 1. Theorem.
->>>>>>> 471d8ce6b4a9ac2b6d6a1a5812e0382b391480d7
 
 
 ## PROPOSITION 1. Theorem.
