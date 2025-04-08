@@ -49,11 +49,46 @@ That this is really the foundation of the exchangeable value of all things, exce
 
 If the quantity of labour realized in commodities, regulate their exchangeable value, every increase of the quantity of labour must augment the value of that commodity on which it is exercised, as every diminution must lower it.
 
-Adam Smith, who so accurately defined the original source of exchangeable value, and who was bound in consistency to main6tain, that all things became more or less valuable in proportion as more or less labour was bestowed on their production, has himself erected another standard measure of value, and speaks of things being more or less valuable, in proportion as they will exchange for more or less of this standard measure. Sometimes he speaks of corn, at other times of labour, as a standard measure; not the quantity of labour bestowed on the production of any object, but the quantity which it can command in the market: as if these were two equivalent expressions, and as if because a man's labour had become doubly efficient, and he could therefore produce twice the quantity of a commodity, he would necessarily receive twice the former quantity in exchange for it.
+Adam Smith accurately defined the original source of exchangeable value.
 
-If this indeed were true, if the reward of the labourer were always in proportion to what he produced, the quantity of labour bestowed on a commodity, and the quantity of labour which that commodity would purchase, would be equal, and either might accurately measure the variations of other things: but they are not equal; the first is under many circumstances an invariable7 standard, indicating correctly the variations of other things; the latter is subject to as many fluctuations as the commodities compared with it. Adam Smith, after most ably shewing the insufficiency of a variable medium, such as gold and silver, for the purpose of determining the varying value of other things, has himself, by fixing on corn or labour, chosen a medium no less variable.
+He said that all things became more or less valuable in proportion as more or less labour was bestowed on their production.
 
-Gold and silver are no doubt subject to fluctuations, from the discovery of new and more abundant mines; but such discoveries are rare, and their effects, though powerful, are limited to periods of comparatively short duration. They are subject also to fluctuation, from improvements in the skill and machinery with which the mines may be worked; as in consequence of such improvements, a greater quantity may be obtained with the same labour. They are further subject to fluctuation from the decreasing produce of the mines, after they have yielded a supply to the world, for a succession of ages. But from which of these sources of fluctuation is corn exempted? Does not that also vary, on one hand, from improvements8 in agriculture, from improved machinery and implements used in husbandry, as well as from the discovery of new tracts of fertile land, which in other countries may be taken into cultivation, and which will affect the value of corn in every market where importation is free? Is it not on the other hand subject to be enhanced in value from prohibitions of importation, from increasing population and wealth, and the greater difficulty of obtaining the increased supplies, on account of the additional quantity of labour which the cultivation of inferior lands requires? Is not the value of labour equally variable; being not only affected, as all other things are, by the proportion between the supply and demand, which uniformly varies with every change in the condition of the community, but also by the varying price of food and other necessaries, on which the wages of labour are expended?
+He also created another standard measure of value.
+
+<!-- , and speaks of things being more or less valuable, in proportion as they will exchange for more or less of this standard measure. -->
+
+Sometimes he speaks of corn, at other times of labour, as a standard measure, as if labour and corn were equivalent expressions.
+
+He does not mean the labor used for production, but the wages that labor represents. 
+
+<!-- not the quantity of labour bestowed on the production of any object, but the quantity which it can command in the market: as if these were two equivalent expressions, and as if because -->
+
+He assumes that when a man's labour becomes doubly efficient, he could produce twice the quantity of a commodity.
+- He would then receive twice in exchange as before. 
+
+ <!-- he would necessarily receive twice the former quantity in exchange for it. -->
+
+If this were true, if the labourer's reward were always proportional to what he produced, and if his commodity would purchase the equal amount of corn then yes, labour or corn might accurately measure the variations of other things.
+
+<!-- the quantity of labour bestowed on a commodity, and the quantity of labour which that commodity would purchase, would be equal, and either :  -->
+
+**But they are not equal.**
+
+Labour is an invariable standard correctly indicating the variations of other things/
+
+Corn is subject to as many fluctuations as the commodities compared with it. 
+
+Smith showed the insufficiency of a variable medium, such as gold and silver, for determining the varying value of other things.
+
+He chose corn or labour which are also variable.*
+
+
+{{< n n="The labor really represents psychological and emotional stress and hardship. The corn represents life. So life and the struggle in life are equal. Both Ricardo and Malthus shallowly interpret corn and labour in physical terms, which is not what Smith was intending at all. A poor person might seem to struggle more just to live than a rich person. But in reality, the rich person has a lot of people contributing to his life, while the poor person just has himself. It follows that if everyone became selfish cavemen then everyone would be poor. But if everyone became civilized and more and helped each other, then everyone will be rich." >}}
+
+
+Gold and silver are subject to fluctuations, from the discovery of new and more abundant mines.
+
+But such discoveries are rare, and their effects, though powerful, are limited to periods of comparatively short duration. They are subject also to fluctuation, from improvements in the skill and machinery with which the mines may be worked; as in consequence of such improvements, a greater quantity may be obtained with the same labour. They are further subject to fluctuation from the decreasing produce of the mines, after they have yielded a supply to the world, for a succession of ages. But from which of these sources of fluctuation is corn exempted? Does not that also vary, on one hand, from improvements8 in agriculture, from improved machinery and implements used in husbandry, as well as from the discovery of new tracts of fertile land, which in other countries may be taken into cultivation, and which will affect the value of corn in every market where importation is free? Is it not on the other hand subject to be enhanced in value from prohibitions of importation, from increasing population and wealth, and the greater difficulty of obtaining the increased supplies, on account of the additional quantity of labour which the cultivation of inferior lands requires? Is not the value of labour equally variable; being not only affected, as all other things are, by the proportion between the supply and demand, which uniformly varies with every change in the condition of the community, but also by the varying price of food and other necessaries, on which the wages of labour are expended?
 
 In the same country double the quantity of labour may be required to produce a given quantity of food and necessaries at one time, that may be necessary at another, and a distant time; yet the labourer's reward may9 possibly be very little diminished. If the labourer's wages at the former period, were a certain quantity of food and necessaries, he probably could not have subsisted if that quantity had been reduced. Food and necessaries in this case will have risen 100 per cent. if estimated by the quantity of labour necessary to their production, while they will scarcely have increased in value, if measured by the quantity of labour for which they will exchange.
 

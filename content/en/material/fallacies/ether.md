@@ -57,7 +57,7 @@ Mach tried to avoid assigning reality to a non-observable thing. Instead of an a
 
 So Einstein's abstract mind chose observable Electromagnetism, which is 1st Element to Descartes, as the supreme Element. The major flaw is that Electromagnetism is really just the middle Element and not the top or causal one. 
 
-{{< i s="/graphics/super/domains.jpg" c="The aether is the top Element that wraps around and behind reality. It is the backstage of the easily-perceptible physical stage." >}}
+{{< i s="/graphics/super/domains.svg" c="The aether is the top Element that wraps around and behind reality. It is the backstage of the easily-perceptible physical stage." >}}
 
 
 It is the aether that is the big boss of reality. This is why aethereal mentality creates material reality. 

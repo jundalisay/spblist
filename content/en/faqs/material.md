@@ -26,7 +26,7 @@ It's incomplete. This is because it began with Newton who started from the lowes
 Those 2 Elements lead to **a lot** of new technologies just as the Electromagnetic (Fire) Element led to television, internet, lighting, etc. Don't you want new technologies that can allow humans to go to other stars and galaxies?   
 {{< /l >}}
 
-{{< img src="/graphics/super/domains.jpg" alt="2 Domains" >}}
+{{< img src="/graphics/super/domains.svg" alt="2 Domains" >}}
 
 
 {{< r a="Asker" >}}

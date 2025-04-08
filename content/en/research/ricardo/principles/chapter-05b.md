@@ -1,4 +1,14 @@
-CHAPTER V. PROFITS
+---
+heading: Chapter 5b
+title: "Profits"
+description: ""
+image: "/covers/tax.jpg"
+weight: 6
+date: 2025-02-09
+---
+
+
+<!-- CHAPTER V. PROFITS -->
 
 The profits of stock in different employments, having been shewn to bear a proportion to each other, and to have a tendency to vary all in the same degree and in the same direction, it remains for us to consider what is the cause of the permanent variations in the rate of profit, and the consequent permanent alterations in the rate of interest.
 

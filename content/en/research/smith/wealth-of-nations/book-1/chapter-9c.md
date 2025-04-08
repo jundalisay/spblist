@@ -53,18 +53,21 @@ This caused high interest rates during ancient times.
 {{< s v="17" >}} When the law prohibits interest, it does not prevent it.
 
 Many people must borrow.
-Their only lenders would be those who would want something in return for= 
-the use of their money, and
-the difficulty and danger of evading the law.
+
+Their only lenders would be those who would want something in return for:
+- the use of their money, and
+- the difficulty and danger of evading the law.
+
 Montesquieu points the cause of the high interest rates in all Muslim nations not from poverty, but partly from= 
 - this law, and
 - the difficulty of recovering the money.
+
 
 {{< s v="18" >}} The lowest ordinary profit rate must always be something more than what is enough to compensate the occasional losses of employing stock.
 
 Only this surplus compensation is neat or clear profit.
 
-'Gross profit' includes= 
+'Gross profit' includes:
 - clear profit or the compensation for occasional losses, and
 - what is retained for compensating extraordinary losses
 

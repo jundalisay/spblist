@@ -1,25 +1,36 @@
 ---
 heading: Chapter 2
 title: "Rent"
-description: ""
+description: "The appropriation of land leads to the creation of rent."
 image: "/covers/tax.jpg"
-weight: 4
+weight: 20
 date: 2025-02-09
 ---
 
 
 
-Will the appropriation of land, and the consequent creation of rent, lead to any variation in the relative value of commodities independently of labour for production?
+The appropriation of land leads to the creation of rent.
+
+Will these create differences in the relative value of commodities independently of labour for production?
 
 What is the nature of rent? What laws regulate its rise or fall?
 
-Rent is that portion of the produce of the earth, which is paid to the landlord for the use of the original and indestructible powers of the soil.
+Rent is that portion of the produce of the earth paid to the landlord for the use of the soil.
 
-It is often however confounded with the interest and profit of capital, and in popular language the term is applied to whatever is annually paid by a farmer to his landlord.
+It is oftenconfounded with the interest and profit of capital.
 
-If, of two adjoining farms of the same extent, and of the same natural fertility, one had all the conveniences of farming buildings, were, besides, properly drained and manured, and advantageously divided by hedges, fences, and walls, while the other had none of these advantages, more remuneration would naturally be paid for the use of one, than for the use of the other; yet in both cases this remuneration would be called rent. 
+It is commonly applied to whatever is annually paid by a farmer to his landlord.
 
-But it is evident, that a portion only of the money annually to be paid for the improved farm, would be given for the original and indestructible powers of the soil; the other portion would be paid for the use of the capital which had been employed in ameliorating the quality of the land, and in erecting such buildings as were necessary to secure and preserve the produce. Adam Smith sometimes speaks of rent, in the strict sense to which I am desirous of confining it, but more often in the popular sense, in which the term is usually employed. He tells us, that the demand for timber, and its consequent high price, in the more southern countries of Europe, caused a rent to be paid for forests in Norway, which could before afford51 no rent. Is it not however evident, that the person who paid, what he thus calls rent, paid it in consideration of the valuable commodity which was then standing on the land, and that he actually repaid himself with a profit, by the sale of the timber? If, indeed, after the timber was removed, any compensation were paid to the landlord for the use of the land, for the purpose of growing timber or any other produce, with a view to future demand, such compensation might justly be called rent, because it would be paid for the productive powers of the land; but in the case stated by Adam Smith, the compensation was paid for the liberty of removing and selling the timber, and not for the liberty of growing it. He speaks also of the rent of coal mines, and of stone quarries, to which the same observation applies—that the compensation given for the mine or quarry, is paid for the value of the coal or stone which can be removed from them, and has no connexion with the original and indestructible powers of the land. This is a distinction of great importance, in an inquiry concerning rent and profits; for it is found, that the laws which regulate the52 progress of rent, are widely different from those which regulate the progress of profits, and seldom operate in the same direction. In all improved countries, that which is annually paid to the landlord, partaking of both characters, rent and profit, is sometimes kept stationary by the effects of opposing causes, at other times advances or recedes, as one or other of these causes preponderates. In the future pages of this work, then, whenever I speak of the rent of land, I wish to be understood as speaking of that compensation, which is paid to the owner of land for the use of its original and indestructible powers.
+Two adjoining farms have the same size and fertility.
+
+- Farm 1 had farming buildings and was properly drained and manured, divided by hedges, fences, and walls
+- Farm 2 had none of these
+
+More would naturally be paid for the use of Farm 1. Yet in both cases this remuneration would be called rent. 
+
+But it is evident, that a portion only of the money annually to be paid for the improved farm, would be given as rent. 
+
+The other portion would be paid for the use of the capital which had been employed in ameliorating the quality of the land, and in erecting such buildings as were necessary to secure and preserve the produce. Adam Smith sometimes speaks of rent, in the strict sense to which I am desirous of confining it, but more often in the popular sense, in which the term is usually employed. He tells us, that the demand for timber, and its consequent high price, in the more southern countries of Europe, caused a rent to be paid for forests in Norway, which could before afford51 no rent. Is it not however evident, that the person who paid, what he thus calls rent, paid it in consideration of the valuable commodity which was then standing on the land, and that he actually repaid himself with a profit, by the sale of the timber? If, indeed, after the timber was removed, any compensation were paid to the landlord for the use of the land, for the purpose of growing timber or any other produce, with a view to future demand, such compensation might justly be called rent, because it would be paid for the productive powers of the land; but in the case stated by Adam Smith, the compensation was paid for the liberty of removing and selling the timber, and not for the liberty of growing it. He speaks also of the rent of coal mines, and of stone quarries, to which the same observation applies—that the compensation given for the mine or quarry, is paid for the value of the coal or stone which can be removed from them, and has no connexion with the original and indestructible powers of the land. This is a distinction of great importance, in an inquiry concerning rent and profits; for it is found, that the laws which regulate the52 progress of rent, are widely different from those which regulate the progress of profits, and seldom operate in the same direction. In all improved countries, that which is annually paid to the landlord, partaking of both characters, rent and profit, is sometimes kept stationary by the effects of opposing causes, at other times advances or recedes, as one or other of these causes preponderates. In the future pages of this work, then, whenever I speak of the rent of land, I wish to be understood as speaking of that compensation, which is paid to the owner of land for the use of its original and indestructible powers.
 
 On the first settling of a country, in which there is an abundance of rich and fertile land, a very small proportion of which is required to be cultivated for the support of the actual population, or indeed can be cultivated with the capital which the population can command, there will be no rent; for no one would pay for the use of land, when there was an abundant quantity not yet appropriated, and therefore at the disposal of whosoever might choose to cultivate it.
 

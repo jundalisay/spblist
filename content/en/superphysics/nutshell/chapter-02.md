@@ -52,7 +52,7 @@ Let the investigation of the efficient cause of matter, constitute physics.
 {{< /q >}}
 
 
-{{< img src="/graphics/super/domains.jpg" alt="The 2 Domains" cap="The Physical Domain extends from the material layer up to the mid-spatial layer. The Metaphysical Domain extends from the mid-spatial layer up to the aethereal layer. ">}}
+{{< img src="/graphics/super/domains.svg" alt="The 2 Domains" cap="The Physical Domain extends from the material layer up to the mid-spatial layer. The Metaphysical Domain extends from the mid-spatial layer up to the aethereal layer. ">}}
 
 
 

@@ -89,7 +89,7 @@ Convertible | Water, Jala, 土 (changing earth) | Weak
 Material | Earth, Pritvi, 金 (solid metal) | Strong 
 
 
-{{< i s="/graphics/super/domains.jpg" a="Layers" >}}
+{{< i s="/graphics/super/domains.svg" a="Layers" >}}
 
 <!--  create a naming system based on the 5 Elements of Aether, Graviton, Electromagnetism, Weak, and Strong Forces, which we rename into Aether, Spacetime, Radiant, Convertible, and Material. 
 

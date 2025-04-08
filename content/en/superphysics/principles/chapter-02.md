@@ -5,7 +5,7 @@ title: "The Five Layers of Reality"
 date: 2020-12-03
 # 2020-01-04
 weight: 6
-image: /graphics/super/domains.jpg
+image: /graphics/super/domains.svg
 description: "We are inside the Mind of the Supreme Entity, as its thoughts in Existence"
 writer:
   name: Juan
@@ -57,7 +57,7 @@ Rank | Name | Greek | Hindu | Chinese | Vietnamese | Physics
 5 | Material | Earth | Pritvi | 金 (solid metal) | Kim  | Strong Force
 
 
-{{< i s="/graphics/super/domains.jpg" a="The 5 Layers of Superphysics" >}}
+{{< i s="/graphics/super/domains.svg" a="The 5 Layers of Superphysics" >}}
 
 
 These layers are the effect of the fight between the Positive and Negative Forces to be discussed in Chapter 3. We can say that reality is an arena for the fight between them.

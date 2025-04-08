@@ -1,16 +1,24 @@
 ---
-heading: Chapter 2
+heading: Chapter 3
 title: "The Rent Of Mines"
-description: ""
+description: "The metals, like other things, are obtained by labour"
 image: "/covers/tax.jpg"
-weight: 6
+weight: 40
 date: 2025-02-09
 ---
 
 
-The metals, like other things, are obtained by labour. Nature, indeed, produces them; but it is the labour of man which extracts them from the bowels of the earth, and prepares them for our service.
+The metals, like other things, are obtained by labour. 
 
-Mines, as well as land, generally pay a rent to their owner; and this rent, as well as the rent of land, is the effect, and never the cause of the high value of their produce.
+Nature produces them. 
+
+But it is the labour of man which:
+- extracts them from the earth, and
+- prepares them for our service.
+
+Mines and land generally pay a rent to their owner.
+
+The rent of mines and the rent of land are the effects, not the cause, of the high value of their produce.
 
 If there were abundance of equally fertile mines, which any one might appropriate, they could yield no rent; the value of their produce would depend on the quantity of labour necessary to extract the metal from the mine and bring it to market.
 

@@ -1,8 +1,8 @@
 ---
 title: "Malthus"
 heading: Unenlightened
-description: 
-image: "/covers/corn.jpg"
+description: Malthus was a free trader
+image: "/covers/malthus.jpg"
 weight: 131
 date: 2025-03-20
 ---
