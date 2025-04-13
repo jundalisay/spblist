@@ -1,6 +1,6 @@
 ---
-title: "Gods, Monads and Atoms"
-heading: "Section 14"
+title: "The Triangle became the Tetraktys"
+heading: "Section 14b"
 weight: 65
 description: "Helena Petrovna Blavatsky is the founder of Theosophy."
 image: "/covers/secret.png"
@@ -11,7 +11,7 @@ On the authority of this Archaic Symbol, a male, personal God, the Creator and F
 
 The Monad—the emanation and reflection only of the Point, or Logos, in the phenomenal World—becomes, as the apex of the manifested equilateral Triangle, the “Father.” 
 
-The left side or line is the Duad, the “Mother,” regarded as the evil, counteracting principle;1054 the right side represents the “Son,” “his Mother's Husband” in every Cosmogony, as being one with the apex; the base line is the universal plane of productive Nature, unifying on the phenomenal plane Father-Mother-Son, as these were unified in the apex, in the supersensuous World.1055 
+The left side or line is the Duad, the “Mother,” regarded as the evil, counteracting principle;1054 the right side represents the “Son,” “his Mother's Husband” in every Cosmogony, as being one with the apex; the base line is the universal plane of productive Nature, unifying on the phenomenal plane Father-Mother-Son, as these were unified in the apex, in the supersensuous World. 1055
 
 By mystic transmutation they became the Quaternary—the Triangle became the Tetraktys.
 

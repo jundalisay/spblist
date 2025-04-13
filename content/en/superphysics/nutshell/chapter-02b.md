@@ -34,7 +34,7 @@ We cure this materialistic view by creating the a metaphysics-first perspective 
 
 2. The Material Cartesian Plane 
 
-{{< img src="/graphics/physics/determined.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
+{{< img src="/graphics/super/det.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
 
 This is known as Cartesian Duality. This view takes:
 - the metaphysical domain as the cause (via the Aethereal Cartesian Plane)

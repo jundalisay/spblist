@@ -70,18 +70,49 @@ never be employed in any other than a negative signification.] -->
 
 Examples of natural dispositions and talents are imagination and wit. 
 
-These ask a free and unlimited development. 
-These require the corrective influence of discipline.
-
+These ask a free and unlimited development. These require the corrective influence of discipline.
 
 The proper duty of reason is to prescribe rules of discipline to all the other powers of the mind.
 - It is strange that reason requires this corrective discipline. 
 
-It has, in fact, hitherto escaped this humiliation, only because, in presence of its magnificent pretensions and high position, no one could readily suspect it to be capable of substituting fancies for conceptions, and words for things.
+It has hitherto escaped this humiliation only because no one saw it capable of substituting:
+- fancies for conceptions, and
+- words for things.
 
-Reason, when employed in the field of experience, does not stand in need of criticism, because its principles are subjected to the continual test of empirical observations. Nor is criticism requisite in the sphere of mathematics, where the conceptions of reason must always be presented in concreto in pure intuition, and baseless or arbitrary assertions are discovered without difficulty. But where reason is not held in a plain track by the influence of empirical or of pure intuition, that is, when it is employed in the transcendental sphere of pure conceptions, it stands in great need of discipline, to restrain its propensity to overstep the limits of possible experience and to keep it from wandering into error. In fact, the utility of the philosophy of pure reason is entirely of this negative character. Particular errors may be corrected by particular animadversions, and the causes of these errors may be eradicated by criticism. But where we find, as in the case of pure reason, a complete system of illusions and fallacies, closely connected with each other and depending upon grand general principles, there seems to be required a peculiar and negative code of mental legislation, which, under the denomination of a discipline, and founded upon the nature of reason and the objects of its exercise, shall constitute a system of thorough examination and testing, which no fallacy will be able to withstand or escape from, under whatever disguise or concealment it may lurk.
+ <!-- in presence of its magnificent pretensions and high position,  -->
 
-But the reader must remark that, in this the second division of our transcendental Critique the discipline of pure reason is not directed to the content, but to the method of the cognition of pure reason. The former task has been completed in the doctrine of elements. But there is so much similarity in the mode of employing the faculty of reason, whatever be the object to which it is applied, while, at the same time, its employment in the transcendental sphere is so essentially different in kind from every other, that, without the warning negative influence of a discipline specially directed to that end, the errors are unavoidable which spring from the unskillful employment of the methods which are originated by reason but which are out of place in this sphere.
+When reason is employed in experience, it does not need criticism. This is because its principles are subjected to the continual test of empirical observations. 
 
+Criticism is not needed in mathematics where:
+- the conceptions of reason must always be presented in concreto in pure intuition
+- baseless or arbitrary assertions are discovered easily.
 
+But where reason is not held in a plain track by the influence of empirical or of pure intuition, that is, 
 
+But when reason is employed in the transcendental sphere of pure conceptions, it needs great discipline:
+- to restrain its propensity to overstep the limits of possible experience and 
+- to keep it from wandering into error.
+
+In fact, the utility of the philosophy of pure reason is entirely of this negative character. 
+
+Particular errors may be corrected by particular animadversions. The causes of these errors may be eradicated by criticism. 
+
+But where we find, as in the case of pure reason, a complete system of illusions and fallacies, closely connected with each other and depending on grand general principles, there seems to be required a peculiar and negative code of mental laws. 
+
+These laws:
+- are a discipline, founded on the nature of reason and the objects of its exercise.
+- constitute a system of thorough examination and testing, which no disguised fallacy will be able to withstand or escape from
+
+<!-- , under whatever disguise or concealment it may lurk. -->
+
+This Division 2 of my transcendental Critique of the discipline of pure reason is not directed to the content, but to the method of the cognition of pure reason. 
+
+The content has been completed in the doctrine of elements.
+
+There is so much similarity in the mode of employing reason in whatever object.
+
+But its employment in the transcendental sphere is so essentially different from every other.
+
+Without the warning negative influence of a discipline specially directed to that end, errors will be unavoidable.
+
+Those errors spring from the unskillful employment of the methods which are originated by reason but out of place in this sphere.

@@ -13,18 +13,22 @@ draft: true
 
 
 
+That is why I will be content here to simply warn you that, provided one does not fail to use all possible divisions when simplifying these equations, one will inevitably obtain the simplest terms to which the question can be reduced.
 
-C’est pourquoy ie me contenteray icy de vous auertir, que pourvû qu’en demeslant ces Equations on ne manque point à se seruir de toutes les diuisions, qui seront possibles, on aura infalliblement les plus simples termes, ausquels la question puisse estre reduite.
+### What are planar problems?
 
-Quels sont les problesmes plans. Et que si elle peut estre resolue par la Geometrie ordinaire, c’est à dire, en ne se seruant que de lignes droites et circulaires tracées sur vne superficie plate, lorsque la derniere Equation aura esté entierement démeslée, il n’y restera tout au plus qu’vn quarré inconnu, esgal à ce qui se produist de l’Addition, ou soustraction de sa racine multipliée par quelque quantité connue, et de quelque autre quantité aussy connue.
+If the problem can be solved by ordinary Geometry—that is, using only straight and circular lines drawn on a flat surface—then once the final equation has been fully simplified, there will remain at most a square of the unknown, equal to the result of adding or subtracting its square root multiplied by some known quantity, along with some other known quantity.
 
-Comment ils se resoluent.Et lors cete racine, ou ligne inconnue se trouue aysement. Car si i’ay par exemple ie fais le triangle rectangle NLM, dont le costé LM est esgal à , racine quarrée de la quantité connue , et l’autre LN est , la moitié de l’autre quantité connue, qui estoit multipliée par que ie suppose estre la ligne inconnue. puis prolongeant MN la baze de ce triangle, iusques à O, en sorte qu’NO soit esgale à NL, la toute OM est la ligne cherchée. Et elle s’exprime en cete sorte .
+### How they are solved.
 
-Que si iay , et qu’ soit la quantité qu’il faut trouuer, ie fais le mesme triangle rectangle NLM, et de sa baze MN i’oste NP esgale à NL, et le reste PM est la racine cherchée. De façon que iay . Et tout de mesme si i’auois . PM seroit . Et i’aurois  : et ainsi des autres.
+This root, or unknown line, is easily found. For example, if I make the right triangle NLM, where the side LM is equal to the square root of a known quantity, and the other side LN is half of another known quantity (which was multiplied by the unknown line that I suppose to be the one we are seeking), and then I extend MN, the base of this triangle, to point O so that NO is equal to NL, then OM is the line we are seeking. And it is expressed in this way: [...]
 
-Enfin si i’ay  : ie fais NL esgale à , et LM esgale à cõme deuãt, puis, au lieu de ioindre les poins MN, ie tire MQR parallele à LN. Et du centre N par L ayant descrit vn cercle qui la couppe aux poins Q et R, la ligne cherchée est MQ, oubiẽ MR, car en ce cas elle s’exprime en deux façons, à sçauoir , et .
+If I have [...], and [...] is the quantity to be found, I construct the same right triangle NLM, and from its base MN, I subtract NP, equal to NL, and the remaining PM is the sought root. So I have [...]. Likewise, if I had [...], then PM would be [...], and I would have [...], and so on.
 
-Et si le cercle, qui ayant son centre au point N, passe par le point L, ne couppe ny ne touche la ligne droite MQR, il n’y a aucune racine en l’Equation, de façon qu’on peut assurer que la construction du problesme proposé est impossible.
+Finally, if I have [...], I make NL equal to [...], and LM equal to [...] as before. Then, instead of joining points MN, I draw MQR parallel to LN. And from center N, I draw a circle through point L which intersects MQR at points Q and R. The sought line is then MQ or MR, because in this case it is expressed in two ways—namely, [...] and [...].
+
+And if the circle, having its center at point N and passing through L, neither intersects nor touches the straight line MQR, then there is no root in the equation. In such a case, one can say that the construction of the proposed problem is impossible.
+
 
 
 

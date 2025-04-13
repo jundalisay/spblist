@@ -1700,7 +1700,7 @@ pagerSize = 12
 
 [params]
   logo = "/icons/sp.png"
-  
+  shorttitle = "Superphysics"
   # Enable the darkmode toggle in header
   darkModeToggle = true
   

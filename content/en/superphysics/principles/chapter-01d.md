@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1c"
+heading: "Chapter 1d"
 title: "Spacetime Slices and the 8 Dimensions"
 date: 2022-06-22
 image: "/graphics/physics/aetherspaceall.jpg"
@@ -17,7 +17,7 @@ The previous subchapter explained that identities, ideas, and minds are nodes fo
 
 These nodes are separated by perception gaps which we call timespan. 
 
-{{< i s="/graphics/super/slices.jpg" a="Slices" >}}
+{{< i s="/graphics/super/nodes.svg" a="Slices" >}}
 
 
 

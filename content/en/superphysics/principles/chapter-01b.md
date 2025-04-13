@@ -27,7 +27,7 @@ These disturbances are caused by the interaction of the 2 Forces of Positive and
 
 These waves create Existence.
 
-{{< i s="/graphics/super/reality.jpg" a="Waves" c="Before reality is deployed, existence is perfect without any disurbances nor any variety" >}}
+{{< i s="/graphics/super/reality.svg" a="Waves" c="Before reality is deployed, existence is perfect without any disurbances nor any variety" >}}
 
 These disturbances creates pockets of void in Existence. These have to be filled for Existence to have no holes or 'bugs' or errors. These are filled by thinner and subtler waves. 
 

@@ -9,7 +9,7 @@ description: "Vortex numbers are base-5 instances that can make geometry easier 
 #   url: https://www.linkedin.com/in/baolamnguyen/
 # icon: /avatars/lam.jpg
 # draft: true
-weight: 6
+weight: 8
 ---
 
 
@@ -48,9 +48,12 @@ The last can be considered as a type of Division.
 
 ## Francis Bacon Tables for Operations
 
+Since flow is the highest action of the aether, and memory the lowest, we organize the instances into a table which the mind can flow along. 
+
+
 1. Addition
 
-+ | 1 | 2
+`+` | 1 | 2
 --- | --- | ---
 1 | 2 | 3
 2 | 3 | 4
@@ -58,7 +61,7 @@ The last can be considered as a type of Division.
 
 2. Reduction
 
-- | 1 | 2
+`-` | 1 | 2
 --- | --- | ---
 1 | 0 | 1
 2 | -1 | 0
@@ -66,7 +69,7 @@ The last can be considered as a type of Division.
 
 3. Expansion
 
-* | 1 | 2
+`*` | 1 | 2
 --- | --- | ---
 1 | 1 | 2
 2 | 2 | 4
@@ -74,15 +77,15 @@ The last can be considered as a type of Division.
 
 3b. Self-Expansion (Exponents) in base 6
 
-* | 2 | 4 | 12
---- | --- | ---
+`*` | 2 | 4 | 12
+--- | --- | --- | ---
 2 | 4 | 12 | 24
 
 
 
-4. Contraction in base 6
+4. Contraction (in base 6)
 
-/ | 1 | 2
+`/` | 1 | 2
 --- | --- | ---
 1 | 1 | 2
 2 | 0.3 | 4

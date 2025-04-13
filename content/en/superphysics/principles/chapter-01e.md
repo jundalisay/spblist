@@ -4,7 +4,7 @@ title: "A Perceiving Universe"
 date: 2022-06-22
 image: "/graphics/physics/aetherspaceall.jpg"
 description: "The separation of nodes leads to Spacetime Slices and the 8 Dimensions"
-weight: 5
+weight: 6
 writer:
   name: Juan
   url: https://www.linkedin.com/in/jundalisay/

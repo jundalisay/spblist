@@ -13,7 +13,7 @@ icon: /icons/descartes.png
 <!-- subtle matter  can be agitated by  or some other cause. -->
 <!-- are more agitated at one time than another. This can be caused by the presence of the sun or  -->
 
-The sun can agitate the air-aether and small earth-aether particles inside the pores of terrestrial bodies.
+The sun can agitate the air-aether [space] and small earth-aether [matter] particles inside the pores of terrestrial [material] bodies.
 - The earth-aether particles are more strongly agitated than the air-aether.
 
 <!-- the air-aether inside the pores of terrestrial bodies -->
@@ -27,7 +27,7 @@ The following earth-aether particles are easily separable:
 **This causes them to scatter and rise into the air simply because they cannot find any other place to go.**
 - It is not because they have an inherent inclination to ascend.*
 
-{{< n n="Here, the mechanism for ascent is not the amount of matter, as in Newtonian Physics, but in the quality and compression of the spacetime particles or air-aether or 2nd Element" >}}
+{{< n n="Here, the mechanism for ascent is not the amount of matter, as in Newtonian Physics, but in **the quality and compression of the spacetime particles** or air-aether or 2nd Element" >}}
 
 
 <!-- This does not happen because they have any particular , or because the sun has any force that attracts them, but   -->
@@ -42,12 +42,12 @@ The action of the sun raises vapors quite high, since the sun always shines over
 
 <!--  extends at the same time the small parts of matter that compose vapors and exhalations  -->
 
-These small particles that are thus raised into the air by the sun should mostly have the shape of water. 
+These small particles raised into the air by the sun should mostly have the shape of water. 
 - This is because they are the most easily separable from the bodies that they are in. 
 
-These alone I will call "vapors". These are different from the more irregular shaped ones I call "exhalations" [ionized air], as I know no more proper term. 
+These alone I will call "vapors". 
 
-
+These are different from the more irregular shaped ones I call "exhalations" [ionized air], as I know no more proper term. 
 
 Included in the exhalations are those with nearly the same shape as the water particles but are more subtle.
 - These make up spirits or life waters that can easily catch fire. 
@@ -68,7 +68,7 @@ Hydrocarbons | Spirit-Exhalations
 {{< /box >}}
 
 
-There are earth-aether particles that are a bit coarser and also divided into branches.
+There are earth-aether particles [carbon] that are a bit coarser and also divided into branches.
 - They cannot leave the hard bodies which they are a part of by themselves.
 - But they can be driven by fire, such as the fire which drives them out as smoke. 
 
@@ -77,13 +77,15 @@ When water slips into their pores, the water can often release these earth-aethe
 
 <!-- Or more accurately, like how water itself carries to the top of an alembic the small parts of those oils that alchemists are accustomed to extracting from dry plants when they soak them in plenty of water, distill everything together, and thus make the little oil they contain rise with the large amount of water. In fact, most of these parts are the same ones that usually compose the bodies of these oils.  -->
 
-### Vapor Size
+### Expansion of Water-Vapor from Heat or Agitation
 
 Vapors always occupy much more space than water even if they are made of the same small particles.
 
 Water particles only move strongly enough to bend, intertwine, and slide against each other, as represented at `A`. 
 
-When they become vapor, their agitation is so great that they quickly turn around in all directions and stretch out to their full length. Each has the force to push away all its similar particles that tend to enter its small sphere. This is represented at `B`.
+When they become vapor, their agitation is so great that they quickly turn around in all directions and stretch out to their full length.
+- Each has the force to push away all its similar particles that tend to enter its small sphere. 
+- This is represented at `B`.
 
 {{< i s="/graphics/physics/exhalations.jpg" a="Exhalations" >}}
 
@@ -106,9 +108,9 @@ When their particles get cooler, they no longer stretch out in a straight line. 
 
 Sometimes, the vapors are confined between mountains or between various opposing winds. These prevent these vapors from agitating the air. This is seen at `E`.
 
-Sometimes, the vapors are under some clouds. This prevents them from expanding into as much space as their agitation requires. This is also seen at `E`.
-
 {{< i s="/graphics/physics/exhalations.jpg" a="Exhalations" >}}
+
+Sometimes, the vapors are under some clouds. This prevents them from expanding into as much space as their agitation requires. This is also seen at `E`.
 
 Sometimes, they use most of heir agitation to move together in the same direction. And so they no longer whirl around as strongly as usual, as seen at `F`.
 

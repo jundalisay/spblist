@@ -8,100 +8,85 @@ image: "/covers/elec.png"
 
 
 
-215*.] A Resistance Coil is a conductor capable of being easily placed in
-the voltaic circuit, so as to introduce into the circuit a known resistance.
-The electrodes or ends of the coil must be such that no appreciable error
-may arise from the mode of making the connexions. For resistances of con-
-siderable magnitude it is sufficient that the electrodes should be made of stout
-copper wire or rod well amalgamated with mercury at the ends, and that the
-ends should be made to press on flat amalgamated copper surfaces placed in
-mercury cups.
+215*.] A Resistance Coil is a conductor capable of being easily placed in the voltaic circuit, so as to introduce into the circuit a known resistance.
 
-For very great resistances it is sufficient that the electrodes should be thick
-pieces of brass, and that the connexions should be made by inserting a wedge
-of brass or copper into the interval between them. This method is found very
-convenient.
+The electrodes or ends of the coil must be such that no appreciable error may arise from the mode of making the connexions. 
 
-The resistance coil itself consists of a wire well covered with silk, the ends
-of which are soldered permanently to the electrodes.
+For considerable resistances:
+- the electrodes should be made of stout copper wire or rod, well amalgamated with mercury at the ends
+- the ends should be made to press on flat amalgamated copper surfaces placed in mercury cups.
+
+For very great resistances:
+- the electrodes should be thick pieces of brass
+- the connexions should be made by inserting a wedge of brass or copper into the interval between them.
+
+This method is very convenient.
+
+The resistance coil itself consists of a wire well covered with silk. Its ends are soldered permanently to the electrodes.
 
 The coil must be so arranged that its temperature may be easily observed.
-For this purpose the wire is coiled on a tube and covered with another tube,
-so that it may be placed in a vessel of water, and that the water may have
-access to the inside and the outside of the coil.
 
-To avoid the electromagnetic effects of the current in the coil the wire is
-first doubled back on itself and then coiled on the tube, so that at every part
-of the coil there are equal and opposite currents in the adjacent parts of the
-wire.
+For this purpose, the wire is coiled on a tube and covered with another tube, so that:
+- it may be placed in a vessel of water
+- the water may have access to the inside and the outside of the coil.
 
-FORMS OF RESISTANCE COILS
+To avoid the electromagnetic effects of the current in the coil, the wire is first doubled back on itself. Then it is coiled on the tube so that, at every part of the coil, there are equal and opposite currents in the adjacent parts of the wire.
 
-When it is desired to keep two coils at the same temperature the wires
-are sometimes placed side by side and coiled up together. This method isespecially useful when it is more important to secure equality of resistance
-than to know the absolute value of the resistance, as in the case of the equal
-arms of Wheatstone’s Bridge (Art. 221).
 
-When measurements of resistance were first attempted, a resistance coil,
-consisting of an uncovered wire coiled in a spiral groove round a cylinder of
-insulating material, was much used. It was called a Rheostat. The accuracy
-with which it was found possible to compare resistances was soon found to
-be inconsistent with the use of any instrument in which the contacts are not
-more perfect than can be obtained in the rheostat. The rheostat, however,
-is still used for adjusting the resistance where accurate measurement is not
-required.
+## FORMS OF RESISTANCE COILS
 
-Resistance coils are generally made of those metals whose resistance is
-greatest and which vary least with temperature. German silver fulfils these
-conditions very well, but some specimens are found to change their properties
-during the lapse of years. Hence for standard coils, several pure metals, and
-also an alloy of platinum and silver, have been employed, and the relative
-resistance of these during several years has been found constant up to the
-limits of modern accuracy∗ .
+To keep 2 coils at the same temperature, the wires are sometimes placed side by side and coiled up together.
 
-216*.] For very great resistances, such as several millions of Ohms, the
-wire must be either very long or very thin, and the construction of the coil
-is expensive and difficult. Hence tellurium and selenium have been proposed
-as materials for constructing standards of great resistance. A very ingenious
-and easy method of construction has been lately proposed by Phillips† . On
-a piece of ebonite or ground glass a fine pencil-line is drawn. The ends of
-this filament of plumbago are connected to metallic electrodes, and the whole
-is then covered with insulating varnish. If it should be found that the resis-
-tance of such a pencil-line remains constant, this will be the best method of
-obtaining a resistance of several millions of Ohms.
+This method useful when it is more important to secure equality of resistance than to know the absolute value of the resistance, as in the case of the equal arms of Wheatstone’s Bridge (Art. 221).
 
-217*.] There are various arrangements by which resistance coils may be
-easily introduced into a circuit.
+When measurements of resistance were first attempted, a resistance coil called a Rheostat, consisting of an uncovered wire coiled in a spiral groove round a cylinder of insulating material, was much used.
 
-For instance, a series of coils of which the resistances are 1, 2, 4, 8, 16,
-∗
-†
+Its accuracy in comparing resistances was soon found to be inconsistent with the use of any instrument in which the contacts are not more perfect.
+
+ <!-- than can be obtained in the rheostat. -->
+
+The rheostat, however, is still used for adjusting the resistance where accurate measurement is not required.
+
+Resistance coils are generally made of those metals whose resistance is greatest and which vary least with temperature. 
+
+German silver fulfils these conditions very well.
+- But some specimens change their properties during the lapse of years.
+
+Hence for standard coils, several pure metals, and also an alloy of platinum and silver, have been employed. The relative resistance of these during several years has constant up to the limits of modern accuracy∗.
+
+216*.] For very great resistances, such as several millions of Ohms:
+- the wire must be either very long or very thin
+- the construction of the coil is expensive and difficult.
+
+Hence tellurium and selenium have been proposed for constructing standards of great resistance.
+
+A very ingenious and easy method of construction has been lately proposed by Phillips†.
+
+On a piece of ebonite or ground glass a fine pencil-line is drawn. The ends of this filament of plumbago are connected to metallic electrodes.
+
+The whole is then covered with insulating varnish. If it should be found that the resistance of such a pencil-line remains constant, this will be the best method of obtaining a resistance of several millions of Ohms.
+
+217*.] There are various arrangements by which resistance coils may be easily introduced into a circuit.
+
+For instance, a series of coils of which the resistances are 1, 2, 4, 8, 16,∗ &c., arranged according to the powers of 2, may be placed in a box in series.
+<!-- †
 [More recent experiments indicate a small change in resistance in course of time.]
 Phil. Mag., July, 1870.RESISTANCE BOXES.
-201
-&c., arranged according to the powers of 2, may be placed in a box in series.
+201 -->
+
 Fig. 45.
-The electrodes consist of stout brass plates, so arranged on the outside of
-the box that by inserting a brass plug or wedge between two of them as a
-shunt, the resistance of the corresponding coil may be put out of the circuit.
+
+The electrodes consist of stout brass plates, so arranged on the outside of the box that by inserting a brass plug or wedge between two of them as a shunt, the resistance of the corresponding coil may be put out of the circuit. 
+
 This arrangement was introduced by Siemens.
 
-Each interval between the electrodes is marked with the resistance of the
-corresponding coil, so that if we wish to make the resistance box equal to
-107 we express 107 in the binary scale as 64 + 32 + 8 + 2 + 1 or 1101011.
-We then take the plugs out of the holes corresponding to 64, 32, 8, 2 and 1,
-and leave the plugs in 16 and 4.
-This method, founded on the binary scale, is that in which the smallest
-number of separate coils is needed, and it is also that which can be most
-readily tested. For if we have another coil equal to 1 we can test the equality
-of 1 and 1′ , then that of 1 + 1′ and 2, then that of 1 + 1′ + 2 and 4, and so
-on.
+Each interval between the electrodes is marked with the resistance of the corresponding coil, so that if we wish to make the resistance box equal to 107 we express 107 in the binary scale as 64 + 32 + 8 + 2 + 1 or 1101011. We then take the plugs out of the holes corresponding to 64, 32, 8, 2 and 1, and leave the plugs in 16 and 4. 
 
-The only disadvantage of the arrangement is that it requires a familiarity
-with the binary scale of notation, which is not generally possessed by those
-accustomed to express every number in the decimal scale.
-218*.] A box of resistance coils may be arranged in a different way for the
-purpose of measuring conductivities instead of resistances.THE COMPARISON OF RESISTANCES.
+This method, founded on the binary scale, is that in which the smallest number of separate coils is needed, and it is also that which can be most readily tested. For if we have another coil equal to 1 we can test the equality of 1 and 1′ , then that of 1 + 1′ and 2, then that of 1 + 1′ + 2 and 4, and so on.
+
+The only disadvantage of the arrangement is that it requires a familiarity with the binary scale of notation, which is not generally possessed by those accustomed to express every number in the decimal scale. 218*.] A box of resistance coils may be arranged in a different way for the purpose of measuring conductivities instead of resistances.
+
+THE COMPARISON OF RESISTANCES.
 
 The coils are placed so that one
 end of each is connected with a
@@ -171,11 +156,16 @@ vanometer, and let resistances A and B be introduced into the first and second
 coils respectively. Let the remainder of the resistance of the coils and their
 connexions be α and β respectively, and let the resistance of the battery and
 its connexions between C and D be r, and its electromotive force E.
-Then we find, by Ohm’s Law, for the difference of potentials between C
-and D,
-C − D = I1 (A + α) = I2 (B + β) = E − Ir,
+Then we find, by Ohm’s Law, for the difference of potentials between C and D,
+
+<!-- C − D = I1 (A + α) = I2 (B + β) = E − Ir, -->
+
+...
+
+
 and since
-I1 = E
+
+<!-- I1 = E
 B+β
 ,
 D
@@ -188,12 +178,17 @@ I2 = E
 D
 D
 where
-D = (A + α)(B + β) + r(A + α + B + β).
+D = (A + α)(B + β) + r(A + α + B + β). -->
+
+...
+
 The deflexion of the galvanometer needle is therefore
-δ=
+
+<!-- δ=
 E
 {m(B + β) − n(A + α)},
-D
+D -->
+
 and if there is no observable deflexion, then we know that the quantity en-
 closed in brackets cannot differ from zero by more than a certain small quan-
 tity, depending on the power of the battery, the suitableness of the arrange-

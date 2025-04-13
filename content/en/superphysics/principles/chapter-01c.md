@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1b"
+heading: "Chapter 1c"
 title: "The Cartesian View and Euclid's Elements"
 # date: 2015-09-09
 date: 2023-03-19
@@ -24,7 +24,7 @@ There are 2 Domains in Reality | The Cartesian View has both Planes
 
 
 
-{{< youtube U4JFPWoiSAI >}}
+{{< youtube 9k6t42MYZ2Y >}}
 
 
 Previously, we divided reality into 2 domains:
@@ -75,7 +75,7 @@ Here, the `y` axis represents a quality in different magnitudes of variations.
 {{< img src="/graphics/super/cartesian.png" alt="Cartesian planes" cap="The Cartesian Plane (left) plots the changes of an identity through time or relative to time (temporal changes) based on certain quality. The Aethereal Cartesian Plane (right), on the other hand, plots the changes of qualities relative to each other. The latter shows the how different each self is the previous and future self. " >}}
 
 
-{{< img src="/graphics/physics/determined.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
+{{< img src="/graphics/super/det.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
 
 
 We add the **Aethereal Cartesian Plane** which is has the identity as its origin and has multiple axes representing the qualities of that identity that change over time.

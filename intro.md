@@ -2,6 +2,18 @@ art 133-187 for magnetism
 --disableFastRender
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}" />
 
+
+  <a href="{{ .Site.Home.Permalink }}" class="capitalize font-extrabold text-2xl">
+    {{ if .Site.Params.logo }}
+      <div class="flex">
+        <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" class="h-8 pr-2" /> 
+        <small class="" style="text-transform: uppercase;">{{ .Site.Title }}</small>        
+      </div>
+
+    {{ else }}
+    {{ .Site.Title }}
+    {{ end }}
+  </a>
   
 # master links:
 /material/motion Descartes rules of motion

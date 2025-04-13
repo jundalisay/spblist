@@ -31,7 +31,15 @@ He assumes that when a man's labour becomes doubly efficient, he could produce t
 {{< /q >}}
 
 
-Despite his attack, it's very strange to see a passage in his work that actually unjustly favors merchants. 
+None of the later economists realized that Smith's perspective was abstract and metaphysical:
+
+- Corn price represents life
+- Labour price represents stress and trouble
+
+
+## Smith's Only Mistake
+
+Despite his attack against merchants, it's very strange to see a passage in Smith's work that actually unjustly favors merchants. 
 
 <!-- for him to entrust an entire country's external trade to foreign merchants: -->
 
@@ -55,4 +63,10 @@ The British became greedy and started bringing in opium which destroyed Chinese 
 
 This eventually led to the entry of Communism in the most populous country in the world, which killed so many Chinese (Great Leap Forward) and has made mainland China fundamentally anti-Western. 
 
+
+## Update April 2025: Trump's Trade War
+
+The Trade War by the US exposes the real foundation of Western morals which is utility. Trump is willling to sacrifice his allies and friends just to be materially wealthy. 
+
+This is opposite of Smith's principles which are based on fellow-feeling and friendship, and low profits.
 
