@@ -3,7 +3,7 @@ heading: "Chapter 2e"
 title: "Local and True Motion"
 # date: 2023-03-10
 weight: 9
-image: /photos/physics/sparks.png
+image: /photos/physics/sparks.jpg
 description: "Local Motion is relativistic. True Motion is absolutist"
 writer:
   name: Juan
